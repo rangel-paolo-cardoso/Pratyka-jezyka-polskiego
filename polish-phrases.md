@@ -8,7 +8,7 @@
 - [x] Dzień 6 - Gdzie jest toaleta? (Onde fica o banheiro?)
 - [x] Dzień 7 - Co słychać? (O que há de novo?)
 - [x] Dzień 8 - Jestem głodny/głodna. (Estou com fome.)
-- [ ] Dzień 9 - Lubię to. (Eu gosto disso.)
+- [x] Dzień 9 - Lubię to. (Eu gosto disso.)
 - [ ] Dzień 10 - Do widzenia. (Adeus.)
 
 - [ ] Dzień 11 - Gdzie jest moja kawa? (Onde está o meu café?)
