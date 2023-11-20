@@ -9,7 +9,7 @@
 - [x] Dzień 7 - Co słychać? (O que há de novo?)
 - [x] Dzień 8 - Jestem głodny/głodna. (Estou com fome.)
 - [x] Dzień 9 - Lubię to. (Eu gosto disso.)
-- [ ] Dzień 10 - Do widzenia. (Adeus.)
+- [x] Dzień 10 - Do widzenia. (Adeus.)
 
 - [ ] Dzień 11 - Gdzie jest moja kawa? (Onde está o meu café?)
 - [ ] Dzień 12 - Jaki masz ulubiony kolor? (Qual é a sua cor favorita?)
