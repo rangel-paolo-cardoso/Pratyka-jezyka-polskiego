@@ -14,7 +14,7 @@
 - [x] Dzień 11 - Gdzie jest moja kawa? (Onde está o meu café?)
 - [x] Dzień 12 - Jaki masz ulubiony kolor? Jaki jest Twój ulubiony kolor? (Qual é a sua cor favorita?)
 - [x] Dzień 13 - Co robisz jutro? / Co będziesz robić jutro? (O que você está fazendo amanhã? / O que você fará amanhã? ou O que você estará fazendo amanhã? )
-- [ ] Dzień 14 - Ile to kosztuje? (Quanto custa?)
+- [x] Dzień 14 - Ile to kosztuje? (Quanto custa?)
 - [ ] Dzień 15 - Jak masz na imię? (Qual é o seu nome?)
 - [ ] Dzień 16 - Gdzie mieszkasz? (Onde você mora?)
 - [ ] Dzień 17 - Czy mówisz po angielsku? (Você fala inglês?)
