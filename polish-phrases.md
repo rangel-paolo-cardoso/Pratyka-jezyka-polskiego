@@ -16,7 +16,7 @@
 - [x] Dzień 13 - Co robisz jutro? / Co będziesz robić jutro? (O que você está fazendo amanhã? / O que você fará amanhã? ou O que você estará fazendo amanhã? )
 - [x] Dzień 14 - Ile to kosztuje? (Quanto custa?)
 - [x] Dzień 15 - Jak masz na imię? (Qual é o seu nome?)
-- [ ] Dzień 16 - Gdzie mieszkasz? (Onde você mora?)
+- [x] Dzień 16 - Gdzie mieszkasz? (Onde você mora?)
 - [ ] Dzień 17 - Czy mówisz po angielsku? (Você fala inglês?)
 - [ ] Dzień 18 - Kocham cię. (Eu te amo.)
 - [ ] Dzień 19 - Moje ulubione jedzenie to pizza. (Minha comida favorita é pizza.)
