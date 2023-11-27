@@ -17,7 +17,7 @@
 - [x] Dzień 14 - Ile to kosztuje? (Quanto custa?)
 - [x] Dzień 15 - Jak masz na imię? (Qual é o seu nome?)
 - [x] Dzień 16 - Gdzie mieszkasz? (Onde você mora?)
-- [ ] Dzień 17 - Czy mówisz po angielsku? (Você fala inglês?)
+- [x] Dzień 17 - Czy mówisz po angielsku? (Você fala inglês?)
 - [ ] Dzień 18 - Kocham cię. (Eu te amo.)
 - [ ] Dzień 19 - Moje ulubione jedzenie to pizza. (Minha comida favorita é pizza.)
 - [ ] Dzień 20 - Dlaczego? (Por quê?)
