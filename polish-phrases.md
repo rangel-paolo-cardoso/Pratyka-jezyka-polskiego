@@ -19,7 +19,7 @@
 - [x] Dzień 16 - Gdzie mieszkasz? (Onde você mora?)
 - [x] Dzień 17 - Czy mówisz po angielsku? (Você fala inglês?)
 - [x] Dzień 18 - Kocham cię. (Eu te amo.)
-- [ ] Dzień 19 - Moje ulubione jedzenie to pizza. (Minha comida favorita é pizza.)
+- [x] Dzień 19 - Moje ulubione jedzenie to pizza. (Minha comida favorita é pizza.)
 - [ ] Dzień 20 - Dlaczego? (Por quê?)
 
 - [ ] Dzień 21 - Gdzie jest biblioteka? (Onde fica a biblioteca?)
