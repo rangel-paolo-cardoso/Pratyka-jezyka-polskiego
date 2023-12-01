@@ -22,7 +22,7 @@
 - [x] Dzień 19 - Moje ulubione jedzenie to pizza. (Minha comida favorita é pizza.)
 - [x] Dzień 20 - Dlaczego? (Por quê?)
 
-- [ ] Dzień 21 - Gdzie jest biblioteka? (Onde fica a biblioteca?)
+- [x] Dzień 21 - Gdzie jest biblioteka? (Onde fica a biblioteca?)
 - [ ] Dzień 22 - Mam dzisiaj wiele do zrobienia. (Tenho muitas coisas para fazer hoje.)
 - [ ] Dzień 23 - Czy mogę prosić rachunek? (Posso pedir a conta?)
 - [ ] Dzień 24 - Jak długo tu jesteś? (Há quanto tempo você está aqui?)
