@@ -23,7 +23,7 @@
 - [x] Dzień 20 - Dlaczego? (Por quê?)
 
 - [x] Dzień 21 - Gdzie jest biblioteka? (Onde fica a biblioteca?)
-- [ ] Dzień 22 - Mam dzisiaj wiele do zrobienia. (Tenho muitas coisas para fazer hoje.)
+- [x] Dzień 22 - Mam dzisiaj wiele do zrobienia. (Tenho muitas coisas para fazer hoje.)
 - [ ] Dzień 23 - Czy mogę prosić rachunek? (Posso pedir a conta?)
 - [ ] Dzień 24 - Jak długo tu jesteś? (Há quanto tempo você está aqui?)
 - [ ] Dzień 25 - Co lubisz robić w wolnym czasie? (O que você gosta de fazer no seu tempo livre?)
