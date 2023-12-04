@@ -1,4 +1,5 @@
 [Polish reader voices](https://www.naturalreaders.com/online/)
+[Polish voices to download](https://ttsmaker.com/)
 
 - [x] Dzień 1 - Cześć! (Oi!)
 - [x] Dzień 2 - Jak się masz? (Como vai?)
@@ -25,7 +26,7 @@
 - [x] Dzień 21 - Gdzie jest biblioteka? (Onde fica a biblioteca?)
 - [x] Dzień 22 - Mam dzisiaj wiele do zrobienia. (Tenho muitas coisas para fazer hoje.)
 - [x] Dzień 23 - Czy mogę prosić rachunek? (Posso pedir a conta?)
-- [ ] Dzień 24 - Jak długo tu jesteś? (Há quanto tempo você está aqui?)
+- [x] Dzień 24 - Jak długo tu jesteś? (Há quanto tempo você está aqui?)
 - [ ] Dzień 25 - Co lubisz robić w wolnym czasie? (O que você gosta de fazer no seu tempo livre?)
 - [ ] Dzień 26 - Kiedy masz urodziny? (Quando é o seu aniversário?)
 - [ ] Dzień 27 - Lubisz podróżować? (Você gosta de viajar?)
