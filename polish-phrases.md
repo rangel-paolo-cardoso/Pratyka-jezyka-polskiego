@@ -28,7 +28,7 @@
 - [x] Dzień 23 - Czy mogę prosić rachunek? (Posso pedir a conta?)
 - [x] Dzień 24 - Jak długo tu jesteś? (Há quanto tempo você está aqui?)
 - [x] Dzień 25 - Co lubisz robić w wolnym czasie? (O que você gosta de fazer no seu tempo livre?)
-- [ ] Dzień 26 - Kiedy masz urodziny? (Quando é o seu aniversário?)
+- [x] Dzień 26 - Kiedy masz urodziny? (Quando é o seu aniversário?)
 - [ ] Dzień 27 - Lubisz podróżować? (Você gosta de viajar?)
 - [ ] Dzień 28 - Jaka jest Twoja ulubiona książka/film? (Qual é o seu livro/filme favorito?)
 - [ ] Dzień 29 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
