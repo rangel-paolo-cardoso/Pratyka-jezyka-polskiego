@@ -31,7 +31,7 @@
 - [x] Dzień 26 - Kiedy masz urodziny? (Quando é o seu aniversário?)
 - [x] Dzień 27 - Lubisz podróżować? (Você gosta de viajar?)
 - [x] Dzień 28 - Jaka jest Twoja ulubiona książka/film? (Qual é o seu livro/filme favorito?)
-- [ ] Dzień 29 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
+- [x] Dzień 29 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
 - [ ] Dzień 30 - Gdzie mogę kupić bilety? (Onde posso comprar ingressos?)
 
 - [ ] Dzień 31 - Jaki jest Twój zawód? (Qual é a sua profissão?)
