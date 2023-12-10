@@ -32,7 +32,7 @@
 - [x] Dzień 27 - Lubisz podróżować? (Você gosta de viajar?)
 - [x] Dzień 28 - Jaka jest Twoja ulubiona książka/film? (Qual é o seu livro/filme favorito?)
 - [x] Dzień 29 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
-- [ ] Dzień 30 - Gdzie mogę kupić bilety? (Onde posso comprar ingressos?)
+- [x] Dzień 30 - Gdzie mogę kupić bilety? (Onde posso comprar ingressos?)
 
 - [ ] Dzień 31 - Jaki jest Twój zawód? (Qual é a sua profissão?)
 - [ ] Dzień 32 - Chciałbym zamówić coś do jedzenia. (Eu gostaria de fazer um pedido para comer.)
