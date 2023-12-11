@@ -34,7 +34,7 @@
 - [x] Dzień 29 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
 - [x] Dzień 30 - Gdzie mogę kupić bilety? (Onde posso comprar ingressos?)
 
-- [ ] Dzień 31 - Jaki jest Twój zawód? (Qual é a sua profissão?)
+- [x] Dzień 31 - Jaki jest Twój zawód? (Qual é a sua profissão?)
 - [ ] Dzień 32 - Chciałbym zamówić coś do jedzenia. (Eu gostaria de fazer um pedido para comer.)
 - [ ] Dzień 33 - Czy możesz mi pomóc? (Você pode me ajudar?)
 - [ ] Dzień 34 - Jestem trochę zmęczony/zmęczona. (Estou um pouco cansado/cansada.)
