@@ -37,7 +37,7 @@
 - [x] Dzień 31 - Jaki jest Twój zawód? (Qual é a sua profissão?)
 - [x] Dzień 32 - Chciałbym zamówić coś do jedzenia. (Eu gostaria de fazer um pedido para comer.)
 - [x] Dzień 33 - Czy możesz mi pomóc? (Você pode me ajudar?)
-- [ ] Dzień 34 - Jestem trochę zmęczony/zmęczona. (Estou um pouco cansado/cansada.)
+- [x] Dzień 34 - Jestem trochę zmęczony/zmęczona. (Estou um pouco cansado/cansada.)
 - [ ] Dzień 35 - Gdzie jest przystanek autobusowy? (Onde fica o ponto de ônibus?)
 - [ ] Dzień 36 - Jakie masz plany na weekend? (Quais são seus planos para o fim de semana?)
 - [ ] Dzień 37 - Co sądzisz o tej książce/filmie? (O que você acha deste livro/filme?)
