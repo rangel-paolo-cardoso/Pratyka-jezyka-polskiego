@@ -42,7 +42,7 @@
 - [x] Dzień 36 - Jakie masz plany na weekend? (Quais são seus planos para o fim de semana?)
 - [x] Dzień 37 - Co sądzisz o tej książce/filmie? (O que você acha deste livro/filme?)
 - [x] Dzień 38 - Mogę prosić o menu? (Posso pedir o cardápio?)
-- [ ] Dzień 39 - Czy mogę dostać rachunek, proszę? (Posso ter a conta, por favor?)
+- [x] Dzień 39 - Czy mogę dostać rachunek, proszę? (Posso ter a conta, por favor?)
 - [ ] Dzień 40 - Jak masz na imię? (Qual é o seu nome?)
 
 - [ ] Dzień 41 - Czy masz jakieś hobby? (Você tem algum hobby?)
