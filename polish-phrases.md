@@ -45,7 +45,7 @@
 - [x] Dzień 39 - Czy mogę dostać rachunek, proszę? (Posso ter a conta, por favor?)
 
 - [x] Dzień 40 - Czy masz jakieś hobby? (Você tem algum hobby?)
-- [ ] Dzień 41 - Gdzie mogę znaleźć najbliższy bank? (Onde posso encontrar o banco mais próximo?)
+- [x] Dzień 41 - Gdzie mogę znaleźć najbliższy bank? (Onde posso encontrar o banco mais próximo?)
 - [ ] Dzień 42 - Jesteś bardzo miły/miła. (Você é muito gentil.)
 - [ ] Dzień 43 - Co dzisiaj jesz na obiad? (O que você vai comer para o almoço hoje?)
 - [ ] Dzień 44 - Chciałbym zamówić wodę mineralną. (Eu gostaria de pedir água mineral.)
