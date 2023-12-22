@@ -46,7 +46,7 @@
 
 - [x] Dzień 40 - Czy masz jakieś hobby? (Você tem algum hobby?)
 - [x] Dzień 41 - Gdzie mogę znaleźć najbliższy bank? (Onde posso encontrar o banco mais próximo?)
-- [ ] Dzień 42 - Jesteś bardzo miły/miła. (Você é muito gentil.)
+- [x] Dzień 42 - Jesteś bardzo miły/miła. (Você é muito gentil.)
 - [ ] Dzień 43 - Co dzisiaj jesz na obiad? (O que você vai comer para o almoço hoje?)
 - [ ] Dzień 44 - Chciałbym zamówić wodę mineralną. (Eu gostaria de pedir água mineral.)
 - [ ] Dzień 45 - Czy możesz mi pokazać drogę do dworca kolejowego? (Você pode me mostrar o caminho para a estação de trem?)
