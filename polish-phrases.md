@@ -49,7 +49,7 @@
 - [x] Dzień 42 - Jesteś bardzo miły/miła. (Você é muito gentil.)
 - [x] Dzień 43 - Co dzisiaj jesz na obiad? (O que você vai comer para o almoço hoje?)
 - [x] Dzień 44 - Wigilia to czas tradycyjnej kolacji rodzinnej. (A Véspera de Natal é o tempo de jantar tradicional em família.)
-- [ ] Dzień 45 - Boże Narodzenie to czas radości i miłości z bliskimi. Wesołych Świąt! (Natal é o tempo de alegria e amor com entes queridos. Feliz Natal!)
+- [x] Dzień 45 - Boże Narodzenie to czas radości i miłości z bliskimi. Wesołych Świąt! (Natal é o tempo de alegria e amor com entes queridos. Feliz Natal!)
 - [ ] Dzień 46 - Chciałbym zamówić wodę mineralną. (Eu gostaria de pedir água mineral.)
 - [ ] Dzień 47 - Czy możesz mi pokazać drogę do dworca kolejowego? (Você pode me mostrar o caminho para a estação de trem?)
 - [ ] Dzień 48 - Czy masz jakieś ulubione miejsce na wakacje? (Você tem algum lugar favorito para as férias?)
