@@ -51,7 +51,7 @@
 - [x] Dzień 44 - Wigilia to czas tradycyjnej kolacji rodzinnej. (A Véspera de Natal é o tempo de jantar tradicional em família.)
 - [x] Dzień 45 - Boże Narodzenie to czas radości i miłości z bliskimi. Wesołych Świąt! (Natal é o tempo de alegria e amor com entes queridos. Feliz Natal!)
 - [x] Dzień 46 - Chciałbym zamówić wodę mineralną. (Eu gostaria de pedir água mineral.)
-- [ ] Dzień 47 - Czy możesz mi pokazać drogę do dworca kolejowego? (Você pode me mostrar o caminho para a estação de trem?)
+- [x] Dzień 47 - Czy możesz mi pokazać drogę do dworca kolejowego? (Você pode me mostrar o caminho para a estação de trem?)
 - [ ] Dzień 48 - Czy masz jakieś ulubione miejsce na wakacje? (Você tem algum lugar favorito para as férias?)
 - [ ] Dzień 49 - Jaka jest Twoja ulubiona muzyka? (Qual é o seu tipo de música favorito?)
 - [ ] Dzień 50 - Czy możesz mi podać swój numer telefonu? (Você pode me dar seu número de telefone?)
