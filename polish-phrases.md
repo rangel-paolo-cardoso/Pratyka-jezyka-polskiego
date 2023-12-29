@@ -53,7 +53,7 @@
 - [x] Dzień 46 - Chciałbym zamówić wodę mineralną. (Eu gostaria de pedir água mineral.)
 - [x] Dzień 47 - Czy możesz mi pokazać drogę do dworca kolejowego? (Você pode me mostrar o caminho para a estação de trem?)
 - [x] Dzień 48 - Czy masz ulubione miejsce na wakacje? (Você tem algum lugar favorito para as férias?)
-- [ ] Dzień 49 - Jaka jest Twoja ulubiona muzyka? (Qual é o seu tipo de música favorito?)
+- [x] Dzień 49 - Jaka jest Twoja ulubiona muzyka? (Qual é o seu tipo de música favorito?)
 - [ ] Dzień 50 - Czy możesz mi podać swój numer telefonu? (Você pode me dar seu número de telefone?)
 - [ ] Dzień 51 - Mam alergię na orzechy. (Eu sou alérgico a nozes.)
 
