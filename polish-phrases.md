@@ -55,7 +55,7 @@
 - [x] Dzień 48 - Czy masz ulubione miejsce na wakacje? (Você tem algum lugar favorito para as férias?)
 - [x] Dzień 49 - Jaka jest Twoja ulubiona muzyka? (Qual é o seu tipo de música favorito?)
 - [x] Dzień 50 - Czy mógłbyś/mogłabyś udostępnić mi swój numer telefonu, proszę? (Você poderia me passar seu número de telefone, por favor?)
-- [ ] Dzień 51 - Mam alergię na orzechy. (Eu sou alérgico a nozes.)
+- [x] Dzień 51 - Mam alergię na orzechy. (Eu sou alérgico a nozes.)
 
 - [ ] Dzień 52 - Jaka jest Twoja ulubiona restauracja? (Qual é o seu restaurante favorito?)
 - [ ] Dzień 53 - Która godzina? (Que horas são?)
