@@ -57,7 +57,7 @@
 - [x] Dzień 50 - Czy mógłbyś/mogłabyś udostępnić mi swój numer telefonu, proszę? (Você poderia me passar seu número de telefone, por favor?)
 - [x] Dzień 51 - Mam alergię na orzechy. (Eu sou alérgico a nozes.)
 
-- [ ] Dzień 52 - Jaka jest Twoja ulubiona restauracja? (Qual é o seu restaurante favorito?)
+- [x] Dzień 52 - Jaka jest Twoja ulubiona restauracja? (Qual é o seu restaurante favorito?)
 - [ ] Dzień 53 - Która godzina? (Que horas são?)
 - [ ] Dzień 54 - Czy masz zwierzęta domowe? (Você tem animais de estimação?)
 - [ ] Dzień 55 - Gdzie jest najbliższy supermarket? (Onde fica o supermercado mais próximo?)
