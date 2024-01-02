@@ -58,7 +58,7 @@
 - [x] Dzień 51 - Mam alergię na orzechy. (Eu sou alérgico a nozes.)
 
 - [x] Dzień 52 - Jaka jest Twoja ulubiona restauracja? (Qual é o seu restaurante favorito?)
-- [ ] Dzień 53 - Która godzina? (Que horas são?)
+- [x] Dzień 53 - Która jest godzina? (Que horas são?)
 - [ ] Dzień 54 - Czy masz zwierzęta domowe? (Você tem animais de estimação?)
 - [ ] Dzień 55 - Gdzie jest najbliższy supermarket? (Onde fica o supermercado mais próximo?)
 - [ ] Dzień 56 - Co lubisz robić na wakacjach? (O que você gosta de fazer nas férias?)
