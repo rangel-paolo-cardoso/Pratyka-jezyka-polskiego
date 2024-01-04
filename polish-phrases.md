@@ -60,7 +60,7 @@
 - [x] Dzień 52 - Jaka jest Twoja ulubiona restauracja? (Qual é o seu restaurante favorito?)
 - [x] Dzień 53 - Która jest godzina? (Que horas são?)
 - [x] Dzień 54 - Czy masz zwierzęta domowe? (Você tem animais de estimação?)
-- [ ] Dzień 55 - Gdzie jest najbliższy supermarket? (Onde fica o supermercado mais próximo?)
+- [x] Dzień 55 - Gdzie jest najbliższy supermarket? (Onde fica o supermercado mais próximo?)
 - [ ] Dzień 56 - Co lubisz robić na wakacjach? (O que você gosta de fazer nas férias?)
 - [ ] Dzień 57 - Jakie masz plany na jutro? (Quais são seus planos para amanhã?)
 - [ ] Dzień 58 - Czy możesz mi pokazać drogę na mapie? (Você pode me mostrar o caminho no mapa?)
