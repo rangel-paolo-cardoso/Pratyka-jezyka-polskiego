@@ -62,7 +62,7 @@
 - [x] Dzień 54 - Czy masz zwierzęta domowe? (Você tem animais de estimação?)
 - [x] Dzień 55 - Gdzie jest najbliższy supermarket? (Onde fica o supermercado mais próximo?)
 - [x] Dzień 56 - Co lubisz robić na wakacjach? (O que você gosta de fazer nas férias?)
-- [ ] Dzień 57 - Jakie masz plany na jutro? (Quais são seus planos para amanhã?)
+- [x] Dzień 57 - Jakie masz plany na jutro? (Quais são seus planos para amanhã?)
 - [ ] Dzień 58 - Czy możesz mi pokazać drogę na mapie? (Você pode me mostrar o caminho no mapa?)
 - [ ] Dzień 59 - Ile masz lat? (Quantos anos você tem?)
 - [ ] Dzień 60 - Chciałbym zarezerwować stolik na dwie osoby. (Eu gostaria de fazer uma reserva para duas pessoas.)
