@@ -63,7 +63,7 @@
 - [x] Dzień 55 - Gdzie jest najbliższy supermarket? (Onde fica o supermercado mais próximo?)
 - [x] Dzień 56 - Co lubisz robić na wakacjach? (O que você gosta de fazer nas férias?)
 - [x] Dzień 57 - Jakie masz plany na jutro? (Quais são seus planos para amanhã?)
-- [ ] Dzień 58 - Czy możesz mi pokazać drogę na mapie? (Você pode me mostrar o caminho no mapa?)
+- [x] Dzień 58 - Czy możesz mi pokazać drogę na mapie? (Você pode me mostrar o caminho no mapa?)
 - [ ] Dzień 59 - Ile masz lat? (Quantos anos você tem?)
 - [ ] Dzień 60 - Chciałbym zarezerwować stolik na dwie osoby. (Eu gostaria de fazer uma reserva para duas pessoas.)
 - [ ] Dzień 61 - Jaki jest Twój ulubiony sport? (Qual é o seu esporte favorito?)
