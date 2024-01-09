@@ -65,7 +65,7 @@
 - [x] Dzień 57 - Jakie masz plany na jutro? (Quais são seus planos para amanhã?)
 - [x] Dzień 58 - Czy możesz mi pokazać drogę na mapie? (Você pode me mostrar o caminho no mapa?)
 - [x] Dzień 59 - Ile masz lat? (Quantos anos você tem?)
-- [ ] Dzień 60 - Chciałbym zarezerwować stolik na dwie osoby. (Eu gostaria de fazer uma reserva para duas pessoas.)
+- [x] Dzień 60 - Chciałbym zarezerwować stolik na dwie osoby. (Eu gostaria de fazer uma reserva para duas pessoas.)
 - [ ] Dzień 61 - Jaki jest Twój ulubiony sport? (Qual é o seu esporte favorito?)
 
 - [ ] Dzień 62 - Czy to jest możliwe? (Isso é possível?)
