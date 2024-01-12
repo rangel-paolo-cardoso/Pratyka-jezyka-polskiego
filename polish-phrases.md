@@ -69,7 +69,7 @@
 - [x] Dzień 61 - Jaki jest Twój ulubiony sport? (Qual é o seu esporte favorito?)
 
 - [x] Dzień 62 - Czy to jest możliwe? (Isso é possível?)
-- [ ] Dzień 63 - Jaki jest Twój numer telefonu komórkowego? (Qual é o seu número de celular?)
+- [x] Dzień 63 - Jaki jest Twój numer telefonu komórkowego? (Qual é o seu número de celular?)
 - [ ] Dzień 64 - Gdzie jest najbliższa apteka? (Onde fica a farmácia mais próxima?)
 - [ ] Dzień 65 - Czy mógłbyś mi pomóc z tym? (Você poderia me ajudar com isso?)
 - [ ] Dzień 66 - Kiedy masz urodziny? (Quando é o seu aniversário?)
