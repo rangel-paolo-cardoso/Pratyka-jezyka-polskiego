@@ -71,7 +71,7 @@
 - [x] Dzień 62 - Czy to jest możliwe? (Isso é possível?)
 - [x] Dzień 63 - Jaki jest Twój numer telefonu komórkowego? (Qual é o seu número de celular?)
 - [x] Dzień 64 - Gdzie jest najbliższa apteka? (Onde fica a farmácia mais próxima?)
-- [ ] Dzień 65 - Czy mógłbyś mi pomóc z tym? (Você poderia me ajudar com isso?)
+- [x] Dzień 65 - Czy mógłbyś mi pomóc z tym? (Você poderia me ajudar com isso?)
 - [ ] Dzień 66 - Kiedy masz urodziny? (Quando é o seu aniversário?)
 - [ ] Dzień 67 - Jakie są Twoje ulubione dania? (Quais são os seus pratos favoritos?)
 - [ ] Dzień 68 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
