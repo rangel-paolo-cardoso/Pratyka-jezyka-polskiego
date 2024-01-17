@@ -74,7 +74,7 @@
 - [x] Dzień 65 - Czy mógłbyś mi pomóc z tym? (Você poderia me ajudar com isso?)
 - [x] Dzień 66 - Jakie są Twoje ulubione dania? (Quais são os seus pratos favoritos?)
 - [x] Dzień 67 - Gdzie mogę kupić bilety na koncert? (Onde posso comprar ingressos para o show?)
-- [ ] Dzień 68 - Czy jest tu WiFi? (Tem Wi-Fi aqui?)
+- [x] Dzień 68 - Czy jest tu WiFi? (Tem Wi-Fi aqui?)
 
 - [ ] Dzień 69 - Czy mogę zamówić kawę czarną? (Posso pedir um café preto?)
 - [ ] Dzień 72 - Jak tam Twoja rodzina? (Como está a sua família?)
