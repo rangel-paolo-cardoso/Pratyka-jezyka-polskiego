@@ -76,7 +76,7 @@
 - [x] Dzień 67 - Gdzie mogę kupić bilety na koncert? (Onde posso comprar ingressos para o show?)
 - [x] Dzień 68 - Czy jest tu WiFi? (Tem Wi-Fi aqui?)
 
-- [ ] Dzień 69 - Czy mogę zamówić kawę czarną? (Posso pedir um café preto?)
+- [x] Dzień 69 - Czy mogę zamówić kawę czarną? (Posso pedir um café preto?)
 - [ ] Dzień 72 - Jak tam Twoja rodzina? (Como está a sua família?)
 - [ ] Dzień 73 - Czy masz jakieś plany na wieczór? (Você tem algum plano para a noite?)
 - [ ] Dzień 74 - Co sądzisz o tej restauracji? (O que você acha deste restaurante?)
