@@ -78,7 +78,7 @@
 
 - [x] Dzień 69 - Czy mogę zamówić kawę czarną? (Posso pedir um café preto?)
 - [x] Dzień 70 - Jak tam Twoja rodzina? (Como está a sua família?)
-- [ ] Dzień 71 - Czy masz jakieś plany na wieczór? (Você tem algum plano para a noite?)
+- [x] Dzień 71 - Czy masz jakieś plany na wieczór? (Você tem algum plano para a noite?)
 - [ ] Dzień 72 - Co sądzisz o tej restauracji? (O que você acha deste restaurante?)
 - [ ] Dzień 73 - Gdzie mogę znaleźć przewodnik po mieście? (Onde posso encontrar um guia da cidade?)
 - [ ] Dzień 74 - Czy masz ulubiony zespół muzyczny? (Você tem uma banda de música favorita?)
