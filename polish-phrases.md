@@ -82,7 +82,7 @@
 - [x] Dzień 72 - Co sądzisz o tej restauracji? (O que você acha deste restaurante?)
 - [x] Dzień 73 - Gdzie mogę znaleźć przewodnik po mieście? (Onde posso encontrar um guia da cidade?)
 - [x] Dzień 74 - Czy masz ulubiony zespół muzyczny? (Você tem uma banda de música favorita?)
-- [ ] Dzień 75 - Jakie jest Twoje ulubione danie śniadaniowe? (Qual é o seu prato de café da manhã favorito?)
+- [x] Dzień 75 - Jakie jest Twoje ulubione danie śniadaniowe? (Qual é o seu prato de café da manhã favorito?)
 - [ ] Dzień 76 - Jaka jest Twoja ulubiona książka? (Qual é o seu livro favorito?)
 - [ ] Dzień 77 - Czy mógłbyś mi podać sól? (Você poderia me passar o sal?)
 - [ ] Dzień 78 - Co sądzisz o polskiej kuchni? (O que você acha da comida polonesa?)
