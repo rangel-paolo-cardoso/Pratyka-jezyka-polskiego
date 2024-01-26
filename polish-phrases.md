@@ -84,7 +84,7 @@
 - [x] Dzień 74 - Czy masz ulubiony zespół muzyczny? (Você tem uma banda de música favorita?)
 - [x] Dzień 75 - Jakie jest Twoje ulubione danie śniadaniowe? (Qual é o seu prato de café da manhã favorito?)
 - [x] Dzień 76 - Czy mógłbyś mi podać sól? (Você poderia me passar o sal?)
-- [ ] Dzień 77 - Co sądzisz o polskiej kuchni? (O que você acha da comida polonesa?)
+- [x] Dzień 77 - Co sądzisz o polskiej kuchni? (O que você acha da comida polonesa?)
 
 - [ ] Dzień 78 - Czy lubisz chodzić na spacery? (Você gosta de passear?)
 - [ ] Dzień 79 - Jaki jest Twój numer pokoju? (Qual é o seu número de quarto?)
