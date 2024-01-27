@@ -86,7 +86,7 @@
 - [x] Dzień 76 - Czy mógłbyś mi podać sól? (Você poderia me passar o sal?)
 - [x] Dzień 77 - Co sądzisz o polskiej kuchni? (O que você acha da comida polonesa?)
 
-- [ ] Dzień 78 - Czy lubisz chodzić na spacery? (Você gosta de passear?)
+- [x] Dzień 78 - Czy lubisz chodzić na spacery? (Você gosta de passear?)
 - [ ] Dzień 79 - Jaki jest Twój numer pokoju? (Qual é o seu número de quarto?)
 - [ ] Dzień 80 - Czy możesz mi pokazać drogę na lotnisko? (Você pode me mostrar o caminho para o aeroporto?)
 - [ ] Dzień 81 - Kiedy masz plany na urlop? (Quando você tem planos de férias?)
