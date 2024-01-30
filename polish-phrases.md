@@ -89,7 +89,7 @@
 - [x] Dzień 78 - Czy lubisz chodzić na spacery? (Você gosta de passear?)
 - [x] Dzień 79 - Jaki jest Twój numer pokoju? (Qual é o seu número de quarto?)
 - [x] Dzień 80 - Czy możesz mi pokazać drogę na lotnisko? (Você pode me mostrar o caminho para o aeroporto?)
-- [ ] Dzień 81 - Kiedy masz plany na urlop? (Quando você tem planos de férias?)
+- [x] Dzień 81 - Kiedy masz plany na urlop? (Quando você tem planos de férias?)
 - [ ] Dzień 82 - Czy możesz mi pomóc z bagażem? (Você pode me ajudar com a bagagem?)
 - [ ] Dzień 83 - Jaka jest Twoja ulubiona piosenka? (Qual é a sua música favorita?)
 - [ ] Dzień 87 - Czy masz ochotę na lody? (Você está com vontade de sorvete?)
@@ -105,7 +105,6 @@
 - [ ] Dzień 96 - Jaka jest Twoja ulubiona pora roku? (Qual é a sua estação do ano favorita?)
 - [ ] Dzień 97 - Czy jesteś wegetarianinem/wegetarianką? (Você é vegetariano(a)?)
 - [ ] Dzień 98 - Jakie są Twoje plany na nadchodzący weekend? (Quais são os seus planos para o próximo fim de semana?)
-- [ ] Dzień 99 - Czy masz jakieś ulubione miejsce na wakacje? (Você tem algum lugar favorito para as férias?)
 - [ ] Dzień 100 - Czy mogę zrobić Ci herbatę lub kawę? (Posso fazer chá ou café para você?)
 
 - [ ] Dzień 101 - Czy lubisz podróżować pociągiem? (Você gosta de viajar de trem?)
