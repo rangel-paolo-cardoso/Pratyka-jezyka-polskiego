@@ -90,7 +90,7 @@
 - [x] Dzień 79 - Jaki jest Twój numer pokoju? (Qual é o seu número de quarto?)
 - [x] Dzień 80 - Czy możesz mi pokazać drogę na lotnisko? (Você pode me mostrar o caminho para o aeroporto?)
 - [x] Dzień 81 - Kiedy masz plany na urlop? (Quando você tem planos de férias?)
-- [ ] Dzień 82 - Czy możesz mi pomóc z bagażem? (Você pode me ajudar com a bagagem?)
+- [x] Dzień 82 - Czy możesz mi pomóc z bagażem? (Você pode me ajudar com a bagagem?)
 - [ ] Dzień 83 - Jaka jest Twoja ulubiona piosenka? (Qual é a sua música favorita?)
 - [ ] Dzień 87 - Czy masz ochotę na lody? (Você está com vontade de sorvete?)
 - [ ] Dzień 88 - Czy możesz mi polecić dobre miejsce na zakupy? (Você pode me recomendar um bom lugar para fazer compras?)
