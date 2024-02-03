@@ -93,7 +93,7 @@
 - [x] Dzień 82 - Czy możesz mi pomóc z bagażem? (Você pode me ajudar com a bagagem?)
 - [x] Dzień 83 - Czy masz ochotę na lody? (Você está com vontade de sorvete?)
 - [x] Dzień 84 - Czy możesz mi polecić dobre miejsce na zakupy? (Você pode me recomendar um bom lugar para fazer compras?)
-- [ ] Dzień 85 - Czy masz jakieś alergie? (Você tem alguma alergia?)
+- [x] Dzień 85 - Czy masz jakieś alergie? (Você tem alguma alergia?)
 - [ ] Dzień 86 - Jakie są Twoje plany na najbliższą przyszłość? (Quais são seus planos para o futuro próximo?)
 - [ ] Dzień 87 - Czy masz hobby, którego chciałbyś/chciałabyś się podzielić? (Você tem um hobby que gostaria de compartilhar?)
 - [ ] Dzień 92 - Gdzie można znaleźć najlepszą pizzę w okolicy? (Onde posso encontrar a melhor pizza na área?)
