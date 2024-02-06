@@ -96,7 +96,7 @@
 - [x] Dzień 85 - Czy masz jakieś alergie? (Você tem alguma alergia?)
 - [x] Dzień 86 - Jakie są Twoje plany na najbliższą przyszłość? (Quais são seus planos para o futuro próximo?)
 - [x] Dzień 87 - Czy masz hobby, którego chciałbyś/chciałabyś się podzielić? (Você tem um hobby que gostaria de compartilhar?)
-- [ ] Dzień 92 - Gdzie można znaleźć najlepszą pizzę w okolicy? (Onde posso encontrar a melhor pizza na área?)
+- [x] Dzień 88 - Gdzie można znaleźć najlepszą pizzę w okolicy? (Onde posso encontrar a melhor pizza na área?)
 - [ ] Dzień 93 - Czy masz ulubiony film? (Você tem um filme favorito?)
 - [ ] Dzień 94 - Jakie są Twoje ulubione miejsca do zwiedzania w Polsce? (Quais são os seus lugares favoritos para visitar na Polônia?)
 - [ ] Dzień 95 - Czy mogę poprosić o rachunek, proszę? (Posso pedir a conta, por favor?)
