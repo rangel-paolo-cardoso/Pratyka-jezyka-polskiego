@@ -100,7 +100,7 @@
 - [x] Dzień 89 - Jakie są Twoje ulubione miejsca do zwiedzania w Polsce? (Quais são os seus lugares favoritos para visitar na Polônia?)
 - [x] Dzień 90 - Jaka jest Twoja ulubiona pora roku? (Qual é a sua estação do ano favorita?)
 - [x] Dzień 91 - Czy jesteś wegetarianinem/wegetarianką? (Você é vegetariano(a)?)
-- [ ] Dzień 92 - Jakie są Twoje plany na nadchodzący weekend? (Quais são os seus planos para o próximo fim de semana?)
+- [x] Dzień 92 - Jakie są Twoje plany na nadchodzący weekend? (Quais são os seus planos para o próximo fim de semana?)
 - [ ] Dzień 93 - Czy mogę zrobić Ci herbatę lub kawę? (Posso fazer chá ou café para você?)
 
 - [ ] Dzień 95 - Czy lubisz podróżować pociągiem? (Você gosta de viajar de trem?)
