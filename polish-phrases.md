@@ -99,7 +99,7 @@
 - [x] Dzień 88 - Gdzie można znaleźć najlepszą pizzę w okolicy? (Onde posso encontrar a melhor pizza na área?)
 - [x] Dzień 89 - Jakie są Twoje ulubione miejsca do zwiedzania w Polsce? (Quais são os seus lugares favoritos para visitar na Polônia?)
 - [x] Dzień 90 - Jaka jest Twoja ulubiona pora roku? (Qual é a sua estação do ano favorita?)
-- [ ] Dzień 91 - Czy jesteś wegetarianinem/wegetarianką? (Você é vegetariano(a)?)
+- [x] Dzień 91 - Czy jesteś wegetarianinem/wegetarianką? (Você é vegetariano(a)?)
 - [ ] Dzień 92 - Jakie są Twoje plany na nadchodzący weekend? (Quais são os seus planos para o próximo fim de semana?)
 - [ ] Dzień 93 - Czy mogę zrobić Ci herbatę lub kawę? (Posso fazer chá ou café para você?)
 
