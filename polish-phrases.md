@@ -102,7 +102,7 @@
 - [x] Dzień 91 - Czy jesteś wegetarianinem/wegetarianką? (Você é vegetariano(a)?)
 - [x] Dzień 92 - Jakie są Twoje plany na nadchodzący weekend? (Quais são os seus planos para o próximo fim de semana?)
 - [x] Dzień 93 - Co sprawia, że karnawał brazylijski jest tak kolorowy i pełen życia? (O que faz o carnaval brasileiro ser tão colorido e cheio de vida?)
-- [ ] Dzień 94 - Czy mogę zrobić Ci herbatę lub kawę? (Posso fazer chá ou café para você?)
+- [x] Dzień 94 - Czy mogę zrobić Ci herbatę lub kawę? (Posso fazer chá ou café para você?)
 
 - [ ] Dzień 95 - Czy lubisz podróżować pociągiem? (Você gosta de viajar de trem?)
 - [ ] Dzień 96 - Jak się czujesz dziś? (Como você se sente hoje?)
