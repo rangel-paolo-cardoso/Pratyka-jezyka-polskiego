@@ -107,7 +107,7 @@
 - [x] Dzień 95 - Czy lubisz podróżować pociągiem? (Você gosta de viajar de trem?)
 - [x] Dzień 96 - Jak się czujesz dziś? (Como você se sente hoje?)
 - [x] Dzień 97 - Czy możesz mi polecić dobre miejsce na kolację? (Você pode me recomendar um bom lugar para jantar?)
-- [ ] Dzień 98 - Kiedy masz czas? (Quando você tem tempo?)
+- [x] Dzień 98 - Kiedy masz czas? (Quando você tem tempo?)
 - [ ] Dzień 99 - Czy masz ochotę na herbatę lub kawę? (Você gostaria de chá ou café?)
 - [ ] Dzień 106 - Czy jest tu blisko plaży? (A praia fica perto daqui?)
 - [ ] Dzień 107 - Czy mogę prosić o dodatkową porcję? (Posso pedir uma porção extra?)
