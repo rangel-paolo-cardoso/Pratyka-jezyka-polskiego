@@ -111,7 +111,7 @@
 - [x] Dzień 99 - Czy masz ochotę na herbatę lub kawę? (Você gostaria de chá ou café?)
 - [x] Dzień 100 - Czy jest tu blisko plaży? (A praia fica perto daqui?)
 - [x] Dzień 101 - Czy mogę prosić o dodatkową porcję? (Posso pedir uma porção extra?)
-- [ ] Dzień 102 - Czy masz jakieś ulubione miejsce na relaks? (Você tem algum lugar favorito para relaxar?)
+- [x] Dzień 102 - Czy masz jakieś ulubione miejsce na relaks? (Você tem algum lugar favorito para relaxar?)
 - [ ] Dzień 103 - Jaki jest Twój ulubiony sposób spędzania czasu wolnego? (Qual é a sua maneira favorita de passar o tempo livre?)
 - [ ] Dzień 104 - Czy masz zamiar wybrać się na zakupy? (Você pretende ir às compras?)
 
