@@ -115,7 +115,7 @@
 - [x] Dzień 103 - Jaki jest Twój ulubiony sposób spędzania czasu wolnego? (Qual é a sua maneira favorita de passar o tempo livre?)
 - [x] Dzień 104 - Czy masz zamiar wybrać się na zakupy? (Você pretende ir às compras?)
 
-- [ ] Dzień 105 - Czy to miejsce jest przyjazne dla dzieci? (Este lugar é amigável para crianças?)
+- [x] Dzień 105 - Czy to miejsce jest przyjazne dla dzieci? (Este lugar é amigável para crianças?)
 - [ ] Dzień 106 - Jak długo mieszkasz tutaj? (Há quanto tempo você mora aqui?)
 - [ ] Dzień 113 - Czy masz jakieś ulubione dania z kuchni polskiej? (Você tem pratos poloneses favoritos?)
 - [ ] Dzień 114 - Czy mogę prosić o wodę niegazowaną? (Posso pedir água sem gás?)
