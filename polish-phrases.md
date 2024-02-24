@@ -116,7 +116,7 @@
 - [x] Dzień 104 - Czy masz zamiar wybrać się na zakupy? (Você pretende ir às compras?)
 
 - [x] Dzień 105 - Czy to miejsce jest przyjazne dla dzieci? (Este lugar é amigável para crianças?)
-- [ ] Dzień 106 - Jak długo mieszkasz tutaj? (Há quanto tempo você mora aqui?)
+- [x] Dzień 106 - Jak długo mieszkasz tutaj? (Há quanto tempo você mora aqui?)
 - [ ] Dzień 113 - Czy masz jakieś ulubione dania z kuchni polskiej? (Você tem pratos poloneses favoritos?)
 - [ ] Dzień 114 - Czy mogę prosić o wodę niegazowaną? (Posso pedir água sem gás?)
 - [ ] Dzień 115 - Jak się nazywa ten zabytek? (Qual é o nome deste monumento?)
