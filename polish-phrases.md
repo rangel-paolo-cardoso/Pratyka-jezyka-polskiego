@@ -118,7 +118,7 @@
 - [x] Dzień 105 - Czy to miejsce jest przyjazne dla dzieci? (Este lugar é amigável para crianças?)
 - [x] Dzień 106 - Jak długo mieszkasz tutaj? (Há quanto tempo você mora aqui?)
 - [x] Dzień 107 - Czy masz jakieś ulubione dania z kuchni polskiej? (Você tem pratos poloneses favoritos?)
-- [ ] Dzień 108 - Czy mogę prosić o wodę niegazowaną? (Posso pedir água sem gás?)
+- [x] Dzień 108 - Czy mogę prosić o wodę niegazowaną? (Posso pedir água sem gás?)
 - [ ] Dzień 109 - Jak się nazywa ten zabytek? (Qual é o nome deste monumento?)
 - [ ] Dzień 110 - Czy masz ochotę na coś słodkiego? (Você está com vontade de algo doce?)
 - [ ] Dzień 111 - Jaka jest Twoja ulubiona rzecz do robienia na weekend? (Qual é a sua coisa favorita para fazer no fim de semana?)
