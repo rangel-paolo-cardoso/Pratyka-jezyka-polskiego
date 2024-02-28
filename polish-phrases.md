@@ -120,7 +120,7 @@
 - [x] Dzień 107 - Czy masz jakieś ulubione dania z kuchni polskiej? (Você tem pratos poloneses favoritos?)
 - [x] Dzień 108 - Czy mogę prosić o wodę niegazowaną? (Posso pedir água sem gás?)
 - [x] Dzień 109 - Jak się nazywa ten zabytek? (Qual é o nome deste monumento?)
-- [ ] Dzień 110 - Czy masz ochotę na coś słodkiego? (Você está com vontade de algo doce?)
+- [x] Dzień 110 - Czy masz ochotę na coś słodkiego? (Você está com vontade de algo doce?)
 - [ ] Dzień 111 - Jaka jest Twoja ulubiona rzecz do robienia na weekend? (Qual é a sua coisa favorita para fazer no fim de semana?)
 - [ ] Dzień 112 - Czy masz jakieś plany na wieczór? (Você tem algum plano para a noite?)
 - [ ] Dzień 113 - Czy masz domowe zwierzęta? (Você tem animais de estimação?)
