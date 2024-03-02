@@ -123,7 +123,7 @@
 - [x] Dzień 110 - Czy masz ochotę na coś słodkiego? (Você está com vontade de algo doce?)
 - [x] Dzień 111 - Jaka jest Twoja ulubiona rzecz do robienia na weekend? (Qual é a sua coisa favorita para fazer no fim de semana?)
 - [x] Dzień 112 - Czy masz domowe zwierzęta? (Você tem animais de estimação?)
-- [ ] Dzień 113 - Co myślisz o polskiej muzyce? (O que você acha da música polonesa?)
+- [x] Dzień 113 - Co myślisz o polskiej muzyce? (O que você acha da música polonesa?)
 
 - [ ] Dzień 114 - Czy wolisz wypoczynek nad morzem czy w górach? (Você prefere descansar na praia ou nas montanhas?)
 - [ ] Dzień 115 - Jaki jest Twój ulubiony film z dzieciństwa? (Qual é o seu filme favorito da infância?)
