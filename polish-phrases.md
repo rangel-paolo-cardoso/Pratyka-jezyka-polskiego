@@ -126,7 +126,7 @@
 - [x] Dzień 113 - Co myślisz o polskiej muzyce? (O que você acha da música polonesa?)
 
 - [x] Dzień 114 - Czy wolisz wypoczynek nad morzem czy w górach? (Você prefere descansar na praia ou nas montanhas?)
-- [ ] Dzień 115 - Jaki jest Twój ulubiony film z dzieciństwa? (Qual é o seu filme favorito da infância?)
+- [x] Dzień 115 - Jaki jest Twój ulubiony film z dzieciństwa? (Qual é o seu filme favorito da infância?)
 - [ ] Dzień 116 - Czy masz jakieś ulubione miejsce na spacer? (Você tem um lugar favorito para passear?)
 - [ ] Dzień 117 - Co zamierzasz zrobić w najbliższy weekend? (O que você planeja fazer no próximo fim de semana?)
 - [ ] Dzień 118 - Czy jest tu dobra komunikacja miejska? (O transporte público é bom por aqui?)
