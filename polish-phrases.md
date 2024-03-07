@@ -130,7 +130,7 @@
 - [x] Dzień 116 - Czy masz jakieś ulubione miejsce na spacer? (Você tem um lugar favorito para passear?)
 - [x] Dzień 117 - Co zamierzasz zrobić w najbliższy weekend? (O que você planeja fazer no próximo fim de semana?)
 - [x] Dzień 118 - Czy jest tu dobra komunikacja miejska? (O transporte público é bom por aqui?)
-- [ ] Dzień 119 - Jakie są Twoje ulubione miejsca w Polsce do zwiedzania? (Quais são seus lugares favoritos na Polônia para visitar?)
+- [x] Dzień 119 - Jakie są Twoje ulubione miejsca w Polsce do zwiedzania? (Quais são seus lugares favoritos na Polônia para visitar?)
 - [ ] Dzień 120 - Czy lubisz oglądać sport w telewizji? (Você gosta de assistir esportes na televisão?)
 - [ ] Dzień 121 - Czy wiesz, gdzie znajduje się najbliższy park? (Você sabe onde fica o parque mais próximo?)
 - [ ] Dzień 122 - Czy masz jakieś ulubione miejsce na wypad poza miasto? (Você tem um lugar favorito para uma viagem fora da cidade?)
