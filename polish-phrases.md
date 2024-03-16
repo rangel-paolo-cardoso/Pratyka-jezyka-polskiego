@@ -138,7 +138,7 @@
 - [x] Dzień 124 - Dziękuję za pomoc. (Obrigado(a) pela ajuda.)
 - [x] Dzień 125 - Kocham moją rodzinę. (Eu amo minha família.)
 - [x] Dzień 126 - Jestem wdzięczny/ wdzięczna za to doświadczenie. (Estou grato(a) por esta experiência.)
-- [ ] Dzień 127 - To jest bardzo smaczne. (Isso é muito gostoso.)
+- [x] Dzień 127 - To jest bardzo smaczne. (Isso é muito gostoso.)
 - [ ] Dzień 128 - Lubię chodzić na spacery. (Eu gosto de passear.)
 - [ ] Dzień 129 - Dzisiaj jest piękna pogoda. (Hoje está um dia bonito.)
 - [ ] Dzień 130 - To jest moje ulubione miejsce. (Este é o meu lugar favorito.)
