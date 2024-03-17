@@ -140,7 +140,7 @@
 - [x] Dzień 126 - Jestem wdzięczny/ wdzięczna za to doświadczenie. (Estou grato(a) por esta experiência.)
 - [x] Dzień 127 - To jest bardzo smaczne. (Isso é muito gostoso.)
 - [x] Dzień 128 - Lubię chodzić na spacery. (Eu gosto de passear.)
-- [ ] Dzień 129 - Dzisiaj jest piękna pogoda. (Hoje está um dia bonito.)
+- [x] Dzień 129 - Dzisiaj jest piękna pogoda. (Hoje o tempo está bonito.)
 - [ ] Dzień 130 - To jest moje ulubione miejsce. (Este é o meu lugar favorito.)
 - [ ] Dzień 132 - Jestem podekscytowany/podekscytowana na myśl o wakacjach. (Estou animado/animada com a ideia de férias.)
 - [ ] Dzień 133 - Cieszę się, że Cię widzę. (Fico feliz em te ver.)
