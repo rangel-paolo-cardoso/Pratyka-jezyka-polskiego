@@ -141,7 +141,7 @@
 - [x] Dzień 127 - To jest bardzo smaczne. (Isso é muito gostoso.)
 - [x] Dzień 128 - Lubię chodzić na spacery. (Eu gosto de passear.)
 - [x] Dzień 129 - Dzisiaj jest piękna pogoda. (Hoje o tempo está bonito.)
-- [ ] Dzień 130 - To jest moje ulubione miejsce. (Este é o meu lugar favorito.)
+- [x] Dzień 130 - To jest moje ulubione miejsce. (Este é o meu lugar favorito.)
 - [ ] Dzień 132 - Jestem podekscytowany/podekscytowana na myśl o wakacjach. (Estou animado/animada com a ideia de férias.)
 - [ ] Dzień 133 - Cieszę się, że Cię widzę. (Fico feliz em te ver.)
 - [ ] Dzień 134 - Chciałbym zamówić kawę z mlekiem. (Eu gostaria de pedir um café com leite.)
