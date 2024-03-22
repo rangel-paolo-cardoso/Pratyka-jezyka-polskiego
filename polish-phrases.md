@@ -144,7 +144,7 @@
 - [x] Dzień 130 - To jest moje ulubione miejsce. (Este é o meu lugar favorito.)
 - [x] Dzień 131 - Jestem podekscytowany/podekscytowana na myśl o wakacjach. (Estou animado/animada com a ideia de férias.)
 - [x] Dzień 132 - Cieszę się, że Cię widzę. (Fico feliz em te ver.)
-- [ ] Dzień 133 - Chciałbym zamówić kawę z mlekiem. (Eu gostaria de pedir um café com leite.)
+- [x] Dzień 133 - Chciałbym zamówić kawę z mlekiem. (Eu gostaria de pedir um café com leite.)
 
 - [ ] Dzień 134 - Jestem zainteresowany/zainteresowana sztuką. (Tenho interesse em arte.)
 - [ ] Dzień 135 - Uwielbiam słuchać muzyki. (Eu adoro ouvir música.)
