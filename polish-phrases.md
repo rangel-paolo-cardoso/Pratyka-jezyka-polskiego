@@ -146,7 +146,7 @@
 - [x] Dzień 132 - Cieszę się, że Cię widzę. (Fico feliz em te ver.)
 - [x] Dzień 133 - Chciałbym zamówić kawę z mlekiem. (Eu gostaria de pedir um café com leite.)
 
-- [ ] Dzień 134 - Jestem zainteresowany/zainteresowana sztuką. (Tenho interesse em arte.)
+- [x] Dzień 134 - Jestem zainteresowany/zainteresowana sztuką. (Tenho interesse em arte.)
 - [ ] Dzień 135 - Uwielbiam słuchać muzyki. (Eu adoro ouvir música.)
 - [ ] Dzień 136 - Jutro muszę pójść do lekarza. (Amanhã tenho que ir ao médico.)
 - [ ] Dzień 137 - Cieszę się, że możemy być razem. (Fico feliz que podemos estar juntos.)
