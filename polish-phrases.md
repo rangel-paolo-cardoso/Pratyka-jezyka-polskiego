@@ -147,7 +147,7 @@
 - [x] Dzień 133 - Chciałbym zamówić kawę z mlekiem. (Eu gostaria de pedir um café com leite.)
 
 - [x] Dzień 134 - Jestem zainteresowany/zainteresowana sztuką. (Tenho interesse em arte.)
-- [ ] Dzień 135 - Uwielbiam słuchać muzyki. (Eu adoro ouvir música.)
+- [x] Dzień 135 - Uwielbiam słuchać muzyki. (Eu adoro ouvir música.)
 - [ ] Dzień 136 - Jutro muszę pójść do lekarza. (Amanhã tenho que ir ao médico.)
 - [ ] Dzień 137 - Cieszę się, że możemy być razem. (Fico feliz que podemos estar juntos.)
 - [ ] Dzień 138 - Mam nadzieję, że uda mi się to zrobić. (Espero conseguir fazer isso.)
@@ -169,7 +169,6 @@
 - [ ] Dzień 154 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
 
 - [ ] Dzień 155 - To jest moje ulubione jedzenie. (Esta é a minha comida favorita.)
-- [ ] Dzień 156 - Jaka jest Twoja ulubiona muzyka? (Qual é a sua música favorita?)
 - [ ] Dzień 157 - To jest dla mnie ważne doświadczenie. (Esta é uma experiência importante para mim.)
 - [ ] Dzień 158 - Jestem pewny/pewna, że uda mi się to zrobić. (Tenho certeza de que consigo fazer isso.)
 - [ ] Dzień 159 - To jest naprawdę inspirujące. (Isso é verdadeiramente inspirador.)
