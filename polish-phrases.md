@@ -148,7 +148,7 @@
 
 - [x] Dzień 134 - Jestem zainteresowany/zainteresowana sztuką. (Tenho interesse em arte.)
 - [x] Dzień 135 - Uwielbiam słuchać muzyki. (Eu adoro ouvir música.)
-- [ ] Dzień 136 - Jutro muszę pójść do lekarza. (Amanhã tenho que ir ao médico.)
+- [x] Dzień 136 - Jutro muszę pójść do lekarza. (Amanhã tenho que ir ao médico.)
 - [ ] Dzień 137 - Cieszę się, że możemy być razem. (Fico feliz que podemos estar juntos.)
 - [ ] Dzień 138 - Mam nadzieję, że uda mi się to zrobić. (Espero conseguir fazer isso.)
 - [ ] Dzień 139 - To jest dla mnie ważne. (Isso é importante para mim.)
