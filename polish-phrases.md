@@ -151,7 +151,7 @@
 - [x] Dzień 136 - Jutro muszę pójść do lekarza. (Amanhã tenho que ir ao médico.)
 - [x] Dzień 137 - Cieszę się, że możemy być razem. (Fico feliz que podemos estar juntos.)
 - [x] Dzień 138 - Mam nadzieję, że uda mi się to zrobić. (Espero conseguir fazer isso.)
-- [ ] Dzień 139 - To jest dla mnie ważne. (Isso é importante para mim.)
+- [x] Dzień 139 - To jest dla mnie ważne. (Isso é importante para mim.)
 - [ ] Dzień 140 - Jestem dumny/dumna z moich osiągnięć. (Estou orgulhoso/orgulhosa das minhas realizações.)
 - [ ] Dzień 141 - Chciałbym poprosić rachunek. (Eu gostaria de pedir a conta.)
 - [ ] Dzień 142 - Kocham spędzać czas z przyjaciółmi. (Eu amo passar tempo com amigos.)
