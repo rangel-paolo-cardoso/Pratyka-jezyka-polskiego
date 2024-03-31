@@ -154,7 +154,7 @@
 - [x] Dzień 139 - To jest dla mnie ważne. (Isso é importante para mim.)
 - [x] Dzień 140 - Jestem dumny/dumna z moich osiągnięć. (Estou orgulhoso/orgulhosa das minhas realizações.)
 - [x] Dzień 141 - Kocham spędzać czas z przyjaciółmi. (Eu amo passar tempo com amigos.)
-- [ ] Dzień 142 - Cieszę się, że mogę Cię wspierać. (Fico feliz em poder te apoiar.)
+- [x] Dzień 142 - Cieszę się, że mogę Cię wspierać. (Fico feliz em poder te apoiar.)
 
 - [ ] Dzień 143 - Lubisz oglądać filmy? (Você gosta de assistir filmes?)
 - [ ] Dzień 144 - To jest naprawdę interesujące. (Isso é realmente interessante.)
