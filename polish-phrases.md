@@ -157,7 +157,7 @@
 - [x] Dzień 142 - Cieszę się, że mogę Cię wspierać. (Fico feliz em poder te apoiar.)
 
 - [x] Dzień 143 - Lubisz oglądać filmy? (Você gosta de assistir filmes?)
-- [ ] Dzień 144 - To jest naprawdę interesujące. (Isso é realmente interessante.)
+- [x] Dzień 144 - To jest naprawdę interesujące. (Isso é realmente interessante.)
 - [ ] Dzień 146 - W wolnym czasie lubię czytać książki. (No meu tempo livre, gosto de ler livros.)
 - [ ] Dzień 147 - To jest niesamowite! (Isso é incrível!)
 - [ ] Dzień 148 - Czy masz jakieś plany na jutro? (Você tem algum plano para amanhã?)
