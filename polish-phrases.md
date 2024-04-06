@@ -161,7 +161,7 @@
 - [x] Dzień 145 - W wolnym czasie lubię czytać książki. (No meu tempo livre, gosto de ler livros.)
 - [x] Dzień 146 - To jest niesamowite! (Isso é incrível!)
 - [x] Dzień 147 - To jest dla mnie wyzwanie. (Isso é um desafio para mim.)
-- [ ] Dzień 148 - Jaki jest Twój ulubiony film? (Qual é o seu filme favorito?)
+- [x] Dzień 148 - Jaki jest Twój ulubiony film? (Qual é o seu filme favorito?)
 - [ ] Dzień 149 - Jestem bardzo zadowolony/zadowolona z wyniku. (Estou muito satisfeito/satisfeita com o resultado.)
 - [ ] Dzień 150 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
 
