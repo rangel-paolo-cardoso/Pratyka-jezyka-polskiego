@@ -162,7 +162,7 @@
 - [x] Dzień 146 - To jest niesamowite! (Isso é incrível!)
 - [x] Dzień 147 - To jest dla mnie wyzwanie. (Isso é um desafio para mim.)
 - [x] Dzień 148 - Jaki jest Twój ulubiony film? (Qual é o seu filme favorito?)
-- [ ] Dzień 149 - Jestem bardzo zadowolony/zadowolona z wyniku. (Estou muito satisfeito/satisfeita com o resultado.)
+- [x] Dzień 149 - Jestem bardzo zadowolony/zadowolona z wyniku. (Estou muito satisfeito/satisfeita com o resultado.)
 - [ ] Dzień 150 - Czy masz rodzeństwo? (Você tem irmãos/irmãs?)
 
 - [ ] Dzień 151 - To jest moje ulubione jedzenie. (Esta é a minha comida favorita.)
