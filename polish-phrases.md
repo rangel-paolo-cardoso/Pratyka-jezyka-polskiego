@@ -164,7 +164,7 @@
 - [x] Dzień 148 - Jaki jest Twój ulubiony film? (Qual é o seu filme favorito?)
 - [x] Dzień 149 - Jestem bardzo zadowolony/zadowolona z wyniku. (Estou muito satisfeito/satisfeita com o resultado.)
 - [x] Dzień 150 - To jest moje ulubione jedzenie. (Esta é a minha comida favorita.)
-- [ ] Dzień 151 - To jest dla mnie ważne doświadczenie. (Esta é uma experiência importante para mim.)
+- [x] Dzień 151 - To jest dla mnie ważne doświadczenie. (Esta é uma experiência importante para mim.)
 - [ ] Dzień 152 - Jestem pewny/pewna, że uda mi się to zrobić. (Tenho certeza de que consigo fazer isso.)
 - [ ] Dzień 153 - To jest naprawdę inspirujące. (Isso é verdadeiramente inspirador.)
 - [ ] Dzień 160 - Jaka jest Twoja ulubiona pora roku? (Qual é a sua estação do ano favorita?)
