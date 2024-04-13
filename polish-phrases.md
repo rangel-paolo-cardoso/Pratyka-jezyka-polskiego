@@ -168,7 +168,7 @@
 - [x] Dzień 152 - Jestem pewny/pewna, że uda mi się to zrobić. (Tenho certeza de que consigo fazer isso.)
 - [x] Dzień 153 - To jest naprawdę inspirujące. (Isso é verdadeiramente inspirador.)
 - [x] Dzień 154 - To jest moje marzenie. (Isso é o meu sonho.)
-- [ ] Dzień 155 - Cieszę się, że mogę Ci pomóc. (Fico feliz em poder te ajudar.)
+- [x] Dzień 155 - Cieszę się, że mogę Ci pomóc. (Fico feliz em poder te ajudar.)
 - [ ] Dzień 156 - Jestem podekscytowany/podekscytowana na myśl o przyszłości. (Estou animado/animada com o futuro.)
 - [ ] Dzień 157 - Dziękuję za miłe spotkanie. (Obrigado(a) pelo encontro agradável.)
 
