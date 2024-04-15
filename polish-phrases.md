@@ -170,7 +170,7 @@
 - [x] Dzień 154 - To jest moje marzenie. (Isso é o meu sonho.)
 - [x] Dzień 155 - Cieszę się, że mogę Ci pomóc. (Fico feliz em poder te ajudar.)
 - [x] Dzień 156 - Jestem podekscytowany/podekscytowana na myśl o przyszłości. (Estou animado/animada com o futuro.)
-- [ ] Dzień 157 - Dziękuję za miłe spotkanie. (Obrigado(a) pelo encontro agradável.)
+- [x] Dzień 157 - Dziękuję za miłe spotkanie. (Obrigado(a) pelo encontro agradável.)
 
 - [ ] Dzień 158 - Kocham Cię z całego serca. (Eu te amo de todo o meu coração.)
 - [ ] Dzień 159 - Jesteś moją drugą połową. (Você é a minha outra metade.)
