@@ -171,8 +171,7 @@
 - [x] Dzień 155 - Cieszę się, że mogę Ci pomóc. (Fico feliz em poder te ajudar.)
 - [x] Dzień 156 - Jestem podekscytowany/podekscytowana na myśl o przyszłości. (Estou animado/animada com o futuro.)
 - [x] Dzień 157 - Dziękuję za miłe spotkanie. (Obrigado(a) pelo encontro agradável.)
-
-- [ ] Dzień 158 - Kocham Cię z całego serca. (Eu te amo de todo o meu coração.)
+- [x] Dzień 158 - Kocham Cię z całego serca. (Eu te amo de todo o meu coração.)
 - [ ] Dzień 159 - Jesteś moją drugą połową. (Você é a minha outra metade.)
 - [ ] Dzień 160 - Moje serce bije tylko dla Ciebie. (Meu coração bate apenas por você.)
 - [ ] Dzień 168 - Czuję do Ciebie głęboką miłość. (Eu sinto um amor profundo por você.)
