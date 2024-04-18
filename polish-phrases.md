@@ -173,7 +173,7 @@
 - [x] Dzień 157 - Dziękuję za miłe spotkanie. (Obrigado(a) pelo encontro agradável.)
 - [x] Dzień 158 - Kocham Cię z całego serca. (Eu te amo de todo o meu coração.)
 - [x] Dzień 159 - Jesteś moją drugą połową. (Você é a minha outra metade.)
-- [ ] Dzień 160 - Moje serce bije tylko dla Ciebie. (Meu coração bate apenas por você.)
+- [x] Dzień 160 - Moje serce bije tylko dla Ciebie. (Meu coração bate apenas por você.)
 - [ ] Dzień 168 - Czuję do Ciebie głęboką miłość. (Eu sinto um amor profundo por você.)
 - [ ] Dzień 169 - Jestem zakochany/zakochana w Tobie. (Estou apaixonado/apaixonada por você.)
 - [ ] Dzień 170 - Bez Ciebie nie umiem funkcjonować. (Não consigo funcionar sem você.)
