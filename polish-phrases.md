@@ -177,7 +177,7 @@
 - [x] Dzień 161 - Czuję do Ciebie głęboką miłość. (Eu sinto um amor profundo por você.)
 - [x] Dzień 162 - Jestem zakochany/zakochana w Tobie. (Estou apaixonado/apaixonada por você.)
 - [x] Dzień 163 - Bez Ciebie nie umiem funkcjonować. (Não consigo funcionar sem você.)
-- [ ] Dzień 164 - Jesteś moim skarbem. (Você é o meu tesouro.)
+- [x] Dzień 164 - Jesteś moim skarbem. (Você é o meu tesouro.)
 - [ ] Dzień 165 - Marzę o wspólnej przyszłości z Tobą. (Eu sonho com um futuro juntos.)
 - [ ] Dzień 166 - Twój uśmiech rozjaśnia mój - [ ] dzień. (Seu sorriso ilumina o meu dia.)
 - [ ] Dzień 167 - Razem możemy pokonać wszystkie trudności. (Juntos podemos superar todas as dificuldades.)
