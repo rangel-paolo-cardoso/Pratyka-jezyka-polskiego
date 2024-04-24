@@ -179,7 +179,7 @@
 - [x] Dzień 163 - Bez Ciebie nie umiem funkcjonować. (Não consigo funcionar sem você.)
 - [x] Dzień 164 - Jesteś moim skarbem. (Você é o meu tesouro.)
 - [x] Dzień 165 - Marzę o wspólnej przyszłości z Tobą. (Eu sonho com um futuro juntos.)
-- [ ] Dzień 166 - Twój uśmiech rozjaśnia mój - [ ] dzień. (Seu sorriso ilumina o meu dia.)
+- [x] Dzień 166 - Twój uśmiech rozjaśnia mój dzień. (Seu sorriso ilumina o meu dia.)
 - [ ] Dzień 167 - Razem możemy pokonać wszystkie trudności. (Juntos podemos superar todas as dificuldades.)
 
 - [ ] Dzień 168 - Jesteś moją największą miłością. (Você é o meu maior amor.)
