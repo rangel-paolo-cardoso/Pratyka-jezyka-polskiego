@@ -180,8 +180,7 @@
 - [x] Dzień 164 - Jesteś moim skarbem. (Você é o meu tesouro.)
 - [x] Dzień 165 - Marzę o wspólnej przyszłości z Tobą. (Eu sonho com um futuro juntos.)
 - [x] Dzień 166 - Twój uśmiech rozjaśnia mój dzień. (Seu sorriso ilumina o meu dia.)
-- [ ] Dzień 167 - Razem możemy pokonać wszystkie trudności. (Juntos podemos superar todas as dificuldades.)
-
+- [x] Dzień 167 - Razem możemy pokonać wszystkie trudności. (Juntos podemos superar todas as dificuldades.)
 - [ ] Dzień 168 - Jesteś moją największą miłością. (Você é o meu maior amor.)
 - [ ] Dzień 169 - Pragnę spędzać z Tobą każdą chwilę. (Desejo passar cada momento contigo.)
 - [ ] Dzień 170 - Jesteś moją wymarzoną drugą połową. (Você é a minha metade perfeita.)
