@@ -182,7 +182,7 @@
 - [x] Dzień 166 - Twój uśmiech rozjaśnia mój dzień. (Seu sorriso ilumina o meu dia.)
 - [x] Dzień 167 - Razem możemy pokonać wszystkie trudności. (Juntos podemos superar todas as dificuldades.)
 - [x] Dzień 168 - Jesteś moją największą miłością. (Você é o meu maior amor.)
-- [ ] Dzień 169 - Pragnę spędzać z Tobą każdą chwilę. (Desejo passar cada momento contigo.)
+- [x] Dzień 169 - Pragnę spędzać z Tobą każdą chwilę. (Desejo passar cada momento contigo.)
 - [ ] Dzień 170 - Jesteś moją wymarzoną drugą połową. (Você é a minha metade perfeita.)
 - [ ] Dzień 171 - Twoje ramiona są moim domem. (Seus braços são o meu lar.)
 - [ ] Dzień 172 - Kocham Cię bardziej niż słowa mogą wyrazić. (Eu te amo mais do que palavras podem expressar.)
