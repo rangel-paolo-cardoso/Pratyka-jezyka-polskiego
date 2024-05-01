@@ -186,7 +186,7 @@
 - [x] Dzień 170 - Jesteś moją wymarzoną drugą połową. (Você é a minha metade perfeita.)
 - [x] Dzień 171 - Twoje ramiona są moim domem. (Seus braços são o meu lar.)
 - [x] Dzień 172 - Kocham Cię bardziej niż słowa mogą wyrazić. (Eu te amo mais do que palavras podem expressar.)
-- [ ] Dzień 173 - Jesteś moją inspiracją do lepszego życia. (Você é minha inspiração para uma vida melhor.)
+- [x] Dzień 173 - Jesteś moją inspiracją do lepszego życia. (Você é minha inspiração para uma vida melhor.)
 - [ ] Dzień 174 - Czuje się kompletny/kompletna przy Tobie. (Me sinto completo/completa ao seu lado.)
 - [ ] Dzień 175 - Jesteś moją jedyną miłością. (Você é o meu único amor.)
 - [ ] Dzień 176 - Nie ma słów, które mogłyby opisać moje uczucia. (Não há palavras que possam descrever meus sentimentos.)
