@@ -189,7 +189,7 @@
 - [x] Dzień 173 - Jesteś moją inspiracją do lepszego życia. (Você é minha inspiração para uma vida melhor.)
 - [x] Dzień 174 - Czuje się kompletny/kompletna przy Tobie. (Me sinto completo/completa ao seu lado.)
 - [x] Dzień 175 - Jesteś moją jedyną miłością. (Você é o meu único amor.)
-- [ ] Dzień 176 - Nie ma słów, które mogłyby opisać moje uczucia. (Não há palavras que possam descrever meus sentimentos.)
+- [x] Dzień 176 - Nie ma słów, które mogłyby opisać moje uczucia. (Não há palavras que possam descrever meus sentimentos.)
 - [ ] Dzień 177 - Chcę być z Tobą na zawsze. (Quero estar com você para sempre.)
 
 - [ ] Dzień 178 - Twój dotyk sprawia, że czuję się bezpieczny/bezpieczna. (Seu toque me faz sentir seguro/segura.)
