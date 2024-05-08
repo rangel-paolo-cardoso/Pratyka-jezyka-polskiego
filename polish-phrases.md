@@ -193,7 +193,7 @@
 - [x] Dzień 177 - Chcę być z Tobą na zawsze. (Quero estar com você para sempre.)
 - [x] Dzień 178 - Twój dotyk sprawia, że czuję się bezpieczny/bezpieczna. (Seu toque me faz sentir seguro/segura.)
 - [x] Dzień 179 - Jesteś dla mnie najpiękniejszą osobą na świecie. (Você é a pessoa mais bonita do mundo para mim.)
-- [ ] Dzień 180 - Zawsze będę Cię kochać. (Sempre vou te amar.)
+- [x] Dzień 180 - Zawsze będę Cię kochać. (Sempre vou te amar.)
 - [ ] Dzień 181 - Przez Ciebie czuję się szczęśliwy/szczęśliwa. (Por sua causa, me sinto feliz.)
 - [ ] Dzień 182 - Nasza miłość jest jak bajka. (Nosso amor é como um conto de fadas.)
 - [ ] Dzień 183 - Jesteś moim przeznaczeniem. (Você é o meu destino.)
