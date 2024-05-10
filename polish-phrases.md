@@ -195,7 +195,7 @@
 - [x] Dzień 179 - Jesteś dla mnie najpiękniejszą osobą na świecie. (Você é a pessoa mais bonita do mundo para mim.)
 - [x] Dzień 180 - Zawsze będę Cię kochać. (Sempre vou te amar.)
 - [x] Dzień 181 - Przez Ciebie czuję się szczęśliwy/szczęśliwa. (Por sua causa, me sinto feliz.)
-- [ ] Dzień 182 - Nasza miłość jest jak bajka. (Nosso amor é como um conto de fadas.)
+- [x] Dzień 182 - Nasza miłość jest jak bajka. (Nosso amor é como um conto de fadas.)
 - [ ] Dzień 183 - Jesteś moim przeznaczeniem. (Você é o meu destino.)
 - [ ] Dzień 184 - W Twoich oczach widzę cały świat. (Nos seus olhos, vejo o mundo inteiro.)
 - [ ] Dzień 185 - Zawsze będę troszczyć się o Ciebie. (Sempre cuidarei de você.)
