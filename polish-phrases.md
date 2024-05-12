@@ -198,5 +198,5 @@
 - [x] Dzień 182 - Nasza miłość jest jak bajka. (Nosso amor é como um conto de fadas.)
 - [x] Dzień 183 - Jesteś moim przeznaczeniem. (Você é o meu destino.)
 - [x] Dzień 184 - Zawsze będę troszczyć się o Ciebie. (Sempre cuidarei de você.)
-- [ ] Dzień 185 - Jesteś moją największą radością. (Você é minha maior alegria.)
+- [x] Dzień 185 - Jesteś moją największą radością. (Você é minha maior alegria.)
 - [ ] Dzień 186 - Bez Ciebie nie wyobrażam sobie życia. (Não consigo imaginar a vida sem você.)
