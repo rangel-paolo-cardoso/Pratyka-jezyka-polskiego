@@ -199,4 +199,4 @@
 - [x] Dzień 183 - Jesteś moim przeznaczeniem. (Você é o meu destino.)
 - [x] Dzień 184 - Zawsze będę troszczyć się o Ciebie. (Sempre cuidarei de você.)
 - [x] Dzień 185 - Jesteś moją największą radością. (Você é minha maior alegria.)
-- [ ] Dzień 186 - Bez Ciebie nie wyobrażam sobie życia. (Não consigo imaginar a vida sem você.)
+- [x] Dzień 186 - Bez Ciebie nie wyobrażam sobie życia. (Não consigo imaginar a vida sem você.)
