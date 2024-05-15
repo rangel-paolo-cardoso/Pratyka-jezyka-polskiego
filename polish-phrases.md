@@ -200,3 +200,21 @@
 - [x] Dzień 184 - Zawsze będę troszczyć się o Ciebie. (Sempre cuidarei de você.)
 - [x] Dzień 185 - Jesteś moją największą radością. (Você é minha maior alegria.)
 - [x] Dzień 186 - Bez Ciebie nie wyobrażam sobie życia. (Não consigo imaginar a vida sem você.)
+- [x] Dzień 187 - Awokado. (Abacate.)
+  - Awokado to doskonały dodatek do kanapek, sałatek i potraw kuchni meksykańskiej. (O abacate é um complemento perfeito para sanduíches, saladas e pratos da culinária mexicana.)
+  - Uwielbiam smak awokado na chlebie razowym z odrobiną soli i pieprzu. (Eu adoro o sabor do abacate em pão integral com um pouco de sal e pimenta.)
+  - Awokado jest bogatym źródłem zdrowych tłuszczów, które korzystnie wpływają na serce. (O abacate é uma rica fonte de gorduras saudáveis, que têm um efeito benéfico sobre o coração.)
+  - Zawsze mam awokado na śniadanie, dodając je do kanapek z jajkiem sadzonym. (Sempre tenho abacate no café da manhã, adicionando-o às torradas com ovo mexido.)
+  - W letnie dni nic nie smakuje tak dobrze jak chłodny koktajl awokado z mlekiem migdałowym. (Nos dias de verão, nada sabe tão bem quanto um smoothie gelado de abacate com leite de amêndoas.)
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
+- [] Dzień 187 -
