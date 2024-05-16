@@ -206,7 +206,12 @@
   - Awokado jest bogatym źródłem zdrowych tłuszczów, które korzystnie wpływają na serce. (O abacate é uma rica fonte de gorduras saudáveis, que têm um efeito benéfico sobre o coração.)
   - Zawsze mam awokado na śniadanie, dodając je do kanapek z jajkiem sadzonym. (Sempre tenho abacate no café da manhã, adicionando-o às torradas com ovo mexido.)
   - W letnie dni nic nie smakuje tak dobrze jak chłodny koktajl awokado z mlekiem migdałowym. (Nos dias de verão, nada sabe tão bem quanto um smoothie gelado de abacate com leite de amêndoas.)
-- [] Dzień 187 -
+- [x] Dzień 188 - Drzewo Awokado. (Abacateiro.)
+  - Drzewo awokado w moim ogrodzie jest moją dumą i radością, gdy obficie owocuje. (O abacateiro no meu jardim é meu orgulho e alegria, especialmente quando frutifica abundantemente.)
+  - Widziałem wielkie drzewo awokado w ogrodzie botanicznym, które imponowało swoją wysokością i obfitością owoców.(Vi um grande abacateiro no jardim botânico, que impressionava com sua altura e abundância de frutas.)
+  - Planuję zasadzić drzewo awokado w moim podwórku, aby mieć własne świeże owoce do spożycia. (Estou planejando plantar um abacateiro no meu quintal para ter minhas próprias frutas frescas para consumo.)
+  - Moja babcia ma stary, ale piękny sad z drzewami awokado, gdzie spędza czas opiekując się nimi. (Minha avó tem um pomar antigo, mas bonito, de abacateiros, onde passa o tempo cuidando deles.)
+  - Drzewo awokado w parku miejskim jest ulubionym miejscem odpoczynku dla wielu ludzi, którzy cieszą się jego cieniem i owocami. (O abacateiro no parque da cidade é um local de descanso favorito para muitas pessoas, que apreciam sua sombra e frutas.)
 - [] Dzień 187 -
 - [] Dzień 187 -
 - [] Dzień 187 -
