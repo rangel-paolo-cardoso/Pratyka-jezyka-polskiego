@@ -212,14 +212,24 @@
   - Planuję zasadzić drzewo awokado w moim podwórku, aby mieć własne świeże owoce do spożycia. (Estou planejando plantar um abacateiro no meu quintal para ter minhas próprias frutas frescas para consumo.)
   - Moja babcia ma stary, ale piękny sad z drzewami awokado, gdzie spędza czas opiekując się nimi. (Minha avó tem um pomar antigo, mas bonito, de abacateiros, onde passa o tempo cuidando deles.)
   - Drzewo awokado w parku miejskim jest ulubionym miejscem odpoczynku dla wielu ludzi, którzy cieszą się jego cieniem i owocami. (O abacateiro no parque da cidade é um local de descanso favorito para muitas pessoas, que apreciam sua sombra e frutas.)
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
-- [] Dzień 187 -
+- [x] Dzień 189 - Ananas. (Abacaxi.)
+  - Ananas to owoc, który idealnie nadaje się do sałatek owocowych, dodając im wyjątkowego smaku. (O abacaxi é uma fruta que se encaixa perfeitamente nas saladas de frutas, adicionando um sabor único.)
+  - W czasie wakacji w tropikach, codziennie jadłem świeżego ananasa na plaży. (Durante as férias nos trópicos, eu comia abacaxi fresco na praia todos os dias.)
+  - Planuję zrobić ciasto z ananasem na przyjęcie, ponieważ wszyscy go uwielbiają. (Estou planejando fazer um bolo de abacaxi para a festa, porque todos adoram.)
+  - Sok ananasowy to mój ulubiony napój na upalne dni, jest orzeźwiający i zdrowy. (Suco de abacaxi é minha bebida favorita nos dias quentes, é refrescante e saudável.)
+  - Kiedy byłem dzieckiem, ananas był rzadkim przysmakiem, który zawsze mnie cieszył. (Quando eu era criança, o abacaxi era uma iguaria rara que sempre me alegrava.)
+- [x] Dzień 190 - (Abade.)
+  - Abade prowadził wspólnotę mnichów w klasztorze przez wiele lat, zyskując szacunek i uznanie. (O abade liderou a comunidade de monges no mosteiro por muitos anos, ganhando respeito e reconhecimento.)
+  - W średniowieczu, abade miał nie tylko duchową, ale także administracyjną władzę nad klasztorem. (Na Idade Média, o abade tinha não apenas autoridade espiritual, mas também administrativa sobre o mosteiro.)
+  - Abade zawsze dbał o to, aby każdy mnich w klasztorze czuł się wysłuchany i wspierany. (O abade sempre cuidou para que cada monge no mosteiro se sentisse ouvido e apoiado.)
+  - Pod przewodnictwem abada, klasztor stał się miejscem nauki i modlitwy, przyciągając wielu wiernych. (Sob a liderança do abade, o mosteiro se tornou um lugar de aprendizado e oração, atraindo muitos fiéis.)
+  - Abade napisał wiele ksiąg teologicznych, które są do dziś cenione w środowiskach akademickich. (O abade escreveu muitos livros teológicos, que são valorizados até hoje nos círculos acadêmicos.)
+- [] Dzień 189 -
+- [] Dzień 189 -
+- [] Dzień 189 -
+- [] Dzień 189 -
+- [] Dzień 189 -
+- [] Dzień 189 -
+- [] Dzień 189 -
+- [] Dzień 189 -
+- [] Dzień 189 -
