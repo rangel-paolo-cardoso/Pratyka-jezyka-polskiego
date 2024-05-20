@@ -236,7 +236,13 @@
   - W abadji prowadzi się także różne zajęcia duszpasterskie i kulturalne, służące społeczności lokalnej. (Na abadia também são realizadas várias atividades pastorais e culturais, servindo à comunidade local.)
   - W abadji, opatka kieruje wspólnotą sióstr zakonnych, dbając o duchowy i materialny rozwój klasztoru. (Na abadia, a abadessa lidera a comunidade das irmãs religiosas, cuidando do desenvolvimento espiritual e material do convento.)
 
-- [] Dzień 192 - 
+- [x] Dzień 192 - Obniżyć. (Abaixar.)
+  - Musiałem obniżyć głowę, żeby przejść pod niskim mostem. (Eu tive que abaixar a cabeça para passar por debaixo da ponte baixa.)
+  - Powinnaś obniżyć głos, aby nie przeszkadzać innym. (Você deveria abaixar a voz para não incomodar os outros.)
+  - Obniżyli temperaturę w pokoju, bo było zbyt gorąco. (Eles abaixaram a temperatura no quarto porque estava muito quente.)
+  - Aby znaleźć zagubiony klucz, musiałem obniżyć się i szukać pod łóżkiem. (Para encontrar a chave perdida, eu tive que abaixar e procurar debaixo da cama.)
+  - Kiedy wiatr zaczął wiać mocniej, obniżyliśmy żagle, aby uniknąć przewrócenia łodzi. (Quando o vento começou a soprar mais forte, abaixamos as velas para evitar que o barco virasse.)
+
 - [] Dzień 193 - 
 - [] Dzień 194 - 
 - [] Dzień 195 - 
