@@ -243,7 +243,13 @@
   - Aby znaleźć zagubiony klucz, musiałem obniżyć się i szukać pod łóżkiem. (Para encontrar a chave perdida, eu tive que abaixar e procurar debaixo da cama.)
   - Kiedy wiatr zaczął wiać mocniej, obniżyliśmy żagle, aby uniknąć przewrócenia łodzi. (Quando o vento começou a soprar mais forte, abaixamos as velas para evitar que o barco virasse.)
 
-- [] Dzień 193 - 
+- [x] Dzień 193 - Lampka. (Abajur.)
+  - Kupiłam nową lampkę do sypialni, która daje miękkie, ciepłe światło. (Comprei um novo abajur para o quarto, que emite uma luz suave e quente.)
+  - Mój brat zainstalował lampkę na biurku, żeby mieć lepsze oświetlenie podczas nauki. (Meu irmão instalou um abajur na mesa de estudo para ter uma melhor iluminação enquanto estuda.)
+  - Ta lampka jest idealna do czytania w nocy, nie przeszkadzając innym w pokoju. (Este abajur é ideal para ler à noite, sem incomodar os outros no quarto.)
+  - Podarowałem mojej dziewczynie piękną lampkę jako prezent na urodziny. (Dei à minha namorada um lindo abajur como presente de aniversário.)
+  - Lubię zapalać lampkę wieczorem, kiedy odpoczywam po ciężkim dniu pracy. (Gosto de acender o abajur à noite, quando descanso após um dia de trabalho árduo.)
+
 - [] Dzień 194 - 
 - [] Dzień 195 - 
 - [] Dzień 196 - 
