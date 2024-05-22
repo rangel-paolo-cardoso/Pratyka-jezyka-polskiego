@@ -250,7 +250,14 @@
   - Podarowałem mojej dziewczynie piękną lampkę jako prezent na urodziny. (Dei à minha namorada um lindo abajur como presente de aniversário.)
   - Lubię zapalać lampkę wieczorem, kiedy odpoczywam po ciężkim dniu pracy. (Gosto de acender o abajur à noite, quando descanso após um dia de trabalho árduo.)
 
-- [] Dzień 194 - 
+- [x] Dzień 194 - Potrząsnąć. (Abalar.)
+  - Wiadomość o wypadku mocno mną wstrząsnęła. (A notícia do acidente me abalou profundamente.)
+  - Twoje słowa nie powinny mnie dotknąć, ale jednak mnie poruszyły. (Suas palavras não deveriam me abalar, mas mesmo assim, me afetaram.)
+  - To wydarzenie wstrząsnęło całym moim światem. (Esse evento abalou todo o meu mundo.)
+  - Pomimo trudności, nie pozwolę, aby to mnie zachwiało. (Apesar das dificuldades, não permitirei que isso me abale.)
+  - Jej nagłe odejście wstrząsnęło całą rodziną. (A partida repentina dela abalou toda a família.)
+  
+Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 195 - 
 - [] Dzień 196 - 
 - [] Dzień 197 - 
