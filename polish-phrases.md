@@ -258,7 +258,7 @@
   - Jej nagłe odejście wstrząsnęło całą rodziną. (A partida repentina dela abalou toda a família.)
   
 
-- [x] Dzień 195 -  (Abalo.)
+- [x] Dzień 195 -  Wstrząs, Szok...(Abalo.)
   - Wczoraj wieczorem w Afryce Północnej miał miejsce poważny wstrząs sejsmiczny. (Em grande abalo sísmico ocorreu ontem à noite no norte da África.)
 
   - Szok, który miał miejsce dzisiejszego popołudnia w Japonii, był odczuwalny w Europie i całej Ameryce. (O abalo que ocorreu no Japão hoje à tarde foi sentido na Europa e em toda a América.)
@@ -269,8 +269,14 @@
 
   - W wyniku ostatniego trzęsienia ziemi wystąpiły poważne wstrząsy w całym regionie. (Como resultado do último terremoto, ocorreram sérios abalos em toda a região.)
 
-  Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 196 - 
+- [x] Dzień 196 - Wachlować. (Abanas.)
+  - Podczas upałów ludzie często wachlują się, aby się ochłodzić. (Durante os dias quentes, as pessoas frequentemente se abanam para se refrescar.)
+  - Kiedy zobaczyłem psa merdającego ogonem, wiedziałem, że jest szczęśliwy. (Quando vi o cachorro abanando o rabo, sabia que ele estava feliz.)
+  - Dziecko machało ręką, aby przyciągnąć uwagę rodziców. (A criança estava abanando a mão para chamar a atenção dos pais.)
+  - Strażacy wachlowali dym, aby zobaczyć, gdzie jest ogień. (Os bombeiros abanavam a fumaça para ver onde estava o fogo.)
+  - Starszy pan wachlował gazetą, próbując się ochłodzić. (O senhor abanava com o jornal, tentando se refrescar.)
+
+Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 197 - 
 - [] Dzień 198 - 
 - [] Dzień 199 - 
