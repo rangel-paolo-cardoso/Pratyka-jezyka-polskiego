@@ -257,8 +257,19 @@
   - Pomimo trudności, nie pozwolę, aby to mnie zachwiało. (Apesar das dificuldades, não permitirei que isso me abale.)
   - Jej nagłe odejście wstrząsnęło całą rodziną. (A partida repentina dela abalou toda a família.)
   
-Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 195 - 
+
+- [x] Dzień 195 -  (Abalo.)
+  - Wczoraj wieczorem w Afryce Północnej miał miejsce poważny wstrząs sejsmiczny. (Em grande abalo sísmico ocorreu ontem à noite no norte da África.)
+
+  - Szok, który miał miejsce dzisiejszego popołudnia w Japonii, był odczuwalny w Europie i całej Ameryce. (O abalo que ocorreu no Japão hoje à tarde foi sentido na Europa e em toda a América.)
+
+  - Wstrząśnienia mózgu mogą być siłami natury, ale reprezentują także brak równowagi emocjonalnej. (Abalos podem ser forças da natureza, mas também representam um desequilíbrio emocional.)
+
+  - Po wielkim wstrząsie, miasto zaczęło się odbudowywać. (Após o grande abalo, a cidade começou a se reconstruir.)
+
+  - W wyniku ostatniego trzęsienia ziemi wystąpiły poważne wstrząsy w całym regionie. (Como resultado do último terremoto, ocorreram sérios abalos em toda a região.)
+
+  Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 196 - 
 - [] Dzień 197 - 
 - [] Dzień 198 - 
