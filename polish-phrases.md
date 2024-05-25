@@ -276,8 +276,14 @@
   - Strażacy wachlowali dym, aby zobaczyć, gdzie jest ogień. (Os bombeiros abanavam a fumaça para ver onde estava o fogo.)
   - Starszy pan wachlował gazetą, próbując się ochłodzić. (O senhor abanava com o jornal, tentando se refrescar.)
 
+- [x] Dzień 197 - Usiąść. (Abancar.)
+  - Po długim spacerze, postanowiliśmy usiąść na ławce w parku i odpocząć. (Depois de uma longa caminhada, decidimos nos abancar em um banco no parque e descansar.)
+  - Dzieci usiadły na ławkach wokół ogniska, śpiewając piosenki. (As crianças se abancaram nos bancos ao redor da fogueira, cantando músicas.)
+  - W kawiarni usiadłem przy stoliku blisko okna, aby podziwiać widok. (No café, me abanquei em uma mesa perto da janela para admirar a vista.)
+  - Podczas przerwy w pracy, pracownicy usiadli na ławkach na dziedzińcu. (Durante o intervalo no trabalho, os funcionários se abancaram nos bancos do pátio.)
+  - Starszy pan usiadł na ławce przed domem, aby odpocząć i cieszyć się słońcem. (O senhor se abancou em um banco em frente à casa para descansar e aproveitar o sol.)
+
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 197 - 
 - [] Dzień 198 - 
 - [] Dzień 199 - 
 - [] Dzień 200 - 
