@@ -283,8 +283,14 @@
   - Podczas przerwy w pracy, pracownicy usiadli na ławkach na dziedzińcu. (Durante o intervalo no trabalho, os funcionários se abancaram nos bancos do pátio.)
   - Starszy pan usiadł na ławce przed domem, aby odpocząć i cieszyć się słońcem. (O senhor se abancou em um banco em frente à casa para descansar e aproveitar o sol.)
 
+- [x] Dzień 198 - Gromadzić się. (Abandar.)
+  - Ptaki zaczęły się gromadzić na drzewach, tworząc głośny chór. (Os pássaros começaram a abandar nas árvores, formando um coro barulhento.)
+  - Młodzież często gromadzi się na placu, aby spędzać razem czas i rozmawiać. (Os jovens frequentemente abandam-se na praça para passar o tempo juntos e conversar.)
+  - Wilki zgromadziły się wokół swojej zdobyczy, gotowe do jedzenia. (Os lobos abandaram-se ao redor de sua presa, prontos para comer.)
+  - Ludzie gromadzą się przed teatrem, czekając na rozpoczęcie przedstawienia. (As pessoas abandam-se em frente ao teatro, esperando o início da peça.)
+  - Dzieci gromadzą się na placu zabaw, ciesząc się wspólną zabawą. (As crianças abandam-se no playground, aproveitando a brincadeira em conjunto.)
+
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 198 - 
 - [] Dzień 199 - 
 - [] Dzień 200 - 
 - [] Dzień 201 - 
