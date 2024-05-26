@@ -290,8 +290,15 @@
   - Ludzie gromadzą się przed teatrem, czekając na rozpoczęcie przedstawienia. (As pessoas abandam-se em frente ao teatro, esperando o início da peça.)
   - Dzieci gromadzą się na placu zabaw, ciesząc się wspólną zabawą. (As crianças abandam-se no playground, aproveitando a brincadeira em conjunto.)
 
+- [x] Dzień 199 - Porzucać, Opuścić, Zostawiać, Porzucić... (Abandonar.)
+  - Nigdy cię nie opuszczę, zawsze będę przy tobie. (Nunca vou te abandonar, sempre estarei ao seu lado.)
+  - On musiał porzucić swoje marzenia, aby zająć się rodziną. (Ele teve que abandonar seus sonhos para cuidar da família.)
+  - Nie zostawiaj mnie tutaj samego/samą, proszę! (Não me abandone aqui sozinho/sozinha, por favor!)
+  - Po wojnie wiele osób musiało opuścić swoje domy i szukać schronienia gdzie indziej. (Após a guerra, muitas pessoas tiveram que abandonar suas casas e buscar refúgio em outro lugar.)
+  - Nigdy nie porzucaj nadziei, bez względu na to, jak trudna jest sytuacja. (Nunca abandone a esperança, não importa quão difícil seja a situação.)
+
+Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 199 - 
 - [] Dzień 200 - 
 - [] Dzień 201 - 
 - [] Dzień 202 - 
