@@ -297,9 +297,15 @@
   - Po wojnie wiele osób musiało opuścić swoje domy i szukać schronienia gdzie indziej. (Após a guerra, muitas pessoas tiveram que abandonar suas casas e buscar refúgio em outro lugar.)
   - Nigdy nie porzucaj nadziei, bez względu na to, jak trudna jest sytuacja. (Nunca abandone a esperança, não importa quão difícil seja a situação.)
 
+- [x] Dzień 200 - Porzucenia, Zaniedbanie, Opuszczenie, Abandon... (Abandono.)
+  - Uczucie porzucenia może być bardzo bolesne dla dziecka. (O sentimento de abandono pode ser muito doloroso para uma criança.)
+  - Po latach zaniedbania, dom wyglądał na całkowicie opuszczony. (Após anos de abandono, a casa parecia completamente deserta.)
+  - Czuł smutek z powodu opuszczenia przez przyjaciół. (Ele sentia tristeza pelo abandono dos amigos.)
+  - Abandonowanie marzeń może prowadzić do uczucia niezadowolenia. (O abandono dos sonhos pode levar a um sentimento de insatisfação.)
+  - Była przerażona, myśląc o samotności i opuszczeniu. (Ela estava aterrorizada ao pensar na solidão e no abandono.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 200 - 
 - [] Dzień 201 - 
 - [] Dzień 202 - 
 - [] Dzień 203 - 
