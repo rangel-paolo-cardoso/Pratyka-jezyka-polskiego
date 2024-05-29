@@ -304,9 +304,15 @@
   - Abandonowanie marzeń może prowadzić do uczucia niezadowolenia. (O abandono dos sonhos pode levar a um sentimento de insatisfação.)
   - Była przerażona, myśląc o samotności i opuszczeniu. (Ela estava aterrorizada ao pensar na solidão e no abandono.)
 
+- [x] Dzień 201 - Wachlarz, Wentylator, Abanico... (Abano.)
+  - Delikatny powiew wachlarza przyniósł jej ulgę w gorący dzień. (O suave abano do leque trouxe-lhe alívio em um dia quente.)
+  - Podczas spektaklu aktorka używała wachlarza jako rekwizytu. (Durante a peça, a atriz usava um abano como adereço.)
+  - Wachlarz z piór stał się popularnym akcesorium wśród dam na dworze królewskim. (O abano de penas tornou-se um acessório popular entre as damas na corte real.)
+  - Starsza pani siedziała na werandzie, powoli wachlując się. (A senhora idosa estava sentada na varanda, abanando-se lentamente.)
+  - Przez okno widać było dziecko machające małym wachlarzem. (Pela janela, via-se uma criança abanando-se com um pequeno leque.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 201 - 
 - [] Dzień 202 - 
 - [] Dzień 203 - 
 - [] Dzień 204 - 
