@@ -311,9 +311,16 @@
   - Starsza pani siedziała na werandzie, powoli wachlując się. (A senhora idosa estava sentada na varanda, abanando-se lentamente.)
   - Przez okno widać było dziecko machające małym wachlarzem. (Pela janela, via-se uma criança abanando-se com um pequeno leque.)
 
+- [x] Dzień 202 - Obejmować, Zawierać...
+  (Abarcar.)
+  - Moja praca obejmuje wiele różnych zadań, od zarządzania po codzienne operacje. (Meu trabalho abarca várias tarefas diferentes, desde a gestão até as operações diárias.)
+  - Nowy projekt ma na celu objęcie wszystkich aspektów produkcji i dystrybucji. (O novo projeto visa abarcar todos os aspectos da produção e distribuição.)
+  - Jej wiedza obejmuje szeroki zakres tematów, od historii po współczesne technologie. (O conhecimento dela abarca uma ampla gama de tópicos, desde história até tecnologias contemporâneas.)
+  - Chcemy, aby nasze działania objęły wszystkie regiony kraju, aby nikt nie został pominięty. (Queremos que nossas ações abarquem todas as regiões do país, para que ninguém seja deixado de fora.)
+  - Nasza firma stara się objąć rynek międzynarodowy, oferując produkty na całym świecie. (Nossa empresa está tentando abarcar o mercado internacional, oferecendo produtos em todo o mundo.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 202 - 
 - [] Dzień 203 - 
 - [] Dzień 204 - 
 - [] Dzień 205 - 
