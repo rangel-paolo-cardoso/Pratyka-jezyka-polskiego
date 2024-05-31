@@ -319,9 +319,15 @@
   - Chcemy, aby nasze działania objęły wszystkie regiony kraju, aby nikt nie został pominięty. (Queremos que nossas ações abarquem todas as regiões do país, para que ninguém seja deixado de fora.)
   - Nasza firma stara się objąć rynek międzynarodowy, oferując produkty na całym świecie. (Nossa empresa está tentando abarcar o mercado internacional, oferecendo produtos em todo o mundo.)
 
+- [x] Dzień 203 - Kończyć. (Abastar.)
+  - Na dzisiaj kończę ćwiczenia, już dużo ćwiczyłem. (Vou abastar de exercícios por hoje, já malhei muito.)
+  - Skończmy na dzisiaj, wyprodukowaliśmy już dużo ropy. (Vamos abastar por hoje, já produzimos muito petróleo.)
+  - Przyjdzie czas na uzupełnienie, kiedy nie będę już tolerować tej sytuacji. (Chegará o momento de abastar, onde não aguentarei mais essa situação.)
+  - Gdy osiągniemy nasz cel, możemy wreszcie odpocząć i skończyć pracę. (Quando atingirmos nosso objetivo, podemos finalmente abastar e terminar o trabalho.)
+  - Po długim dniu pracy, muszę się w końcu zatrzymać i przestać. (Após um longo dia de trabalho, preciso finalmente abastar e parar.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 203 - 
 - [] Dzień 204 - 
 - [] Dzień 205 - 
 - [] Dzień 206 - 
