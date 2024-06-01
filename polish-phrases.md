@@ -326,9 +326,15 @@
   - Gdy osiągniemy nasz cel, możemy wreszcie odpocząć i skończyć pracę. (Quando atingirmos nosso objetivo, podemos finalmente abastar e terminar o trabalho.)
   - Po długim dniu pracy, muszę się w końcu zatrzymać i przestać. (Após um longo dia de trabalho, preciso finalmente abastar e parar.)
 
+- [x] Dzień 204 - Abdykacja, Zrezygnować. (Abdicação.)
+  - Nie mam innego wyjścia niż abdykacja. (Não tenho outra opção senão a abdicação.)
+  - Zrezygnowałem / Zrezygnowałam z decyzji o zakupie nowego domu. (Eu me abdiquei da decisão de comprar uma casa nova.)
+  - Kiedy planowaliśmy wakacje, ze względu na stres zdecydowałem / zdecydowałam się zrezygnować z wyjazdu. (Quando estávamos planejando nossas férias, eu decidi me abdicar da viagem por conta do estresse.)
+  - Królowa ogłosiła swoją abdykację z powodu problemów zdrowotnych. (A rainha anunciou sua abdicação devido a problemas de saúde.)
+  - Moja abdykacja z roli lidera była nieunikniona po tym wszystkim, co się stało. (Minha abdicação do papel de líder foi inevitável após tudo o que aconteceu.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 204 - 
 - [] Dzień 205 - 
 - [] Dzień 206 - 
 - [] Dzień 207 - 
