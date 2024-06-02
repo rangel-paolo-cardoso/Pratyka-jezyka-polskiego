@@ -333,9 +333,15 @@
   - Królowa ogłosiła swoją abdykację z powodu problemów zdrowotnych. (A rainha anunciou sua abdicação devido a problemas de saúde.)
   - Moja abdykacja z roli lidera była nieunikniona po tym wszystkim, co się stało. (Minha abdicação do papel de líder foi inevitável após tudo o que aconteceu.)
 
+- [x] Dzień 205 - Abdykować, Zrezygnować, Ustępować. (Abdicar.)
+  - Niedawno zostałem prezesem firmy, ale chcę ustąpić, nie podoba mi się to stanowisko. (Recentemente me tornei presidente da empresa, mas quero abdicar, não gosto do cargo.)
+  - Jako osoba odpowiedzialna za tę sytuację abdykuję, aby uniknąć dalszych strat. Dojrzały człowiek musi postępować właściwie. (Como responsável por essa situação, vou abdicar para evitar maiores prejuízos. Uma pessoa madura precisa fazer a coisa certa.)
+  - Jeśli to nie przyniesie korzyści, lepiej z tego zrezygnować. (Se isso não vai trazer benefícios, melhor abdicar.)
+  - Po wielu przemyśleniach postanowiłam zrezygnować z mojej roli lidera zespołu. (Depois de muita reflexão, decidi abdicar do meu papel de líder da equipe.)
+  - Król zdecydował się abdykować na rzecz swojego syna, aby zapewnić stabilność królestwu. (O rei decidiu abdicar em favor de seu filho para garantir a estabilidade do reino.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 205 - 
 - [] Dzień 206 - 
 - [] Dzień 207 - 
 - [] Dzień 208 - 
