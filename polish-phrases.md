@@ -334,15 +334,21 @@
   - Moja abdykacja z roli lidera była nieunikniona po tym wszystkim, co się stało. (Minha abdicação do papel de líder foi inevitável após tudo o que aconteceu.)
 
 - [x] Dzień 205 - Abdykować, Zrezygnować, Ustępować. (Abdicar.)
-  - Niedawno zostałem prezesem firmy, ale chcę ustąpić, nie podoba mi się to stanowisko. (Recentemente me tornei presidente da empresa, mas quero abdicar, não gosto do cargo.)
+  - Niedawno zostałem / zostałam prezesem / prezeską firmy, ale chcę ustąpić, nie podoba mi się to stanowisko. (Recentemente me tornei presidente da empresa, mas quero abdicar, não gosto do cargo.)
   - Jako osoba odpowiedzialna za tę sytuację abdykuję, aby uniknąć dalszych strat. Dojrzały człowiek musi postępować właściwie. (Como responsável por essa situação, vou abdicar para evitar maiores prejuízos. Uma pessoa madura precisa fazer a coisa certa.)
   - Jeśli to nie przyniesie korzyści, lepiej z tego zrezygnować. (Se isso não vai trazer benefícios, melhor abdicar.)
-  - Po wielu przemyśleniach postanowiłam zrezygnować z mojej roli lidera zespołu. (Depois de muita reflexão, decidi abdicar do meu papel de líder da equipe.)
+  - Po wielu przemyśleniach postanowiłem / postanowiłam zrezygnować z mojej roli lidera zespołu. (Depois de muita reflexão, decidi abdicar do meu papel de líder da equipe.)
   - Król zdecydował się abdykować na rzecz swojego syna, aby zapewnić stabilność królestwu. (O rei decidiu abdicar em favor de seu filho para garantir a estabilidade do reino.)
+
+- [x] Dzień 206 - Brzuch. (Abdômen.)
+  - Pracuję nad wzmocnieniem mojego brzucha, wykonując codzienne ćwiczenia. (Estou trabalhando para fortalecer meu abdômen, fazendo exercícios diários.)
+  - Musiałem / Musiałam zrobić USG brzucha, aby lekarz mógł postawić diagnozę. (Tive que fazer um ultrassom do abdômen para que o médico pudesse fazer um diagnóstico.)
+  - Ból brzucha może być spowodowany wieloma różnymi czynnikami, w tym stresem. (A dor no abdômen pode ser causada por vários fatores diferentes, incluindo estresse.)
+  - Przed zawodami sportowymi skupiłem / skupiłam się na treningu mięśni brzucha. (Antes da competição esportiva, eu me concentrei no treino dos músculos do abdômen.)
+  - Zdrowa dieta jest kluczowa dla utrzymania zdefiniowanego i pięknego brzucha. (Uma dieta saudável é fundamental para manter o abdômen definido e bonito.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 206 - 
 - [] Dzień 207 - 
 - [] Dzień 208 - 
 - [] Dzień 209 - 
