@@ -347,9 +347,15 @@
   - Przed zawodami sportowymi skupiłem / skupiłam się na treningu mięśni brzucha. (Antes da competição esportiva, eu me concentrei no treino dos músculos do abdômen.)
   - Zdrowa dieta jest kluczowa dla utrzymania zdefiniowanego i pięknego brzucha. (Uma dieta saudável é fundamental para manter o abdômen definido e bonito.)
 
+- [x] Dzień 207 - Alfabet. (Abecedário / Alfabeto.)
+  - Uczyłem / Uczyłam się alfabetu, kiedy miałem / miałam pięć lat. (Eu aprendi o abecedário quando tinha cinco anos.)
+  - Nauczycielka pokazała nam nowe słowa z alfabetu. (A professora nos mostrou novas palavras do abecedário.)
+  - Pisanie listów w porządku alfabetycznym jest bardzo ważne. (Escrever cartas em ordem alfabética é muito importante.)
+  - Alfabet to podstawa każdego języka, warto go dobrze znać. (O abecedário é a base de qualquer idioma, vale a pena conhecê-lo bem.)
+  - Czytałem / Czytałam książkę o historii alfabetu. (Eu li um livro sobre a história do abecedário.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 207 - 
 - [] Dzień 208 - 
 - [] Dzień 209 - 
 - [] Dzień 210 - 
