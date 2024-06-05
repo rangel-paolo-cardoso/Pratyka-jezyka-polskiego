@@ -354,9 +354,15 @@
   - Alfabet to podstawa każdego języka, warto go dobrze znać. (O abecedário é a base de qualquer idioma, vale a pena conhecê-lo bem.)
   - Czytałem / Czytałam książkę o historii alfabetu. (Eu li um livro sobre a história do abecedário.)
 
+- [x] Dzień 208 - Pszczoła. (Abelha.)
+  - Pszczoły są niezwykle istotne dla ekosystemu, ponieważ zapylają kwiaty. (As abelhas são extremamente importantes para o ecossistema, pois polinizam as flores.)
+  - Mój przyjaciel jest pszczelarzem i opiekuje się setkami pszczół. (Meu amigo é apicultor e cuida de centenas de abelhas.)
+  - W dzieciństwie bałem / bałam się pszczół, ale teraz doceniam ich rolę w przyrodzie. (Na infância, eu tinha medo das abelhas, mas agora aprecio seu papel na natureza.)
+  - Pszczoły są znane z produkcji miodu, który jest bardzo zdrowy. (As abelhas são conhecidas por produzirem mel, que é muito saudável.)
+  - Widziałem / Widziałam piękną pszczołę na kwiatku podczas spaceru w parku. (Eu vi uma abelha bonita em uma flor durante uma caminhada no parque.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 208 - 
 - [] Dzień 209 - 
 - [] Dzień 210 - 
 - [] Dzień 211 - 
