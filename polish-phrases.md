@@ -361,9 +361,15 @@
   - Pszczoły są znane z produkcji miodu, który jest bardzo zdrowy. (As abelhas são conhecidas por produzirem mel, que é muito saudável.)
   - Widziałem / Widziałam piękną pszczołę na kwiatku podczas spaceru w parku. (Eu vi uma abelha bonita em uma flor durante uma caminhada no parque.)
 
+- [x] Dzień 209 - Błogosławić. (Abençoar.)
+  - Chcę, aby ksiądz pobłogosławił moje małżeństwo, aby było pełne miłości i harmonii. (Quero que o padre abençoe meu casamento para que seja cheio de amor e harmonia.)
+  - Moja babcia zawsze mówi, że błogosławieństwo rodziny jest najważniejsze. (Minha avó sempre diz que a bênção da família é a mais importante.)
+  - Błogosławię mojego syna każdego dnia, aby miał bezpieczne i szczęśliwe życie. (Abençoo meu filho todos os dias para que ele tenha uma vida segura e feliz.)
+  - Błogosławiłem / Błogosławiłam moje dzieci przed podróżą, aby wróciły zdrowe i bezpieczne. (Abençoei meus filhos antes da viagem para que voltassem saudáveis e seguros.)
+  - Kapłan pobłogosławił całą naszą rodzinę, przynosząc pokój do naszego domu. (O sacerdote abençoou toda a nossa família, trazendo paz para nossa casa.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 209 - 
 - [] Dzień 210 - 
 - [] Dzień 211 - 
 - [] Dzień 212 - 
