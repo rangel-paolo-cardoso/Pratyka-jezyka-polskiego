@@ -368,19 +368,85 @@
   - Błogosławiłem / Błogosławiłam moje dzieci przed podróżą, aby wróciły zdrowe i bezpieczne. (Abençoei meus filhos antes da viagem para que voltassem saudáveis e seguros.)
   - Kapłan pobłogosławił całą naszą rodzinę, przynosząc pokój do naszego domu. (O sacerdote abençoou toda a nossa família, trazendo paz para nossa casa.)
 
+- [x] Dzień 210 - Aberracja. (Aberração.)
+  - Spacerowałem / Spacerowałam po plaży, kiedy zobaczyłem dziwne zwierzę, wyglądało to jak aberracja. (Eu estava caminhando na praia quando vi um bicho estranho, parecia uma aberração.)
+  - W przeszłości osoby cierpiące na jakiś rodzaj niepełnosprawności uważano za aberracje. (Antigamente as pessoas que tinham algum tipo de deficiência eram consideradas aberrações.)
+  - W historii ludzkości istnieje wiele mitów na temat dziwaków, które terroryzowały ludność. (Na história da humanidade, existem muitos mitos sobre aberrações que aterrorizavam a população.)
+  - W lesie natknąłem / natknąłam się na dziwne zjawisko, wyglądało to jak aberracja natury. (Na floresta, deparei-me (me deparei) com um fenômeno estranho, parecia uma aberração da natureza.)
+  - Ludzie często uważają, że pewne zachowania społeczne są aberracją od normy. (As pessoas frequentemente consideram que certos comportamentos sociais são uma aberração da norma.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 210 - 
 - [] Dzień 211 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 212 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 213 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 214 - 
-- [] Dzień 215 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+- [] Dzień 215 -
+  - 
+  - 
+  - 
+  - 
+  - 
+ 
 - [] Dzień 216 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 217 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 218 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 219 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 220 - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
 - [] Dzień 221 - 
 - [] Dzień 222 - 
 - [] Dzień 223 - 
