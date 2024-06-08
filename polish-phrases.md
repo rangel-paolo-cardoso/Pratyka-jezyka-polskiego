@@ -256,17 +256,12 @@
   - To wydarzenie wstrząsnęło całym moim światem. (Esse evento abalou todo o meu mundo.)
   - Pomimo trudności, nie pozwolę, aby to mnie zachwiało. (Apesar das dificuldades, não permitirei que isso me abale.)
   - Jej nagłe odejście wstrząsnęło całą rodziną. (A partida repentina dela abalou toda a família.)
-  
 
 - [x] Dzień 195 -  Wstrząs, Szok...(Abalo.)
   - Wczoraj wieczorem w Afryce Północnej miał miejsce poważny wstrząs sejsmiczny. (Em grande abalo sísmico ocorreu ontem à noite no norte da África.)
-
   - Szok, który miał miejsce dzisiejszego popołudnia w Japonii, był odczuwalny w Europie i całej Ameryce. (O abalo que ocorreu no Japão hoje à tarde foi sentido na Europa e em toda a América.)
-
   - Wstrząśnienia mózgu mogą być siłami natury, ale reprezentują także brak równowagi emocjonalnej. (Abalos podem ser forças da natureza, mas também representam um desequilíbrio emocional.)
-
   - Po wielkim wstrząsie, miasto zaczęło się odbudowywać. (Após o grande abalo, a cidade começou a se reconstruir.)
-
   - W wyniku ostatniego trzęsienia ziemi wystąpiły poważne wstrząsy w całym regionie. (Como resultado do último terremoto, ocorreram sérios abalos em toda a região.)
 
 - [x] Dzień 196 - Wachlować. (Abanas.)
@@ -375,15 +370,15 @@
   - W lesie natknąłem / natknąłam się na dziwne zjawisko, wyglądało to jak aberracja natury. (Na floresta, deparei-me (me deparei) com um fenômeno estranho, parecia uma aberração da natureza.)
   - Ludzie często uważają, że pewne zachowania społeczne są aberracją od normy. (As pessoas frequentemente consideram que certos comportamentos sociais são uma aberração da norma.)
 
+- [x] Dzień 211 - Otwarty/Otwarta/Otwarte. (Aberto/Aberta.)
+  - Wróciłem / Wróciłam dziś wieczorem do domu i zobaczyłem / zobaczyłam, że okno mojej sypialni jest otwarte. (Cheguei em casa hoje à noite e vi que a janela do meu quarto estava aberta.)
+  - Mam otwarty umysł, dzięki temu mogę więcej zrozumieć świat i ludzi w nim żyjących. (Eu tenho a mente aberta, consigo compreender mais sobre o mundo e as pessoas que nele vivem.)
+  - Po latach remontów droga do Koloseum została wreszcie otwarta. (Depois de anos de reformas, a estrada para o Coliseu finalmente foi aberta.)
+  - (Ja) Otworzyłem / Otworzyłam drzwi i zobaczyłem / zobaczyłam piękny widok na góry. ((Eu) Abri a porta e vi uma bela vista das montanhas.)
+  - Biblioteka jest otwarta codziennie od 8 (ósmej) rano do 8 (ósmej) wieczorem. (A biblioteca está aberta todos os dias das 8 (oito) da manhã (até) às 8 (oito) da noite.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 211 - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
 - [] Dzień 212 - 
   - 
   - 
