@@ -379,13 +379,15 @@
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 212 - 
-  - 
-  - 
-  - 
-  - 
-  - 
+- [] Dzień 212 - Otwarcie, Rozpoczęcie. (Abertura.)
+  - Otwarcie rachunku bieżącego w Nubanku jest całkowicie darmowe, polecam. (A abertura de conta corrente no Nubank é totalmente grátis, eu recomendo.)
+  - Rozpoczęcie roku szkolnego to ważne wydarzenie dla wszystkich uczniów. (A abertura do ano letivo é um evento importante para todos os estudantes.)
+  - Cieszę się na otwarcie nowego sezonu serialu. (Estou ansioso pela abertura da nova temporada da série.)
+  - Otwarcie konferencji było bardzo uroczyste i imponujące. (A abertura da conferência foi muito solene e impressionante.)
+  - Rozpoczęcie festiwalu muzycznego przyciągnęło tłumy fanów. (A abertura do festival de música atraiu multidões de fãs.)
 
+Witajcie, piękne i pachnące osoby!
+Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 213 - 
   - 
   - 
