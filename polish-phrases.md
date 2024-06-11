@@ -377,8 +377,6 @@
   - (Ja) Otworzyłem / Otworzyłam drzwi i zobaczyłem / zobaczyłam piękny widok na góry. ((Eu) Abri a porta e vi uma bela vista das montanhas.)
   - Biblioteka jest otwarta codziennie od 8 (ósmej) rano do 8 (ósmej) wieczorem. (A biblioteca está aberta todos os dias das 8 (oito) da manhã (até) às 8 (oito) da noite.)
 
-Witajcie, piękne i pachnące osoby!
-Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [x] Dzień 212 - Otwarcie, Rozpoczęcie. (Abertura.)
   - Otwarcie rachunku bieżącego w Nubanku jest całkowicie darmowe, polecam. (A abertura de conta corrente no Nubank é totalmente grátis, eu recomendo.)
   - Rozpoczęcie roku szkolnego to ważne wydarzenie dla wszystkich uczniów. (A abertura do ano letivo é um evento importante para todos os estudantes.)
@@ -393,15 +391,15 @@ Dziękuję wszystkim, moi drodzy, za oglądanie!
   - Nagła zmiana w zachowaniu dziecka oszałamia rodziców. (A súbita mudança no comportamento da criança abisma os pais.)
   - Piękno tego miejsca zdumiewa wszystkich, którzy tu przychodzą. (A beleza deste lugar abisma todos que aqui vêm / que vêm até aqui.)
 
+- [x] Dzień 214 - Otchłań, Przepaść. (Abismo.)
+  - Stałem / Stałam na krawędzi otchłani i patrzyłem / patrzyłam w dół. (Eu estava na beira do abismo e olhava para baixo.)
+  - Głębia przepaści była przerażająca, jakby nie miała końca. (A profundidade do abismo era assustadora, como se não tivesse fim.)
+  - Zdałem / Zdałam sobie sprawę, że moje życie jest jak otchłań pełna chaosu i niepewności. (Percebi que minha vida é como um abismo cheio de caos e incerteza.)
+  - Widok z góry na przepaść zapierał dech w piersiach. (A vista do alto do abismo era de tirar o fôlego.)
+  - Przepaść między nimi była zbyt głęboka, by mogli się porozumieć. (O abismo entre eles era profundo demais para que pudessem se entender.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 214 - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
 - [] Dzień 215 -
   - 
   - 
