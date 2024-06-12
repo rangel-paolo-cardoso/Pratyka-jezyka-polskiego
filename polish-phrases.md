@@ -400,13 +400,15 @@
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 215 -
-  - 
-  - 
-  - 
-  - 
-  - 
- 
+- [x] Dzień 215 - Wstręt, Odraza. (Abjeção.)
+  - Czułem / Czułam wstręt do jego zachowania i nie mogłem / mogłam zrozumieć, jak ktoś może być tak okrutny. (Eu senti abjeção por seu comportamento e não consegui entender como alguém pode ser tão cruel.)
+  - Jego / Jej odraza wobec niesprawiedliwości społecznej była oczywista i inspirowała wielu ludzi. (A abjeção dele / dela contra a injustiça social era evidente e inspirava muitas pessoas.)
+  - Z wstrętem patrzyłem / patrzyłam na to, co się stało, nie mogłem / mogłam uwierzyć, że ludzie mogą być tak bezwzględni. (Com abjeção, eu olhava para o que aconteceu, não podia acreditar que as pessoas pudessem ser tão impiedosas.)
+  - Przepełniał / Przepełniała mnie odraza do korupcji w polityce i pragnąłem / pragnąłam zmian. (Eu estava cheio de abjeção pela corrupção na política e ansiava por mudanças.)
+  - Jego / Jej czyny budziły we mnie wstręt i zdecydowałem / zdecydowałam się zerwać wszelkie kontakty. (Suas ações despertavam abjeção em mim e decidi cortar todos os laços.)
+
+Witajcie, piękne i pachnące osoby!
+Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 216 - 
   - 
   - 
