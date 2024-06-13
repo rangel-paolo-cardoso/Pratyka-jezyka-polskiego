@@ -407,15 +407,15 @@ Dziękuję wszystkim, moi drodzy, za oglądanie!
   - Przepełniał / Przepełniała mnie odraza do korupcji w polityce i pragnąłem / pragnąłam zmian. (Eu estava cheio de abjeção pela corrupção na política e ansiava por mudanças.)
   - Jego / Jej czyny budziły we mnie wstręt i zdecydowałem / zdecydowałam się zerwać wszelkie kontakty. (Suas ações despertavam abjeção em mim e decidi cortar todos os laços.)
 
+- [x] Dzień 216 - Dynia. (Abóbora.)
+  - Pieczenie dyni to mój ulubiony sposób na jej przygotowanie, zwłaszcza na jesieni. (Assar abóbora é o meu jeito favorito de prepará-la, especialmente no outono.)
+  - Każdego roku na Halloween wycinamy dynie i robimy z nich latarnie. (Todos os anos, no Halloween, esculpimos abóboras e fazemos lanternas com elas.)
+  - Dynia jest bogata w witaminy i minerały, co czyni ją zdrowym dodatkiem do diety. (A abóbora é rica em vitaminas e minerais, o que a torna um complemento saudável para a dieta.)
+  - Dyniowe ciasto jest tradycyjnym deserem podczas Święta Dziękczynienia w Stanach Zjednoczonych. (Torta de abóbora é uma sobremesa tradicional no Dia de Ação de Graças nos Estados Unidos.)
+  - Moja babcia zawsze robiła pyszną marmoladę z dyni, którą uwielbiałem / uwielbiałam na śniadanie. (Minha avó sempre fazia uma deliciosa marmelada de abóbora que eu adorava no café da manhã.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 216 - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
 - [] Dzień 217 - 
   - 
   - 
