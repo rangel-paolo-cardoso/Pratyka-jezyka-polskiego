@@ -398,8 +398,6 @@
   - Widok z góry na przepaść zapierał dech w piersiach. (A vista do alto do abismo era de tirar o fôlego.)
   - Przepaść między nimi była zbyt głęboka, by mogli się porozumieć. (O abismo entre eles era profundo demais para que pudessem se entender.)
 
-Witajcie, piękne i pachnące osoby!
-Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [x] Dzień 215 - Wstręt, Odraza. (Abjeção.)
   - Czułem / Czułam wstręt do jego zachowania i nie mogłem / mogłam zrozumieć, jak ktoś może być tak okrutny. (Eu senti abjeção por seu comportamento e não consegui entender como alguém pode ser tão cruel.)
   - Jego / Jej odraza wobec niesprawiedliwości społecznej była oczywista i inspirowała wielu ludzi. (A abjeção dele / dela contra a injustiça social era evidente e inspirava muitas pessoas.)
@@ -414,15 +412,15 @@ Dziękuję wszystkim, moi drodzy, za oglądanie!
   - Dyniowe ciasto jest tradycyjnym deserem podczas Święta Dziękczynienia w Stanach Zjednoczonych. (Torta de abóbora é uma sobremesa tradicional no Dia de Ação de Graças nos Estados Unidos.)
   - Moja babcia zawsze robiła pyszną marmoladę z dyni, którą uwielbiałem / uwielbiałam na śniadanie. (Minha avó sempre fazia uma deliciosa marmelada de abóbora que eu adorava no café da manhã.)
 
+- [x] Dzień 217 - Cukinia. (Abobrinha.)
+  - Pieczona cukinia z oliwą z oliwek i ziołami to świetny dodatek do obiadu. (Abobrinha assada com azeite de oliva e ervas é um ótimo acompanhamento para o almoço.)
+  - Latem zawsze mamy w ogrodzie mnóstwo świeżej cukinii. (No verão, sempre temos muita abobrinha fresca no jardim.)
+  - Zupa z cukinii jest idealna na lekki letni obiad. (Sopa de abobrinha é ideal para um almoço leve de verão.)
+  - Moja mama robi najlepsze placki z cukinii, jakie kiedykolwiek jadłem. (Minha mãe faz os melhores bolinhos de abobrinha que eu já comi.)
+  - Grillowana cukinia z odrobiną czosnku i parmezanu to mój ulubiony przepis. (Abobrinha grelhada com um pouco de alho e parmesão é a minha receita favorita.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 217 - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
 - [] Dzień 218 - 
   - 
   - 
