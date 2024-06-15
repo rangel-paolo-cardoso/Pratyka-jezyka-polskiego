@@ -426,15 +426,15 @@
   - Zniesienie kar cielesnych w szkołach to duży krok naprzód w dziedzinie praw człowieka. (A abolição dos castigos corporais nas escolas é um grande avanço na área dos direitos humanos.)
   - Walka o zniesienie kary śmierci trwa nadal w wielu krajach.(A luta pela abolição da pena de morte continua em muitos países.)
 
+- [x] Dzień 219 - Abominacja. (Abominação.)
+  - To, co zrobił, było abominacją w oczach społeczeństwa. (O que ele fez foi uma abominação aos olhos da sociedade.)
+  - Zabijanie zwierząt dla sportu to dla mnie abominacja. (Matar animais por esporte é uma abominação para mim.)
+  - Widok zniszczonych lasów deszczowych wywołuje we mnie uczucie abominacji. (Ver as florestas tropicais destruídas me causa um sentimento de abominação.)
+  - Ludobójstwo to największa abominacja w historii ludzkości. (O genocídio é a maior abominação na história da humanidade.)
+  - Wszelkie formy dyskryminacji są dla nas abominacją i muszą zostać wyeliminowane. (Todas as formas de discriminação são uma abominação para nós e devem ser eliminadas.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 219 - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
 - [] Dzień 220 - 
   - 
   - 
