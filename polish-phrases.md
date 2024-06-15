@@ -416,18 +416,18 @@
   - Pieczona cukinia z oliwą z oliwek i ziołami to świetny dodatek do obiadu. (Abobrinha assada com azeite de oliva e ervas é um ótimo acompanhamento para o almoço.)
   - Latem zawsze mamy w ogrodzie mnóstwo świeżej cukinii. (No verão, sempre temos muita abobrinha fresca no jardim.)
   - Zupa z cukinii jest idealna na lekki letni obiad. (Sopa de abobrinha é ideal para um almoço leve de verão.)
-  - Moja mama robi najlepsze placki z cukinii, jakie kiedykolwiek jadłem. (Minha mãe faz os melhores bolinhos de abobrinha que eu já comi.)
+  - Moja mama robi najlepsze placki z cukinii, jakie kiedykolwiek jadłem / jadłam. (Minha mãe faz os melhores bolinhos de abobrinha que eu já comi.)
   - Grillowana cukinia z odrobiną czosnku i parmezanu to mój ulubiony przepis. (Abobrinha grelhada com um pouco de alho e parmesão é a minha receita favorita.)
+
+- [x] Dzień 218 - Zniesienie, Abolicja. (.)
+  - Zniesienie niewolnictwa było ważnym krokiem w historii ludzkości. (A abolição da escravatura foi um passo importante na história da humanidade.)
+  - Walczyliśmy o zniesienie segregacji rasowej przez wiele lat.(Lutamos pela abolição da segregação racial por muitos anos.)
+  - Zniesienie podatku od towarów i usług przyniosłoby ulgę wielu przedsiębiorcom. (A abolição do imposto sobre bens e serviços traria alívio a muitos empresários.)
+  - Zniesienie kar cielesnych w szkołach to duży krok naprzód w dziedzinie praw człowieka. (A abolição dos castigos corporais nas escolas é um grande avanço na área dos direitos humanos.)
+  - Walka o zniesienie kary śmierci trwa nadal w wielu krajach.(A luta pela abolição da pena de morte continua em muitos países.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 218 - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
 - [] Dzień 219 - 
   - 
   - 
