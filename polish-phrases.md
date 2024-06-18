@@ -433,15 +433,15 @@
   - Ludobójstwo to największa abominacja w historii ludzkości. (O genocídio é a maior abominação na história da humanidade.)
   - Wszelkie formy dyskryminacji są dla nas abominacją i muszą zostać wyeliminowane. (Todas as formas de discriminação são uma abominação para nós e devem ser eliminadas.)
 
+- [x] Dzień 220 - Abonować. (Abonar.)
+  - Mój szef zawsze gotów jest abonować moje wysiłki. (Meu chefe está sempre disposto a abonar meus esforços.)
+  - Potrzebuję kogoś, kto może abonować moje referencje, aby uzyskać tę pracę. (Preciso de alguém que possa abonar minhas referências para conseguir esse emprego.)
+  - Chcę abonować tę transakcję, ponieważ uważam, że jest uczciwa. (Quero abonar esta transação porque acredito que ela é justa.)
+  - Jako dyrektor, często muszę abonować decyzje moich pracowników. (Como diretor, frequentemente preciso abonar as decisões dos meus funcionários.)
+  - Jeśli ktoś może abonować twoje działania, będzie łatwiej zdobyć zaufanie innych. (Se alguém puder abonar suas ações, será mais fácil ganhar a confiança dos outros.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 220 - 
-  - 
-  - 
-  - 
-  - 
-  - 
-
 - [] Dzień 221 - 
 - [] Dzień 222 - 
 - [] Dzień 223 - 
