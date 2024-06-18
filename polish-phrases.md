@@ -440,21 +440,99 @@
   - Jako dyrektor, często muszę abonować decyzje moich pracowników. (Como diretor, frequentemente preciso abonar as decisões dos meus funcionários.)
   - Jeśli ktoś może abonować twoje działania, będzie łatwiej zdobyć zaufanie innych. (Se alguém puder abonar suas ações, será mais fácil ganhar a confiança dos outros.)
 
+- [x] Dzień 221 - Podejść do, Poruszać. (Abordar.)
+ - Powinniśmy podejść do tej kwestii z większą ostrożnością. (Devemos abordar essa questão com mais cautela.)
+ - Nauczyciel postanowił podejść do ucznia i zapytać, czy wszystko jest w porządku. (O professor decidiu abordar o aluno e perguntar se está tudo bem.)
+ - W celu rozwiązania problemu, musimy podejść do niego z różnych perspektyw. (Para resolver o problema, precisamos abordá-lo de diferentes perspectivas.)
+ - Policjant zdecydował się podejść do podejrzanego i zapytać o jego alibi. (O policial decidiu abordar o suspeito e perguntar sobre seu álibi)
+ - Na spotkaniu poruszyliśmy wiele istotnych tematów. (Na reunião, abordamos muitos assuntos importantes.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 221 - 
-- [] Dzień 222 - 
+- [] Dzień 222 - . (.)
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 223 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 224 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 225 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 226 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 227 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 228 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 229 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 230 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 231 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 232 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 233 - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
 - [] Dzień 234 - 
 - [] Dzień 235 - 
 - [] Dzień 236 - 
