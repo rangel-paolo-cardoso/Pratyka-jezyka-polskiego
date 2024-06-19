@@ -447,15 +447,15 @@
  - Policjant zdecydował się podejść do podejrzanego i zapytać o jego alibi. (O policial decidiu abordar o suspeito e perguntar sobre seu álibi)
  - Na spotkaniu poruszyliśmy wiele istotnych tematów. (Na reunião, abordamos muitos assuntos importantes.)
 
+- [x] Dzień 222 - Aborygen, Tubylec. (Aborígine.)
+ - Aborygeni w Australii mają bogatą i starożytną kulturę, która jest częścią dziedzictwa narodowego. (Os aborígines na Austrália têm uma cultura rica e antiga, que faz parte do patrimônio nacional.)
+ - Tubylcy często spotykają się z trudnościami w zachowaniu swoich tradycji w nowoczesnym społeczeństwie. (Os aborígines frequentemente enfrentam dificuldades em manter suas tradições na sociedade moderna.)
+ - Jestem zafascynowany / zafascynowana historią aborygenów i ich duchowym związkiem z ziemią. (Eu estou fascinado / fascinada com a história dos aborígines e sua ligação espiritual com a terra.)
+ - Wielu aborygenów walczy o swoje prawa i uznanie na arenie międzynarodowej. (Muitos aborígines lutam por seus direitos e reconhecimento na arena internacional.)
+ - Malarstwo aborygenów jest wyjątkowe i pełne symboliki, która odzwierciedla ich wierzenia. (A pintura dos aborígines é única e cheia de simbolismo, refletindo suas crenças.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 222 - . (.)
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 223 - 
  - 
  - 
