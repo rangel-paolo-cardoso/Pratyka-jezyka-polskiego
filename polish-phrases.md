@@ -454,15 +454,20 @@
  - Wielu aborygenów walczy o swoje prawa i uznanie na arenie międzynarodowej. (Muitos aborígines lutam por seus direitos e reconhecimento na arena internacional.)
  - Malarstwo aborygenów jest wyjątkowe i pełne symboliki, która odzwierciedla ich wierzenia. (A pintura dos aborígines é única e cheia de simbolismo, refletindo suas crenças.)
 
+- [x] Dzień 223 - Znudzony, Znudzona, Znudzone,
+                  Zmartwiony, Zmartwiona, Zmartwione,
+                  Zdenerwowany, Zdenerwowana, Zdenerwowane,
+                  Sfrustrowany, Sfrustrowana, Sfrustrowane,
+                  Rozczarowany, Rozczarowana, Rozczarowane,
+                  (Aborrecido/Aborricida.)
+ - Byłem / Byłam znudzony / znudzona, więc postanowiłem / postanowiłam pójść na spacer po parku. (Eu estava aborrecido / aborrecida, então decidi dar um passeio no parque.)
+ - Ona wyglądała na zmartwioną, więc zapytałem, co się stało. (Ela parecia aborrecida, então perguntei o que aconteceu.)
+ - Byłem / Byłam sfrustrowany / sfrustrowana, ponieważ praca nie szła tak, jak planowałem / planowałam. (Eu estava aborrecido / aborrecida porque o trabalho não estava indo conforme o planejado.)
+ - On był zdenerwowany, ponieważ spóźnił się na ważne spotkanie. (Ele estava aborrecido porque se atrasou para uma reunião importante.)
+ - Byłam / Byłem rozczarowana / rozczarowany, że nie mogłam / mogłem iść na koncert, na który tak długo czekałam / czekałem. (Eu estava aborrecida / aborrecido por não poder ir ao concerto que esperava há tanto tempo.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 223 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 224 - 
  - 
  - 
