@@ -466,15 +466,18 @@
  - On był zdenerwowany, ponieważ spóźnił się na ważne spotkanie. (Ele estava aborrecido porque se atrasou para uma reunião importante.)
  - Byłam / Byłem rozczarowana / rozczarowany, że nie mogłam / mogłem iść na koncert, na który tak długo czekałam / czekałem. (Eu estava aborrecida / aborrecido por não poder ir ao concerto que esperava há tanto tempo.)
 
+- [x] Dzień 224 - Przerwać ciążę,
+                  Zakończyć ciążę,
+                  Anulować, Przerwać,
+                  Zrezygnować z. (Abortar.)
+ - Lekarz powiedział, że muszę przerwać ciążę ze względów zdrowotnych. (O médico disse que eu precisava abortar por questões de saúde.)
+ - Decyzja o przerwaniu ciąży była dla niej bardzo trudna. (A decisão de abortar foi muito difícil para ela.)
+ - Byli zmuszeni przerwać misję ze względu na złe warunki pogodowe. (Eles foram obrigados a abortar a missão devido às más condições climáticas.)
+ - Pilot musiał zrezygnować z lądowania z powodu problemów technicznych. (O piloto teve que abortar o pouso devido a problemas técnicos.)
+ - Postanowiła zakończyć ciążę, ponieważ była to ciąża pozamaciczna. (Ela decidiu abortar porque era uma gravidez ectópica.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 224 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 225 - 
  - 
  - 
