@@ -476,15 +476,17 @@
  - Pilot musiał zrezygnować z lądowania z powodu problemów technicznych. (O piloto teve que abortar o pouso devido a problemas técnicos.)
  - Postanowiła zakończyć ciążę, ponieważ była to ciąża pozamaciczna. (Ela decidiu abortar porque era uma gravidez ectópica.)
 
+- [x] Dzień 225 - Przerwać ciążę,
+                  Aborcja, Zakończyć ciążę,
+                  Usunąć ciążę. (Aborto.)
+- Aborcja jest dziś szeroko dyskutowanym tematem w krajach Ameryki Łacińskiej i Europie. ( O aborto é um assunto bastante discutido hoje nos países da América Latina e Europa.)
+- Konserwatywni politycy generalnie źle oceniają aborcję. (O aborto geralmente não é bem visto por políticos de caráter conservador.)
+- W Brazylii obecna ustawa ma na celu kryminalizację aborcji, czyniąc ją równoznaczną z zabójstwem. (No Brasil, um projeto de lei atual visa criminalizar o aborto, igualando-o a um homicídio.)
+- W niektórych krajach kobiety mają prawo do bezpiecznego przerwania ciąży. (Em alguns países, as mulheres têm o direito de abortar de forma segura.)
+- Lekarz wyjaśnił, jakie są opcje zakończenia ciąży w bezpieczny sposób. (O médico explicou quais são as opções para abortar de forma segura.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 225 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 226 - 
  - 
  - 
