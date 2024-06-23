@@ -485,15 +485,15 @@
 - W niektórych krajach kobiety mają prawo do bezpiecznego przerwania ciąży. (Em alguns países, as mulheres têm o direito de abortar de forma segura.)
 - Lekarz wyjaśnił, jakie są opcje zakończenia ciąży w bezpieczny sposób. (O médico explicou quais são as opções para abortar de forma segura.)
 
+- [x] Dzień 226 - Zapiąć. (Abotoar.)
+- Muszę zapiąć płaszcz, bo na dworze jest bardzo zimno. (Eu preciso abotoar meu casaco porque está muito frio lá fora.)
+- Zapiąłem / Zapięłam wszystkie guziki, aby wyglądać bardziej schludny / schludna na spotkaniu. (Eu abotoei todos os botões para parecer mais arrumado / arrumada na reunião.)
+- Mój syn nauczył się sam zapiąć koszulę, jestem z niego bardzo dumny / dumna. (Meu filho aprendeu a abotoar a camisa sozinho, estou muito orgulhoso / orgulhosa dele.)
+- Przed wyjściem z domu zapiąłem / zapięłam kurtkę córki, żeby nie zmarzła. (Antes de sair de casa, eu abotoei a jaqueta da minha filha para que ela não sentisse frio.)
+- Na imprezę musiałem / musiałam zapiąć marynarkę, żeby wyglądać bardziej elegancko / elegancka. (Para a festa, eu tive que abotoar o paletó para ficar mais elegante.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 226 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 227 - 
  - 
  - 
