@@ -492,15 +492,15 @@
 - Przed wyjściem z domu zapiąłem / zapięłam kurtkę córki, żeby nie zmarzła. (Antes de sair de casa, eu abotoei a jaqueta da minha filha para que ela não sentisse frio.)
 - Na imprezę musiałem / musiałam zapiąć marynarkę, żeby wyglądać bardziej elegancko / elegancka. (Para a festa, eu tive que abotoar o paletó para ficar mais elegante.)
 
+- [x] Dzień 227 - Przytulić, Objąć. (Abraçar.)
+ - Kiedy zobaczyłem / zobaczyłam ją po tak długim czasie, od razu ją przytuliłem / przytuliłam. (Quando a vi (Usual: vi ela) depois de tanto tempo, imediatamente a abracei.)
+ - Przytuliłem / Przytuliłam mojego brata, żeby poczuł się lepiej po trudnym dniu. (Abracei meu irmão para que ele se sentisse melhor depois de um dia difícil.)
+ - Muszę przyznać, że objęcie nowych wyzwań w pracy było trudne, ale satysfakcjonujące. (Tenho que admitir que abraçar novos desafios no trabalho foi difícil, mas gratificante.)
+ - Ona zawsze przytula swoich przyjaciół, kiedy ich spotyka. (Ela sempre abraça seus amigos quando os encontra.)
+ - Objąłem / Objęłam moją matkę, gdy zobaczyłem ją na lotnisku po długiej podróży. (Abracei minha mãe quando a vi (Usual: vi ela) no aeroporto após uma longa viagem.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 227 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 228 - 
  - 
  - 
