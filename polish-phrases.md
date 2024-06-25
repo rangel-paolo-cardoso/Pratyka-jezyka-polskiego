@@ -499,15 +499,15 @@
  - Ona zawsze przytula swoich przyjaciół, kiedy ich spotyka. (Ela sempre abraça seus amigos quando os encontra.)
  - Objąłem / Objęłam moją matkę, gdy zobaczyłem ją na lotnisku po długiej podróży. (Abracei minha mãe quando a vi (Usual: vi ela) no aeroporto após uma longa viagem.)
 
+- [x] Dzień 228 - Obejmować, Zawierać, Ograniać. (Abranger.)
+ - Nasz projekt obejmuje wszystkie aspekty zrównoważonego rozwoju. (Nosso projeto abrange todos os aspectos do desenvolvimento sustentável.)
+ - Chciałbym / Chciałabym, żeby nasza dyskusja zawierała różne perspektywy i opinie. (Gostaria que nossa discussão abrangesse diferentes perspectivas e opiniões.)
+ - Program studiów ogarnia zarówno teoretyczne, jak i praktyczne aspekty inżynierii. (O programa de estudos abrange tanto os aspectos teóricos quanto os práticos da engenharia.)
+ - Raport musi obejmować wszystkie dane z ostatniego roku. (O relatório deve abranger todos os dados do último ano.)
+ - Jej badania zawierają szeroki zakres tematów związanych z biologią molekularną. (A pesquisa dela abrange uma ampla gama de tópicos relacionados à biologia molecular.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 228 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 229 - 
  - 
  - 
