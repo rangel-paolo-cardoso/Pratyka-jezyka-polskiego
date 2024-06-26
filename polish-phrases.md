@@ -506,15 +506,15 @@
  - Raport musi obejmować wszystkie dane z ostatniego roku. (O relatório deve abranger todos os dados do último ano.)
  - Jej badania zawierają szeroki zakres tematów związanych z biologią molekularną. (A pesquisa dela abrange uma ampla gama de tópicos relacionados à biologia molecular.)
 
+- [x] Dzień 229 - Ścierny, Ścierający. (Abrasivo.)
+ - Papier ścierny jest niezbędnym narzędziem do wygładzania drewna. (O papel abrasivo é uma ferramenta essencial para alisar a madeira.)
+ - Pasta ścierająca jest idealna do usuwania rdzy z metalu. (A pasta abrasiva é ideal para remover ferrugem do metal.)
+ - Użyłem / Użyłam ściernego proszku do czyszczenia zlewu kuchennego. (Eu usei um pó abrasivo para limpar a pia da cozinha.)
+ - Jego / Jej ścierny charakter sprawiał, że trudno było z nim współpracować. (Seu caráter abrasivo tornava difícil trabalhar com ele.)
+ - Kiedy polerujesz marmur, używasz ściernego środka do uzyskania połysku. (Quando você polir mármore, usa um produto abrasivo para dar brilho.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 229 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 230 - 
  - 
  - 
