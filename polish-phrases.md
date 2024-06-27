@@ -510,18 +510,18 @@
  - Papier ścierny jest niezbędnym narzędziem do wygładzania drewna. (O papel abrasivo é uma ferramenta essencial para alisar a madeira.)
  - Pasta ścierająca jest idealna do usuwania rdzy z metalu. (A pasta abrasiva é ideal para remover ferrugem do metal.)
  - Użyłem / Użyłam ściernego proszku do czyszczenia zlewu kuchennego. (Eu usei um pó abrasivo para limpar a pia da cozinha.)
- - Jego / Jej ścierny charakter sprawiał, że trudno było z nim współpracować. (Seu caráter abrasivo tornava difícil trabalhar com ele.)
+ - Jego / Jej ścierny charakter sprawiał, że trudno było z nim / nią współpracować. (O caráter abrasivo dele / dela tornava difícil trabalhar com ele / ela. Seu caráter abrasivo tornava difícil trabalhar com ele / ela.)
  - Kiedy polerujesz marmur, używasz ściernego środka do uzyskania połysku. (Quando você polir mármore, usa um produto abrasivo para dar brilho.)
+
+- [x] Dzień 230 - Skracać, Zwięźle. (Abreviar.)
+ - Muszę skrócić moją prezentację, żeby zmieścić się w czasie. (Eu preciso abreviar minha apresentação para caber no tempo.)
+ - Skróciłem / Skróciłam list, aby był bardziej zwięzły i czytelny. (Eu abreviei a carta para que ficasse mais concisa e legível.)
+ - Jego / Jej przemówienie było zbyt długie, więc postanowiłem / postanowiłam je skrócić. (O discurso dele estava muito longo, então eu decidi abreviá-lo.)
+ - Skróciłem / Skróciłam swoją pracę, aby szybciej ją skończyć. (Eu abreviei meu trabalho para terminá-lo mais rápido.)
+ - Skrócenie procesu może przyspieszyć jego zakończenie. (Abreviar o processo pode acelerar a sua conclusão.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 230 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 231 - 
  - 
  - 
