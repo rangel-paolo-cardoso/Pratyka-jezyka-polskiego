@@ -520,15 +520,15 @@
  - Skróciłem / Skróciłam swoją pracę, aby szybciej ją skończyć. (Eu abreviei meu trabalho para terminá-lo mais rápido.)
  - Skrócenie procesu może przyspieszyć jego zakończenie. (Abreviar o processo pode acelerar a sua conclusão.)
 
+- [x] Dzień 231 - Schronienie, Schron, Przytułek. (Abrigo.)
+ - Podczas burzy znaleźliśmy schronienie w małej chacie. (Durante a tempestade, encontramos abrigo em uma pequena cabana.)
+ - Bezdomne zwierzęta znalazły schronienie w nowym schronisku. (Os animais de rua encontraram abrigo no novo abrigo.)
+ - Po stracie domu musieliśmy znaleźć schronienie dla całej rodziny. (Depois de perder nossa casa, tivemos que encontrar abrigo para toda a família.)
+ - Uchodźcy szukali schronienia przed wojną w sąsiednim kraju. (Os refugiados procuravam abrigo da guerra no país vizinho.)
+ - W zimie ptaki znajdują schronienie w dziuplach drzew. (No inverno, os pássaros encontram abrigo nos ocos das árvores.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 231 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 232 - 
  - 
  - 
