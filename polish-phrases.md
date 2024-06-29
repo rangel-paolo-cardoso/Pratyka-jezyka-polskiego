@@ -527,15 +527,15 @@
  - Uchodźcy szukali schronienia przed wojną w sąsiednim kraju. (Os refugiados procuravam abrigo da guerra no país vizinho.)
  - W zimie ptaki znajdują schronienie w dziuplach drzew. (No inverno, os pássaros encontram abrigo nos ocos das árvores.)
 
+- [x] Dzień 232 - Kwiecień. (Abril.)
+ - Kwiecień to miesiąc, w którym obchodzimy Wielkanoc. (Abril é o mês em que celebramos a Páscoa.)
+ - W kwietniu pogoda zaczyna się ocieplać, a dni stają się dłuższe. (Em abril, o clima começa a esquentar e os dias ficam mais longos.)
+ - W kwietniu zaczynają kwitnąć drzewa owocowe, co oznacza początek sezonu wegetacyjnego. (Em abril, as árvores frutíferas começam a florescer, marcando o início da temporada de crescimento.)
+ - Kwiecień jest miesiącem, w którym obchodzimy Międzynarodowy Dzień Ziemi. (Abril é o mês em que celebramos o Dia Internacional da Terra.)
+ - W kwietniu odbywa się wiele festiwali wiosennych i imprez plenerowych. (Em abril, muitos festivais de primavera e eventos ao ar livre acontecem.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 232 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 233 - 
  - 
  - 
