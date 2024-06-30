@@ -534,15 +534,15 @@
  - Kwiecień jest miesiącem, w którym obchodzimy Międzynarodowy Dzień Ziemi. (Abril é o mês em que celebramos o Dia Internacional da Terra.)
  - W kwietniu odbywa się wiele festiwali wiosennych i imprez plenerowych. (Em abril, muitos festivais de primavera e eventos ao ar livre acontecem.)
 
+- [x] Dzień 233 - Otworzyć, Otwierać. (Abrir.)
+ - Muszę otworzyć okno, bo jest tu za gorąco. (Preciso abrir a janela porque está muito quente aqui.)
+ - Zamierzam otworzyć nowy rozdział w moim życiu. (Pretendo abrir um novo capítulo na minha vida.)
+ - Chciałbym / Chciałabym otworzyć kawiarenkę w centrum miasta. (Eu gostaria de abrir um café no centro da cidade.)
+ - Otwarcie serca na nowe doświadczenia może być wyzwalające. (Abrir o coração para novas experiências pode ser libertador.)
+ - Otwierając książkę, zanurzyłem / zanurzyłam się w fascynującą historię. (Ao abrir o livro, mergulhei em uma história fascinante.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 233 - 
- - 
- - 
- - 
- - 
- - 
-
 - [] Dzień 234 - 
 - [] Dzień 235 - 
 - [] Dzień 236 - 
