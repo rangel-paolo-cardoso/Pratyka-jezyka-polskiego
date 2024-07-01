@@ -541,9 +541,15 @@
  - Otwarcie serca na nowe doświadczenia może być wyzwalające. (Abrir o coração para novas experiências pode ser libertador.)
  - Otwierając książkę, zanurzyłem / zanurzyłam się w fascynującą historię. (Ao abrir o livro, mergulhei em uma história fascinante.)
 
+- [x] Dzień 234 - Wchłaniać, Wchłonąć. (Absorver.)
+ - Roślina wchłania wodę przez korzenie. (A planta absorve a água pelas raízes.)
+ - Kiedy czytam książkę, całkowicie się w nią wchłaniam. (Quando leio um livro, eu me absorvo completamente nele.)
+ - Gąbka wchłonęła całą rozlaną wodę. (A esponja absorveu toda a água derramada.)
+ - Musisz wchłaniać wiedzę, aby zdać ten egzamin. (Você precisa absorver o conhecimento para passar neste exame.)
+ - Skóra szybko wchłania krem nawilżający. (A pele absorve rapidamente o creme hidratante.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 234 - 
 - [] Dzień 235 - 
 - [] Dzień 236 - 
 - [] Dzień 237 - 
