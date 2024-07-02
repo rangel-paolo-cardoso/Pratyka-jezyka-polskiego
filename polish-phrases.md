@@ -548,9 +548,15 @@
  - Musisz wchłaniać wiedzę, aby zdać ten egzamin. (Você precisa absorver o conhecimento para passar neste exame.)
  - Skóra szybko wchłania krem nawilżający. (A pele absorve rapidamente o creme hidratante.)
 
+- [x] Dzień 235 - Abstrakcja. (Abstração.)
+ - Abstrakcja w sztuce jest trudna do zrozumienia dla wielu ludzi. (A abstração na arte é difícil de entender para muitas pessoas.)
+ - Matematyka często opiera się na pojęciach abstrakcji. (A matemática frequentemente se baseia em conceitos de abstração.)
+ - Filozofowie często dyskutują o ideach abstrakcji i ich wpływie na rzeczywistość. (Filósofos frequentemente discutem sobre ideias de abstração e seu impacto na realidade.)
+ - Abstrakcja pozwala nam myśleć o przyszłości i planować długoterminowe cele. (A abstração nos permite pensar no futuro e planejar objetivos a longo prazo.)
+ - W czasie medytacji często staram się osiągnąć stan pełnej abstrakcji od otaczającego świata. (Durante a meditação, frequentemente tento alcançar um estado de completa abstração do mundo ao meu redor.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 235 - 
 - [] Dzień 236 - 
 - [] Dzień 237 - 
 - [] Dzień 238 - 
