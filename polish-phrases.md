@@ -555,9 +555,15 @@
  - Abstrakcja pozwala nam myśleć o przyszłości i planować długoterminowe cele. (A abstração nos permite pensar no futuro e planejar objetivos a longo prazo.)
  - W czasie medytacji często staram się osiągnąć stan pełnej abstrakcji od otaczającego świata. (Durante a meditação, frequentemente tento alcançar um estado de completa abstração do mundo ao meu redor.)
 
+- [x] Dzień 236 - Abstrahować. (Abstrair.)
+ - Powinniśmy abstrahować od drobnych szczegółów i skupić się na większym obrazie. (Devemos abstrair dos pequenos detalhes e focar no quadro maior.)
+ - Abstrahowanie pozwala nam zrozumieć podstawowe zasady działania systemu. (Abstrair nos permite entender os princípios básicos do funcionamento do sistema.)
+ - Podczas medytacji staram się abstrahować od wszystkich myśli i skupić się na oddechu. (Durante a meditação, tento abstrair de todos os pensamentos e focar na respiração.)
+ - Nauczyciel zachęcał nas do abstrahowania od osobistych opinii i patrzenia na fakty. (O professor nos encorajava a abstrair das opiniões pessoais e olhar para os fatos.)
+ - Aby lepiej zrozumieć ten problem, musimy abstrahować od naszych wcześniejszych doświadczeń. (Para entender melhor esse problema, precisamos abstrair de nossas experiências anteriores.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 236 - 
 - [] Dzień 237 - 
 - [] Dzień 238 - 
 - [] Dzień 239 - 
