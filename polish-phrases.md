@@ -562,9 +562,15 @@
  - Nauczyciel zachęcał nas do abstrahowania od osobistych opinii i patrzenia na fakty. (O professor nos encorajava a abstrair das opiniões pessoais e olhar para os fatos.)
  - Aby lepiej zrozumieć ten problem, musimy abstrahować od naszych wcześniejszych doświadczeń. (Para entender melhor esse problema, precisamos abstrair de nossas experiências anteriores.)
 
+- [x] Dzień 237 - Abstrakcyjny, Abstrakcyjna, Abstrakcyjne. (Abstrato.)
+ - Jego sztuka jest bardzo abstrakcyjna, co sprawia, że nie każdy ją rozumie. (Sua arte é muito abstrata, o que faz com que nem todos a compreendam.)
+ - Ona ma abstrakcyjne myśli, które są trudne do zrozumienia. (Ela tem pensamentos abstratos, que são difíceis de entender.)
+ - Lubię czytać książki o abstrakcyjnych koncepcjach filozoficznych. (Eu gosto de ler livros sobre conceitos filosóficos abstratos.)
+ - Jego podejście do problemu było zbyt abstrakcyjne, aby znaleźć praktyczne rozwiązanie. (A abordagem dele ao problema era muito abstrata para encontrar uma solução prática.)
+ - Obrazy w tej galerii są tak abstrakcyjne, że trudno jest dostrzec ich znaczenie. (As pinturas nesta galeria são tão abstratas que é difícil perceber o seu significado.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 237 - 
 - [] Dzień 238 - 
 - [] Dzień 239 - 
 - [] Dzień 240 - 
