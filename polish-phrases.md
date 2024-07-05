@@ -569,9 +569,15 @@
  - Jego podejście do problemu było zbyt abstrakcyjne, aby znaleźć praktyczne rozwiązanie. (A abordagem dele ao problema era muito abstrata para encontrar uma solução prática.)
  - Obrazy w tej galerii są tak abstrakcyjne, że trudno jest dostrzec ich znaczenie. (As pinturas nesta galeria são tão abstratas que é difícil perceber o seu significado.)
 
+- [x] Dzień 238 - Absurdalność. (Absurdeza.)
+ - Absurdalność tej sytuacji sprawia, że trudno mi w to uwierzyć. (A absurdeza desta situação faz com que eu tenha dificuldade em acreditar.)
+ - Absurdalność jego argumentów była tak oczywista, że nikt nie mógł ich poważnie traktować. (A absurdeza dos argumentos dele era tão óbvia que ninguém podia levá-los a sério.)
+ - Ona zawsze wskazuje na absurdalność pewnych reguł w naszej firmie. (Ela sempre aponta a absurdeza de certas regras na nossa empresa.)
+ - Jego pomysły często balansują na granicy absurdalności. (As ideias dele frequentemente estão na fronteira da absurdeza.)
+ - Kiedy usłyszałem o jego planie, zdałem sobie sprawę z absurdalności całej sytuacji. (Quando ouvi sobre o plano dele, percebi a absurdeza de toda a situação.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 238 - 
 - [] Dzień 239 - 
 - [] Dzień 240 - 
 - [] Dzień 241 - 
