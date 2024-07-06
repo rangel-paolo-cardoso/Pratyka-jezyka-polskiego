@@ -576,9 +576,15 @@
  - Jego pomysły często balansują na granicy absurdalności. (As ideias dele frequentemente estão na fronteira da absurdeza.)
  - Kiedy usłyszałem o jego planie, zdałem sobie sprawę z absurdalności całej sytuacji. (Quando ouvi sobre o plano dele, percebi a absurdeza de toda a situação.)
 
+- [x] Dzień 239 - Absurd. (Absurdo.)
+ - To co właśnie powiedziałeś / powiedziałaś to straszna bzdura! (Isso que você acabou de dizer é um tremendo absurdo!)
+ - Podatki pobierane przez polityków są po prostu absurdalne. (Os impostos cobrados pelos políticos são simplesmente absurdos.)
+ - Wojna jest dla mnie absurdem, ponieważ niszczy jedynie dziedzictwo, biblioteki i różnorodność. (A guerra para mim é um absurdo, pois só destrói patrimônios, bibliotecas e diversidade.)
+ - Uważam, że te nowe zasady są całkowicie absurdalne. (Eu acho que essas novas regras são totalmente absurdas.)
+ - To absurdalne, że musimy płacić tak dużo za podstawowe usługi. (É um absurdo termos que pagar tanto por serviços básicos.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 239 - 
 - [] Dzień 240 - 
 - [] Dzień 241 - 
 - [] Dzień 242 - 
