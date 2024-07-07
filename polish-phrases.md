@@ -583,9 +583,15 @@
  - Uważam, że te nowe zasady są całkowicie absurdalne. (Eu acho que essas novas regras são totalmente absurdas.)
  - To absurdalne, że musimy płacić tak dużo za podstawowe usługi. (É um absurdo termos que pagar tanto por serviços básicos.)
 
+- [x] Dzień 240 - Obfitość. (Abundância.)
+ - Brazylia to kraj obfitujący w owoce i rośliny lecznicze. (O Brasil é um país com abundância de frutas e plantas medicinais.)
+ - Dietetyk / Dietetyczka zalecił / zaleciła spożywanie fasoli ze względu na dużą zawartość żelaza i pomarańczy, która pomaga w wchłanianiu. (O nutricionista / A nutricionista recomendou a ingestão de feijão, por conta de sua abundância em ferro, e uma laranja para ajudar na absorção.)
+ - W Internecie możemy znaleźć mnóstwo treści. Tylko ci, którzy chcą pozostać niedoinformowani. (Na internet podemos encontrar conteúdo em abundância. Só fica desinformado quem quer.)
+ - Mamy obfitość jedzenia na świątecznym stole, każdy znajdzie coś dla siebie. (Temos uma abundância de comida na mesa de Natal, há algo para todos.)
+ - Ogrodnik / Ogrodniczka był / była zachwycony / zachwycona obfitością kwiatów w swoim ogrodzie. (O jardineiro / A jardineira ficou encantado / encantada com a abundância de flores em seu jardim.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 240 - 
 - [] Dzień 241 - 
 - [] Dzień 242 - 
 - [] Dzień 243 - 
