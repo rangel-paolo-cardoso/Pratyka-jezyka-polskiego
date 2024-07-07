@@ -590,9 +590,15 @@
  - Mamy obfitość jedzenia na świątecznym stole, każdy znajdzie coś dla siebie. (Temos uma abundância de comida na mesa de Natal, há algo para todos.)
  - Ogrodnik / Ogrodniczka był / była zachwycony / zachwycona obfitością kwiatów w swoim ogrodzie. (O jardineiro / A jardineira ficou encantado / encantada com a abundância de flores em seu jardim.)
 
+- [x] Dzień 241 - Obfity / Obfita / Obfite. (Abundante.)
+ - W tym regionie występują obfite opady deszczu przez cały rok. (Nesta região, as chuvas são abundantes o ano todo.)
+ - Jego / Jej obfita wiedza na temat roślin sprawia, że jest świetnym / świetną ogrodnikiem / ogrodniczką. (O conhecimento abundante dele / dela sobre plantas faz dele / dela um / uma ótimo / ótima jardineiro / jardineira.)
+ - Ryby są obfite w tej rzece, co przyciąga wielu wędkarzy. (Os peixes são abundantes neste rio, o que atrai muitos pescadores.)
+ - Podczas zbiorów mieliśmy obfite plony, co zapewni nam zapasy na zimę. (Durante a colheita, tivemos safras abundantes, o que nos garantirá provisões para o inverno.)
+ - Obfita ilość owoców na drzewie świadczy o dobrych warunkach pogodowych. (A quantidade abundante de frutas na árvore é um indicativo das boas condições climáticas.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 241 - 
 - [] Dzień 242 - 
 - [] Dzień 243 - 
 - [] Dzień 244 - 
