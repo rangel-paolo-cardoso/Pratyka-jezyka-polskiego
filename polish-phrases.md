@@ -597,9 +597,15 @@
  - Podczas zbiorów mieliśmy obfite plony, co zapewni nam zapasy na zimę. (Durante a colheita, tivemos safras abundantes, o que nos garantirá provisões para o inverno.)
  - Obfita ilość owoców na drzewie świadczy o dobrych warunkach pogodowych. (A quantidade abundante de frutas na árvore é um indicativo das boas condições climáticas.)
 
+- [x] Dzień 242 - Nadużywać. (Abusar.)
+ - Nie powinieneś nadużywać alkoholu, to szkodzi zdrowiu. (Você não deveria abusar do álcool, isso faz mal à saúde.)
+ - Szef nadużywa swojej władzy, co tworzy toksyczną atmosferę w pracy. (O chefe abusa do seu poder, o que cria uma atmosfera tóxica no trabalho.)
+ - On / Ona często nadużywa cierpliwości swoich przyjaciół. (Ele / Ela frequentemente abusa da paciência de seus amigos.)
+ - Po operacji musisz odpocząć i nie nadużywać swojej siły. (Após a cirurgia, você precisa descansar e não abusar de sua força.)
+ - On / Ona nadużywa zaufania, które mu powierzyłem / powierzyłam. (Ele / Ela abusa da confiança que lhe confiei.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 242 - 
 - [] Dzień 243 - 
 - [] Dzień 244 - 
 - [] Dzień 245 - 
