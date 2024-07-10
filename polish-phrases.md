@@ -602,11 +602,17 @@
  - Szef nadużywa swojej władzy, co tworzy toksyczną atmosferę w pracy. (O chefe abusa do seu poder, o que cria uma atmosfera tóxica no trabalho.)
  - On / Ona często nadużywa cierpliwości swoich przyjaciół. (Ele / Ela frequentemente abusa da paciência de seus amigos.)
  - Po operacji musisz odpocząć i nie nadużywać swojej siły. (Após a cirurgia, você precisa descansar e não abusar de sua força.)
- - On / Ona nadużywa zaufania, które mu powierzyłem / powierzyłam. (Ele / Ela abusa da confiança que lhe confiei.)
+ - On / Ona nadużywa zaufania, które mu / jej powierzyłem / powierzyłam. (Ele / Ela abusa da confiança que lhe confiei.)
+
+- [x] Dzień 243 - Nadużywający, Krzywdzący, Przemocowy. (Abusivo.)
+ - Jego / Jej zachowanie było nadużywające wobec kolegów z pracy. (O comportamento dele / dela foi abusivo em relação aos colegas de trabalho.)
+ - Cena za ten produkt jest zdecydowanie krzywdząca. (O preço deste produto é definitivamente abusivo.)
+ - On / Ona zrozumiał / zrozumiała, że jego / jej związek był przemocowy i postanowił / postanowiła go zakończyć. (Ele / Ela percebeu que seu relacionamento era abusivo e decidiu terminá-lo.)
+ - Nadużywający ton głosu nauczyciel / nauczyciela sprawiał, że uczniowie czuli się niekomfortowo. (O tom de voz abusivo do professor / da professora fazia com que os alunos se sentissem desconfortáveis.)
+ - (My) Musimy działać przeciwko krzywdzącym praktykom w naszej firmie. ((Nós) Precisamos agir contra práticas abusivas em nossa empresa.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 243 - 
 - [] Dzień 244 - 
 - [] Dzień 245 - 
 - [] Dzień 246 - 
