@@ -611,9 +611,15 @@
  - Nadużywający ton głosu nauczyciel / nauczyciela sprawiał, że uczniowie czuli się niekomfortowo. (O tom de voz abusivo do professor / da professora fazia com que os alunos se sentissem desconfortáveis.)
  - (My) Musimy działać przeciwko krzywdzącym praktykom w naszej firmie. ((Nós) Precisamos agir contra práticas abusivas em nossa empresa.)
 
+- [x] Dzień 244 - Nadużycie, Przemoc, Molestowanie. (Abuso.)
+ - Nie będę tolerować tego nadużycia! (Eu não vou tolerar esse abuso!)
+ - On / Ona dopuścił / dopuściła się przestępstwa nadużycia władzy politycznej. (Ele / Ela cometeu um crime de abuso de poder político.)
+ - Przemoc jest czymś, co zawsze miało miejsce w historii ludzkości. Wystarczy spojrzeć, co kraje sobie robią. (O abuso é algo que sempre ocorreu na história da humanidade, basta olharmos para o que países fazem entre si.)
+ - Molestowanie dzieci jest jednym z najcięższych przestępstw. (O abuso infantil é um dos crimes mais graves.)
+ - On zgłosił / Ona zgłosiła przemoc domową na policji i otrzymał / otrzymała wsparcie. (Ele / Ela denunciou o abuso doméstico à polícia e recebeu apoio.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 244 - 
 - [] Dzień 245 - 
 - [] Dzień 246 - 
 - [] Dzień 247 - 
