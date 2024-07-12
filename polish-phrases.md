@@ -618,9 +618,15 @@
  - Molestowanie dzieci jest jednym z najcięższych przestępstw. (O abuso infantil é um dos crimes mais graves.)
  - On zgłosił / Ona zgłosiła przemoc domową na policji i otrzymał / otrzymała wsparcie. (Ele / Ela denunciou o abuso doméstico à polícia e recebeu apoio.)
 
+- [x] Dzień 245 - Skończyć, Zakończyć, Zakończyć się. (Acabar.)
+ - Muszę skończyć pisać ten raport przed północą. (Eu preciso acabar de escrever este relatório antes da meia-noite.)
+ - Zakończyłem / Zakończyłam rozmowę telefoniczną i poszłem / poszłam na spacer. (Eu acabei a conversa telefônica e fui dar um passeio.)
+ - Po ukończeniu studiów planuję podróż dookoła świata. (Depois de acabar a faculdade, planejo fazer uma viagem ao redor do mundo.)
+ - Jeśli skończę pracę wcześniej, możemy iść na kolację. (Se eu acabar o trabalho mais cedo, podemos sair para jantar.)
+ - Zakończymy projekt do końca miesiąca. (Nós vamos acabar o projeto até o final do mês.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 245 - 
 - [] Dzień 246 - 
 - [] Dzień 247 - 
 - [] Dzień 248 - 
