@@ -625,9 +625,15 @@
  - Jeśli skończę pracę wcześniej, możemy iść na kolację. (Se eu acabar o trabalho mais cedo, podemos sair para jantar.)
  - Zakończymy projekt do końca miesiąca. (Nós vamos acabar o projeto até o final do mês.)
 
+- [x] Dzień 246 - Akademia, Siłownia. (Academia.)
+ - Codziennie chodzę na siłownię, aby poprawić swoją kondycję fizyczną. (Eu vou à academia todos os dias para melhorar minha condição física.)
+ - Mój brat / Moja siostra zapisuje się na zajęcia jogi w lokalnej siłowni. (Meu irmão / Minha irmã está se matriculando em aulas de yoga na academia local.)
+ - W przyszłym tygodniu odbędzie się ważna konferencja w Akademii Nauk. (Na semana que vem, haverá uma conferência importante na academia de ciências.)
+ - On / Ona zdobył / zdobyła wiele nagród od Akademii Sztuk Pięknych za swoje obrazy. (Ele / Ela ganhou muitos prêmios da Academia de Belas Artes por suas pinturas.)
+ - Termin „miłośnik / miłośniczka siłowni” jest bardzo znany i oznacza, że dana osoba codziennie uczęszcza na siłownię. (O termo "rato / rata de academia" é bem famoso, e significa que uma pessoa frequenta a academia todos os dias.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 246 - 
 - [] Dzień 247 - 
 - [] Dzień 248 - 
 - [] Dzień 249 - 
