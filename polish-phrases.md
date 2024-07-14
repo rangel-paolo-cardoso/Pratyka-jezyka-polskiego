@@ -632,9 +632,15 @@
  - On / Ona zdobył / zdobyła wiele nagród od Akademii Sztuk Pięknych za swoje obrazy. (Ele / Ela ganhou muitos prêmios da Academia de Belas Artes por suas pinturas.)
  - Termin „miłośnik / miłośniczka siłowni” jest bardzo znany i oznacza, że dana osoba codziennie uczęszcza na siłownię. (O termo "rato / rata de academia" é bem famoso, e significa que uma pessoa frequenta a academia todos os dias.)
 
+- [x] Dzień 247 - Akademicki, Naukowy. (Acadêmico.)
+ - Pisanie artykułów naukowych jest ważnym aspektem życia akademickiego. (Escrever artigos científicos é um aspecto importante da vida acadêmica.)
+ - Profesor jest znanym / znaną autorytetem / autorytetką w środowisku akademickim. (O professor é uma autoridade renomada no meio acadêmico.)
+ - Studenci zdobywają wiedzę i umiejętności poprzez programy akademickie. (Os estudantes adquirem conhecimento e habilidades por meio de programas acadêmicos.)
+ - Chciałbym / Chciałabym kontynuować karierę akademicką i zostać profesorem / profesorką uniwersyteckim / uniwersytecką. (Eu gostaria de seguir uma carreira acadêmica e me tornar professora universitária.)
+ - Konferencje akademickie są doskonałą okazją do dzielenia się badaniami naukowymi. (Conferências acadêmicas são ótimas oportunidades para compartilhar pesquisas científicas.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 247 - 
 - [] Dzień 248 - 
 - [] Dzień 249 - 
 - [] Dzień 250 - 
