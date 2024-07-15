@@ -639,9 +639,15 @@
  - Chciałbym / Chciałabym kontynuować karierę akademicką i zostać profesorem / profesorką uniwersyteckim / uniwersytecką. (Eu gostaria de seguir uma carreira acadêmica e me tornar professora universitária.)
  - Konferencje akademickie są doskonałą okazją do dzielenia się badaniami naukowymi. (Conferências acadêmicas são ótimas oportunidades para compartilhar pesquisas científicas.)
 
+- [x] Dzień 248 - Açaí. (Açaí.)
+ - Açaí jest znane ze swoich korzyści zdrowotnych, w tym wysokiej zawartości przeciwutleniaczy. (O açaí é conhecido por seus benefícios para a saúde, incluindo seu alto teor de antioxidantes.)
+ - W Brazylii açaí jest często spożywane z granolą i bananami jako pożywne śniadanie. (No Brasil, o açaí é frequentemente consumido com granola e bananas como um café da manhã nutritivo.)
+ - Mój ulubiony deser to miska açaí z truskawkami i miodem. (Minha sobremesa favorita é uma tigela de açaí com morangos e mel.)
+ - Wielu sportowców pije koktajle z açaí przed treningiem, aby zwiększyć energię. (Muitos atletas bebem smoothies de açaí antes do treino para aumentar a energia.)
+ - Açaí można znaleźć w różnych formach, takich jak sorbety, lody i proszki. (O açaí pode ser encontrado em várias formas, como sorvetes, gelados e pós.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 248 - 
 - [] Dzień 249 - 
 - [] Dzień 250 - 
 - [] Dzień 251 - 
