@@ -646,9 +646,19 @@
  - Wielu sportowców pije koktajle z açaí przed treningiem, aby zwiększyć energię. (Muitos atletas bebem smoothies de açaí antes do treino para aumentar a energia.)
  - Açaí można znaleźć w różnych formach, takich jak sorbety, lody i proszki. (O açaí pode ser encontrado em várias formas, como sorvetes, gelados e pós.)
 
+- [x] Dzień 249 - Uspokoić, Wyciszyć, Łagodzić. (Acalmar.)
+ - Musisz uspokoić swoje myśli i skoncentrować się na rozwiązaniu problemu. (Você precisa acalmar seus pensamentos e se concentrar na solução do problema.)
+
+ - Starałem / Starałam się uspokoić dziecko, które płakało przez całą noc. (Eu tentei acalmar a criança que chorava a noite toda.)
+
+ - Medytacja pomaga mi wyciszyć umysł i zredukować stres. (A meditação me ajuda a acalmar a mente e reduzir o estresse.)
+
+ - Po trudnym dniu lubię wyciszyć się przy dobrej książce. (Depois de um dia difícil, eu gosto de me acalmar com um bom livro.)
+
+ - Łagodziłem / Łagodziłam napięcie w grupie, aby wszyscy mogli się dogadać. (Eu acalmei as tensões no grupo para que todos pudessem se entender.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 249 - 
 - [] Dzień 250 - 
 - [] Dzień 251 - 
 - [] Dzień 252 - 
