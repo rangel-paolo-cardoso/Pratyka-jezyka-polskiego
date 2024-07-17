@@ -648,18 +648,20 @@
 
 - [x] Dzień 249 - Uspokoić, Wyciszyć, Łagodzić. (Acalmar.)
  - Musisz uspokoić swoje myśli i skoncentrować się na rozwiązaniu problemu. (Você precisa acalmar seus pensamentos e se concentrar na solução do problema.)
-
  - Starałem / Starałam się uspokoić dziecko, które płakało przez całą noc. (Eu tentei acalmar a criança que chorava a noite toda.)
-
  - Medytacja pomaga mi wyciszyć umysł i zredukować stres. (A meditação me ajuda a acalmar a mente e reduzir o estresse.)
-
  - Po trudnym dniu lubię wyciszyć się przy dobrej książce. (Depois de um dia difícil, eu gosto de me acalmar com um bom livro.)
-
  - Łagodziłem / Łagodziłam napięcie w grupie, aby wszyscy mogli się dogadać. (Eu acalmei as tensões no grupo para que todos pudessem se entender.)
+
+- [x] Dzień 250 - Podgrzewać, Rozgrzewać, Rozzłościć. (Acalorar.)
+ - Dyskusja zaczęła się podgrzewać, gdy poruszyliśmy temat polityki. (A discussão começou a se acalorar quando mencionamos o tema política.)
+ - Sporty zespołowe mogą naprawdę rozgrzewać atmosferę. (Esportes coletivos podem realmente acalorar o ambiente.)
+ - Podczas debaty na żywo jeden z uczestników rozgrzał się i podniósł głos. (Durante o debate ao vivo, um dos participantes se acalorou e elevou a voz.)
+ - Temperatura w pomieszczeniu zaczęła się podgrzewać z powodu braku wentylacji. (A temperatura na sala começou a se acalorar devido à falta de ventilação.)
+ - Kiedy ktoś krytykuje jego / jej pracę, potrafi się naprawdę rozzłościć. (Quando alguém critica o trabalho dele / dela, ele / ela pode realmente se acalorar.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 250 - 
 - [] Dzień 251 - 
 - [] Dzień 252 - 
 - [] Dzień 253 - 
