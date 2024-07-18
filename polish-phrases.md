@@ -667,9 +667,15 @@
  - Dziecko było bardzo zmęczone, więc położyliśmy je do łóżka wcześniej niż zwykle. (A criança estava muito cansada, então a acamamos (acamamos ela) mais cedo do que de costume.)
  - (On) Leżał / (Ona) Leżała w łóżku przez kilka dni z powodu ciężkiej migreny. (Ele / Ela ficou acamado / acamada por vários dias por causa de uma forte enxaqueca.)
 
+- [x] Dzień 252 - Obóz, Biwak. (Acampamento.)
+ - Co roku jeździmy na obóz nad jezioro, żeby odpocząć i pływać. (Todo ano fazemos um acampamento no lago para descansar e nadar.)
+ - Na biwaku w lesie spotkaliśmy wiele dzikich zwierząt. (No acampamento na floresta, encontramos muitos animais selvagens.)
+ - Rozbiliśmy obóz przy rzece, żeby mieć dostęp do świeżej wody. (Montamos nosso acampamento perto do rio para ter acesso à água fresca.)
+ - Dzieci uwielbiają jeździć na letni obóz, gdzie uczą się różnych umiejętności. (As crianças adoram ir ao acampamento de verão, onde aprendem várias habilidades.)
+ - W tym roku (my) planujemy zorganizować biwak na plaży. (Este ano (nós) planejamos fazer um acampamento na praia.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 252 - 
 - [] Dzień 253 - 
 - [] Dzień 254 - 
 - [] Dzień 255 - 
