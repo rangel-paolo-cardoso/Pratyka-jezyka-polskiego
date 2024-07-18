@@ -660,9 +660,15 @@
  - Temperatura w pomieszczeniu zaczęła się podgrzewać z powodu braku wentylacji. (A temperatura na sala começou a se acalorar devido à falta de ventilação.)
  - Kiedy ktoś krytykuje jego / jej pracę, potrafi się naprawdę rozzłościć. (Quando alguém critica o trabalho dele / dela, ele / ela pode realmente se acalorar.)
 
+- [x] Dzień 251 - Kłaść do łóżka, Położyć się, Leżeć w łóżku. (Acamar.)
+ - (Ja) Musiałem / Musiałam go / ją położyć do łóżka, ponieważ był / była bardzo chory / chora. ((Eu) tive que acamá-lo / acamá-la  porque ele / ela estava muito doente.)
+ - Kiedy złapał / złapała grypę, musiał / musiała położyć się do łóżka na kilka dni. (Quando pegou gripe, ele / ela teve que se acamar por alguns dias.)
+ - Po długiej podróży jedyne, o czym marzyłem / marzyłam, to położyć się do łóżka i odpocząć. (Depois de uma longa viagem, tudo o que eu queria era me acamar e descansar.)
+ - Dziecko było bardzo zmęczone, więc położyliśmy je do łóżka wcześniej niż zwykle. (A criança estava muito cansada, então a acamamos (acamamos ela) mais cedo do que de costume.)
+ - (On) Leżał / (Ona) Leżała w łóżku przez kilka dni z powodu ciężkiej migreny. (Ele / Ela ficou acamado / acamada por vários dias por causa de uma forte enxaqueca.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 251 - 
 - [] Dzień 252 - 
 - [] Dzień 253 - 
 - [] Dzień 254 - 
