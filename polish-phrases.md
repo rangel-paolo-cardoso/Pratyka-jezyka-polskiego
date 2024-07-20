@@ -674,9 +674,15 @@
  - Dzieci uwielbiają jeździć na letni obóz, gdzie uczą się różnych umiejętności. (As crianças adoram ir ao acampamento de verão, onde aprendem várias habilidades.)
  - W tym roku (my) planujemy zorganizować biwak na plaży. (Este ano (nós) planejamos fazer um acampamento na praia.)
 
+- [x] Dzień 253 - Obozować, Biwakować. (Acampar.)
+ - W zeszłym roku obozowaliśmy/obozowałyśmy w górach przez tydzień. (No ano passado, acampamos nas montanhas por uma semana.)
+ - Teraz biwakujemy nad jeziorem, ciesząc się spokojem i naturą. (Estamos acampando no lago agora, aproveitando a tranquilidade e a natureza.)
+ - W przyszłym miesiącu zamierzamy obozować na pustyni. (No próximo mês, planejamos acampar no deserto.)
+ - Moi przyjaciele i ja często biwakujemy na plaży latem. (Meus amigos e eu frequentemente acampamos na praia durante o verão.)
+ - Gdy byliśmy / byłyśmy dziećmi, obozowaliśmy / obozowałyśmy z rodzicami w lesie. (Quando éramos crianças, acampávamos com nossos pais na floresta.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 253 - 
 - [] Dzień 254 - 
 - [] Dzień 255 - 
 - [] Dzień 256 - 
