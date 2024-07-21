@@ -1,5 +1,7 @@
 [Polish reader voices](https://www.naturalreaders.com/online/)
 [Polish voices to download](https://ttsmaker.com/)
+[Cooljugator PL - Conjugation](https://cooljugator.com/pl/)
+[Transcribe audio and video](https://www.cockatoo.com/)
 
 - [x] Dzień 1 - Cześć! (Oi!)
 - [x] Dzień 2 - Jak się masz? (Como vai?)
@@ -681,9 +683,15 @@
  - Moi przyjaciele i ja często biwakujemy na plaży latem. (Meus amigos e eu frequentemente acampamos na praia durante o verão.)
  - Gdy byliśmy / byłyśmy dziećmi, obozowaliśmy / obozowałyśmy z rodzicami w lesie. (Quando éramos crianças, acampávamos com nossos pais na floresta.)
 
+- [x] Dzień 254 - Akcja, Działanie. (Ação.)
+ - Aktorzy / Aktorki wejdą do akcji w drugim akcie po moim sygnale. Lekka akcja kamery! (Os atores / As atoras entrarão em ação no segundo ato após o meu sinal. Luz, câmera, ação!)
+ - Cześć tato! / Cześć mamo! Jestem w kinie i oglądam z przyjaciółmi / przyjaciółkami film akcji. (Alô, Pai! / Alô, mãe! Estou no cinema assistindo a um filme de ação com os meus amigos / as minhas amigas.)
+ - Policja podjęła działania mające na celu zwalczanie przestępców / przestępczyń i ratowanie niewinnych. (A polícia entrou em ação para combater os criminosos / as criminosas e salvar os inocentes.)
+ - Dziś cena akcji tej firmy jest wysoka. Kto zainwestował / zainwestowała w odpowiednim momencie, osiągnął / osiągnęła dobre zyski. (Hoje o preço da ação desta empresa está alto. Aquele / Aquela que investiu no momento certo teve bons lucros.)
+ - Ich działania z pewnością będą miały konsekwencje w przyszłości, pozytywne lub negatywne. Wybory zmieniają przyszłość. (As ações deles certamente terão consequências no futuro, sejam elas positivas ou negativas. As escolhas mudam o futuro.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 254 - 
 - [] Dzień 255 - 
 - [] Dzień 256 - 
 - [] Dzień 257 - 
