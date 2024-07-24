@@ -704,9 +704,15 @@
  - Roztocze są powszechnym problemem w starych domach. (Ácaros são um problema comum em casas antigas.)
  - On / Ona zamierza kupić nowy filtr powietrza, żeby zmniejszyć ilość roztoczy w swoim domu. (Ele / Ela pretende comprar um novo filtro de ar para reduzir a quantidade de ácaros em sua (na casa dele / dela) casa.)
 
+- [x] Dzień 257 - Powodować, Pociągać za sobą. (Acarretar.)
+ - Jego / Jej decyzja spowodowała wiele problemów w firmie. (A decisão dele / dela acarretou muitos problemas na empresa.)
+ - Jego / Jej brak odpowiedzialności pociąga za sobą poważne konsekwencje. (A falta de responsabilidade dele / dela acarreta sérias consequências.)
+ - Twoje działania mogą w przyszłości spowodować nieoczekiwane koszty. (Suas ações podem acarretar custos inesperados no futuro.)
+ - Jego / Jej zaniedbanie prowadzi do opóźnień w projekcie. (A negligência dele / dela acarreta atrasos no projeto.)
+ - Decyzje, które teraz podejmujesz, mogą spowodować wiele problemów później. (As decisões que você toma agora podem acarretar muitos problemas mais tarde.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 257 - 
 - [] Dzień 258 - 
 - [] Dzień 259 - 
 - [] Dzień 260 - 
