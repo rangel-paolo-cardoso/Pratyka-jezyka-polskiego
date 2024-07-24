@@ -711,9 +711,15 @@
  - Jego / Jej zaniedbanie prowadzi do opóźnień w projekcie. (A negligência dele / dela acarreta atrasos no projeto.)
  - Decyzje, które teraz podejmujesz, mogą spowodować wiele problemów później. (As decisões que você toma agora podem acarretar muitos problemas mais tarde.)
 
+- [x] Dzień 258 - Kojarzyć się. (Acasalar.)
+ - Samica lwa kojarzyła się z samcem podczas sezonu godowego. (A leoa acasalou com o leão durante a temporada de acasalamento.)
+ - Samiec ptaka kojarzy się z samicą, aby założyć rodzinę. (O pássaro macho acasala com a fêmea para formar uma família.)
+ - W przyszłym sezonie koale będą się kojarzyć, aby zapewnić przetrwanie gatunku. (Na próxima temporada, os coalas vão acasalar para garantir a sobrevivência da espécie.)
+ - Samica żółwia kojarzy się na plaży, gdzie składa jaja. (A tartaruga fêmea acasala na praia, onde põe seus ovos.)
+ - Wkrótce samiec jelenia będzie się kojarzył z samicami w swoim stadzie. (Em breve, o cervo macho vai acasalar com as fêmeas do seu bando.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 258 - 
 - [] Dzień 259 - 
 - [] Dzień 260 - 
 - [] Dzień 261 - 
