@@ -690,16 +690,22 @@
  - Dziś cena akcji tej firmy jest wysoka. Kto zainwestował / zainwestowała w odpowiednim momencie, osiągnął / osiągnęła dobre zyski. (Hoje o preço da ação desta empresa está alto. Aquele / Aquela que investiu no momento certo teve bons lucros.)
  - Ich działania z pewnością będą miały konsekwencje w przyszłości, pozytywne lub negatywne. Wybory zmieniają przyszłość. (As ações deles certamente terão consequências no futuro, sejam elas positivas ou negativas. As escolhas mudam o futuro.)
 
-- [] Dzień 255 - Głaskać, Pieścić, Pogłaskać. (Acariciar.)
+- [x] Dzień 255 - Głaskać, Pieścić, Pogłaskać. (Acariciar.)
  - On / Ona delikatnie głaskał / głaskała swojego / swoją kota / kotkę, żeby go / ją uspokoić. (Ele / Ela acariciou seu / sua gato / gata (o / a gato / gata dele / dela) gentilmente para acalmá-lo / acalmá-la.)
  - Codziennie głaszczę psa / suczkę, bo to go / ją uszczęśliwia. (Eu acaricio o / a cachorro / cachorra todos os dias porque isso o / a deixa feliz.)
  - Jutro pogłaszczę mojego / moją nowego / nową kociaka / kotkę, kiedy go / ją przyniosę do domu. (Amanhã vou acariciar meu / minha novo / nova gatinho / gatinha quando o / a trouxer para casa.)
  - Dzieci często pieścić swoje ulubione pluszaki przed snem. (As crianças costumam acariciar seus bichinhos de pelúcia favoritos antes de dormir.)
  - Wczoraj pogłaskałem / pogłaskałam głowę mojego / mojej syna / córki, aby go / ją uspokoić. (Ontem eu acariciei a cabeça do / da meu / minha filho / filha para acalmá-lo / acalmá-la.)
 
+- [x] Dzień 256 - Roztocz. (Ácaro.)
+ - On / Ona znalazł / znalazła roztocze w swoim materacu i postanowił / postanowiła go wymienić. (Ele / Ela encontrou ácaros no seu colchão (no colchão dele / dela) e decidiu trocá-lo.)
+ - Mój / Moja pies / suczka często drapie się z powodu roztoczy w jego / jej sierści. (Meu / Minha cachorro / cachorra se coça frequentemente por causa dos ácaros no pelo dele / dela.)
+ - Jutro będę odkurzał, aby usunąć roztocze z dywanów. (Amanhã vou aspirar para remover os ácaros dos tapetes.)
+ - Roztocze są powszechnym problemem w starych domach. (Ácaros são um problema comum em casas antigas.)
+ - On / Ona zamierza kupić nowy filtr powietrza, żeby zmniejszyć ilość roztoczy w swoim domu. (Ele / Ela pretende comprar um novo filtro de ar para reduzir a quantidade de ácaros em sua (na casa dele / dela) casa.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 256 - 
 - [] Dzień 257 - 
 - [] Dzień 258 - 
 - [] Dzień 259 - 
