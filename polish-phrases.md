@@ -732,9 +732,15 @@
  - Respekt wobec nauczycieli / nauczycielek był kiedyś dużo silniejszy. (O acatamento aos / as professores / professoras era muito mais forte antigamente.)
  - Poszanowanie dla tradycji jest ważną częścią naszej kultury. (O acatamento às tradições é uma parte importante da nossa cultura.)
 
+- [x] Dzień 261 - Zaakceptować, Zastosować się, Stosować się. (Acatar.)
+ - On / Ona  zaakceptował / zaakceptowała decyzję sądu, mimo że była dla niego / niej niekorzystna. (Ele / Ela acatou a decisão do tribunal, embora fosse desfavorável para ele / ela.)
+ - On / Ona zawsze stosuje się do poleceń swoich przełożonych. (Ele / Ela sempre acata as ordens de seus superiores.)
+ - Firma zastosuje się do nowych przepisów od przyszłego roku. (A empresa acatará as novas regras a partir do próximo ano.)
+ - On / Ona zaakceptował / zaakceptowała rady swoich przyjaciół / przyjaciółek i zmienił / zmieniła swoje życie na lepsze. (Ele / Ela acatou os conselhos dos / das amigos / amigas e mudou sua vida para melhor.)
+ - On / Ona zawsze stosuje się do zasad etyki zawodowej. (Ele / Ela sempre acata as regras de ética profissional.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 261 - 
 - [] Dzień 262 - 
 - [] Dzień 263 - 
 - [] Dzień 264 - 
