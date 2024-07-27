@@ -725,9 +725,15 @@
  - To nie był przypadek, że oboje wpadliśmy na siebie w tym samym miejscu. (Não foi por acaso que nós dois nos encontramos no mesmo lugar.)
  - Przypadkowo dowiedziałem / dowiedziałam się o twojej tajemnicy. (Por acaso, descobri o seu segredo.)
 
+- [x] Dzień 260 - Poszanowanie, Respekt, Przestrzeganie, Zgodność. (Acatamento.)
+ - Poszanowanie dla jego / jej decyzji było wyraźnie widoczne w całym zespole. (O acatamento de sua (da) decisão (dele / dela) foi claramente visível em toda a equipe.)
+ - Przestrzeganie zasad jest ważne dla harmonii społecznej. (O acatamento das regras é importante para a harmonia social.)
+ - Twoje poszanowanie dla prawa zostanie docenione w przyszłości. (Seu acatamento da lei será valorizado no futuro.)
+ - Respekt wobec nauczycieli / nauczycielek był kiedyś dużo silniejszy. (O acatamento aos / as professores / professoras era muito mais forte antigamente.)
+ - Poszanowanie dla tradycji jest ważną częścią naszej kultury. (O acatamento às tradições é uma parte importante da nossa cultura.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 260 - 
 - [] Dzień 261 - 
 - [] Dzień 262 - 
 - [] Dzień 263 - 
