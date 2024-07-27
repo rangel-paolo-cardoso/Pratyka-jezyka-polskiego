@@ -712,15 +712,21 @@
  - Decyzje, które teraz podejmujesz, mogą spowodować wiele problemów później. (As decisões que você toma agora podem acarretar muitos problemas mais tarde.)
 
 - [x] Dzień 258 - Kojarzyć się. (Acasalar.)
- - Samica lwa kojarzyła się z samcem podczas sezonu godowego. (A leoa acasalou com o leão durante a temporada de acasalamento.)
- - Samiec ptaka kojarzy się z samicą, aby założyć rodzinę. (O pássaro macho acasala com a fêmea para formar uma família.)
- - W przyszłym sezonie koale będą się kojarzyć, aby zapewnić przetrwanie gatunku. (Na próxima temporada, os coalas vão acasalar para garantir a sobrevivência da espécie.)
- - Samica żółwia kojarzy się na plaży, gdzie składa jaja. (A tartaruga fêmea acasala na praia, onde põe seus ovos.)
- - Wkrótce samiec jelenia będzie się kojarzył z samicami w swoim stadzie. (Em breve, o cervo macho vai acasalar com as fêmeas do seu bando.)
+ - Samica lwa spółkowała z samcem podczas sezonu godowego. (A leoa acasalou com o leão durante a temporada de acasalamento.)
+ - Samiec ptaka łączy się z samicą, aby założyć rodzinę. (O pássaro macho acasala com a fêmea para formar uma família.)
+ - W przyszłym sezonie koale będą kopulować, aby zapewnić przetrwanie gatunku. (Na próxima temporada, os coalas vão acasalar para garantir a sobrevivência da espécie.)
+ - Samica żółwia łączy się na plaży, gdzie składa jaja. (A tartaruga fêmea acasala na praia, onde põe seus ovos.)
+ - Wkrótce samiec jelenia będzie kopulować z samicami w swoim stadzie. (Em breve, o cervo macho vai acasalar com as fêmeas do seu bando.)
+
+- [x] Dzień 259 - Przypadek. (Acaso.)
+ - Przypadkiem spotkałem / spotkałam starego przyjaciela / przyjaciółkę na ulicy. (Por acaso, encontrei um / uma velho / velha amigo / amiga na rua.)
+ - Czy myślisz, że nasze spotkanie było przypadkowe? (Você acha que nosso encontro foi por acaso?)
+ - Jeśli przez przypadek znajdę ten dokument, dam ci znać. (Se por acaso eu encontrar aquele documento, te aviso.)
+ - To nie był przypadek, że oboje wpadliśmy na siebie w tym samym miejscu. (Não foi por acaso que nós dois nos encontramos no mesmo lugar.)
+ - Przypadkowo dowiedziałem / dowiedziałam się o twojej tajemnicy. (Por acaso, descobri o seu segredo.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 259 - 
 - [] Dzień 260 - 
 - [] Dzień 261 - 
 - [] Dzień 262 - 
