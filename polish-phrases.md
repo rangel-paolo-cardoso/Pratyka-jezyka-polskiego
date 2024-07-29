@@ -711,7 +711,7 @@
  - Jego / Jej zaniedbanie prowadzi do opóźnień w projekcie. (A negligência dele / dela acarreta atrasos no projeto.)
  - Decyzje, które teraz podejmujesz, mogą spowodować wiele problemów później. (As decisões que você toma agora podem acarretar muitos problemas mais tarde.)
 
-- [x] Dzień 258 - Kojarzyć się. (Acasalar.)
+- [x] Dzień 258 - Spółkować, Łączyć się w pary, Kopulować. (Acasalar.)
  - Samica lwa spółkowała z samcem podczas sezonu godowego. (A leoa acasalou com o leão durante a temporada de acasalamento.)
  - Samiec ptaka łączy się z samicą, aby założyć rodzinę. (O pássaro macho acasala com a fêmea para formar uma família.)
  - W przyszłym sezonie koale będą kopulować, aby zapewnić przetrwanie gatunku. (Na próxima temporada, os coalas vão acasalar para garantir a sobrevivência da espécie.)
@@ -739,9 +739,15 @@
  - On / Ona zaakceptował / zaakceptowała rady swoich przyjaciół / przyjaciółek i zmienił / zmieniła swoje życie na lepsze. (Ele / Ela acatou os conselhos dos / das amigos / amigas e mudou sua vida para melhor.)
  - On / Ona zawsze stosuje się do zasad etyki zawodowej. (Ele / Ela sempre acata as regras de ética profissional.)
 
+- [x] Dzień 262 - Przeciążyć. (Acavalar.)
+ - On / Ona przeciążył / przeciążyła wszystkie książki na jednej półce, co spowodowało jej załamanie. (Ele / Ela acavalou todos os livros em uma prateleira, o que causou o seu colapso.)
+ - On / Ona zawsze przeciąża swoje obowiązki, co sprawia, że jest zestresowany / zestresowana. (Ele / Ela sempre acavala suas tarefas, o que o / a deixa (ele / ela) estressado / estressada.)
+ - Jeśli nie będziemy ostrożni / ostrożne, przeciążymy system komputerowy. (Se não formos cuidadosos / cuidadosas, acavalaremos o sistema de computador.)
+ - On / Ona teraz przeciąża wszystkie swoje projekty, próbując je skończyć na czas. (Ele / Ela está acavalando todos os seus projetos agora, tentando terminá-los a tempo.)
+ - On / Ona przeciąży swoje harmonogramy, jeśli nie nauczy się lepiej zarządzać swoim czasem. (Ele / Ela acavalará seus horários se não aprender a gerenciar melhor o seu tempo.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 262 - 
 - [] Dzień 263 - 
 - [] Dzień 264 - 
 - [] Dzień 265 - 
