@@ -746,9 +746,15 @@
  - On / Ona teraz przeciąża wszystkie swoje projekty, próbując je skończyć na czas. (Ele / Ela está acavalando todos os seus projetos agora, tentando terminá-los a tempo.)
  - On / Ona przeciąży swoje harmonogramy, jeśli nie nauczy się lepiej zarządzać swoim czasem. (Ele / Ela acavalará seus horários se não aprender a gerenciar melhor o seu tempo.)
 
+- [x] Dzień 263 - Uzyskać dostęp, Wchodzić, Mieć dostęp. (Aceder.)
+ - On / Ona uzyskał / uzyskała dostęp do swojego konta bankowego po długiej walce. (Ele / Ela [acedeu à sua] [acessou sua] conta bancária após uma longa luta.)
+ - On / Ona uzyskał / uzyskała dostęp do systemu po wielu próbach. (Ele/ Ela [acedeu ao] [acessou o] sistema após muitas tentativas. )
+ - On / Ona teraz próbuje uzyskać dostęp do swojego e-maila. (Ele / Ela está [a tentar aceder ao] [tentando acessar o] seu e-mail agora.)
+ - On / Ona uzyskuje dostęp do dokumentów, aby je edytować. (Ele / Ela está [a aceder aos] [acessando os] documentos para [os editar] [editá-los ].)
+ - Jeśli wprowadzisz prawidłowe hasło, uzyskasz dostęp do plików. (Se você digitar a senha correta, [acederá aos] [acessará os] [ficheiros ] [arquivos ].)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 263 - 
 - [] Dzień 264 - 
 - [] Dzień 265 - 
 - [] Dzień 266 - 
