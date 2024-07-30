@@ -753,9 +753,15 @@
  - On / Ona uzyskuje dostęp do dokumentów, aby je edytować. (Ele / Ela está [a aceder aos] [acessando os] documentos para [os editar] [editá-los ].)
  - Jeśli wprowadzisz prawidłowe hasło, uzyskasz dostęp do plików. (Se você digitar a senha correta, [acederá aos] [acessará os] [ficheiros ] [arquivos ].)
 
+- [x] Dzień 264 - Akceptacja. (Aceitação.)
+ - On / Ona w końcu znalazł / znalazła akceptację swojej pracy przez społeczność naukową. (Ele / Ela finalmente encontrou aceitação para o seu trabalho pela comunidade científica.)
+ - On / Ona obecnie stara się o akceptację swojej aplikacji na studia. (Ele / Ela está atualmente buscando aceitação para sua aplicação para a universidade.)
+ - On / Ona czuje się szczęśliwy, ponieważ otrzymał / otrzymała akceptację od swoich rodziców. (Ele / Ela se sente feliz porque recebeu aceitação de seus pais (dos pais dele / dela).)
+ - On / Ona wkrótce uzyska akceptację na przyjęcie do programu badawczego. (Ele / Ela em breve obterá aceitação para ingressar no programa de pesquisa.)
+ - On / Ona będzie dążył / dążyła do akceptacji swojej pracy przez swoich przełożonych. (Ele / Ela buscará aceitação para o seu trabalho pelos seus superiores.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 264 - 
 - [] Dzień 265 - 
 - [] Dzień 266 - 
 - [] Dzień 267 - 
