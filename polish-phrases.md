@@ -760,9 +760,15 @@
  - On / Ona wkrótce uzyska akceptację na przyjęcie do programu badawczego. (Ele / Ela em breve obterá aceitação para ingressar no programa de pesquisa.)
  - On / Ona będzie dążył / dążyła do akceptacji swojej pracy przez swoich przełożonych. (Ele / Ela buscará aceitação para o seu trabalho pelos seus superiores.)
 
+- [x] Dzień 265 - Zaakceptować, Akceptować. (Aceitar.)
+ - On / Ona zaakceptował / zaakceptowała ofertę pracy w nowej firmie. (Ele / Ela aceitou a oferta de emprego na nova empresa.)
+ - On / Ona teraz akceptuje siebie takim / taką, jaki / jaka jest. (Ele / Ela agora aceita a si mesmo / mesma como é.)
+ - On / Ona nie chce zaakceptować faktu, że popełnił / popełniła błąd. (Ele / Ela não quer aceitar o fato de que cometeu um erro.)
+ - On / Ona zaakceptuje warunki umowy, jeśli zostaną spełnione jej wymagania. (Ele / Ela aceitará os termos do contrato se suas exigências forem atendidas.)
+ - On / Ona w końcu zaakceptuje zmiany, które zaszły w jego / jej życiu. (Ele / Ela finalmente aceitará as mudanças que ocorreram em sua vida.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 265 - 
 - [] Dzień 266 - 
 - [] Dzień 267 - 
 - [] Dzień 268 - 
