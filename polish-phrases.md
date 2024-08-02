@@ -767,9 +767,15 @@
  - On / Ona zaakceptuje warunki umowy, jeśli zostaną spełnione jej wymagania. (Ele / Ela aceitará os termos do contrato se suas exigências forem atendidas.)
  - On / Ona w końcu zaakceptuje zmiany, które zaszły w jego / jej życiu. (Ele / Ela finalmente aceitará as mudanças que ocorreram em sua vida.)
 
+- [x] Dzień 266 - Akceptowalny(Mężczyzna), Akceptowalna(Kobieta), Akceptowalne (Neutralny). (Aceitável.)
+ - Oni / One uznali / uznały wynik testu za akceptowalny. (Eles / Elas consideraram o resultado do teste aceitável.)
+ - To rozwiązanie było akceptowalne w tamtych okolicznościach. (Essa solução foi aceitável naquela circunstância.)
+ - Uważam, że takie zachowanie nie jest akceptowalne. (Eu considero que tal comportamento não é aceitável.)
+ - Czy myślisz, że ta oferta jest akceptowalna? (Você acha que esta oferta é aceitável?)
+ - My uznamy te warunki za akceptowalne, jeśli spełnią nasze oczekiwania. (Nós consideraremos esses termos aceitáveis se atenderem às nossas expectativas.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 266 - 
 - [] Dzień 267 - 
 - [] Dzień 268 - 
 - [] Dzień 269 - 
