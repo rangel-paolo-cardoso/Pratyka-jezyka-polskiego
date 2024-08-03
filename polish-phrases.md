@@ -774,9 +774,15 @@
  - Czy myślisz, że ta oferta jest akceptowalna? (Você acha que esta oferta é aceitável?)
  - My uznamy te warunki za akceptowalne, jeśli spełnią nasze oczekiwania. (Nós consideraremos esses termos aceitáveis se atenderem às nossas expectativas.)
 
+- [x] Dzień 267 - Zaakceptowałem, Zaakceptowałam,Zaakceptowali, Zaakceptowały (Czas Przeszły), Akceptuje (Czas Teraźniejszy), Zaakceptuje (Czas Przyszły). (Aceito.)
+ - Zaakceptowałem / Zaakceptowałam twoją propozycję bez wahania. (Eu aceitei sua proposta sem hesitação.)
+ - On / Ona teraz akceptuje warunki umowy. (Ele / Ela aceita os termos do contrato agora.)
+ - Akceptujemy wyniki tego badania. (Nós aceitamos os resultados deste estudo.)
+ - On / Ona zaakceptuje zaproszenie na przyjęcie. (Ele / Ela aceitará o convite para a festa.)
+ - Oni / One zaakceptują nasze warunki, jeśli będą dla nich korzystne. (Eles / Elas aceitarão nossos termos, se forem vantajosos para eles / elas.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 267 - 
 - [] Dzień 268 - 
 - [] Dzień 269 - 
 - [] Dzień 270 - 
