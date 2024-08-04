@@ -781,10 +781,22 @@
  - On / Ona zaakceptuje zaproszenie na przyjęcie. (Ele / Ela aceitará o convite para a festa.)
  - Oni / One zaakceptują nasze warunki, jeśli będą dla nich korzystne. (Eles / Elas aceitarão nossos termos, se forem vantajosos para eles / elas.)
 
+- [x] Dzień 268 - Przyspieszenie. (Aceleração.)
+ - Doświadczyłem / Doświadczyłam przyspieszenia podczas jazdy na autostradzie. (Eu experimentei a aceleração enquanto dirigia na estrada.)
+ - On / Ona odczuwa przyspieszenie, gdy pociąg rusza. (Ele / Ela sente a aceleração quando o trem começa a se mover.)
+ - (My) będziemy mierzyć przyspieszenie samochodu podczas testów. ((Nós) vamos medir a aceleração do carro durante os testes.)
+ - On / Ona bada przyspieszenie ciał w różnych warunkach. (Ele / Ela estuda a aceleração dos corpos em diferentes condições.)
+ - Oni / One zrozumieją zasady przyspieszenia po przeprowadzeniu eksperymentu. (Eles / Elas entenderão os princípios da aceleração após realizar o experimento.)
+
+- [] Dzień 269 - . (.)
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 268 - 
-- [] Dzień 269 - 
 - [] Dzień 270 - 
 - [] Dzień 271 - 
 - [] Dzień 272 - 
