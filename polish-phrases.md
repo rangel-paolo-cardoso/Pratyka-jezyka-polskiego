@@ -788,12 +788,12 @@
  - On / Ona bada przyspieszenie ciał w różnych warunkach. (Ele / Ela estuda a aceleração dos corpos em diferentes condições.)
  - Oni / One zrozumieją zasady przyspieszenia po przeprowadzeniu eksperymentu. (Eles / Elas entenderão os princípios da aceleração após realizar o experimento.)
 
-- [] Dzień 269 - . (.)
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 269 - Akcelerator, Pedał gazu. (Acelerador.)
+ - Wcisnąłem / Wcisnęłam pedał gazu, aby przyspieszyć na autostradzie. (Eu pressionei o acelerador para ganhar velocidade na rodovia.)
+ - On / Ona delikatnie naciska pedał gazu, żeby kontrolować prędkość. (Ele / Ela pressiona o acelerador suavemente para controlar a velocidade.)
+ - Będziemy testować nowy pedał gazu w naszym warsztacie. (Nós vamos testar o novo acelerador em nossa oficina.)
+ - On / Ona naprawia pedał gazu w samochodzie. (Ele / Ela está consertando o acelerador no carro.)
+ - Oni / One zainstalują nowy akcelerator cząstek w laboratorium. (Eles / Elas vão instalar um novo acelerador de partículas no laboratório.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
