@@ -795,9 +795,18 @@
  - On / Ona naprawia pedał gazu w samochodzie. (Ele / Ela está consertando o acelerador no carro.)
  - Oni / One zainstalują nowy akcelerator cząstek w laboratorium. (Eles / Elas vão instalar um novo acelerador de partículas no laboratório.)
 
+- [x] Dzień 270 - Przyspieszyć (Czasownik), Przyspieszył / Przyspieszyła (Czas przeszły),
+Przyspiesza (Czas Teraźniejszy),
+Przyspieszy (Czas przyszły).
+ (Acelerar.)
+ - Przyspieszę samochodem, żeby szybciej dojechać do pracy. (Vou acelerar o carro para chegar mais rápido ao trabalho.)
+ - On / Ona przyspieszył / przyspieszyła, kiedy zobaczył / zobaczyła zielone światło. (Ele / Ela acelerou quando viu o semáforo verde.)
+ - On / Ona przyspiesza bieg na treningu. (Ele / Ela está acelerando a corrida no treino.)
+ - Przyspieszymy proces, aby zakończyć projekt na czas. (Nós vamos acelerar o processo para terminar o projeto a tempo.)
+ - Oni / One przyspieszyli / przyspieszyły prace budowlane, aby zdążyć przed zimą. (Eles / Elas aceleraram as obras de construção para terminarem antes do inverno.)
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 270 - 
 - [] Dzień 271 - 
 - [] Dzień 272 - 
 - [] Dzień 273 - 
