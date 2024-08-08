@@ -805,10 +805,17 @@ Przyspieszy (Czas przyszły).
  - Przyspieszymy proces, aby zakończyć projekt na czas. (Nós vamos acelerar o processo para terminar o projeto a tempo.)
  - Oni / One przyspieszyli / przyspieszyły prace budowlane, aby zdążyć przed zimą. (Eles / Elas aceleraram as obras de construção para terminarem antes do inverno.)
 
+- [x] Dzień 271 - Akcelerometr (Przymiotnik). (Acelerômetro.)
+ - Używam akcelerometru, aby zmierzyć przyspieszenie mojego roweru. (Eu estou usando um acelerômetro para medir a aceleração da minha bicicleta.)
+ - On / Ona użył / użyła akcelerometru, aby sprawdzić przyspieszenie pojazdu. (Ele / Ela usou um acelerômetro para verificar aceleração do veículo.)
+ - Przyspieszymy badania, korzystając z akcelerometro. (Nós vamos acelerar as pesquisas utilizando um acelerômetro.)
+ - On / Ona użył / użyła akcelerometru do analizy swoich wyników sportowych. (Ele / Ela usou um acelerômetro para analisar seus resultados esportivos.)
+ - Oni / One zainstalują akcelerometru w nowym modelu telefonu. (Eles / Elas vão instalar um acelerômetro no novo modelo de telefone.)
+
+- [x] Dzień 272 - 
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 271 - 
-- [] Dzień 272 - 
 - [] Dzień 273 - 
 - [] Dzień 274 - 
 - [] Dzień 275 - 
