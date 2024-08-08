@@ -812,7 +812,12 @@ Przyspieszy (Czas przyszły).
  - On / Ona użył / użyła akcelerometru do analizy swoich wyników sportowych. (Ele / Ela usou um acelerômetro para analisar seus resultados esportivos.)
  - Oni / One zainstalują akcelerometru w nowym modelu telefonu. (Eles / Elas vão instalar um acelerômetro no novo modelo de telefone.)
 
-- [x] Dzień 272 - 
+- [x] Dzień 272 - Boćwina, Burak liściowy (beterraba de folhas). (Acelga.)
+ - Uwielbiam jeść boćwinę na śniadanie, ponieważ jest zdrowa i smaczna. (Eu adoro comer acelga no café da manhã, porque é saudável e saborosa.)
+ - On / Ona dodał / dodała boćwinę do swojej zupy, żeby była bardziej pożywna. (Ele / Ela adicionou acelga à sua sopa para que ficasse mais nutritiva.)
+ - On / Ona ugotuje boćwinę na obiad, żeby zaskoczyć swoją rodzinę. (Ele / Ela vai cozinhar acelga para o jantar para surpreender a sua família.)
+ - Dodajemy boćwinę do sałatek, żeby były bardziej kolorowe i zdrowe. (Nós adicionamos acelga às saladas para que fiquem mais coloridas e saudáveis.)
+ - Oni / One zamierzają posadzić boćwinę w swoim ogrodzie w przyszłym roku. (Eles / Elas planejam plantar acelga em seu jardim no próximo ano.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
