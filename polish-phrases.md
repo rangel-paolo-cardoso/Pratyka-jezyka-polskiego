@@ -833,7 +833,14 @@ Przyspieszy (Czas przyszły).
  - Wczoraj kupiłem / kupiłam kawałek łopatki i zrobiłem / zrobiłam z niego pyszny gulasz. (Ontem, comprei um pedaço de acém e fiz um delicioso ensopado.)
  - Jutro zamierzam zrobić łopatkę na grillu, bo wszyscy go uwielbiają. (Amanhã, eu vou preparar acém na grelha, porque todos adoram.)
 
-- [] Dzień 275 - 
+- [x] Dzień 275 - Machać (Czasownik), Machnąć (Czas Przeszły), Macham (Czas Teraźniejszy), Pomacham (Czas Przyszły). (Acenar.)
+ - (Ja) machnąłem / machnęłam ręką na pożegnanie, gdy odjeżdżałem / odjeżdżałam. ((Eu) acenei com a mão ao me despedir, quando estava indo embora.)
+ - On / Ona macha do mnie codziennie, gdy się spotykamy. (Ele / Ela acena para mim todos os dias, quando nos encontramos.)
+ - (Ja) pomacham do ciebie z okna, kiedy przyjedziesz. ((Eu) vou acenar para você da janela, quando você chegar.)
+ - Oni / One machnęli / machnęły na pożegnanie, gdy pociąg odjeżdżał. (Eles / Elas acenaram ao se despedirem, quando o trem partiu.)
+ - (Ty) machasz do publiczności na końcu występu, pokazując wdzięczność. (Você acena para o público ao final da apresentação, mostrando gratidão.)
+
+- [] Dzień 276 - 
  -  ()
  -  ()
  -  ()
@@ -842,12 +849,6 @@ Przyspieszy (Czas przyszły).
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 276 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
 - [] Dzień 277 - 
  -  ()
  -  ()
