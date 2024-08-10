@@ -826,7 +826,14 @@ Przyspieszy (Czas przyszły).
  - To bezkomórkowe białko jest kluczowe dla tego eksperymentu. (Esta proteína acelular é crucial para este experimento.)
  - Oni / One zamierzają analizować bezkomórkowe próbki w laboratorium jutro. (Eles / Elas planejam analisar amostras acelulares no laboratório amanhã.)
 
-- [] Dzień 274 - 
+- [x] Dzień 274 - Łopatka. (Acém. (Rzeczownik Męski).)
+ - (My) potrzebujemy łopatki na obiad. Proszę, idź i kup ją w supermarkecie. ((Nós) precisamos de acém para o jantar. Por favor, vá comprar no supermercado.)
+ - Może pójdziemy teraz do rzeźnika? Grill zaczyna się w południe i warto zabrać łopatkę. (Que tal irmos ao açougue agora? O churrasco começa ao meio dia, e devemos levar acém.)
+ - Czy lubicie łopatkę? Cóż, czy ci się to podoba, czy nie, o to, co mamy na dzisiaj. Haha. (Vocês gostam de acém? Bom, gostando ou não, é isso que temos para hoje. Haha.)
+ - Wczoraj kupiłem / kupiłam kawałek łopatki i zrobiłem / zrobiłam z niego pyszny gulasz. (Ontem, comprei um pedaço de acém e fiz um delicioso ensopado.)
+ - Jutro zamierzam zrobić łopatkę na grillu, bo wszyscy go uwielbiają. (Amanhã, eu vou preparar acém na grelha, porque todos adoram.)
+
+- [] Dzień 275 - 
  -  ()
  -  ()
  -  ()
@@ -835,12 +842,6 @@ Przyspieszy (Czas przyszły).
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 275 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
 - [] Dzień 276 - 
  -  ()
  -  ()
