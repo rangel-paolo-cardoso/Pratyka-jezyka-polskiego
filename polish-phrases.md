@@ -840,7 +840,14 @@ Przyspieszy (Czas przyszły).
  - Oni / One machnęli / machnęły na pożegnanie, gdy pociąg odjeżdżał. (Eles / Elas acenaram ao se despedirem, quando o trem partiu.)
  - (Ty) machasz do publiczności na końcu występu, pokazując wdzięczność. (Você acena para o público ao final da apresentação, mostrando gratidão.)
 
-- [] Dzień 276 - 
+- [x] Dzień 276 - Zapalniczka, Zapalarka. (Acendedor (Przymiotnik)(Rzeczownik męski).)
+ - On / Ona zgubił / zgubiła swoją zapalniczkę, więc nie mógł / mogła zapalić świecy. (Ele / Ela perdeu seu acendedor, então não pôde acender a vela.)
+ - On / Ona zawsze nosi zapalniczkę w kieszeni / torebce, na wypadek gdyby była potrzebna. (Ele / Ela sempre carrega um acendedor no / na bolso / bolsa, caso seja necessário.)
+ - Czy przyniesiesz zapalarkę na grilla w weekend? (Você vai trazer o acendedor para o churrasco no fim de semana?)
+ - Jutro oni / one przyniosą zapalniczki na biwak, abyśmy mogli rozpalić ognisko. (Amanhã eles / elas vão trazer acendedores para o acampamento, para que possamos acender a fogueira.)
+ - Zawsze używam zapalarki, gdy zapalam gaz w kuchence. (Eu sempre uso o acendedor quando acendo o gás no fogão.)
+
+- [] Dzień 277 - 
  -  ()
  -  ()
  -  ()
@@ -849,12 +856,6 @@ Przyspieszy (Czas przyszły).
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 277 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
 - [] Dzień 278 - 
  -  ()
  -  ()
