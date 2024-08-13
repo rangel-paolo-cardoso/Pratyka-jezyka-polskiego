@@ -847,7 +847,14 @@ Przyspieszy (Czas przyszły).
  - Jutro oni / one przyniosą zapalniczki na biwak, abyśmy mogli rozpalić ognisko. (Amanhã eles / elas vão trazer acendedores para o acampamento, para que possamos acender a fogueira.)
  - Zawsze używam zapalarki, gdy zapalam gaz w kuchence. (Eu sempre uso o acendedor quando acendo o gás no fogão.)
 
-- [] Dzień 277 - 
+- [x] Dzień 277 - Zapalić (fire, lights, candles…), Rozpalić (bonfire, campfire…), Włączyć (electronic devices). (Acender.)
+ - (Ja) muszę zapalić świecę, ponieważ w domu nie ma prądu. ((Eu) preciso acender a vela, porque não há eletricidade em casa.)
+ - On / Ona włączył / włączyła światła w salonie, żeby było jaśniej. (Ele / Ela acendeu (ligou) as luzes da sala para que ficasse mais claro.)
+ - (My) zapaliliśmy / zapaliłyśmy ognisko, żeby się ogrzać podczas biwaku. ((Nós) acendemos uma fogueira para nos aquecermos durante o acampamento.)
+ - Czy oni / one zapalili / zapaliły świecę, zanim zgasły wszystkie światła? (Eles / Elas acenderam a vela antes que todas as luzes se apagassem?)
+ - Jutro zapalę lampki na choinkę, żeby wprowadzić świąteczną atmosferę. (Amanhã, eu vou acender (ligar) as luzes na árvore de Natal para criar um clima festivo.)
+
+- [] Dzień 278 - 
  -  ()
  -  ()
  -  ()
@@ -856,12 +863,6 @@ Przyspieszy (Czas przyszły).
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 278 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
 - [] Dzień 279 - 
  -  ()
  -  ()
