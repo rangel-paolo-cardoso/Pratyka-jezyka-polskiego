@@ -854,15 +854,13 @@ Przyspieszy (Czas przyszły).
  - Czy oni / one zapalili / zapaliły świecę, zanim zgasły wszystkie światła? (Eles / Elas acenderam a vela antes que todas as luzes se apagassem?)
  - Jutro zapalę lampki na choinkę, żeby wprowadzić świąteczną atmosferę. (Amanhã, eu vou acender (ligar) as luzes na árvore de Natal para criar um clima festivo.)
 
-- [] Dzień 278 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 278 - Zapalenie, Rozpalenie, Włączenie. (Acendimento.)
+ - Nastąpiło nagłe zapalenie wszystkich świateł. Boję się. (Houve um acendimento repentino de todas as luzes. Eu estou com medo.)
+ - Rozpalenie ogniska było konieczne, aby przetrwać zimną noc. (O acendimento da fogueira foi necessário para sobreviver à noite fria.)
+ - Po zapaleniu lamp, pokój wypełnił się ciepłym światłem. (Após o acendimento das lâmpadas, o quarto se encheu de uma luz quente.)
+ - Zapalenie świecy przez nią było częścią rytuału. (O acendimento da vela por ela fazia parte do ritual.)
+ - Jutro rano nastąpi zapalenie znicza olimpijskiego. (Amanhã de manhã ocorrerá o acendimento da tocha olímpica.)
 
-Witajcie, piękne i pachnące osoby!
-Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 279 - 
  -  ()
  -  ()
@@ -935,6 +933,9 @@ Dziękuję wszystkim, moi drodzy, za oglądanie!
  -  ()
  -  ()
  -  ()
+
+Witajcie, piękne i pachnące osoby!
+Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 291 - 
  -  ()
  -  ()
