@@ -861,12 +861,13 @@ Przyspieszy (Czas przyszły).
  - Zapalenie świecy przez nią było częścią rytuału. (O acendimento da vela por ela fazia parte do ritual.)
  - Jutro rano nastąpi zapalenie znicza olimpijskiego. (Amanhã de manhã ocorrerá o acendimento da tocha olímpica.)
 
-- [] Dzień 279 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 279 - Aceton. (Acetona.)
+ - Ona szukała butelki acetonu, żeby móc zmyć lakier z paznokci. (Ela procurou o frasco de acetona para poder remover o esmalte das unhas.)
+ - (Ja) poszedłem / poszłam do apteki, żeby kupić aceton. Znalazłem / Znalazłam butelkę za 5 zł. ((Eu) fui até a farmácia comprar acetona. Achei um frasco por 5 zl.)
+ - Bądź bardzo ostrożny / ostrożna, aceton jest wysoce łatwopalny i może spowodować pożar. Trzymaj się z dala od ognia. (Seja muito cuidadoso / cuidadosa, a acetona é altamente inflamável e pode causar um incêndio. Fique longe do fogo.)
+ - Oni / One użyli / użyły acetonu do czyszczenia narzędzi, zanim zaczęli / zaczęły naprawy. (Eles / Elas usaram acetona para limpar as ferramentas antes de começarem os reparos.)
+ - Jutro muszę kupić aceton, bo skończył się w domu. (Amanhã, preciso comprar acetona, porque acabou em casa.)
+
 - [] Dzień 280 - 
  -  ()
  -  ()
