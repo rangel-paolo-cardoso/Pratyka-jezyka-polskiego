@@ -868,12 +868,13 @@ Przyspieszy (Czas przyszły).
  - Oni / One użyli / użyły acetonu do czyszczenia narzędzi, zanim zaczęli / zaczęły naprawy. (Eles / Elas usaram acetona para limpar as ferramentas antes de começarem os reparos.)
  - Jutro muszę kupić aceton, bo skończył się w domu. (Amanhã, preciso comprar acetona, porque acabou em casa.)
 
-- [] Dzień 280 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 280 - Znaleźć. (Achar.)
+ - Muszę znaleźć sposób, żeby zarobić więcej pieniędzy, a potem kupić piękny dom. (Preciso achar uma forma de ganhar mais dinheiro, e então comprar uma linda casa.)
+ - Wyruszymy w bardzo długą podróż, aby znaleźć zaginiony skarb, który podobno waży około 5 ton czystego złota. (Iremos numa jornada muito longa para achar o tesouro perdido, que dizem ser de aproximadamente 5 toneladas de ouro puro.)
+ - (Ja) znalazłem / znalazłam bardzo fajną książkę, była cała zakurzona wśród bałaganu na strychu. ((Eu) achei um livro muito legal, estava todo empoeirado no meio da bagunça do sótão.)
+ - (My) znajdziemy rozwiązanie, które zadowoli wszystkich, musimy tylko trochę pomyśleć. ((Nós) vamos achar uma solução que satisfaça a todos, só precisamos pensar um pouco.)
+ - (Ty) znajdziesz to, czego szukasz, tylko musisz się bardziej postarać. (Você vai achar o que está procurando, só precisa se esforçar mais.)
+
 - [] Dzień 281 - 
  -  ()
  -  ()
