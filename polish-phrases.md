@@ -875,12 +875,13 @@ Przyspieszy (Czas przyszły).
  - (My) znajdziemy rozwiązanie, które zadowoli wszystkich, musimy tylko trochę pomyśleć. ((Nós) vamos achar uma solução que satisfaça a todos, só precisamos pensar um pouco.)
  - (Ty) znajdziesz to, czego szukasz, tylko musisz się bardziej postarać. (Você vai achar o que está procurando, só precisa se esforçar mais.)
 
-- [] Dzień 281 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 281 - Spłaszczenie (Rzeczownik nijaki). (Achatamento ().Rzeczownik męski)
+ - Po kilku godzinach nacisku doszło do spłaszczenia powierzchni metalu. (Após algumas horas de pressão, houve o achatamento da superfície do metal.)
+ - Spłaszczenie opony było wynikiem zbyt dużego obciążenia. (O achatamento do pneu foi resultado de uma carga excessiva.)
+ - Czy zauważyliście spłaszczenie tych gór po milionach lat erozji? (Vocês notaram o achatamento dessas montanhas após milhões de anos de erosão?)
+ - Jutro omówimy proces spłaszczenia i jego znaczenie w geologii. (Amanhã discutiremos o processo de achatamento e sua importância na geologia.)
+ - To spłaszczenie było nieuniknione, biorąc pod uwagę siły, które działały na tę strukturę. (Esse achatamento era inevitável, considerando as forças que atuavam sobre essa estrutura.)
+
 - [] Dzień 282 - 
  -  ()
  -  ()
