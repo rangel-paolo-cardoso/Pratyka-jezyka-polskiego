@@ -890,24 +890,27 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (ja) mogę spłaszczyć ten arkusz papieru, żeby zmieścił się w kopercie? ((Eu) posso achatar essa folha de papel para caber no envelope?)
  - Jutro spłaszczymy te stosy ziemi, żeby przygotować teren pod budowę. (Amanhã, nós vamos achatar esses montes de terra para preparar o terreno para a construção.)
 
-- [x] Dzień 283 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 283 - Myślę, Uważam, Sądzę, Wydaje mi się. (Acho.)
+ - Myślę, że powinniśmy pójść do kina jutro wieczorem. (Eu acho que deveríamos ir ao cinema amanhã à noite.)
+ - Wydaje mi się, że oni / one się spóźnią na spotkanie. (Eu acho que eles / elas vão se atrasar para a reunião.)
+ - Uważam, że on / ona jest najlepszym / najlepszą kandydatem / kandydatką na to stanowisko. (Eu acho que ele / ela é o / a melhor candidato / candidata para o cargo.)
+ - Sądzimy, że ten projekt będzie wielkim sukcesem. (Nós achamos que este projeto será um grande sucesso.)
+ - On / Ona myśli, że ta książka jest bardzo interesująca. (Ele / Ela acha que este livro é muito interessante.)
+
 - [x] Dzień 284 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [x] Dzień 285 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 286 - 
  -  ()
  -  ()
