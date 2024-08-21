@@ -882,25 +882,27 @@ Przyspieszy (Czas przyszły).
  - Jutro omówimy proces spłaszczenia i jego znaczenie w geologii. (Amanhã discutiremos o processo de achatamento e sua importância na geologia.)
  - To spłaszczenie było nieuniknione, biorąc pod uwagę siły, które działały na tę strukturę. (Esse achatamento era inevitável, considerando as forças que atuavam sobre essa estrutura.)
 
-- [] Dzień 282 - 
+- [x] Dzień 282 - Spłaszczyć (Bezokolicznik)
+Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
+ - (Ja) spłaszczyłem / spłaszczyłam ten kawałek ciasta, żeby zrobić cienką warstwę. ((Eu) achatei essa parte da massa para fazer uma camada fina.)
+ - Oni / One spłaszczyli / spłaszczyły wszystkie pudełka przed wyrzuceniem ich do śmieci. (Eles / Elas achataram todas as caixas antes de jogá-las no lixo.)
+ - Spłaszczy ono to ciasto, gdy włoży się je pod ciężki przedmiot. (Isso vai achatar a massa quando colocá-la sob um objeto pesado. )
+ - Czy (ja) mogę spłaszczyć ten arkusz papieru, żeby zmieścił się w kopercie? ((Eu) posso achatar essa folha de papel para caber no envelope?)
+ - Jutro spłaszczymy te stosy ziemi, żeby przygotować teren pod budowę. (Amanhã, nós vamos achatar esses montes de terra para preparar o terreno para a construção.)
+
+- [x] Dzień 283 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
-- [] Dzień 283 - 
+- [x] Dzień 284 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
-- [] Dzień 284 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 285 - 
+- [x] Dzień 285 - 
  -  ()
  -  ()
  -  ()
