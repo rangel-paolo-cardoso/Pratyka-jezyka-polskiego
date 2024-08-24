@@ -927,12 +927,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości, jeśli emisje nie zostaną ograniczone, zakwaszenie oceanów będzie miało poważne konsekwencje dla życia morskiego. (No futuro, se as emissões não forem reduzidas, a acidificação dos oceanos terá sérias consequências para a vida marinha.)
  - Naukowcy / Naukowczynie odkryli / odkryły, że zakwaszenie gleby może prowadzić do zmniejszenia plonów rolniczych. (Os / As cientistas descobriram que a acidificação do solo pode levar à diminuição das colheitas agrícolas.)
 
-- [] Dzień 288 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 288 - Zakwaszać, Zakwaszyć, Kwasować. (Acidificar - Czasownik.)
+ - (My) zakwasimy magiczny eliksir tą mieszanką. ((Nós) vamos acidificar a poção mágica com essa mistura.)
+ - Trzeba zakwasić smak, aby przepis był doskonały. (É preciso acidificar o sabor para que a receita fique perfeita.)
+ - Co powiesz (plural: powiecie) na zakwaszenie basenów, aby zabić zarazki i bakterie? A potem je przefiltrujemy i oczyścimy. (Que tal você (plural: vocês) acidificarem as piscinas para matarem os germes e bactérias? E depois filtramos e purificamos.)
+ - Wczoraj zakwaszaliśmy / zakwaszałyśmy mieszankę, ale nie osiągnęliśmy / osiągnęłyśmy oczekiwanego smaku. (Ontem, acidificamos a mistura, mas não atingimos o sabor esperado.)
+ - On / Ona zakwasił / zakwasiła sok cytryną, aby dodać mu trochę świeżości. (Ele / Ela acidificou o suco com limão para adicionar um pouco de frescor. )
+
 - [] Dzień 289 - 
  -  ()
  -  ()
