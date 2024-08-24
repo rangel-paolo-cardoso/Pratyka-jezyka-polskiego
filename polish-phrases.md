@@ -913,12 +913,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Mieliśmy / Miałyśmy kilka wypadków w pracy, ale teraz jesteśmy bardziej ostrożni / ostrożne. (Tivemos alguns acidentes no trabalho, mas agora estamos mais cuidadosos.)
  - Jutro na pewno będziemy ostrożniejsi / ostrożniejsze, żeby uniknąć jakiegokolwiek wypadku. (Amanhã, com certeza seremos mais cuidadosos para evitar qualquer acidente.)
 
-- [] Dzień 286 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 286 - Kwasowość. (Acidez. Rzeczownik żeński)
+ - (My) zróbmy test, aby sprawdzić kwasowość tego płynu. ((Nós) vamos fazer um teste para verificar a acidez desse líquido.)
+ - Wczoraj (my) piliśmy / piłyśmy wino o wyjątkowo wysokiej kwasowości, co było trochę zaskakujące. (Ontem, (nós) bebemos um vinho com acidez excepcionalmente alta, o que foi um pouco surpreendente.)
+ - On / Ona zawsze sprawdza kwasowość składników, zanim przygotuje jakiekolwiek danie. (Ele / Ela sempre verifica a acidez dos ingredientes antes de preparar qualquer prato.)
+ - Oni / One zauważyli / zauważyły, że kwasowość gleby jest zbyt wysoka, więc postanowili / postanowiły zastosować odpowiednie nawozy. (Eles / Elas notaram que a acidez do solo está muito alta, então decidiram aplicar os fertilizantes adequados.)
+ - Jutro (my) będziemy badać kwasowość różnych owoców w laboratorium. (Amanhã, (nós) vamos testar a acidez de várias frutas no laboratório.)
+
 - [] Dzień 287 - 
  -  ()
  -  ()
