@@ -907,11 +907,11 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - [x] Dzień 285 - Wypadek -> liczba pojedyncza,
                   Wypadki -> liczba mnoga.
                   (Acidente. Rzeczownik męski)
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+ - To był tylko wypadek, jestem niezdarą. (Foi apenas um acidente, eu sou um / uma desastrado / desastrada.)
+ - Wczoraj miałem / miałam poważny wypadek na drodze, ale na szczęście nic mi się nie stało. (Ontem, tive um acidente grave na estrada, mas felizmente nada aconteceu comigo.)
+ - On / Ona widział / widziała wypadek, ale nie wiedział / wiedziała, co zrobić, żeby pomóc. (Ele / Ela viu o acidente, mas (ele / ela) não sabia o que fazer para ajudar.)
+ - Mieliśmy / Miałyśmy kilka wypadków w pracy, ale teraz jesteśmy bardziej ostrożni / ostrożne. (Tivemos alguns acidentes no trabalho, mas agora estamos mais cuidadosos.)
+ - Jutro na pewno będziemy ostrożniejsi / ostrożniejsze, żeby uniknąć jakiegokolwiek wypadku. (Amanhã, com certeza seremos mais cuidadosos para evitar qualquer acidente.)
 
 - [] Dzień 286 - 
  -  ()
