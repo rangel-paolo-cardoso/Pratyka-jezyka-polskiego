@@ -920,12 +920,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zauważyli / zauważyły, że kwasowość gleby jest zbyt wysoka, więc postanowili / postanowiły zastosować odpowiednie nawozy. (Eles / Elas notaram que a acidez do solo está muito alta, então decidiram aplicar os fertilizantes adequados.)
  - Jutro (my) będziemy badać kwasowość różnych owoców w laboratorium. (Amanhã, (nós) vamos testar a acidez de várias frutas no laboratório.)
 
-- [] Dzień 287 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 287 - Zakwaszenie - Rzeczownik nijaki. (Acidificação - Rzeczownik żeński.)
+ - Zakwaszenie wody deszczowej następuje z powodu wysokiego poziomu zanieczyszczenia miast. (A acidificação da água das chuvas ocorre devido à alta poluição das cidades.)
+ - Wdychanie dwutlenku węgla powoduje zakwaszenie krwi i może być śmiertelne. (A inalação de gás carbônico causa a acidificação do sangue e pode ser fatal.)
+ - Proces trawienia pokarmu obejmuje zakwaszenie wnętrza żołądka, co pomaga w rozkładaniu jedzenia. (O processo de digestão dos alimentos envolve a acidificação do interior do estômago, o que ajuda na decomposição dos alimentos.)
+ - W przyszłości, jeśli emisje nie zostaną ograniczone, zakwaszenie oceanów będzie miało poważne konsekwencje dla życia morskiego. (No futuro, se as emissões não forem reduzidas, a acidificação dos oceanos terá sérias consequências para a vida marinha.)
+ - Naukowcy / Naukowczynie odkryli / odkryły, że zakwaszenie gleby może prowadzić do zmniejszenia plonów rolniczych. (Os / As cientistas descobriram que a acidificação do solo pode levar à diminuição das colheitas agrícolas.)
+
 - [] Dzień 288 - 
  -  ()
  -  ()
