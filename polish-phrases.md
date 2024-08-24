@@ -897,14 +897,16 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Sądzimy, że ten projekt będzie wielkim sukcesem. (Nós achamos que este projeto será um grande sucesso.)
  - On / Ona myśli, że ta książka jest bardzo interesująca. (Ele / Ela acha que este livro é muito interessante.)
 
-- [x] Dzień 284 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 284 - Przypadkowy, Przypadkowa, Przypadkowe, Przypadkowi, Przypadkowe. (Acidental. Przymiotnik)
+ - To było tylko przypadkowe spotkanie, ale zmieniło moje życie.  (Foi apenas um encontro acidental, mas mudou a minha vida.)
+ - Wczoraj miałem / miałam przypadkowy upadek, ale na szczęście nic poważnego się nie stało. (Ontem, tive uma queda acidental, mas felizmente nada grave aconteceu.)
+ - Oni / One uważają, że ten wybuch był przypadkowy i nie miał żadnych poważnych konsekwencji. (Eles / Elas acham que a explosão foi acidental e não teve consequências graves. )
+ - Czy uważasz, że to była przypadkowa decyzja, czy zamierzony krok? (Você acha que foi uma decisão acidental ou um passo intencional?)
+ - Przypadkowe odkrycia często prowadzą do największych wynalazków w historii. (Descobertas acidentais muitas vezes levam às maiores invenções da história.)
 
-- [x] Dzień 285 - 
+- [x] Dzień 285 - Wypadek -> liczba pojedyncza,
+                  Wypadki -> liczba mnoga.
+                  (Acidente. Rzeczownik męski)
  -  ()
  -  ()
  -  ()
