@@ -932,14 +932,15 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Trzeba zakwasić smak, aby przepis był doskonały. (É preciso acidificar o sabor para que a receita fique perfeita.)
  - Co powiesz (plural: powiecie) na zakwaszenie basenów, aby zabić zarazki i bakterie? A potem je przefiltrujemy i oczyścimy. (Que tal você (plural: vocês) acidificarem as piscinas para matarem os germes e bactérias? E depois filtramos e purificamos.)
  - Wczoraj zakwaszaliśmy / zakwaszałyśmy mieszankę, ale nie osiągnęliśmy / osiągnęłyśmy oczekiwanego smaku. (Ontem, acidificamos a mistura, mas não atingimos o sabor esperado.)
- - On / Ona zakwasił / zakwasiła sok cytryną, aby dodać mu trochę świeżości. (Ele / Ela acidificou o suco com limão para adicionar um pouco de frescor. )
+ - On / Ona zakwasił / zakwasiła sok cytryną, aby dodać mu trochę świeżości. (Ele / Ela acidificou o suco com limão para adicionar um pouco de frescor.)
 
-- [] Dzień 289 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 289 - Kwas - Rzeczownik męski, Kwaśny - Przymiotnik. (Ácido. - Rzeczownik męski, Przymiotnik)
+ - Kwas cytrynowy jest dodawany do wielu napojów, aby nadać im kwaskowy smak. (O ácido cítrico é adicionado a muitas bebidas para dar-lhes um sabor ácido.)
+ - W przyszłym tygodniu zamierzamy przeprowadzić eksperyment z kwasem solnym w laboratorium. (Na próxima semana, vamos realizar um experimento com ácido clorídrico no laboratório.)
+ - On / Ona nigdy nie lubił / lubiła kwaśnych owoców, ponieważ sprawiają, że jego / jej zęby są wrażliwe. (Ele / Ela nunca gostou de frutas ácidas, pois elas deixam seus (os) dentes (dele / dela) sensíveis.)
+ - (Ja) myślę, że kwas mlekowy w tym jogurcie sprawia, że on jest tak kwaśny. ((Eu) acho que o ácido láctico neste iogurte é o que o deixa tão ácido.)
+ - Oni / One badają nowy kwas organiczny, który może mieć zastosowanie w medycynie. (Eles / Elas estão pesquisando um novo ácido orgânico que pode ter aplicação na medicina.)
+
 - [] Dzień 290 - 
  -  ()
  -  ()
