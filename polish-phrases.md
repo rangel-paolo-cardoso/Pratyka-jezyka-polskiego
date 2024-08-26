@@ -941,15 +941,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) myślę, że kwas mlekowy w tym jogurcie sprawia, że on jest tak kwaśny. ((Eu) acho que o ácido láctico neste iogurte é o que o deixa tão ácido.)
  - Oni / One badają nowy kwas organiczny, który może mieć zastosowanie w medycynie. (Eles / Elas estão pesquisando um novo ácido orgânico que pode ter aplicação na medicina.)
 
-- [] Dzień 290 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 290 - Powyżej, Wyżej, Ponad. (Acima.)
+ - Kiedy patrzyłem / patrzyłam w górę, zauważyłem / zauważyłam ptaka latającego powyżej mojej głowy. (Quando eu olhei para cima, notei um pássaro voando acima da minha cabeça.)
+ - Ten obraz wisi wyżej niż wszystkie inne w galerii. (Este quadro está pendurado acima de todos os outros na galeria.)
+ - On / Ona umieścił / umieściła książki na półce powyżej, aby dzieci ich nie dosięgły. (Ele / Ela colocou os livros na prateleira acima para que as crianças não os alcancem.)
+ - Wczoraj widziałem / widziałam latawiec unoszący się ponad chmurami. (Ontem, eu vi uma pipa flutuando acima das nuvens.)
+ - Spotkanie odbędzie się w sali powyżej, gdzie mamy więcej miejsca. (A reunião será na sala acima, onde temos mais espaço.)
 
-Witajcie, piękne i pachnące osoby!
-Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 291 - 
  -  ()
  -  ()
@@ -1034,6 +1032,9 @@ Dziękuję wszystkim, moi drodzy, za oglądanie!
  -  ()
  -  ()
  -  ()
+
+Witajcie, piękne i pachnące osoby!
+Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 305 - 
  -  ()
  -  ()
