@@ -948,12 +948,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wczoraj widziałem / widziałam latawiec unoszący się ponad chmurami. (Ontem, eu vi uma pipa flutuando acima das nuvens.)
  - Spotkanie odbędzie się w sali powyżej, gdzie mamy więcej miejsca. (A reunião será na sala acima, onde temos mais espaço.)
 
-- [] Dzień 291 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 291 - Szarzeć, Przyszarzać, Zaszarzyć. (Acinzentar - Czasownik.)
+ - Jeśli zostawisz tę koszulę na słońcu zbyt długo, może zacząć szarzeć. (Se você deixar essa camisa ao sol por muito tempo, ela pode começar a acinzentar.)
+ - Farba na ścianach zaczęła szarzeć po kilku latach. (A tinta nas paredes começou a acinzentar depois de alguns anos.)
+ - (My) musimy uważać, aby ta mieszanka kolorów nie przyszarzała całego obrazu. ((Nós) precisamos tomar cuidado para que essa mistura de cores não acinzente o quadro inteiro.)
+ - W przyszłym tygodniu on / ona zamierza przyciemnić włosy, ale boi się, że będą wyglądać zbyt szaro. (Na próxima semana ele / ela pretende escurecer o cabelo, mas tem medo que fique acinzentado demais.)
+ - Z biegiem lat jego broda zaczęła szarzeć, nadając mu bardziej dojrzały wygląd. (Com o passar dos anos, a barba dele começou a acinzentar, dando-lhe (dando a ele) uma aparência mais madura.)
+
 - [] Dzień 292 - 
  -  ()
  -  ()
