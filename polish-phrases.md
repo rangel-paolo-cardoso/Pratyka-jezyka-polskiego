@@ -955,12 +955,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym tygodniu on / ona zamierza przyciemnić włosy, ale boi się, że będą wyglądać zbyt szaro. (Na próxima semana ele / ela pretende escurecer o cabelo, mas tem medo que fique acinzentado demais.)
  - Z biegiem lat jego broda zaczęła szarzeć, nadając mu bardziej dojrzały wygląd. (Com o passar dos anos, a barba dele começou a acinzentar, dando-lhe (dando a ele) uma aparência mais madura.)
 
-- [] Dzień 292 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 292 - Uruchomić, Aktywować. (Acionar.)
+ - Muszę uruchomić ten mechanizm, zanim będziemy mogli / mogły kontynuować. (Eu preciso acionar esse mecanismo antes que possamos continuar.)
+ - Oni / One aktywowali / aktywowały system alarmowy, kiedy zobaczyli / zobaczyły podejrzane osoby w okolicy. (Eles / Elas acionaram o sistema de alarme quando viram pessoas suspeitas na área.)
+ - On / Ona zamierza jutro uruchomić nową funkcję w aplikacji. (Ele / Ela vai acionar a nova função do aplicativo amanhã.)
+ - W przeszłości często musieliśmy / musiałyśmy uruchamiać tryb awaryjny, aby naprawić problemy. (No passado, tivemos que acionar o modo de emergência com frequência para corrigir problemas.)
+ - On / Ona uruchomił / uruchomiła automatyczne światła, kiedy zrobiło się ciemno. (Ele / Ela acionou as luzes automáticas quando ficou escuro.)
+
 - [] Dzień 293 - 
  -  ()
  -  ()
