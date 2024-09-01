@@ -962,12 +962,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przeszłości często musieliśmy / musiałyśmy uruchamiać tryb awaryjny, aby naprawić problemy. (No passado, tivemos que acionar o modo de emergência com frequência para corrigir problemas.)
  - On / Ona uruchomił / uruchomiła automatyczne światła, kiedy zrobiło się ciemno. (Ele / Ela acionou as luzes automáticas quando ficou escuro.)
 
-- [] Dzień 293 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 293 - Akcjonariusz, Akcjonariuszka, Wspólnik. (O/A acionista. - Przymiotnik)
+ - Akcjonariusz / Akcjonariuszka złożył / złożyła skargę na decyzje zarządu dotyczące dywidendy. (O / A acionista apresentou uma reclamação sobre as decisões da diretoria em relação aos dividendos.)
+ - W przyszłym tygodniu spotkamy się z akcjonariuszami / akcjonariuszkami, aby omówić strategię na nadchodzący rok. (Na próxima semana, nos reuniremos com os / as acionistas para discutir a estratégia para o ano que vem.)
+ - Oni / One zostali / zostały nowymi akcjonariuszami / akcjonariuszkami po zakończeniu transakcji na giełdzie. (Eles / Elas se tornaram novos / novas acionistas após o fechamento da transação na bolsa de valores.)
+ - Zanim zainwestujesz, musisz zrozumieć swoje prawa jako akcjonariusz / akcjonariuszka. (Antes de investir, você precisa entender seus direitos como acionista.)
+ - Akcjonariusz / Akcjonariuszka był / była zadowolony /zadowolona z wyników finansowych firmy i planuje zwiększyć swoje udziały. (O / A acionista ficou satisfeito / satisfeita com os resultados financeiros da empresa e planeja aumentar sua participação.)
+
 - [] Dzień 294 - 
  -  ()
  -  ()
