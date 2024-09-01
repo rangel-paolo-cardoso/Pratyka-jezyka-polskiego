@@ -976,12 +976,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zdecydowaliśmy / zdecydowałyśmy się na wybór przez aklamację, ponieważ wszyscy / wszystkie byli / byłyśmy zgodni / zgodne. ((Nós) decidimos pela escolha por aclamação, pois todos / todas estavam de acordo.)
  - Po wygłoszeniu mowy otrzymał / otrzymała gorące owacje i powszechną aklamację. (Após o discurso, ele / ela recebeu calorosos aplausos e aclamação geral.)
 
-- [] Dzień 295 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 295 - Aklamować. (Aclamar.)
+ - Publiczność będzie jutro gorąco aklamować nowego / nową lidera / liderkę podczas ceremonii. (O público irá aclamar calorosamente o / a novo / nova líder durante a cerimônia de amanhã.)
+ - Oni / One aklamowali / aklamowały go / ją po tym, jak wygłosił / wygłosiła przemówienie, które poruszyło serca wszystkich obecnych. (Eles / Elas o / a aclamaram depois que ele / ela fez um discurso que tocou o coração de todos os presentes.)
+ - Kiedy ogłosili wyniki, wszyscy / wszystkie zaczęli / zaczęły aklamować zwycięzcę. (Quando anunciaram os resultados, todos / todas começaram a aclamar o / a vencedor / vencedora.)
+ - (My) aklaimujmy ten zespół za nich niezwykły występ dzisiejszego wieczoru. ((Nós) vamos aclamar essa banda pelo incrível desempenho deles nesta noite.)
+ - On / Ona był / była aklamowany / aklamowana przez tłumy, kiedy wszedł / weszła na scenę. (Ele / Ela foi aclamado / aclamada pelas multidões quando subiu ao palco.)
+
 - [] Dzień 296 - 
  -  ()
  -  ()
