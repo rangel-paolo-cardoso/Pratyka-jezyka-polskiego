@@ -969,12 +969,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Zanim zainwestujesz, musisz zrozumieć swoje prawa jako akcjonariusz / akcjonariuszka. (Antes de investir, você precisa entender seus direitos como acionista.)
  - Akcjonariusz / Akcjonariuszka był / była zadowolony /zadowolona z wyników finansowych firmy i planuje zwiększyć swoje udziały. (O / A acionista ficou satisfeito / satisfeita com os resultados financeiros da empresa e planeja aumentar sua participação.)
 
-- [] Dzień 294 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 294 - Aklamacja, Owacja. (Aclamação.)
+ - Publiczność zareagowała owacjami na jego / jej przemówienie. (O público reagiu com aclamação ao discurso dele / dela.)
+ - Jego / Jej występ spotkał się z ogromną aklamacją i owacjami na stojąco. (A apresentação dele / dela foi recebida com grande aclamação e aplausos de pé.)
+ - Zgromadzenie zakończyło się jednogłośną aklamacją dla nowo wybranego / wybranej lidera / liderki. (A assembleia terminou com aclamação unânime para o / a novo / nova líder eleito / eleita.)
+ - (My) zdecydowaliśmy / zdecydowałyśmy się na wybór przez aklamację, ponieważ wszyscy / wszystkie byli / byłyśmy zgodni / zgodne. ((Nós) decidimos pela escolha por aclamação, pois todos / todas estavam de acordo.)
+ - Po wygłoszeniu mowy otrzymał / otrzymała gorące owacje i powszechną aklamację. (Após o discurso, ele / ela recebeu calorosos aplausos e aclamação geral.)
+
 - [] Dzień 295 - 
  -  ()
  -  ()
