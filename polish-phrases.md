@@ -990,24 +990,27 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Po kilku tygodniach aklimatyzacji on / ona zaczął / zaczęła się przyzwyczajać do nowego środowiska pracy. (Após algumas semanas de aclimação, ele / ela começou a se acostumar com o novo ambiente de trabalho.)
  - Oni / One będą musieli / musiały zapewnić czas na aklimatyzację przed rozpoczęciem misji. (Eles / Elas terão que garantir tempo para aclimação antes de iniciar a missão.)
 
-- [] Dzień 297 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 297 - Zaaklimatyzować się, Aklimatyzować się. (Aclimar. - Czasownik)
+ - Muszę się zaaklimatyzować do nowych warunków pogodowych, zanim zaczniemy naszą wyprawę. (Eu preciso me aclimar às novas condições climáticas antes de começarmos nossa expedição.)
+ - Oni / One szybko się zaaklimatyzowali / zaaklimatyzowały w nowym środowisku pracy. (Eles / Elas se aclimataram rapidamente ao novo ambiente de trabalho.)
+ - On / Ona będzie musiał / musiała się zaaklimatyzować, zanim poczuje się komfortowo w tej roli. (Ele / Ela terá que se aclimar antes de se sentir confortável nesse papel.)
+ - Czy sądzisz, że on / ona może się łatwo zaaklimatyzować w nowym otoczeniu? (Você acha que ele / ela pode se aclimar facilmente ao novo ambiente?)
+ - (My) będziemy musieli / musiały dać sobie trochę czasu, żeby się zaaklimatyzować do nowego stylu życia. ((Nós) precisaremos dar a nós mesmos um pouco de tempo para nos aclimatar ao novo estilo de vida.)
+
 - [] Dzień 298 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 299 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 300 - 
  -  ()
  -  ()
