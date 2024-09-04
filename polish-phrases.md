@@ -1004,12 +1004,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zeszliśmy / zeszłyśmy z pochyłości, ale powrót był o wiele trudniejszy. ((Nós) descemos do aclive, mas o retorno foi muito mais difícil.)
  - Czy masz (plural: macie) wystarczająco siły, by wspiąć się na to strome wzniesienie? (Você tem (plural: vocês têm) força suficiente para subir esse aclive íngreme?)
 
-- [] Dzień 299 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 299 - Szczyt, Apogeum. (Acme. - Rzeczownik męski)
+ - On / Ona osiągnął / osiągnęła szczyt swojej kariery w zeszłym roku. (Ele / Ela atingiu o acme de sua carreira no ano passado.)
+ - My byliśmy / byłyśmy w apogeum naszego sukcesu, kiedy wszystko nagle się zmieniło. (Nós estávamos no acme do nosso sucesso quando tudo de repente mudou.)
+ - Jutro on / ona osiągnie szczyt swojego talentu, występując na najważniejszej scenie. (Amanhã ele / ela alcançará o acme do seu talento, se apresentando no palco mais importante.)
+ - Wkrótce oni / one zdobędą apogeum swoich umiejętności w tej dziedzinie. (Em breve, eles / elas alcançarão o acme de suas habilidades nessa área.)
+ - On / Ona osiągnął / osiągnęła szczyt swojego rozwoju i teraz czeka nas stagnacja. (Ele / Ela atingiu o acme do seu desenvolvimento, e agora enfrentaremos a estagnação.)
 
 - [] Dzień 300 - 
  -  ()
