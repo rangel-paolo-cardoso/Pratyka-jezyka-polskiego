@@ -997,12 +997,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy sądzisz, że on / ona może się łatwo zaaklimatyzować w nowym otoczeniu? (Você acha que ele / ela pode se aclimar facilmente ao novo ambiente?)
  - (My) będziemy musieli / musiały dać sobie trochę czasu, żeby się zaaklimatyzować do nowego stylu życia. ((Nós) precisaremos dar a nós mesmos um pouco de tempo para nos aclimatar ao novo estilo de vida.)
 
-- [] Dzień 298 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 298 - Wzniesienie, Pochyłość. (Aclive. - Przymiotnik)
+ - (My) musieliśmy / musiałyśmy pokonać strome wzniesienie, zanim dotarliśmy / dotarłyśmy do celu. ((Nós) tivemos que superar um aclive íngreme antes de chegarmos ao destino.)
+ - On / Ona wspiął / wspięła się na pochyłość, ale potem (my) musieliśmy / musiałyśmy zrobić przerwę. (Ele / ela subiu o aclive, mas depois (nós) tivemos que fazer uma pausa)
+ - Pojutrze (my) planujemy wspinaczkę na największe wzniesienie w okolicy. (Depois de amanhã, (nós) planejamos escalar o maior aclive da região.)
+ - (My) zeszliśmy / zeszłyśmy z pochyłości, ale powrót był o wiele trudniejszy. ((Nós) descemos do aclive, mas o retorno foi muito mais difícil.)
+ - Czy masz (plural: macie) wystarczająco siły, by wspiąć się na to strome wzniesienie? (Você tem (plural: vocês têm) força suficiente para subir esse aclive íngreme?)
 
 - [] Dzień 299 - 
  -  ()
