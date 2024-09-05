@@ -1011,18 +1011,20 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wkrótce oni / one zdobędą apogeum swoich umiejętności w tej dziedzinie. (Em breve, eles / elas alcançarão o acme de suas habilidades nessa área.)
  - On / Ona osiągnął / osiągnęła szczyt swojego rozwoju i teraz czeka nas stagnacja. (Ele / Ela atingiu o acme do seu desenvolvimento, e agora enfrentaremos a estagnação.)
 
-- [] Dzień 300 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 300 - Trądzik. (Acne. - Rzeczownik żeński)
+ - Kiedy byliśmy / byłyśmy nastolatkami, walczyliśmy / walczyłyśmy z trądzikiem każdego dnia. (Quando éramos adolescentes, lutávamos contra a acne todos os dias.)
+ - On / Ona miał / miała trądzik na plecach, ale z czasem skóra się poprawiła. (Ele / Ela tinha acne nas costas, mas com o tempo a pele melhorou.)
+ - On / Ona zawsze się martwił / martwiła, że jego / jej trądzik wpłynie na jego / jej pewność siebie. (Ele / Ela sempre se preocupou que a acne afetaria sua confiança.)
+ - (My) będziemy musieli / musiały znaleźć lepsze rozwiązanie na trądzik, aby jego / jej skóra wyglądała zdrowiej w przyszłości. ((Nós) teremos que encontrar uma solução melhor para a acne, para que a pele dele / dela fique mais saudável no futuro.)
+ - Oni / One myśleli / myślały, że po trzydziestce trądzik zniknie, ale niestety wciąż się pojawia. (Eles / Elas pensavam que após os trinta anos a acne desapareceria, mas infelizmente ainda aparece.)
+
 - [] Dzień 301 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 302 - 
  -  ()
  -  ()
