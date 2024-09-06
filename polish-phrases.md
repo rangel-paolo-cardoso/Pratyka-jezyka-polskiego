@@ -1018,12 +1018,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy musieli / musiały znaleźć lepsze rozwiązanie na trądzik, aby jego / jej skóra wyglądała zdrowiej w przyszłości. ((Nós) teremos que encontrar uma solução melhor para a acne, para que a pele dele / dela fique mais saudável no futuro.)
  - Oni / One myśleli / myślały, że po trzydziestce trądzik zniknie, ale niestety wciąż się pojawia. (Eles / Elas pensavam que após os trinta anos a acne desapareceria, mas infelizmente ainda aparece.)
 
-- [] Dzień 301 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 301 - Stal. - Rzeczownik żeński (Aço. - Rzeczownik męski)
+ - Stal to jeden z najważniejszych materiałów w budownictwie na całym świecie. (O aço é um dos materiais mais importantes na construção civil em todo o mundo.)
+ - W przyszłości oni / one będą musieli / musiały produkować więcej stali, aby zaspokoić rosnące zapotrzebowanie. (No futuro, eles / elas terão que produzir mais aço para atender à crescente demanda.)
+ - On / Ona zawsze interesował / interesowała się tym, jak stal jest produkowana w fabrykach. (Ele / Ela sempre se interessou em como o aço é produzido nas fábricas.)
+ - Jako dzieci, nie wiedzieliśmy / wiedziałyśmy, że mosty są zbudowane ze stali. (Quando éramos crianças, não sabíamos que as pontes eram construídas com aço.)
+ - Wy nie możecie zapominać, że stal jest bardzo ważnym surowcem. (Vocês não podem esquecer que o aço é uma matéria-prima muito importante.)
 
 - [] Dzień 302 - 
  -  ()
