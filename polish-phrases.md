@@ -1025,18 +1025,20 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jako dzieci, nie wiedzieliśmy / wiedziałyśmy, że mosty są zbudowane ze stali. (Quando éramos crianças, não sabíamos que as pontes eram construídas com aço.)
  - Wy nie możecie zapominać, że stal jest bardzo ważnym surowcem. (Vocês não podem esquecer que o aço é uma matéria-prima muito importante.)
 
-- [] Dzień 302 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 302 - Ukrywać, Osłaniać, Ukryć. (Acobertar. - Czasownik)
+ - On / Ona próbował / próbowała ukryć całą aferę przed mediami. (Ele / Ela tentou acobertar todo o escândalo da mídia.)
+ - (My) będziemy cię osłaniać, dopóki nie będziesz bezpieczny / bezpieczna. ((Nós) vamos te acobertar até que você esteja seguro / segura.)
+ - On / Ona ukrył / ukryła wszystkie dowody, zanim policja przyjechała. (Ele / Ela acobertou todas as provas antes da chegada da polícia.)
+ - Czy wy naprawdę myślicie, że możecie ukryć prawdę na zawsze? (Vocês realmente acham que podem acobertar a verdade para sempre?)
+ - Oni / One osłonili / osłoniły nas, kiedy byliśmy / byłyśmy w niebezpieczeństwie. (Eles / Elas nos acobertaram quando estávamos em perigo.)
+
 - [] Dzień 303 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 304 - 
  -  ()
  -  ()
