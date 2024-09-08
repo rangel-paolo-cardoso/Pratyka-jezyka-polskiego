@@ -1032,12 +1032,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy wy naprawdę myślicie, że możecie ukryć prawdę na zawsze? (Vocês realmente acham que podem acobertar a verdade para sempre?)
  - Oni / One osłonili / osłoniły nas, kiedy byliśmy / byłyśmy w niebezpieczeństwie. (Eles / Elas nos acobertaram quando estávamos em perigo.)
 
-- [] Dzień 303 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 303 - Gościnny, Przytulny. (Acolhedor. - Przymiotnik)
+ - Ten hotel był bardzo przytulny i gościnny, czuliśmy / czułyśmy się tam jak w domu. (Esse hotel era muito acolhedor e aconchegante, nos sentimos em casa.)
+ - On / Ona zawsze był / była osobą gościnną, witając wszystkich z uśmiechem i ciepłem. (Ele / Ela sempre foi uma pessoa acolhedora, recebendo todos com um sorriso e calor.)
+ - Kiedy przyjechaliśmy / przyjechałyśmy do nowego miasta, ludzie byli nadzwyczaj przyjaźni i gościnni. (Quando chegamos na nova cidade, as pessoas foram extraordinariamente amigáveis e acolhedoras.)
+ - Jego / Jej dom był zawsze otwarty dla przyjaciół, był / była to bardzo gościnny / gościnna i ciepły / ciepła człowiek / kobieta. (Sua casa estava sempre aberta para amigos, ele / ela era um / uma homem / mulher muito acolhedor / acolhedora e caloroso / calorosa.)
+ - Spotkanie było w przytulnym miejscu, gdzie atmosfera była naprawdę gościnna. (A reunião foi em um lugar aconchegante, onde a atmosfera era realmente acolhedora.)
 
 - [] Dzień 304 - 
  -  ()
@@ -1046,164 +1046,190 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  -  ()
  -  ()
 
-Witajcie, piękne i pachnące osoby!
-Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 305 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 306 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 307 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 308 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 309 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 310 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 311 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 312 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 313 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 314 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 315 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 316 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 317 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 318 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 319 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 320 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 321 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 322 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 323 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 324 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 325 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 326 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 327 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 328 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 329 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
 - [] Dzień 330 - 
  -  ()
  -  ()
  -  ()
  -  ()
  -  ()
+
+Witajcie, piękne i pachnące osoby!
+Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 331 - 
  -  ()
  -  ()
