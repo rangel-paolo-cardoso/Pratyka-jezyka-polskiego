@@ -1039,12 +1039,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jego / Jej dom był zawsze otwarty dla przyjaciół, był / była to bardzo gościnny / gościnna i ciepły / ciepła człowiek / kobieta. (Sua casa estava sempre aberta para amigos, ele / ela era um / uma homem / mulher muito acolhedor / acolhedora e caloroso / calorosa.)
  - Spotkanie było w przytulnym miejscu, gdzie atmosfera była naprawdę gościnna. (A reunião foi em um lugar aconchegante, onde a atmosfera era realmente acolhedora.)
 
-- [] Dzień 304 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 304 - Przyjąć, Przyjmować. (Acolher. - Czasownik)
+ - (My) przyjęliśmy / przyjęłyśmy go / ją do naszej rodziny z otwartymi ramionami i zaoferowaliśmy / zaoferowałyśmy jego / jej wsparcie. (Nós o / a acolhemos (ele / ela) em nossa família de braços abertos e oferecemos nosso apoio.)
+ - Oni / One zawsze przyjmują nowych pracowników z życzliwością i otwartością. (Eles / Elas sempre acolhem novos / novas funcionários / funcionárias com gentileza e abertura.)
+ - (My) będziemy przyjmować uchodźców i pomagać im w rozpoczęciu nowego życia tutaj. ((Nós) vamos acolher os refugiados e ajudá-los a começar uma nova vida aqui.)
+ - W zeszłym roku przyjęliśmy / przyjęłyśmy do domu bezdomnego psa, który teraz jest częścią naszej rodziny. (No ano passado, acolhemos em casa um cachorro de rua, que agora faz parte da nossa família.)
+ - Oni / One zostali / zostały dobrze przyjęci przez miejscową społeczność, która zaoferowała im schronienie i pomoc. (Eles / Elas foram bem acolhidos / acolhidas pela comunidade local, que lhes ofereceu abrigo e ajuda.)
 
 - [] Dzień 305 - 
  -  ()
