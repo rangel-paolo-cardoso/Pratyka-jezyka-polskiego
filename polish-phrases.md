@@ -1046,12 +1046,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W zeszłym roku przyjęliśmy / przyjęłyśmy do domu bezdomnego psa, który teraz jest częścią naszej rodziny. (No ano passado, acolhemos em casa um cachorro de rua, que agora faz parte da nossa família.)
  - Oni / One zostali / zostały dobrze przyjęci przez miejscową społeczność, która zaoferowała im schronienie i pomoc. (Eles / Elas foram bem acolhidos / acolhidas pela comunidade local, que lhes ofereceu abrigo e ajuda.)
 
-- [] Dzień 305 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 305 - Przyjęty / Przyjęta. (Acolhido / Acolhida.)
+ - (Ja) zostałem / zostałam przyjęty / przyjęta przez społeczność, która zaoferowała mi schronienie i opiekę. ((Eu) fui acolhido / acolhida pela comunidade, que me ofereceu abrigo e cuidado.)
+ - On / Ona został / została przyjęty / przyjęta z wielką serdecznością i wsparciem przez swoich nowych współpracowników. (Ele / Ela foi acolhido / acolhida com muita cordialidade e apoio por seus / suas novos / novas colegas de trabalho.)
+ - (My) będziemy przyjęci przez tę organizację, która pomoże nam w adaptacji do nowego życia. ((Nós) seremos acolhidos por essa organização, que nos ajudará na adaptação à nova vida.)
+ - (Ja) zostałem / zostałam serdecznie przyjęty / przyjęta przez rodzinę mojego / mojej przyjaciela / przyjaciółki podczas mojej wizyty. ((Eu) fui calorosamente acolhido / acolhida pela família do / da meu / minha amigo / amiga durante minha visita.)
+ - Dzieci zostały dobrze przyjęte przez szkołę, która zapewniła im wszystkie potrzebne materiały edukacyjne. (As crianças foram bem acolhidas pela escola, que forneceu todos os materiais educacionais necessários.)
 
 - [] Dzień 306 - 
  -  ()
