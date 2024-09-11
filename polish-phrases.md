@@ -1053,12 +1053,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) zostałem / zostałam serdecznie przyjęty / przyjęta przez rodzinę mojego / mojej przyjaciela / przyjaciółki podczas mojej wizyty. ((Eu) fui calorosamente acolhido / acolhida pela família do / da meu / minha amigo / amiga durante minha visita.)
  - Dzieci zostały dobrze przyjęte przez szkołę, która zapewniła im wszystkie potrzebne materiały edukacyjne. (As crianças foram bem acolhidas pela escola, que forneceu todos os materiais educacionais necessários.)
 
-- [] Dzień 306 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 306 - Zaatakować. (Acometer. - Czasownik)
+ - Choroba nagle zaatakowała jego / jej organizm, zostawiając go / ją osłabionego / osłabioną i bez sił. (A doença acometeu o organismo dele / dela de repente, deixando-o / deixando-a (ele / ela) fraco / fraca e sem forças.)
+ - On / Ona zostanie zaatakowany / zaatakowana przez silny ból, jeśli nie weźmie lekarstwa na czas. (Ele / Ela será acometido / acometida por uma forte dor, se não tomar o remédio a tempo.)
+ - Wczoraj (my) zostaliśmy / zostałyśmy zaatakowani / zaatakowane przez niespodziewane zmiany pogody, co zniszczyło nasze plany na dzień. (Ontem (nós) fomos acometidos / acometidas por mudanças climáticas inesperadas, o que arruinou nossos planos para o dia.)
+ - On / Ona zostanie zaatakowany / zaatakowana przez falę gorącą podczas najbliższego upału. (Ele / Ela será acometido / acometida por uma onda de calor durante a próxima onda de calor.)
+ - Ludzie w tej wiosce byli / były wielokrotnie zaatakowani / zaatakowane przez powodzie w przeszłości. (As pessoas dessa vila foram acometidas por enchentes várias vezes no passado.)
 
 - [] Dzień 307 - 
  -  ()
