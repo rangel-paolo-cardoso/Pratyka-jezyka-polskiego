@@ -1060,12 +1060,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zostanie zaatakowany / zaatakowana przez falę gorącą podczas najbliższego upału. (Ele / Ela será acometido / acometida por uma onda de calor durante a próxima onda de calor.)
  - Ludzie w tej wiosce byli / były wielokrotnie zaatakowani / zaatakowane przez powodzie w przeszłości. (As pessoas dessa vila foram acometidas por enchentes várias vezes no passado.)
 
-- [] Dzień 307 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 307 - Dotknięty / Dotknięta, Zostać dotkniętym. (Acometido / Acometida. Rzeczownik męski/żeński)
+ - (Ja) zostałem / zostałam dotknięty / dotknięta ciężkim przeziębieniem i musiałem / musiałam zostać w domu przez tydzień. ((Eu) fui acometido / acometida por um forte resfriado e precisei ficar em casa por uma semana.)
+ - (On / Ona) zostało / została dotknięte / dotknięta poważną infekcją, która wymagała natychmiastowego leczenia. (Ele / Ela foi acometido / acometida por uma infecção grave que precisou de tratamento imediato.)
+ - Jeśli nie podejmiesz środków ostrożności, możesz zostać dotknięty / dotknięta tą chorobą. (Se você não tomar precauções, poderá ser acometido / acometida por essa doença.)
+ - W przyszłości (my) obawiamy się, że nasz kraj zostanie dotknięty kolejnymi klęskami żywiołowymi. (No futuro, (nós) tememos que nosso país seja acometido por novos desastres naturais.)
+ - (My) zostaliśmy / zostałyśmy dotknięci / dotknięte suszą, która zniszczyła plony w naszej okolicy. ((Nós) fomos acometidos / acometidas por uma seca que destruiu as colheitas na nossa região.)
 
 - [] Dzień 308 - 
  -  ()
