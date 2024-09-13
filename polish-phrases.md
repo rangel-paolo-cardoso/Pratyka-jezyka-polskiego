@@ -1067,12 +1067,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) obawiamy się, że nasz kraj zostanie dotknięty kolejnymi klęskami żywiołowymi. (No futuro, (nós) tememos que nosso país seja acometido por novos desastres naturais.)
  - (My) zostaliśmy / zostałyśmy dotknięci / dotknięte suszą, która zniszczyła plony w naszej okolicy. ((Nós) fomos acometidos / acometidas por uma seca que destruiu as colheitas na nossa região.)
 
-- [] Dzień 308 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 308 - Akomodacja. (Acomodação. - Rzeczownik żeński)
+ - (My) zarezerwowaliśmy / zarezerwowałyśmy akomodację na tydzień przed wyjazdem, aby mieć pewność, że wszystko jest gotowe. ((Nós) reservamos a acomodação uma semana antes da viagem para garantir que tudo estivesse pronto.)
+ - On / Ona zawsze wybiera wygodną akomodację, aby móc się zrelaksować podczas podróży. (Ele / Ela sempre escolhe uma acomodação confortável para poder relaxar durante a viagem.)
+ - Czy ta akomodacja będzie odpowiednia dla naszej dużej grupy? Mamy sporo osób. (Essa acomodação será adequada para o nosso grupo grande? Temos muitas pessoas.)
+ - Jeśli nie znajdziemy lepszej opcji, musimy zaakceptować tę akomodację na najbliższe dni. (Se não encontrarmos uma opção melhor, teremos que aceitar essa acomodação para os próximos dias.)
+ - Oni / One byli / były bardzo zadowoleni / zadowolone z akomodacji w tym hotelu, ponieważ pokoje były przestronne i czyste. (Eles / Elas ficaram muito satisfeitos / satisfeitas com a acomodação neste hotel, pois os quartos eram espaçosos e limpos.)
 
 - [] Dzień 309 - 
  -  ()
