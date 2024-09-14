@@ -1074,12 +1074,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli nie znajdziemy lepszej opcji, musimy zaakceptować tę akomodację na najbliższe dni. (Se não encontrarmos uma opção melhor, teremos que aceitar essa acomodação para os próximos dias.)
  - Oni / One byli / były bardzo zadowoleni / zadowolone z akomodacji w tym hotelu, ponieważ pokoje były przestronne i czyste. (Eles / Elas ficaram muito satisfeitos / satisfeitas com a acomodação neste hotel, pois os quartos eram espaçosos e limpos.)
 
-- [] Dzień 309 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 309 - Akomodować. (Acomodar. - Czasownik)
+ - Po inspekcji jesteśmy pewni, że ten salon może akomodować wszystkich gości na dzisiejszym wydarzeniu. (Após a inspeção, temos certeza de que este salão pode acomodar todos os convidados para o evento de hoje.)
+ - Jeśli wyjdziecie z tej strefy komfortu, nie będziecie się tak łatwo akomodować do trudniejszych sytuacji. (Se vocês saírem dessa zona de conforto, não se acomodarão tão facilmente a situações mais difíceis.)
+ - On / Ona zawsze stara się akomodować potrzeby innych, zanim pomyśli o sobie. (Ele / Ela sempre tenta acomodar as necessidades dos outros antes de pensar em si mesmo / mesma.)
+ - (Ja) zostałem / zostałam akomodowany / akomodowana w wygodnym pokoju na cały pobyt, więc nie muszę się martwić o zakwaterowanie. ((Eu) fui acomodado / acomodada em um quarto confortável durante toda a estadia, então não preciso me preocupar com hospedagem.)
+ - Oni / One planują akomodować większą liczbę gości w nowym hotelu, który otworzy się w przyszłym miesiącu. (Eles / Elas planejam acomodar um maior número de convidados no novo hotel que abrirá no próximo mês.)
 
 - [] Dzień 310 - 
  -  ()
