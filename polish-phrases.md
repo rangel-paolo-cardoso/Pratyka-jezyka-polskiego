@@ -1081,12 +1081,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) zostałem / zostałam akomodowany / akomodowana w wygodnym pokoju na cały pobyt, więc nie muszę się martwić o zakwaterowanie. ((Eu) fui acomodado / acomodada em um quarto confortável durante toda a estadia, então não preciso me preocupar com hospedagem.)
  - Oni / One planują akomodować większą liczbę gości w nowym hotelu, który otworzy się w przyszłym miesiącu. (Eles / Elas planejam acomodar um maior número de convidados no novo hotel que abrirá no próximo mês.)
 
-- [] Dzień 310 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 310 - Dodatek, Akompaniament, Oprowadzanie, Wsparcie, Monitorowanie  (Acompanhamento.)
+ - Ta zupa będzie doskonałym dodatkiem do głównego dania. (Esta sopa será um excelente acompanhamento para o prato principal.)
+ - Podczas zwiedzania będziemy cię oprowadzać, abyś mógł / mogła lepiej zrozumieć każdy szczegół. (Durante a visita, vamos te acompanhar para que você possa entender melhor cada detalhe.)
+ - Wczoraj (my) mieliśmy / miałyśmy muzyczny akompaniament na koncercie, który urozmaicił występ. (Ontem (nós) tivemos um acompanhamento musical no concerto, que enriqueceu a performance.)
+ - Oni / One zawsze mają wsparcie i nadzór, aby zapewnić wysoką jakość usług. (Eles / Elas sempre têm acompanhamento e supervisão para garantir alta qualidade nos serviços.)
+ - W przyszłym tygodniu (my) będziemy cię regularnie monitorować, aby zapewnić postępy w leczeniu. (Na próxima semana, (nós) te faremos um acompanhamento regular para garantir o progresso do tratamento.)
 
 - [] Dzień 311 - 
  -  ()
