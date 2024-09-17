@@ -1088,12 +1088,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zawsze mają wsparcie i nadzór, aby zapewnić wysoką jakość usług. (Eles / Elas sempre têm acompanhamento e supervisão para garantir alta qualidade nos serviços.)
  - W przyszłym tygodniu (my) będziemy cię regularnie monitorować, aby zapewnić postępy w leczeniu. (Na próxima semana, (nós) te faremos um acompanhamento regular para garantir o progresso do tratamento.)
 
-- [] Dzień 311 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 311 - Towarzyszyć. (Acompanhar. - Czasownik)
+ - (Ja) będę ci towarzyszył / towarzyszyła przez całą drogę, abyś się nie zgubił / zgubiła. (Eu vou te acompanhar durante todo o caminho para que você não se perca.)
+ - On / Ona towarzyszył / towarzyszyła mu / jej w podróży po Europie i pomagali sobie nawzajem. (Ele / Ela o / a acompanhou (ele / ela) na viagem pela Europa, e eles se ajudaram mutuamente.)
+ - Czy będziesz towarzyszył / towarzyszyła nam jutro podczas wycieczki? (Você vai nos acompanhar amanhã durante o passeio?)
+ - Oni / One towarzyszyli / towarzyszyły mi na koncercie i świetnie się bawiliśmy / bawiłyśmy. (Eles / Elas me acompanharam no show, e nos divertimos muito.)
+ - On / Ona towarzyszył / towarzyszyła swojemu / swojej bratu / siostrze przez cały czas pobytu w szpitalu. (Ele / Ela acompanhou o / a irmão / irmã durante toda a estadia no hospital.)
 
 - [] Dzień 312 - 
  -  ()
