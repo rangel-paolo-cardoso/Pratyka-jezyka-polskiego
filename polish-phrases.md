@@ -1089,7 +1089,6 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym tygodniu (my) będziemy cię regularnie monitorować, aby zapewnić postępy w leczeniu. (Na próxima semana, (nós) te faremos um acompanhamento regular para garantir o progresso do tratamento.)
 
 - [x] Dzień 311 - Towarzysz, Towarzyszka, Partner, Opiekun, Przewodnik. (Acompanhante. - Przymiotnik)
-
  - Mój / Moja tata / mama przyszedł / przyszła dzisiaj jako mój / moja towarzysz / towarzyszka na wizytę u lekarza. (Meu / Minha pai / mãe veio hoje como meu / minha acompanhante para a consulta médica.)
  - (Ty) będziesz moim / moją towarzyszem / towarzyszką podczas tej podróży, więc pomożesz mi nosić bagaż. (Você será meu / minha acompanhante durante esta viagem, então vai me ajudar a carregar as malas.)
  - Oni / One byli / były moimi towarzyszami / towarzyszkami podczas wczorajszej kolacji, a wieczór był bardzo udany. (Eles / Elas foram meus / minhas acompanhantes durante o jantar de ontem, e a noite foi muito agradável.)
@@ -1103,12 +1102,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One towarzyszyli / towarzyszyły mi na koncercie i świetnie się bawiliśmy / bawiłyśmy. (Eles / Elas me acompanharam no show, e nos divertimos muito.)
  - On / Ona towarzyszył / towarzyszyła swojemu / swojej bratu / siostrze przez cały czas pobytu w szpitalu. (Ele / Ela acompanhou o / a irmão / irmã durante toda a estadia no hospital.)
 
-- [] Dzień 313 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 313 - Wtulić się, Przytulić się. (Aconchegar. - Czasownik)
+ - (Ja) zamierzam się wtulić w koc, jak tylko zrobi się chłodniej. ((Eu) pretendo me aconchegar no cobertor assim que esfriar.)
+ - On / Ona wtulił / wtuliła się w jego / jej ramiona po długim, wyczerpującym dniu. (Ele / Ela se aconchegou em seus (nos) braços (dele / dela) após um longo e cansativo dia.)
+ - Czy oni / one zamierzają się przytulić do siebie, kiedy rozpocznie się film? (Eles / Elas pretendem se aconchegar um / uma no / na outro / outra quando o filme começar?)
+ - Dzieci wtuliły się w łóżka, kiedy usłyszały opowieść na dobranoc. (As crianças se aconchegaram nas camas quando ouviram a história de dormir.)
+ - (My) będziemy się wtulać pod ciepłym kocem przez całą zimę. ((Nós) vamos nos aconchegar sob o cobertor quente durante todo o inverno.)
 
 - [] Dzień 314 - 
  -  ()
