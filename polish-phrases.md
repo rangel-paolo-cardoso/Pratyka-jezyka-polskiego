@@ -1088,19 +1088,20 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zawsze mają wsparcie i nadzór, aby zapewnić wysoką jakość usług. (Eles / Elas sempre têm acompanhamento e supervisão para garantir alta qualidade nos serviços.)
  - W przyszłym tygodniu (my) będziemy cię regularnie monitorować, aby zapewnić postępy w leczeniu. (Na próxima semana, (nós) te faremos um acompanhamento regular para garantir o progresso do tratamento.)
 
-- [x] Dzień 311 - Towarzyszyć. (Acompanhar. - Czasownik)
+- [x] Dzień 311 - Towarzysz, Towarzyszka, Partner, Opiekun, Przewodnik. (Acompanhante. - Przymiotnik)
+
+ - Mój / Moja tata / mama przyszedł / przyszła dzisiaj jako mój / moja towarzysz / towarzyszka na wizytę u lekarza. (Meu / Minha pai / mãe veio hoje como meu / minha acompanhante para a consulta médica.)
+ - (Ty) będziesz moim / moją towarzyszem / towarzyszką podczas tej podróży, więc pomożesz mi nosić bagaż. (Você será meu / minha acompanhante durante esta viagem, então vai me ajudar a carregar as malas.)
+ - Oni / One byli / były moimi towarzyszami / towarzyszkami podczas wczorajszej kolacji, a wieczór był bardzo udany. (Eles / Elas foram meus / minhas acompanhantes durante o jantar de ontem, e a noite foi muito agradável.)
+ - Czy on / ona będzie twoim / twoją towarzyszem / towarzyszką na dzisiejszej uroczystości? (Ele / Ela será seu / sua acompanhante na cerimônia de hoje?)
+ - Kiedy przyszliśmy / przyszłyśmy na imprezę, on / ona był / była już z nowym / nową towarzyszem / towarzyszką. (Quando chegamos à festa, ele / ela já estava com um / uma novo / nova acompanhante.)
+
+- [x] Dzień 312 - Towarzyszyć. (Acompanhar. - Czasownik)
  - (Ja) będę ci towarzyszył / towarzyszyła przez całą drogę, abyś się nie zgubił / zgubiła. (Eu vou te acompanhar durante todo o caminho para que você não se perca.)
  - On / Ona towarzyszył / towarzyszyła mu / jej w podróży po Europie i pomagali sobie nawzajem. (Ele / Ela o / a acompanhou (ele / ela) na viagem pela Europa, e eles se ajudaram mutuamente.)
  - Czy będziesz towarzyszył / towarzyszyła nam jutro podczas wycieczki? (Você vai nos acompanhar amanhã durante o passeio?)
  - Oni / One towarzyszyli / towarzyszyły mi na koncercie i świetnie się bawiliśmy / bawiłyśmy. (Eles / Elas me acompanharam no show, e nos divertimos muito.)
  - On / Ona towarzyszył / towarzyszyła swojemu / swojej bratu / siostrze przez cały czas pobytu w szpitalu. (Ele / Ela acompanhou o / a irmão / irmã durante toda a estadia no hospital.)
-
-- [] Dzień 312 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
 
 - [] Dzień 313 - 
  -  ()
