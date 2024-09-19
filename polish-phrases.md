@@ -1109,12 +1109,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Dzieci wtuliły się w łóżka, kiedy usłyszały opowieść na dobranoc. (As crianças se aconchegaram nas camas quando ouviram a história de dormir.)
  - (My) będziemy się wtulać pod ciepłym kocem przez całą zimę. ((Nós) vamos nos aconchegar sob o cobertor quente durante todo o inverno.)
 
-- [] Dzień 314 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 314 - Zalecać się, Zalecane, Zaleca się. (Aconselhável.)
+ - Zaleca się, abyś unikał / unikała stresujących sytuacji dla swojego zdrowia. (É aconselhável que você evite situações estressantes para sua saúde.)
+ - Czy było zalecane, aby oni / one poszli / poszły wcześniej do lekarza, zanim stan się pogorszy? (Foi aconselhável que eles / elas fossem ao médico mais cedo, antes que a condição piorasse?)
+ - Będzie zalecane, abyśmy odpoczęli / odpoczęły przed długą podróżą. (Será aconselhável que nós descansemos antes da longa viagem.)
+ - Zaleca się, aby on / ona regularnie ćwiczył / ćwiczyła, aby poprawić swoją kondycję. (É aconselhável que ele / ela faça exercícios regularmente para melhorar sua condição física.)
+ - To nie było zalecane, aby on / ona miał / miała tak dużo słodyczy na co dzień. (Não foi aconselhável que ele / ela comesse tantos doces diariamente.)
 
 - [] Dzień 315 - 
  -  ()
