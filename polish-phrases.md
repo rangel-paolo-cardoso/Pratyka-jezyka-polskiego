@@ -1116,12 +1116,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Zaleca się, aby on / ona regularnie ćwiczył / ćwiczyła, aby poprawić swoją kondycję. (É aconselhável que ele / ela faça exercícios regularmente para melhorar sua condição física.)
  - To nie było zalecane, aby on / ona miał / miała tak dużo słodyczy na co dzień. (Não foi aconselhável que ele / ela comesse tantos doces diariamente.)
 
-- [] Dzień 315 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 315 - Stać się, Wydarzyć się, Zdarzyć się (Acontecer. - Czasownik)
+ - Co się stanie, jeśli nie zdamy tego egzaminu? (O que vai acontecer se nós não passarmos nessa prova?)
+ - Wczoraj wieczorem wydarzyło się coś niespodziewanego. (Ontem à noite aconteceu algo inesperado.)
+ - On / Ona zawsze martwi się o to, co może się wydarzyć w przyszłości. (Ele / Ela sempre se preocupa com o que pode acontecer no futuro.)
+ - Oni / One nie wiedzieli / wiedziały, co się wydarzyło podczas ich nieobecności. (Eles / Elas não sabiam o que tinha acontecido durante a ausência deles / delas.)
+ - To się nie zdarzy, jeśli będziemy ostrożni / ostrożne. (Isso não vai acontecer se formos cautelosos / cautelosas.)
 
 - [] Dzień 316 - 
  -  ()
