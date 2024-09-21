@@ -1123,12 +1123,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One nie wiedzieli / wiedziały, co się wydarzyło podczas ich nieobecności. (Eles / Elas não sabiam o que tinha acontecido durante a ausência deles / delas.)
  - To się nie zdarzy, jeśli będziemy ostrożni / ostrożne. (Isso não vai acontecer se formos cautelosos / cautelosas.)
 
-- [] Dzień 316 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 316 - Wydarzenie, Wydarzenia (plural) - Rzeczownik nijaki (Acontecimento. - Rzeczownik męski)
+ - To wydarzenie z pewnością zapisze się w historii jako jedno z najważniejszych w naszym życiu. (Este acontecimento com certeza ficará registrado na história como um dos mais importantes de nossas vidas.)
+ - Każdy z nas czeka na wydarzenia, które zmienią bieg przyszłości. (Cada um de nós espera por acontecimentos que mudarão o curso do futuro.)
+ - W zeszłym roku miało miejsce niesamowite wydarzenie, które przyciągnęło tłumy. (No ano passado, houve um acontecimento incrível que atraiu multidões.)
+ - Czekamy na to, aby zobaczyć, co przyniesie to nadchodzące wydarzenie. (Estamos aguardando para ver o que trará este próximo acontecimento.)
+ - Wiele wydarzeń w tym tygodniu miało wpływ na naszą decyzję. (Muitos acontecimentos desta semana influenciaram nossa decisão.)
 
 - [] Dzień 317 - 
  -  ()
