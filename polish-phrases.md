@@ -1130,19 +1130,19 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czekamy na to, aby zobaczyć, co przyniesie to nadchodzące wydarzenie. (Estamos aguardando para ver o que trará este próximo acontecimento.)
  - Wiele wydarzeń w tym tygodniu miało wpływ na naszą decyzję. (Muitos acontecimentos desta semana influenciaram nossa decisão.)
 
-- [] Dzień 317 - Połączyć. (Acoplar. - Czasownik)
+- [x] Dzień 317 - Połączyć. (Acoplar. - Czasownik)
  - Moduły muszą się połączyć przed rozpoczęciem misji, aby zapewnić bezpieczeństwo załogi. (Os módulos precisam se acoplar antes de iniciar a missão, para garantir a segurança da tripulação.)
  - (My) próbowaliśmy / próbowałyśmy połączyć te dwa elementy, ale coś poszło nie tak. ((Nós) tentamos acoplar essas duas peças, mas algo deu errado.)
  - W przyszłości inżynierowie / inżynierki będą musieli / musiały połączyć większe systemy, aby stworzyć bardziej złożone maszyny. (No futuro, os / as engenheiros / engenheiras terão que acoplar sistemas maiores para criar máquinas mais complexas.)
  - Kiedy połączyliśmy / połączyłyśmy te dwie części, cały mechanizm zaczął działać poprawnie. (Quando acoplamos essas duas partes, todo o mecanismo começou a funcionar corretamente.)
  - On / Ona musi połączyć te dwa elementy, zanim urządzenie zacznie działać. (Ele / Ela precisa acoplar esses dois componentes antes que o dispositivo comece a funcionar.)
 
-- [] Dzień 318 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 318 - Garbić się. (Acorcundar. = Czasownik)
+ - (Ja) zauważyłem / zauważyłam, że on / ona się garbi, gdy siedzi przy biurku przez wiele godzin. ((Eu) percebi que ele / ela se acorcunda quando fica sentado / sentada à mesa por muitas horas.)
+ - (Wy) powinniście dbać o postawę, aby nie zacząć się garbić w przyszłości. (Vocês deveriam cuidar da postura para não começar a se acorcundarem no futuro.)
+ - Czy on / ona znowu się garbił / garbiła podczas spaceru? Musi poprawić swoją postawę. (Ele / Ela se acorcundou de novo durante a caminhada? Precisa corrigir a postura.)
+ - On / Ona zaczął / zaczęła się garbić po wielu latach pracy fizycznej. (Ele / Ela começou a se acorcundar após muitos anos de trabalho físico.)
+ - Jeśli (ty) nie będziesz uważał / uważała na swoją postawę, możesz zacząć się garbić. (Se você não for prestar atenção à sua postura, (você) pode começar a se acorcundar.)
 
 - [] Dzień 319 - 
  -  ()
