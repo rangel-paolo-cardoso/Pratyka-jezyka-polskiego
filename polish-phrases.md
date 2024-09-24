@@ -1144,12 +1144,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zaczął / zaczęła się garbić po wielu latach pracy fizycznej. (Ele / Ela começou a se acorcundar após muitos anos de trabalho físico.)
  - Jeśli (ty) nie będziesz uważał / uważała na swoją postawę, możesz zacząć się garbić. (Se você não for prestar atenção à sua postura, (você) pode começar a se acorcundar.)
 
-- [] Dzień 319 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 319 - Obudzić się - Pass/Fut, Budzić się - Present. (Acordar. - Czasownik)
+ - Dzisiaj rano (ja) obudziłem / obudziłam się wcześnie, żeby pobiegać. (Hoje de manhã eu acordei cedo para correr.)
+ - Jeśli (ty) nie obudzisz się wcześniej, spóźnisz się na spotkanie. (Se (você) não acordar mais cedo, vai se atrasar para a reunião.)
+ - (On / Ona) obudził / obudziła się w środku nocy z powodu głośnych dźwięków na zewnątrz. (Ele / Ela acordou no meio da noite por causa de barulhos altos do lado de fora.)
+ - Oni / One obudzą się jutro przed świtem, żeby wyruszyć na wycieczkę. (Eles / Elas vão acordar amanhã antes do amanhecer para sair na excursão (passeio).)
+ - (My) obudziliśmy / obudziłyśmy się o piątej rano, żeby zobaczyć wschód słońca. ((Nós) acordamos às cinco da manhã para ver o nascer do sol.)
 
 - [] Dzień 320 - 
  -  ()
