@@ -1151,12 +1151,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One obudzą się jutro przed świtem, żeby wyruszyć na wycieczkę. (Eles / Elas vão acordar amanhã antes do amanhecer para sair na excursão (passeio).)
  - (My) obudziliśmy / obudziłyśmy się o piątej rano, żeby zobaczyć wschód słońca. ((Nós) acordamos às cinco da manhã para ver o nascer do sol.)
 
-- [] Dzień 320 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 320 - Obudź się, Akord, Uzgodnić (Acorde. - Przymiotnik)
+ - Obudź się, bracie / siostro! Słońce już wstało, a ty wciąż śpisz. (Acorde, irmão / irmã! O sol já nasceu e você ainda está dormindo.)
+ - (My) obudziliśmy / obudziłyśmy się wcześnie rano, aby zobaczyć wschód słońca nad jeziorem. ((Nós) acordamos cedo de manhã para ver o nascer do sol sobre o lago.)
+ - Zanim zagramy ten akord, musimy się dobrze przygotować na koncert. (Antes de tocarmos esse acorde, precisamos nos preparar bem para o show.)
+ - (Ja) mam nadzieję, że jutro rano obudzicie się na czas, żeby nie spóźnić się na samolot. ((Eu) espero que vocês acordem a tempo amanhã de manhã para não (se atrasarem para) perder o voo.)
+ - (Ty) musisz uzgodnić ten akord z resztą zespołu, aby wszyscy grali w harmonii. (Você precisa acordar esse acorde com o resto da banda para que todos toquem em harmonia.)
 
 - [] Dzień 321 - 
  -  ()
