@@ -1158,12 +1158,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) mam nadzieję, że jutro rano obudzicie się na czas, żeby nie spóźnić się na samolot. ((Eu) espero que vocês acordem a tempo amanhã de manhã para não (se atrasarem para) perder o voo.)
  - (Ty) musisz uzgodnić ten akord z resztą zespołu, aby wszyscy grali w harmonii. (Você precisa acordar esse acorde com o resto da banda para que todos toquem em harmonia.)
 
-- [] Dzień 321 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 321 - Akordeon. (Acordeão, Safona. - Rzeczownik męski)
+ - Akordeon to bardzo znany instrument, zwykle grany w muzyce forró. (O acordeão é um instrumento muito conhecido, e geralmente tocado em músicas de forró.)
+ - (Ja) zagrałem / zagrałam na akordeonie na weselu mojego / mojej brata / siostry i wszyscy byli zachwyceni. ((Eu) toquei acordeão no casamento do / da meu / minha irmão / irmã e todos ficaram encantados.)
+ - On / Ona marzy o tym, żeby nauczyć się grać na akordeonie w przyszłości. (Ele / Ela sonha em aprender a tocar acordeão no futuro.)
+ - Czy oni / one kiedyś grali / grały na akordeonie? (Ja) słyszałem / słyszałam, że to trudny instrument. (Eles / Elas já tocaram acordeão alguma vez? (Eu) ouvi dizer que é um instrumento difícil.)
+ - (My) chcemy kupić nowy akordeon, aby mój / moja syn / córka mógł / mogła rozpocząć lekcje gry. ((Nós) queremos comprar um novo acordeão para que meu / minha filho / filha possa começar as aulas de música.)
 
 - [] Dzień 322 - 
  -  ()
