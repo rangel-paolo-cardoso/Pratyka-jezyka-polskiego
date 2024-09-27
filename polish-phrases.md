@@ -1165,12 +1165,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy oni / one kiedyś grali / grały na akordeonie? (Ja) słyszałem / słyszałam, że to trudny instrument. (Eles / Elas já tocaram acordeão alguma vez? (Eu) ouvi dizer que é um instrumento difícil.)
  - (My) chcemy kupić nowy akordeon, aby mój / moja syn / córka mógł / mogła rozpocząć lekcje gry. ((Nós) queremos comprar um novo acordeão para que meu / minha filho / filha possa começar as aulas de música.)
 
-- [] Dzień 322 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 322 - Umowa - Rzeczownik żeński, Porozumienie - Rzeczownik nijaki, Kontrakt - Rzeczownik męski. (Acordo. - Rzeczownik męski)
+ - (My) zawarliśmy / zawarłyśmy umowę, że on / ona będzie odpowiedzialny / odpowiedzialna za marketing, a ja za finanse. ((Nós) fizemos um acordo de que ele / ela será responsável pelo marketing, e eu pelas finanças.)
+ - Jeśli oni / one podpiszą ten kontrakt, nasze firmy będą współpracować przez pięć lat. (Se eles / elas assinarem esse contrato, nossas empresas irão colaborar por cinco anos.)
+ - On / Ona nie zgodził / zgodziła się na warunki umowy, więc rozmowy zostały zakończone. (Ele / Ela não concordou com os termos do acordo, então as negociações foram encerradas.)
+ - W przyszłym tygodniu zawrzemy umowę dotyczącą nowego projektu. (Na próxima semana, fecharemos um acordo sobre o novo projeto.)
+ - Czy oni / one już osiągnęli / osiągnęły porozumienie w sprawie nowego kontraktu? (Eles / Elas já chegaram a um acordo sobre o novo contrato?)
 
 - [] Dzień 323 - 
  -  ()
