@@ -1172,12 +1172,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym tygodniu zawrzemy umowę dotyczącą nowego projektu. (Na próxima semana, fecharemos um acordo sobre o novo projeto.)
  - Czy oni / one już osiągnęli / osiągnęły porozumienie w sprawie nowego kontraktu? (Eles / Elas já chegaram a um acordo sobre o novo contrato?)
 
-- [] Dzień 323 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 323 - Przywiązać,  Zakuty w kajdanki, Zapiąć na łańcuch, Skuć łańcuchem. (Acorrentar. - Czasownik)
+ - (Ja) zamierzam przywiązać mojego / moją psa / sukę łańcuchem, aby nie uciekł / uciekła podczas burzy. ((Eu) pretendo acorrentar meu / minha cachorro / cachorra para que ele / ela não fuja durante a tempestade.)
+ - Złodziej / Złodziejka został / została złapany / złapana i zakuty / zakuta w kajdanki przez policję. (O / A ladrão / ladra foi capturado / capturada e acorrentado / acorrentada pela polícia.)
+ - Oni / One przywiązali / przywiązały łańcuchem rower, aby nikt go nie ukradł. (Eles / Elas acorrentaram a bicicleta para que ninguém a roubasse.)
+ - (Ja) nie mogę uwierzyć, że skuli łańcuchem moją łódź do pomostu bez pytania. ((Eu) não consigo acreditar que acorrentaram meu barco ao cais sem perguntar.)
+ - W przyszłym tygodniu (my) zamierzamy zabezpieczyć bramę metalowym łańcuchem. (Na semana que vem, (nós) pretendemos acorrentar o portão com uma corrente de metal.)
 
 - [] Dzień 324 - 
  -  ()
