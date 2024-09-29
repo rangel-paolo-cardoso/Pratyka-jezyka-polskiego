@@ -1179,12 +1179,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) nie mogę uwierzyć, że skuli łańcuchem moją łódź do pomostu bez pytania. ((Eu) não consigo acreditar que acorrentaram meu barco ao cais sem perguntar.)
  - W przyszłym tygodniu (my) zamierzamy zabezpieczyć bramę metalowym łańcuchem. (Na semana que vem, (nós) pretendemos acorrentar o portão com uma corrente de metal.)
 
-- [] Dzień 324 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 324 - Zasłonić, Zasłaniać. (Acortinar. - Czasownik)
+ - (Ja) zasłoniłem / zasłoniłam okno zasłonami, aby wpuścić mniej światła do pokoju. ((Eu) acortinei a janela com cortinas para deixar menos luz entrar no quarto.)
+ - Oni / One planują zasłonić wszystkie okna w sali konferencyjnej przed rozpoczęciem prezentacji. (Eles / Elas planejam acortinar todas as janelas da sala de conferências antes de começar a apresentação.)
+ - (Ty) musisz zasłonić scenę przed spektaklem, aby nie było widać przygotowań. (Você precisa acortinar o palco antes da peça para que os preparativos não sejam vistos.)
+ - (My) zasłonimy okna na noc, żeby w pokoju było ciemniej. ((Nós) vamos acortinar as janelas à noite para que no quarto fique mais escuro.)
+ - (Oni / One) zasłonili / zasłoniły wszystkie drzwi, aby ukryć to, co dzieje się w środku. (Eles / Elas acortinaram todas as portas para esconder o que estava acontecendo dentro.)
 
 - [] Dzień 325 - 
  -  ()
