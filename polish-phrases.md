@@ -1186,12 +1186,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zasłonimy okna na noc, żeby w pokoju było ciemniej. ((Nós) vamos acortinar as janelas à noite para que no quarto fique mais escuro.)
  - (Oni / One) zasłonili / zasłoniły wszystkie drzwi, aby ukryć to, co dzieje się w środku. (Eles / Elas acortinaram todas as portas para esconder o que estava acontecendo dentro.)
 
-- [] Dzień 325 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 325 - Pobocze. - Rzeczownik nijaki (Acostamento. - Rzeczownik męski)
+ - Samochód zepsuł się i (my) musieliśmy / musiałyśmy zjechać na pobocze, aby go naprawić. (O carro quebrou e (nós) tivemos que parar no acostamento para consertá-lo.)
+ - Kiedy (on / ona) zauważył / zauważyła, że opona jest przebita, zatrzymał / zatrzymała się natychmiast na poboczu. (Quando ele / ela percebeu que o pneu estava furado, parou imediatamente no acostamento.)
+ - Oni / One zawsze uważają, aby nie parkować samochodu na poboczu w niebezpiecznych miejscach. (Eles / Elas sempre tomam cuidado para não estacionar o carro no acostamento em lugares perigosos.)
+ - W przyszłym tygodniu (my) będziemy naprawiać drogę i poszerzać pobocze dla większego bezpieczeństwa. (Na próxima semana, (nós) vamos reparar a estrada e alargar o acostamento para maior segurança.)
+ - Po długiej jeździe (my) zatrzymaliśmy / zatrzymałyśmy się na poboczu, aby odpocząć. (Após uma longa viagem, (nós) paramos no acostamento para descansar.)
 
 - [] Dzień 326 - 
  -  ()
