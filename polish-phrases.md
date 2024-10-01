@@ -1193,12 +1193,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym tygodniu (my) będziemy naprawiać drogę i poszerzać pobocze dla większego bezpieczeństwa. (Na próxima semana, (nós) vamos reparar a estrada e alargar o acostamento para maior segurança.)
  - Po długiej jeździe (my) zatrzymaliśmy / zatrzymałyśmy się na poboczu, aby odpocząć. (Após uma longa viagem, (nós) paramos no acostamento para descansar.)
 
-- [] Dzień 326 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 326 - Zacumować, Przycumować, Przystawić się. (Acostar. - Czasownik)
+ - Kapitan postanowił / postanowiła zacumować statek w małym porcie, aby uzupełnić zapasy. (O / A capitão / capitã decidiu acostar o navio em um pequeno porto para reabastecer suprimentos.)
+ - (My) zdecydowaliśmy / zdecydowałyśmy, że przycumujemy łódź na noc w zatoce. ((Nós) decidimos que vamos acostar o barco à noite na baía.)
+ - Gdybyś był / była w pobliżu, moglibyśmy / mogłybyśmy przycumować nasz jacht i zorganizować imprezę na pokładzie. (Se você estivesse por perto, poderíamos acostar nosso iate e organizar uma festa a bordo.)
+ - Kiedy dopłynęli / dopłynęły do wyspy, musieli / musiały zacumować i przejść przez dżunglę pieszo. (Quando eles / elas chegaram à ilha, tiveram que acostar e atravessar a selva a pé.)
+ - Następnym razem, kiedy odwiedzimy to miasto, zacumujemy naszą łódź w marinie. (Da próxima vez que visitarmos esta cidade, vamos acostar nosso barco na marina.)
 
 - [] Dzień 327 - 
  -  ()
