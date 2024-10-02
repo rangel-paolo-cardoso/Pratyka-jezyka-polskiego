@@ -1200,12 +1200,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Kiedy dopłynęli / dopłynęły do wyspy, musieli / musiały zacumować i przejść przez dżunglę pieszo. (Quando eles / elas chegaram à ilha, tiveram que acostar e atravessar a selva a pé.)
  - Następnym razem, kiedy odwiedzimy to miasto, zacumujemy naszą łódź w marinie. (Da próxima vez que visitarmos esta cidade, vamos acostar nosso barco na marina.)
 
-- [] Dzień 327 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 327 - Przyzwyczaić się. (Acostumar (Acostumar-se). - Czasownik)
+ - (Ja) muszę przyzwyczaić się do wstawania wcześniej, ponieważ nowa praca zaczyna się o 7:00 [siódmej] rano. ((Eu) preciso me acostumar a acordar mais cedo, pois o novo trabalho começa às 7:00 [sete] da manhã.)
+ - (My) przyzwyczailiśmy / przyzwyczaiłyśmy się do mieszkania na wsi po latach spędzonych w mieście. (Nós nos acostumamos a morar no campo depois de anos vivendo na cidade.)
+ - Czy oni / one kiedykolwiek przyzwyczają się do tak szybkiego trybu życia? (Será que eles / elas vão se acostumar a esse ritmo de vida tão acelerado algum dia?)
+ - (Wy) przyzwyczailiście / przyzwyczaiłyście się już do nowego domu, czy nadal macie trudności? (Vocês já se acostumaram à nova casa, ou ainda estão com dificuldades?)
+ - Nie wiem, czy on / ona przyzwyczai się do tak trudnych warunków. (Não sei se ele / ela vai se acostumar a condições tão difíceis.)
 
 - [] Dzień 328 - 
  -  ()
