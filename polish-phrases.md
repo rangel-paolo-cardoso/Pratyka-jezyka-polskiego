@@ -1207,12 +1207,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) przyzwyczailiście / przyzwyczaiłyście się już do nowego domu, czy nadal macie trudności? (Vocês já se acostumaram à nova casa, ou ainda estão com dificuldades?)
  - Nie wiem, czy on / ona przyzwyczai się do tak trudnych warunków. (Não sei se ele / ela vai se acostumar a condições tão difíceis.)
 
-- [] Dzień 328 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 328 - Rzeźnika. (Açougue. - Rzeczownik męski)
+ - Jutro (my) idziemy do rzeźnika, aby kupić świeże mięso na kolację. (Amanhã (nós) iremos ao açougue para comprar carne fresca para o jantar.)
+ - Czy możesz powiedzieć mi, gdzie jest najbliższa rzeźnika, proszę? (Ja) chciałbym / chciałabym kupić wołowinę. (Você pode me dizer onde fica o açougue mais próximo, por favor? (Eu) gostaria de comprar carne bovina.)
+ - Oni / One zawsze kupują kiełbasę w tej rzeźnika, bo jest bardzo smaczna. (Eles / Elas sempre compram linguiça nesse açougue, porque é muito saborosa.)
+ - W tej rzeźnika (oni / one) zawsze mają najlepszą jakość mięsa, więc warto tam kupować. (Neste açougue, eles / elas sempre têm a melhor qualidade de carne, então vale a pena comprar lá.)
+ - Mój / Moja tata / mama uwielbia chodzić do rzeźnika, bo zna go od lat. (Meu / Minha pai / mãe adora ir ao açougue, porque o conhece há anos.)
 
 - [] Dzień 329 - 
  -  ()
