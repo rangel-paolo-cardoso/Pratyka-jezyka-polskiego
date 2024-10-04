@@ -1214,12 +1214,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W tej rzeźnika (oni / one) zawsze mają najlepszą jakość mięsa, więc warto tam kupować. (Neste açougue, eles / elas sempre têm a melhor qualidade de carne, então vale a pena comprar lá.)
  - Mój / Moja tata / mama uwielbia chodzić do rzeźnika, bo zna go od lat. (Meu / Minha pai / mãe adora ir ao açougue, porque o conhece há anos.)
 
-- [] Dzień 329 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 329 - Wierzyć, Uwierzyć. (Acreditar - Czasownik)
+ - (Ja) wierzę w ciebie, nawet jeśli wszyscy inni w to wątpią. (Eu acredito em você, mesmo que todos os outros duvidem disso.)
+ - Czy kiedykolwiek (ty) uwierzyłeś / uwierzyłaś, że możesz osiągnąć coś wielkiego? (Você em algum momento já acreditou que pode alcançar algo grandioso?)
+ - Oni / One uwierzyli / uwierzyły, że to była najlepsza decyzja dla wszystkich. (Eles / Elas acreditaram que essa era a melhor decisão para todos.)
+ - (My) uwierzymy w to, gdy zobaczymy wyniki waszej pracy. ((Nós) acreditaremos nisso quando virmos os resultados do trabalho de vocês.)
+ - On / Ona wierzy, że przyszłość będzie lepsza, bez względu na obecne trudności. (Ele / Ela acredita que o futuro será melhor, independentemente das dificuldades atuais.)
 
 - [] Dzień 330 - 
  -  ()
