@@ -1221,7 +1221,140 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) uwierzymy w to, gdy zobaczymy wyniki waszej pracy. ((Nós) acreditaremos nisso quando virmos os resultados do trabalho de vocês.)
  - On / Ona wierzy, że przyszłość będzie lepsza, bez względu na obecne trudności. (Ele / Ela acredita que o futuro será melhor, independentemente das dificuldades atuais.)
 
-- [] Dzień 330 - 
+- [x] Dzień 330 - Wiarygodny / Warygodna. (Acreditável. Przymiotnik)
+ - To, co (on / ona) powiedział / powiedziała, jest całkiem wiarygodne, muszę przyznać. (O que ele / ela disse é bastante acreditável, tenho que admitir.)
+ - Jego / Jej historia o wydarzeniach z przeszłości wydaje się wiarygodna. (A história dele / dela sobre os acontecimentos do passado parece acreditável.)
+ - Czy (ty) myślisz, że to jest naprawdę wiarygodne, czy to tylko kolejna opowieść? (Você acha que isso é realmente acreditável, ou é apenas mais uma história?)
+ - Kiedy (my) dowiedzieliśmy / dowiedziałyśmy się o faktach, zrozumieliśmy / zrozumiałyśmy, że to, co mówili / mówiły, było wiarygodne. (Quando (nós) descobrimos os fatos, entendemos que o que eles / elas disseram era acreditável.)
+ - Jeśli to, co (oni / one) mówią, okaże się wiarygodne, możemy zmienić nasze plany. (Se o que eles / elas estão dizendo for acreditável, podemos mudar nossos planos.)
+
+- [] Dzień 331 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 332 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 333 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 334 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 335 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 336 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 337 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 338 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 339 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 340 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 341 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 342 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 343 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 344 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 345 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 346 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 347 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 348 - 
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+ -  ()
+
+- [] Dzień 349 - 
  -  ()
  -  ()
  -  ()
@@ -1230,120 +1363,6 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 331 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 332 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 333 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 334 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 335 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 336 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 337 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 338 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 339 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 340 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 341 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 342 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 343 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 344 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 345 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 346 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 347 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 348 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
-- [] Dzień 349 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
 - [] Dzień 350 - 
 - [] Dzień 351 - 
 - [] Dzień 352 - 
