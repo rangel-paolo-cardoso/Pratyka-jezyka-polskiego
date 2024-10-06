@@ -1228,12 +1228,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Kiedy (my) dowiedzieliśmy / dowiedziałyśmy się o faktach, zrozumieliśmy / zrozumiałyśmy, że to, co mówili / mówiły, było wiarygodne. (Quando (nós) descobrimos os fatos, entendemos que o que eles / elas disseram era acreditável.)
  - Jeśli to, co (oni / one) mówią, okaże się wiarygodne, możemy zmienić nasze plany. (Se o que eles / elas estão dizendo for acreditável, podemos mudar nossos planos.)
 
-- [] Dzień 331 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 331 - Dodać. (Acrescentar. - Czasownik)
+ - (Ja) dodałem / dodałam jeszcze kilka komentarzy do raportu, aby był bardziej szczegółowy. ((Eu) acrescentei mais alguns comentários ao relatório para que ficasse mais detalhado.)
+ - Czy (wy) moglibyście / mogłybyście dodać trochę cukru do ciasta? Smakuje zbyt neutralnie. (Vocês poderiam acrescentar um pouco de açúcar à massa? Está com um gosto muito neutro.)
+ - On / Ona dodał / dodała nowe informacje do prezentacji, które mogą pomóc w lepszym zrozumieniu tematu. (Ele / Ela acrescentou novas informações à apresentação que podem ajudar a entender melhor o tema.)
+ - Jeśli (ty) dodasz jeszcze trochę czasu, wszyscy będą gotowi na konkurs. (Se você acrescentar um pouco mais de tempo, todos estarão prontos para o concurso.)
+ - My dodamy te dane do naszej bazy jutro rano. (Nós vamos acrescentar esses dados ao nosso banco de dados amanhã de manhã.)
 
 - [] Dzień 332 - 
  -  ()
