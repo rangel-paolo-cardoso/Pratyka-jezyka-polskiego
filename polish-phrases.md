@@ -1235,12 +1235,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli (ty) dodasz jeszcze trochę czasu, wszyscy będą gotowi na konkurs. (Se você acrescentar um pouco mais de tempo, todos estarão prontos para o concurso.)
  - My dodamy te dane do naszej bazy jutro rano. (Nós vamos acrescentar esses dados ao nosso banco de dados amanhã de manhã.)
 
-- [] Dzień 332 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 332 - Wzrost, Dodatkowy, Dodatek. (Acréscimo. - Rzeczownik męski)
+ - Sędzia ogłosił / ogłosiła dodatkowe pięć minut na końcu meczu. (O / A juiz / juíza anunciou um acréscimo de cinco minutos no final do jogo (da partida).)
+ - Liczba turystów wzrosła o 10% (dziesięć procent) w porównaniu do zeszłego roku. (O número de turistas teve um acréscimo de 10% (dez por cento) em comparação ao ano anterior.)
+ - Spodziewam się, że w przyszłym kwartale nastąpi znaczący wzrost dochodów. (Eu espero que no próximo trimestre haja um acréscimo significativo nos lucros.)
+ - Oni / One zauważyli / zauważyły, że w ostatnich latach nastąpił stały wzrost liczby mieszkańców. (Eles / Elas notaram que nos últimos anos ocorreu um constante acréscimo no número de residentes.)
+ - Jeśli (my) dodamy więcej produktów, nasze zyski na pewno wzrosną. (Se (nós) acrescentarmos mais produtos, nossos lucros certamente aumentarão.)
 
 - [] Dzień 333 - 
  -  ()
