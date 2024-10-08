@@ -1242,12 +1242,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zauważyli / zauważyły, że w ostatnich latach nastąpił stały wzrost liczby mieszkańców. (Eles / Elas notaram que nos últimos anos ocorreu um constante acréscimo no número de residentes.)
  - Jeśli (my) dodamy więcej produktów, nasze zyski na pewno wzrosną. (Se (nós) acrescentarmos mais produtos, nossos lucros certamente aumentarão.)
 
-- [] Dzień 333 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 333 - Akrobacja. (Acrobacia. - Rzeczownik żeński)
+ - Wczoraj (ja) widziałem / widziałam akrobację na festiwalu, to było naprawdę niesamowite. (Ontem eu vi uma acrobacia no festival, foi realmente incrível.)
+ - On / Ona zawsze chciał / chciała nauczyć się akrobacji, ale bał / bała się kontuzji. (Ele / Ela sempre quis aprender acrobacias, mas tinha medo de se machucar.)
+ - Dzieci będą próbować różnych akrobacji na zajęciach gimnastyki. (As crianças vão tentar várias acrobacias na aula de ginástica.)
+ - My nigdy wcześniej nie widzieliśmy / widziałyśmy takich spektakularnych akrobacji. (Nós nunca vimos acrobacias tão espetaculares antes.)
+ - Jeśli (wy) chcecie wykonać tę akrobację poprawnie, musicie poćwiczyć więcej. (Se vocês querem fazer essa acrobacia corretamente, precisam praticar mais.)
 
 - [] Dzień 334 - 
  -  ()
