@@ -1249,12 +1249,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My nigdy wcześniej nie widzieliśmy / widziałyśmy takich spektakularnych akrobacji. (Nós nunca vimos acrobacias tão espetaculares antes.)
  - Jeśli (wy) chcecie wykonać tę akrobację poprawnie, musicie poćwiczyć więcej. (Se vocês querem fazer essa acrobacia corretamente, precisam praticar mais.)
 
-- [] Dzień 334 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 334 - Akrobata, Akrobatka. (Acrobata. - Rzeczownik)
+ - Po latach ciężkiego treningu on / ona stał / stała się jednym / jedną z najlepszych akrobatów / akrobatek na świecie. (Após anos de treino intenso, ele / ela se tornou um / uma dos / das melhores acrobatas do mundo.)
+ - Akrobata / Akrobatka, którego / którą widziałem / widziałam na arenie, wykonał / wykonała niesamowity skok przez obręcz ognia. (O / A acrobata que vi na arena fez um salto incrível através de um arco em chamas.)
+ - Jeśli chcesz zostać akrobatą / akrobatką, musisz codziennie trenować, aby osiągnąć równowagę i siłę. (Se você quer se tornar um / uma acrobata, precisa treinar todos os dias para alcançar equilíbrio e força.)
+ - Akrobaci / Akrobatki w tym cyrku potrafią zrobić rzeczy, które wydają się niemożliwe. (Os / As acrobatas deste circo conseguem fazer coisas que parecem impossíveis.)
+ - Oni / One powiedzieli / powiedziały, że zostaną najlepszymi akrobatami / akrobatkami w swojej grupie, i ciężko nad tym pracują. (Eles / Elas disseram que vão se tornar os / as melhores acrobatas do grupo deles / delas, e estão trabalhando duro para isso.)
 
 - [] Dzień 335 - 
  -  ()
