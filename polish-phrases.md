@@ -1256,12 +1256,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Akrobaci / Akrobatki w tym cyrku potrafią zrobić rzeczy, które wydają się niemożliwe. (Os / As acrobatas deste circo conseguem fazer coisas que parecem impossíveis.)
  - Oni / One powiedzieli / powiedziały, że zostaną najlepszymi akrobatami / akrobatkami w swojej grupie, i ciężko nad tym pracują. (Eles / Elas disseram que vão se tornar os / as melhores acrobatas do grupo deles / delas, e estão trabalhando duro para isso.)
 
-- [] Dzień 335 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 335 - Cukier. - Rzeczownik męski (Açúcar. - Rzeczownik męski)
+ - (Ja) dodałem / dodałam za dużo cukru do ciasta i teraz jest za słodkie. (Eu acrescentei muito açúcar na massa, e agora ela está muito doce.)
+ - Oni / One zawsze starają się unikać cukru, ponieważ jest to zdrowsze. (Eles / Elas sempre tentam evitar o açúcar porque é mais saudável.)
+ - Czy (wy) moglibyście / mogłybyście dodać trochę cukru do mojej kawy, proszę? (Vocês poderiam acrescentar um pouco de açúcar ao meu café, por favor?)
+ - On / Ona nie mógł / mogła znaleźć cukru w kuchni, więc musiał / musiała go pożyczyć od sąsiadów. (Ele / Ela não conseguiu encontrar açúcar na cozinha, então teve que pedir emprestado dos vizinhos.)
+ - W przyszłym tygodniu kupimy więcej cukru, ponieważ kończy nam się zapas. (Na próxima semana, compraremos mais açúcar porque o nosso estoque está acabando.)
 
 - [] Dzień 336 - 
  -  ()
