@@ -1263,12 +1263,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona nie mógł / mogła znaleźć cukru w kuchni, więc musiał / musiała go pożyczyć od sąsiadów. (Ele / Ela não conseguiu encontrar açúcar na cozinha, então teve que pedir emprestado dos vizinhos.)
  - W przyszłym tygodniu kupimy więcej cukru, ponieważ kończy nam się zapas. (Na próxima semana, compraremos mais açúcar porque o nosso estoque está acabando.)
 
-- [] Dzień 336 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 336 - Zapora. - Rzeczownik żeński (Açude. - Rzeczownik męski)
+ - W mojej rodzinnej miejscowości (ja) brałem / brałam udział w weselu obok ogromnej zapory. Widok był przepiękny! (Em minha terra natal, (eu) participei de uma festa de casamento ao lado de um gigantesco açude. A vista era linda!)
+ - Zapora to konstrukcja przeznaczona do zatrzymywania wody, która może być używana do wytwarzania energii, w rolnictwie lub zaopatrzeniu w wodę. (Um açude é uma construção destinada a represar água, que pode ser usada na geração de força (energia), na agricultura ou no abastecimento de água.)
+ - W niedziele ludzie szukają rozrywki nad zaporą, pływając łódką, kąpiąc się lub łowiąc ryby. (Nos domingos, as pessoas buscam lazer no açude, andando de barco, nadando ou pescando.)
+ - Oni / One postanowili / postanowiły zbudować nową zaporę w celu poprawy zaopatrzenia w wodę w regionie. (Eles / Elas decidiram construir um novo açude afim de melhorar o abastecimento de água na região.)
+ - Zapora była już pełna wody po ostatnich ulewach. (O açude já estava cheio de água após as últimas chuvas.)
 
 - [] Dzień 337 - 
  -  ()
