@@ -1270,12 +1270,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One postanowili / postanowiły zbudować nową zaporę w celu poprawy zaopatrzenia w wodę w regionie. (Eles / Elas decidiram construir um novo açude afim de melhorar o abastecimento de água na região.)
  - Zapora była już pełna wody po ostatnich ulewach. (O açude já estava cheio de água após as últimas chuvas.)
 
-- [] Dzień 337 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 337 - Nagromadzenie, Zgromadzenie. - Rzeczownik nijaki (Acúmulo. - Rzeczownik męski)
+ - W twojej pracy jest duże nagromadzenie obowiązków, musisz znaleźć czas, żeby wszystko uporządkować. (No seu trabalho há um grande acúmulo de tarefas, você precisa encontrar tempo para organizar tudo.)
+ - Oni / One zauważyli / zauważyły nagromadzenie wody w piwnicy po ulewnych deszczach. (Eles / Elas notaram o acúmulo de água no porão após as chuvas intensas.)
+ - W przyszłości, jeśli nie zrobimy czegoś z tymi śmieciami, nastąpi nagromadzenie odpadów, które zanieczyści środowisko. (No futuro, se não fizermos algo com esse lixo, haverá um acúmulo de resíduos que poluirá o meio ambiente.)
+ - On / Ona martwi się o nagromadzenie stresu w swoim życiu, dlatego postanowił / postanowiła odpocząć na wakacjach. (Ele / Ela está preocupado / preocupada com o acúmulo de estresse em sua vida, por isso decidiu descansar nas férias.)
+ - Zimą może dojść do nagromadzenia śniegu na dachu, co może spowodować uszkodzenia konstrukcji. (No inverno, pode ocorrer um acúmulo de neve no telhado, o que pode causar danos à estrutura.)
 
 - [] Dzień 338 - 
  -  ()
