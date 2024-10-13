@@ -1277,12 +1277,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona martwi się o nagromadzenie stresu w swoim życiu, dlatego postanowił / postanowiła odpocząć na wakacjach. (Ele / Ela está preocupado / preocupada com o acúmulo de estresse em sua vida, por isso decidiu descansar nas férias.)
  - Zimą może dojść do nagromadzenia śniegu na dachu, co może spowodować uszkodzenia konstrukcji. (No inverno, pode ocorrer um acúmulo de neve no telhado, o que pode causar danos à estrutura.)
 
-- [] Dzień 338 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 338 - Akupunktura. (Acupuntura.)
+ - (Ja) uważam, że akupunktura może mi pomóc w radzeniu sobie z chronicznym bólem pleców. ((Eu) acredito que a acupuntura pode me ajudar a lidar com a dor crônica nas costas.)
+ - Czy (ty) próbowałeś / próbowałaś akupunktury, aby zmniejszyć stres? (Você já tentou acupuntura para reduzir o estresse?)
+ - Po sesji akupunktury oni / one powiedzieli / powiedziały, że czują się bardziej zrelaksowani / zrelaksowane. (Depois de uma sessão de acupuntura, eles / elas disseram que se sentem mais relaxados / relaxadas.)
+ - W przyszłym tygodniu (ja) zamierzam spróbować akupunktury, aby złagodzić ból głowy. (Na semana que vem, (eu) pretendo tentar acupuntura para aliviar a dor de cabeça.)
+ - Akupunktura przyniosła natychmiastową ulgę w moim bólu mięśni, czułem / czułam się lepiej od razu po zabiegu. (A acupuntura trouxe alívio imediato para minhas dores musculares, eu me senti melhor logo após o tratamento.)
 
 - [] Dzień 339 - 
  -  ()
