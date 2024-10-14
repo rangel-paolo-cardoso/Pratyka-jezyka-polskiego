@@ -1284,12 +1284,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym tygodniu (ja) zamierzam spróbować akupunktury, aby złagodzić ból głowy. (Na semana que vem, (eu) pretendo tentar acupuntura para aliviar a dor de cabeça.)
  - Akupunktura przyniosła natychmiastową ulgę w moim bólu mięśni, czułem / czułam się lepiej od razu po zabiegu. (A acupuntura trouxe alívio imediato para minhas dores musculares, eu me senti melhor logo após o tratamento.)
 
-- [] Dzień 339 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 339 - Oskarżenie - Rzeczownik nijaki, Zarzut - Rzeczownik męski. (Acusação. - Rzeczownik żeński)
+ - (Ja) zostałem / zostałam fałszywie oskarżony / oskarżona, ale prawda wyjdzie na jaw. ((Eu) fui falsamente acusado / acusada, mas a verdade virá à tona.)
+ - On / Ona nie mógł / mogła uwierzyć, że ktoś mógłby wystosować wobec niego / niej takie oskarżenia. (Ele / Ela não conseguia acreditar que alguém pudesse fazer tais acusações contra ele / ela.)
+ - W przyszłym tygodniu (my) rozpatrzymy wszystkie zarzuty wobec podejrzanych. (Na próxima semana, (nós) iremos revisar todas as acusações contra os suspeitos.)
+ - Czy oni / one kiedykolwiek odpowiedzieli / odpowiedziały na te poważne oskarżenia? (Eles / Elas já responderam a essas acusações graves?)
+ - Przez lata gromadzono dowody, aby poprzeć zarzuty w sprawie korupcji. (Durante anos, foram reunidas provas para sustentar as acusações no caso de corrupção.)
 
 - [] Dzień 340 - 
  -  ()
