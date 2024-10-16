@@ -1291,12 +1291,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy oni / one kiedykolwiek odpowiedzieli / odpowiedziały na te poważne oskarżenia? (Eles / Elas já responderam a essas acusações graves?)
  - Przez lata gromadzono dowody, aby poprzeć zarzuty w sprawie korupcji. (Durante anos, foram reunidas provas para sustentar as acusações no caso de corrupção.)
 
-- [] Dzień 340 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 340 - Oskarżać, Zarzucać. (Acusar. - Czasownik)
+ - (Ja) oskarżyłem / oskarżyłam jego / ją o kłamstwo, ale później zrozumiałem / zrozumiałam, że się myliłem / myliłam. ((Eu) acusei ele / ela de mentir, mas depois entendi que estava errado / errada.)
+ - Czy naprawdę chcesz oskarżyć nas o coś, czego nie zrobiliśmy / zrobiłyśmy? (Você realmente quer nos acusar de algo que não fizemos?)
+ - Oni / One zawsze oskarżają innych, nigdy nie biorą odpowiedzialności za swoje błędy. ()
+ - W przyszłości nie będę oskarżał / oskarżała nikogo bez dowodów. (No futuro, não vou acusar ninguém sem provas.)
+ - Dziecko oskarżyło swojego / swoją brata / siostrę o zabranie zabawki, ale okazało się, że to nieprawda. (A criança acusou o / a irmão / irmã de pegar o brinquedo, mas descobriu-se que não era verdade.)
 
 - [] Dzień 341 - 
  -  ()
