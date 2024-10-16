@@ -1298,12 +1298,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości nie będę oskarżał / oskarżała nikogo bez dowodów. (No futuro, não vou acusar ninguém sem provas.)
  - Dziecko oskarżyło swojego / swoją brata / siostrę o zabranie zabawki, ale okazało się, że to nieprawda. (A criança acusou o / a irmão / irmã de pegar o brinquedo, mas descobriu-se que não era verdade.)
 
-- [] Dzień 341 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 341 - Akustyka. (Acústica. - Rzeczownik żeński)
+ - Akustyka w tej sali koncertowej jest niesamowita. Dźwięk roznosi się czysto i wyraźnie. (A acústica desta sala de concertos é incrível. O som se espalha de forma clara (limpa) e nítida.)
+ - Wczoraj (my) sprawdzaliśmy / sprawdzałyśmy akustykę w naszym nowym studiu nagraniowym i jesteśmy zadowoleni / zadowolone z efektu. (Ontem (nós) testamos a acústica em nosso novo estúdio de gravação e estamos satisfeitos com o resultado.)
+ - Akustyka jest kluczowa przy projektowaniu teatru, aby widzowie słyszeli każdy szept. (A acústica é crucial ao projetar um teatro, para que o público ouça cada sussurro.)
+ - Zanim (my) zaczniemy remont, musimy poprawić akustykę w tej sali, ponieważ echo jest zbyt silne. (Antes de (nós) começarmos a reforma, precisamos melhorar a acústica desta sala, pois o eco está muito forte.)
+ - W przyszłym tygodniu przyjedzie specjalista / specjalistka, który / która oceni akustykę nowego audytorium. (Na próxima semana, virá um / uma especialista, que avaliará a acústica do novo auditório.)
 
 - [] Dzień 342 - 
  -  ()
