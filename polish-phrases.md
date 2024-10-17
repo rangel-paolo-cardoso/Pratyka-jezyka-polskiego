@@ -1305,12 +1305,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Zanim (my) zaczniemy remont, musimy poprawić akustykę w tej sali, ponieważ echo jest zbyt silne. (Antes de (nós) começarmos a reforma, precisamos melhorar a acústica desta sala, pois o eco está muito forte.)
  - W przyszłym tygodniu przyjedzie specjalista / specjalistka, który / która oceni akustykę nowego audytorium. (Na próxima semana, virá um / uma especialista, que avaliará a acústica do novo auditório.)
 
-- [] Dzień 342 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 342 - Akustyczny. (Acústico. - Przymiotnik)
+ - Ten koncert akustyczny był niesamowity, wszyscy / wszystkie byli / były pod wrażeniem talentu muzyków. (Esse show acústico foi incrível, todos / todas ficaram impressionados / impressionadas com o talento dos músicos.)
+ - Czy (my) moglibyśmy / mogłybyśmy ustawić gitarę na tryb akustyczny? Chcę spróbować zagrać coś spokojnego. ((Nós) poderíamos colocar o violão no modo acústico? Quero tentar tocar algo mais tranquilo.)
+ - Oni / One zawsze preferowali / preferowały muzykę akustyczną, ponieważ cenią naturalne brzmienie instrumentów. (Eles / Elas sempre preferiram música acústica, porque valorizam o som natural dos instrumentos.)
+ - Mój / Moja przyjaciel / przyjaciółka kupił / kupiła nową gitarę akustyczną, a jej brzmienie jest wyjątkowo czyste. (Meu / Minha amigo / amiga comprou um novo violão acústico, e o som dele é excepcionalmente limpo.)
+ - W przyszłym miesiącu (my) zamierzamy nagrać album akustyczny z naszym zespołem. (No próximo mês, (nós) pretendemos gravar um álbum acústico com nossa banda.)
 
 - [] Dzień 343 - 
  -  ()
