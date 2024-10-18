@@ -1312,12 +1312,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Mój / Moja przyjaciel / przyjaciółka kupił / kupiła nową gitarę akustyczną, a jej brzmienie jest wyjątkowo czyste. (Meu / Minha amigo / amiga comprou um novo violão acústico, e o som dele é excepcionalmente limpo.)
  - W przyszłym miesiącu (my) zamierzamy nagrać album akustyczny z naszym zespołem. (No próximo mês, (nós) pretendemos gravar um álbum acústico com nossa banda.)
 
-- [] Dzień 343 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 343 - Zdolność adaptacji. (Adaptabilidade. - Rzeczownik żeński)
+ - Jego / Jej zdolność adaptacji do nowych warunków pracy była niesamowita. (A adaptabilidade dele / dela a novas condições de trabalho foi incrível.)
+ - W przyszłości (my) będziemy musieli / musiały wykazać się większą zdolnością adaptacji do zmian klimatycznych. (No futuro, (nós) precisaremos demonstrar maior adaptabilidade às mudanças climáticas.)
+ - On / Ona zawsze wyróżniał / wyróżniała się swoją zdolnością adaptacji w dynamicznym środowisku. (Ele / Ela sempre se destacou por sua adaptabilidade em um ambiente dinâmico.)
+ - Nasza zdolność adaptacji w tym projekcie pozwoliła nam osiągnąć sukces. (Nossa adaptabilidade nesse projeto nos permitiu alcançar o sucesso.)
+ - Dzieci mają naturalną zdolność adaptacji do nowych sytuacji. (As crianças têm uma adaptabilidade natural a novas situações.)
 
 - [] Dzień 344 - 
  -  ()
