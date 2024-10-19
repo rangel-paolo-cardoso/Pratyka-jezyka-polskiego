@@ -1319,12 +1319,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Nasza zdolność adaptacji w tym projekcie pozwoliła nam osiągnąć sukces. (Nossa adaptabilidade nesse projeto nos permitiu alcançar o sucesso.)
  - Dzieci mają naturalną zdolność adaptacji do nowych sytuacji. (As crianças têm uma adaptabilidade natural a novas situações.)
 
-- [] Dzień 344 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 344 - Adaptacja. (Adaptação. - Rzeczownik żeński)
+ - Proces adaptacji do nowej pracy, był trudniejszy niż się spodziewałem / spodziewałam. (O processo de adaptação ao novo trabalho foi mais difícil do que eu esperava.)
+ - On / Ona szybko przeszedł / przeszła przez adaptację do nowego środowiska. (Ele / Ela passou rapidamente pela adaptação ao novo ambiente.)
+ - Nasza adaptacja do zmieniającego się rynku zajmie trochę czasu. (Nossa adaptação ao mercado em mudança levará algum tempo.)
+ - Wasza adaptacja do zimnego klimatu jest imponująca, zwłaszcza dla osób, które przyjechały z ciepłych krajów. (A adaptação de vocês ao clima frio é impressionante, especialmente para pessoas que vieram de países quentes.)
+ - Adaptacja dziecka do nowej szkoły, była znacznie szybsza niż się spodziewaliście. (A adaptação da criança à nova escola foi muito mais rápida do que vocês esperavam.)
 
 - [] Dzień 345 - 
  -  ()
