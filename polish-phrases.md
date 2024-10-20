@@ -1326,12 +1326,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wasza adaptacja do zimnego klimatu jest imponująca, zwłaszcza dla osób, które przyjechały z ciepłych krajów. (A adaptação de vocês ao clima frio é impressionante, especialmente para pessoas que vieram de países quentes.)
  - Adaptacja dziecka do nowej szkoły, była znacznie szybsza niż się spodziewaliście. (A adaptação da criança à nova escola foi muito mais rápida do que vocês esperavam.)
 
-- [] Dzień 345 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 345 - Adapter. - Rzeczownik męski (Adaptador. - Przymiotnik, Rzeczownik męski)
+ - Adapter, który (ja) zamówiłem / zamówiłam przez internet, dotarł uszkodzony. (O adaptador que (eu) encomendei pela internet chegou quebrado.)
+ - (Ja) potrzebuję adaptera, żeby podłączyć ten komputer do starszego monitora. (Eu preciso de um adaptador para conectar este computador a um monitor mais antigo.)
+ - On / Ona zapomniał / zapomniała zabrać adaptera do gniazdka, przez co nie mogliśmy / mogłyśmy ładować naszych telefonów. (Ele / Ela esqueceu de levar o adaptador de tomada, então não conseguimos carregar nossos celulares.)
+ - Jeśli (ty) nie masz europejskiego adaptera, twoja ładowarka nie będzie działać w tym kraju. (Se você não tiver um adaptador europeu, seu carregador não funcionará neste país.)
+ - (My) kupiliśmy / kupiłyśmy nowy adapter, który umożliwia podłączenie różnych urządzeń do jednej ładowarki. ((Nós) compramos um novo adaptador que permite conectar diferentes aparelhos a um só carregador.)
 
 - [] Dzień 346 - 
  -  ()
