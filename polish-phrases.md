@@ -1333,12 +1333,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli (ty) nie masz europejskiego adaptera, twoja ładowarka nie będzie działać w tym kraju. (Se você não tiver um adaptador europeu, seu carregador não funcionará neste país.)
  - (My) kupiliśmy / kupiłyśmy nowy adapter, który umożliwia podłączenie różnych urządzeń do jednej ładowarki. ((Nós) compramos um novo adaptador que permite conectar diferentes aparelhos a um só carregador.)
 
-- [] Dzień 346 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 346 - Dostosować. (Adaptar. - Czasownik)
+ - (My) musieliśmy / musiałyśmy dostosować nasz plan, ponieważ prognoza pogody przewiduje deszcz. ((Nós) tivemos que adaptar nosso plano, pois a previsão do tempo indica chuva.)
+ - Czy (ty) dostosowałeś / dostosowałaś swój harmonogram do nowych godzin pracy? (Você adaptou sua agenda ao novo horário de trabalho?)
+ - Oni / One dostosują swoje zachowanie, aby lepiej współpracować z zespołem. (Eles / Elas vão adaptar seu comportamento para cooperar melhor com a equipe.)
+ - Z biegiem czasu on / ona dostosował / dostosowała się do nowej rutyny w przedszkolu. (Com o tempo, ele / ela se adaptou à nova rotina na creche.)
+ - My, jako firma, musimy się szybko dostosować do zmieniających się wymagań rynku. (Nós, como empresa, precisamos nos adaptar rapidamente às mudanças nas exigências do mercado.)
 
 - [] Dzień 347 - 
  -  ()
