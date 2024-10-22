@@ -1340,12 +1340,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Z biegiem czasu on / ona dostosował / dostosowała się do nowej rutyny w przedszkolu. (Com o tempo, ele / ela se adaptou à nova rotina na creche.)
  - My, jako firma, musimy się szybko dostosować do zmieniających się wymagań rynku. (Nós, como empresa, precisamos nos adaptar rapidamente às mudanças nas exigências do mercado.)
 
-- [] Dzień 347 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 347 - Piwnica. (Adega. - Rzeczownik żeński)
+ - W przyszłym roku planujemy odnowić naszą piwnicę i zamienić ją w prawdziwą piwnicę z winami. (No ano que vem, planejamos renovar nossa adega e transformá-la numa verdadeira adega de vinhos.)
+ - Zeszłego tygodnia, oni / one odwiedzili / odwiedziły piwnicę pełną starych win, które były tam przechowywane przez dekady. (Semana passada, eles / elas visitaram uma adega cheia de vinhos antigos que foram armazenados lá por décadas.)
+ - (My) musimy zaopatrzyć naszą piwnicę na święta, kupimy kilka butelek czerwonego wina. ((Nós) precisamos abastecer nossa adega para as festas, vamos comprar algumas garrafas de vinho tinto.)
+ - Oni / One dostosowali / dostosowały piwnicę w swoim domu, aby stworzyć przytulne miejsce do przechowywania win. (Eles / Elas adaptaram a adega na casa deles / delas para criar um espaço aconchegante para armazenar vinhos.)
+ - Mój / Moja dziadek / babcia trzymał / trzymała w piwnicy stare butelki wina, które otwieraliśmy / otwierałyśmy na specjalne okazje. (Meu / Minha avô / avó guardava na adega garrafas antigas de vinho, que abríamos em ocasiões especiais.)
 
 - [] Dzień 348 - 
  -  ()
