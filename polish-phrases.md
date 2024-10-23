@@ -1347,12 +1347,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One dostosowali / dostosowały piwnicę w swoim domu, aby stworzyć przytulne miejsce do przechowywania win. (Eles / Elas adaptaram a adega na casa deles / delas para criar um espaço aconchegante para armazenar vinhos.)
  - Mój / Moja dziadek / babcia trzymał / trzymała w piwnicy stare butelki wina, które otwieraliśmy / otwierałyśmy na specjalne okazje. (Meu / Minha avô / avó guardava na adega garrafas antigas de vinho, que abríamos em ocasiões especiais.)
 
-- [] Dzień 348 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 348 - Przyczepność, Frekwencja. - Rzeczownik żeński (Aderência. - Rzeczownik męski)
+ - Klej, którego użyliśmy / użyłyśmy, ma doskonałą przyczepność do drewna. (A cola que usamos tem uma aderência excelente à madeira.)
+ - Frekwencja na dzisiejszym spotkaniu była zaskakująco wysoka, co nas bardzo cieszy. (A aderência na reunião de hoje foi surpreendentemente alta, o que nos alegra muito.)
+ - Oni / One nigdy nie mieli / miały problemów z przyczepnością opon na mokrej drodze. (Eles / Elas nunca tiveram problemas com a aderência dos pneus na estrada molhada.)
+ - Wierzę, że wasza frekwencja na zajęciach wzrośnie w przyszłym tygodniu. (Acredito que a aderência de vocês nas aulas vai aumentar na próxima semana.)
+ - Powierzchnia jest gładka, więc przyczepność farby może być słaba. (A superfície é lisa, então a aderência da tinta pode ser fraca.)
 
 - [] Dzień 349 - 
  -  ()
