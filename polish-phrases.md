@@ -1354,12 +1354,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wierzę, że wasza frekwencja na zajęciach wzrośnie w przyszłym tygodniu. (Acredito que a aderência de vocês nas aulas vai aumentar na próxima semana.)
  - Powierzchnia jest gładka, więc przyczepność farby może być słaba. (A superfície é lisa, então a aderência da tinta pode ser fraca.)
 
-- [] Dzień 349 - 
- -  ()
- -  ()
- -  ()
- -  ()
- -  ()
+- [x] Dzień 349 - .Żegnaj, Żegnać. - Czasownik (Adeus. - Wyrażenie, Rzeczownik męski)
+ - Powiedziałem / Powiedziałam „żegnaj” moim przyjaciołom / przyjaciółkom, kiedy wyjeżdżałem / wyjeżdżałam na studia za granicą. (Eu disse "adeus" aos / às meus / minhas amigos / amigas quando fui estudar no exterior.)
+ - On / Ona długo wahał / wahała się, zanim powiedział / powiedziała „żegnaj” swojej rodzinie, ale wiedział / wiedziała, że musi ruszyć w drogę. (Ele / Ela hesitou por muito tempo antes de dizer adeus à sua família, mas sabia que precisava pegar a estrada.)
+ - Zawsze, kiedy (my) żegnamy się, (ty) obiecujesz, że wrócisz szybciej, ale nigdy tak nie jest. (Sempre que nós dizemos adeus (nos despedimos), você promete que voltará rápido, mas nunca é assim.)
+ - Oni / One powiedzą ci „żegnaj” jutro na dworcu, zanim odjedziesz do innego miasta. (Eles / Elas te dirão adeus amanhã na estação, antes de você partir para outra cidade.)
+ - Oni / One powiedzieli / powiedziały „żegnaj” bez łez, ponieważ nie rozumieli / rozumiały, co to znaczy rozstać się na zawsze. (Eles / Elas disseram adeus sem lágrimas, pois não entendiam o que significa se despedir para sempre.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
