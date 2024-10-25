@@ -1361,24 +1361,120 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One powiedzą ci „żegnaj” jutro na dworcu, zanim odjedziesz do innego miasta. (Eles / Elas te dirão adeus amanhã na estação, antes de você partir para outra cidade.)
  - Oni / One powiedzieli / powiedziały „żegnaj” bez łez, ponieważ nie rozumieli / rozumiały, co to znaczy rozstać się na zawsze. (Eles / Elas disseram adeus sem lágrimas, pois não entendiam o que significa se despedir para sempre.)
 
+- [x] Dzień 350 - Dalej - Przysłówek, Do przodu - Wyrażenie przysłówkowe. (Adiante. - Przymiotnik)
+ - Idźmy dalej, nie ma sensu się zatrzymywać, teraz gdy (my) jesteśmy tak blisko celu. (Vamos seguir adiante, não faz sentido parar, agora que (nós) estamos tão perto do objetivo.)
+ - (My) poszliśmy / poszłyśmy do przodu pomimo trudności, a teraz (my) możemy cieszyć się naszym sukcesem. ((Nós) seguimos adiante, apesar das dificuldades, e agora (nós) podemos comemorar nosso sucesso.)
+ - On / Ona będzie musiał / musiała iść dalej bez nas, ponieważ (my) mamy inne obowiązki do spełnienia. (Ele / Ela terá que seguir adiante sem nós, porque (nós) temos outros compromissos a cumprir.)
+ - Kiedy (ty) poszedłeś / poszłaś dalej, wszyscy myśleli / myślały, że się zgubiłeś / zgubiłaś, ale wiedziałeś / wiedziałaś, gdzie iść. (Quando você seguiu adiante, todos / todas pensaram que você se perdeu, mas você sabia para onde ir.)
+ - Oni / One pójdą naprzód, ale (my) musimy się upewnić, że droga jest bezpieczna. (Eles / Elas seguirão adiante, mas (nós) precisamos garantir que o caminho esteja seguro.)
+
+- [] Dzień 351 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 352 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 353 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 354 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 355 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 356 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 357 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 358 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 359 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 360 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 361 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 362 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 363 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 364 - 
+ - 
+ - 
+ - 
+ -
+ -
+
+- [] Dzień 365 -
+ - 
+ - 
+ - 
+ -
+ -
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 350 - 
-- [] Dzień 351 - 
-- [] Dzień 352 - 
-- [] Dzień 353 - 
-- [] Dzień 354 - 
-- [] Dzień 355 - 
-- [] Dzień 356 - 
-- [] Dzień 357 - 
-- [] Dzień 358 - 
-- [] Dzień 359 - 
-- [] Dzień 360 - 
-- [] Dzień 361 - 
-- [] Dzień 362 - 
-- [] Dzień 363 - 
-- [] Dzień 364 - 
-- [] Dzień 365 - 
 - [] Dzień 366 - 
 - [] Dzień 367 - 
 - [] Dzień 368 - 
