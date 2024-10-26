@@ -1368,12 +1368,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Kiedy (ty) poszedłeś / poszłaś dalej, wszyscy myśleli / myślały, że się zgubiłeś / zgubiłaś, ale wiedziałeś / wiedziałaś, gdzie iść. (Quando você seguiu adiante, todos / todas pensaram que você se perdeu, mas você sabia para onde ir.)
  - Oni / One pójdą naprzód, ale (my) musimy się upewnić, że droga jest bezpieczna. (Eles / Elas seguirão adiante, mas (nós) precisamos garantir que o caminho esteja seguro.)
 
-- [] Dzień 351 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 351 - Przełożyć, Odroczyć. (Adiar. - Czasownik)
+ - (Ja) musiałem / musiałam przełożyć spotkanie na przyszły tydzień z powodu nagłego wyjazdu. ((Eu) tive que adiar a reunião para a próxima semana devido a uma viagem inesperada.)
+ - On / Ona chciał / chciała odroczyć decyzję, ale w końcu postanowił / postanowiła działać od razu. (Ele / Ela queria adiar a decisão, mas acabou decidindo agir imediatamente.)
+ - (My) przełożyliśmy / przełożyłyśmy uroczystość, żeby wszyscy mogli się dobrze przygotować. (Nós adiamos a celebração para que todos possam se preparar bem.)
+ - Oni / One postanowili / postanowiły nie odkładać tej sprawy na później, ponieważ to ważne. (Eles / Elas decidiram não adiar esse assunto para mais tarde, pois é importante.)
+ - (Ty) musisz odroczyć to zadanie, bo nie mamy wystarczająco dużo zasobów. (Você precisa adiar essa tarefa, pois não temos recursos suficientes.)
 
 - [] Dzień 352 - 
  - 
