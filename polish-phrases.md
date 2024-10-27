@@ -1375,12 +1375,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One postanowili / postanowiły nie odkładać tej sprawy na później, ponieważ to ważne. (Eles / Elas decidiram não adiar esse assunto para mais tarde, pois é importante.)
  - (Ty) musisz odroczyć to zadanie, bo nie mamy wystarczająco dużo zasobów. (Você precisa adiar essa tarefa, pois não temos recursos suficientes.)
 
-- [] Dzień 352 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 352 - Dodanie, Dodawanie - Rzeczownik nijaki, Dodać - Czasownik. (Adição. - Czasownik)
+ - Mój / Moja syn / córka nauczył / nauczyła się robić dodawanie w szkole na pierwszych lekcjach. Mamy małego / małą geniusza / geniuszkę matematycznego / matematyczną! (Meu / Minha filho / filha aprendeu a fazer contas de adição na escola nas primeiras aulas. Temos um / uma pequeno / pequena gênio / gênia da matemática!)
+ - Dodanie dodatkowych informacji do raportu poprawi jakość naszej analizy. (A adição de informações adicionais ao relatório melhorará a qualidade de nossa análise.)
+ - Ćwiczenie z matematyki mówiło: Wykonaj dodawanie składników, aby uzyskać wynik. (O exercício de matemática dizia: Efetue a adição das parcelas para obter o resultado.)
+ - Oni / One dodali / dodały nowe funkcje do programu, co ułatwi użytkownikom korzystanie z niego. (Eles / Elas fizeram a adição de novas funções ao programa, o que facilitará sua utilização pelos usuários.)
+ - Jeśli dodamy ten produkt do naszej oferty, możemy przyciągnąć nowych klientów. (Se fizermos a adição desse produto à nossa oferta, podemos atrair novos clientes.)
 
 - [] Dzień 353 - 
  - 
