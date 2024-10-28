@@ -1382,12 +1382,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One dodali / dodały nowe funkcje do programu, co ułatwi użytkownikom korzystanie z niego. (Eles / Elas fizeram a adição de novas funções ao programa, o que facilitará sua utilização pelos usuários.)
  - Jeśli dodamy ten produkt do naszej oferty, możemy przyciągnąć nowych klientów. (Se fizermos a adição desse produto à nossa oferta, podemos atrair novos clientes.)
 
-- [] Dzień 353 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 353 - Dodatkowy. (Adicional. - Przymiotnik)
+ - Ta wiedza w CV może być dodatkowym atutem do zdobycia wymarzonej pracy. (Esse conhecimento no currículo pode ser um adicional para conseguir o emprego dos sonhos.)
+ - W przyszłości oni/ one otrzymają dodatkowe wynagrodzenie za pracę w weekendy. (No futuro, eles / elas receberão uma remuneração adicional por trabalharem aos fins de semana.)
+ - (Ja) dostałem / dostałam dodatkowy czas na napisanie eseju i mam nadzieję, że teraz będzie lepszy. ((Eu) recebi tempo adicional para escrever a redação e espero que agora ela fique melhor.)
+ - (My) dodaliśmy / dodałyśmy kilka dodatkowych rozdziałów do tej książki, aby była bardziej interesująca. (Nós adicionamos alguns capítulos adicionais a este livro para que ele fique mais interessante.)
+ - On / Ona  poprosił / poprosiła o dodatkowe materiały na zajęcia, żeby przygotować się lepiej do egzaminu. (Ele / Ela pediu materiais adicionais para a aula, para se preparar melhor para o exame.)
 
 - [] Dzień 354 - 
  - 
