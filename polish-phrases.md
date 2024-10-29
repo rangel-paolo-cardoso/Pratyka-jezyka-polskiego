@@ -1390,12 +1390,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) dodaliśmy / dodałyśmy kilka dodatkowych rozdziałów do tej książki, aby była bardziej interesująca. (Nós adicionamos alguns capítulos adicionais a este livro para que ele fique mais interessante.)
  - On / Ona  poprosił / poprosiła o dodatkowe materiały na zajęcia, żeby przygotować się lepiej do egzaminu. (Ele / Ela pediu materiais adicionais para a aula, para se preparar melhor para o exame.)
 
-- [] Dzień 354 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 354 - Dodać. (Adicionar. - Czasownik)
+ - Marek / Maria dodał / dodała kilka przypraw do zupy, żeby nadać jej lepszy smak. (O / A Marek / Maria adicionou alguns temperos à sopa para dar a ela um sabor melhor.)
+ - Dodam więcej szczegółów do prezentacji, aby była bardziej zrozumiała. ((Eu) vou adicionar mais detalhes à apresentação para que ela fique mais compreensível.)
+ - Czy (ty) mógłbyś / mogłabyś dodać mnie do grupy na WhatsApp? Chcę być na bieżąco z wiadomościami. (Você poderia me adicionar ao grupo do WhatsApp? Quero estar atualizado com as notícias.)
+ - Oni / One dodali / dodały nowe funkcje do aplikacji, co ułatwi korzystanie z niej. (Eles / Elas adicionaram novas funcionalidades ao aplicativo, o que facilita o uso dele.)
+ - Jeśli jutro będzie więcej osób, dodamy dodatkowe stoły. (Se amanhã houver mais pessoas, adicionaremos mesas adicionais.)
 
 - [] Dzień 355 - 
  - 
