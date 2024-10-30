@@ -1397,12 +1397,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One dodali / dodały nowe funkcje do aplikacji, co ułatwi korzystanie z niej. (Eles / Elas adicionaram novas funcionalidades ao aplicativo, o que facilita o uso dele.)
  - Jeśli jutro będzie więcej osób, dodamy dodatkowe stoły. (Se amanhã houver mais pessoas, adicionaremos mesas adicionais.)
 
-- [] Dzień 355 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 355 - Zgadnąć, Odgadnąć, Przewidzieć. (Adivinhar. - Czasownik)
+ - (Ja) zgadłem / zgadłam, że wybierzesz niebieską sukienkę na ten wieczór. ((Eu) adivinhei que você escolheria o vestido azul para esta noite.)
+ - On / Ona zawsze próbuje odgadnąć, co chcę na kolację, i zazwyczaj trafia. (Ele / Ela sempre tenta adivinhar o que eu quero para o jantar e geralmente acerta.)
+ - Czy zgadniecie, co wam (ja) kupiłem / kupiłam na prezent? To niespodzianka! (Vocês adivinham o que (eu) comprei para vocês de presente? É uma surpresa!)
+ - (My) przewidzieliśmy / przewidziałyśmy, że pogoda będzie dziś deszczowa, i zabraliśmy / zabrałyśmy parasole. ((Nós) adivinhamos que o tempo estaria chuvoso hoje e trouxemos guarda-chuvas.)
+ - Może zgadniesz, co jest w pudełku, zanim je otworzymy? (Será que você adivinha o que está na caixa antes de a abrirmos?)
 
 - [] Dzień 356 - 
  - 
