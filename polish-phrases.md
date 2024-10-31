@@ -1404,12 +1404,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przewidzieliśmy / przewidziałyśmy, że pogoda będzie dziś deszczowa, i zabraliśmy / zabrałyśmy parasole. ((Nós) adivinhamos que o tempo estaria chuvoso hoje e trouxemos guarda-chuvas.)
  - Może zgadniesz, co jest w pudełku, zanim je otworzymy? (Será que você adivinha o que está na caixa antes de a abrirmos?)
 
-- [] Dzień 356 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 356 - Zarządzanie - Rzeczownik nijaki, Administracja - Rzeczownik żeński. (Administração. - Rzeczownik żeński)
+ - W przyszłym roku (ja) zamierzam studiować zarządzanie, aby rozwijać swoje umiejętności menedżerskie. (No próximo ano, (eu) pretendo estudar administração para desenvolver minhas habilidades de gestão.)
+ - Administracja szkoły ogłosiła zmiany w regulaminie na przyszły semestr. (A administração da escola anunciou mudanças no regulamento para o próximo semestre.)
+ - On / Ona zawsze był / była zainteresowany / zainteresowana zarządzaniem finansami i teraz jest odpowiedzialny / odpowiedzialna za budżet firmy. (Ele / Ela sempre teve interesse em administração financeira e agora é responsável pelo orçamento da empresa.)
+ - My jako zespół planujemy poprawić zarządzanie projektami, aby uzyskać lepsze wyniki. (Nós, como equipe, planejamos melhorar a administração de projetos para obter melhores resultados.)
+ - Czy (ty) myślisz, że administracja uniwersytetu zatwierdzi naszą propozycję nowych kursów? (Você acha que a administração da universidade aprovará nossa proposta de novos cursos?)
 
 - [] Dzień 357 - 
  - 
