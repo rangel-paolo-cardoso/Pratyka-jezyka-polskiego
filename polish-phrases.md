@@ -1412,12 +1412,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My jako zespół planujemy poprawić zarządzanie projektami, aby uzyskać lepsze wyniki. (Nós, como equipe, planejamos melhorar a administração de projetos para obter melhores resultados.)
  - Czy (ty) myślisz, że administracja uniwersytetu zatwierdzi naszą propozycję nowych kursów? (Você acha que a administração da universidade aprovará nossa proposta de novos cursos?)
 
-- [] Dzień 357 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 357 - Zarządzać. (Administrar. - Czasownik)
+ - (Ja) musiałem / musiałam zarządzać całym projektem sam / sama, gdy on / ona poszedł / poszła na urlop. ((Eu) tive que administrar todo o projeto sozinho / sozinha enquanto ele / ela estava de licença.)
+ - On / Ona doskonale zarządza budżetem domowym i zawsze znajduje oszczędności. (Ele / Ela administra o orçamento doméstico de forma excelente e sempre encontra economias.)
+ - W przyszłości (my) będziemy zarządzać większym zespołem, co będzie wyzwaniem dla nas wszystkich. (No futuro, (nós) administraremos uma equipe maior, o que será um desafio para todos nós.)
+ - Czy (ty) umiesz zarządzać kryzysami? Ta umiejętność jest tutaj bardzo ceniona. (Você sabe administrar crises? Essa habilidade é muito valorizada aqui.)
+ - Gdyby oni / one umieli / umiały zarządzać czasem, osiągnęliby / osiągnęłyby lepsze wyniki w pracy. (Se eles / elas soubessem administrar o tempo, alcançariam melhores resultados no trabalho.)
 
 - [] Dzień 358 - 
  - 
