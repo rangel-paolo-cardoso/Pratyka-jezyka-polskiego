@@ -1419,12 +1419,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (ty) umiesz zarządzać kryzysami? Ta umiejętność jest tutaj bardzo ceniona. (Você sabe administrar crises? Essa habilidade é muito valorizada aqui.)
  - Gdyby oni / one umieli / umiały zarządzać czasem, osiągnęliby / osiągnęłyby lepsze wyniki w pracy. (Se eles / elas soubessem administrar o tempo, alcançariam melhores resultados no trabalho.)
 
-- [] Dzień 358 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 358 - 
+ - On / Ona zajmuje stanowisko administracyjne, co wymaga dużej odpowiedzialności. (Ele / Ela ocupa uma posição administrativa, que exige muita responsabilidade.)
+ - W przyszłym roku (oni / one) będą musieli / musiały zatrudnić więcej pracowników administracyjnych. (No próximo ano, eles / elas precisarão contratar mais funcionários administrativos.)
+ - Zespół administracyjny już przygotował wszystkie dokumenty na spotkanie. (A equipe administrativa já preparou todos os documentos para a reunião.)
+ - On / Ona ma doświadczenie w pracy administracyjnej i bardzo dobrze sobie z nią radzi. (Ele / Ela tem experiência em trabalho administrativo e se sai muito bem nele.)
+ - Czy (my) możemy zorganizować wsparcie administracyjne na czas trwania projektu? ((Nós) podemos organizar suporte administrativo durante o período do projeto?)
 
 - [] Dzień 359 - 
  - 
