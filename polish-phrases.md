@@ -1426,12 +1426,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona ma doświadczenie w pracy administracyjnej i bardzo dobrze sobie z nią radzi. (Ele / Ela tem experiência em trabalho administrativo e se sai muito bem nele.)
  - Czy (my) możemy zorganizować wsparcie administracyjne na czas trwania projektu? ((Nós) podemos organizar suporte administrativo durante o período do projeto?)
 
-- [] Dzień 359 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 359 - Podziw - Rzeczownik męski. (Admiração. - Rzeczownik żeński)
+ - (Ja) mam wielki podziw dla twojej determinacji i siły. (Eu tenho grande admiração pela sua determinação e força.)
+ - W przyszłości (oni / one) będą patrzeć na ciebie z podziwem za to, co (ty) osiągnąłeś / osiągnęłaś. (No futuro, eles / elas olharão para você com admiração por tudo o que você alcançou.)
+ - Publiczność patrzyła na niego / nią z pełnym podziwem, gdy (on / ona) zdobył / zdobyła pierwsze miejsce w konkursie. (O público olhou para ele / ela com total admiração quando (ele / ela) ganhou o primeiro lugar no concurso.)
+ - (Ja) zawsze czułem / czułam podziw do ludzi, którzy poświęcają życie pomocy innym. ((Eu) sempre senti admiração pelas pessoas que dedicam a vida a ajudar os outros.)
+ - (My) wyrażamy nasz podziw dla wszystkich, którzy z odwagą stawiają czoła trudnościom. ((Nós) expressamos nossa admiração por todos que enfrentam as dificuldades com coragem.)
 
 - [] Dzień 360 - 
  - 
