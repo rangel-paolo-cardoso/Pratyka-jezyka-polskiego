@@ -1433,12 +1433,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) zawsze czułem / czułam podziw do ludzi, którzy poświęcają życie pomocy innym. ((Eu) sempre senti admiração pelas pessoas que dedicam a vida a ajudar os outros.)
  - (My) wyrażamy nasz podziw dla wszystkich, którzy z odwagą stawiają czoła trudnościom. ((Nós) expressamos nossa admiração por todos que enfrentam as dificuldades com coragem.)
 
-- [] Dzień 360 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 360 - Podziwiać. (Admirar. - Czasownik)
+ - Od lat podziwiam jego / jej zaangażowanie i oddanie w pracy. (Há anos admiro o comprometimento e a dedicação dele / dela no trabalho.)
+ - (My) podziwialiśmy / podziwiałyśmy zachód słońca nad jeziorem, ciesząc się ciszą i spokojem. ((Nós) admiramos o pôr do sol sobre o lago, aproveitando o silêncio e a paz.)
+ - W przyszłym tygodniu będą podziwiali / podziwiały nową wystawę w muzeum, która przedstawia sztukę współczesną. (Na próxima semana, eles / elas admirarão a nova exposição no museu, que apresenta arte contemporânea.)
+ - Często (wy) chodzicie na koncerty, aby podziwiać grę swoich ulubionych muzyków? (Vocês vão com frequência a concertos para admirar o desempenho dos seus músicos favoritos?)
+ - Każdego dnia dzieci podziwiają rosnące kwiaty w szkolnym ogrodzie. (Todos os dias, as crianças admiram as flores que crescem no jardim da escola.)
 
 - [] Dzień 361 - 
  - 
