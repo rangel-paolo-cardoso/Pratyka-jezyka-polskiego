@@ -1440,12 +1440,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Często (wy) chodzicie na koncerty, aby podziwiać grę swoich ulubionych muzyków? (Vocês vão com frequência a concertos para admirar o desempenho dos seus músicos favoritos?)
  - Każdego dnia dzieci podziwiają rosnące kwiaty w szkolnym ogrodzie. (Todos os dias, as crianças admiram as flores que crescem no jardim da escola.)
 
-- [] Dzień 361 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 361 - Godny podziwu - Wyrażenie. (Admirável. - Przymiotnik)
+ - On / Ona jest godny / godna podziwu za to, jak bardzo angażuje się w pomaganie innym. (Ele / Ela é admirável pelo quanto se dedica a ajudar os outros.)
+ - Wy wszyscy / wszystkie jesteście godni / godne podziwu za waszą odwagę i determinację w tej trudnej sytuacji. (Vocês todos / todas são admiráveis por sua coragem e determinação nessa situação difícil.)
+ - W przyszłości jego / jej cierpliwość i troska o zespół będą naprawdę godne podziwu. (No futuro, a paciência dele / dela e o cuidado com a equipe serão realmente admiráveis.)
+ - Ten / Ta dom / rezydencja jest godny / godna podziwu za jego / jej architekturę i szczegóły, naprawdę robi wrażenie. (Esta casa / residência é admirável por sua arquitetura e detalhes, realmente impressiona.)
+ - To, jak szybko on / ona uczy się nowych rzeczy, było godne podziwu już od pierwszego dnia. (A rapidez com que ele / ela aprende coisas novas foi admirável desde o primeiro dia.)
 
 - [] Dzień 362 - 
  - 
