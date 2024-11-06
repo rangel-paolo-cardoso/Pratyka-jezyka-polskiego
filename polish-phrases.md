@@ -1447,12 +1447,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Ten / Ta dom / rezydencja jest godny / godna podziwu za jego / jej architekturę i szczegóły, naprawdę robi wrażenie. (Esta casa / residência é admirável por sua arquitetura e detalhes, realmente impressiona.)
  - To, jak szybko on / ona uczy się nowych rzeczy, było godne podziwu już od pierwszego dnia. (A rapidez com que ele / ela aprende coisas novas foi admirável desde o primeiro dia.)
 
-- [] Dzień 362 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 362 - Przyjęcie - Rzeczownik nijaki. (Admissão. - Rzeczownik żeński)
+ - Przyjęcie mojego / mojej brata / siostry na uniwersytet było dla naszej rodziny wielką radością. (A admissão do / da meu / minha irmão / irmã na universidade foi uma grande alegria para a nossa família.)
+ - Oni / One czekają na przyjęcie do tej prestiżowej organizacji od wielu miesięcy. (Eles / Elas estão aguardando (aguardam) a admissão nesta organização de prestígio há muitos meses.)
+ - Gratulacje! Twoje przyjęcie do zespołu jest teraz oficjalne, zaczynamy w przyszłym tygodniu. (Parabéns! Sua admissão na equipe é agora oficial; começamos na próxima semana.)
+ - (Ja) byłem / byłam tak szczęśliwy / szczęśliwa, gdy otrzymałem / otrzymałam wiadomość o moim przyjęciu do tego programu. ((Eu) fiquei muito feliz quando recebi a notícia da minha admissão nesse programa.)
+ - On / Ona marzy o przyjęciu do klubu artystycznego i ciężko nad tym pracuje. (Ele / Ela sonha com a admissão no clube de arte e está trabalhando duro para isso.)
 
 - [] Dzień 363 - 
  - 
