@@ -1454,12 +1454,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) byłem / byłam tak szczęśliwy / szczęśliwa, gdy otrzymałem / otrzymałam wiadomość o moim przyjęciu do tego programu. ((Eu) fiquei muito feliz quando recebi a notícia da minha admissão nesse programa.)
  - On / Ona marzy o przyjęciu do klubu artystycznego i ciężko nad tym pracuje. (Ele / Ela sonha com a admissão no clube de arte e está trabalhando duro para isso.)
 
-- [] Dzień 363 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 363 - Dopuszczalny, Dopuszczalna. (Admissível. - Przymiotnik)
+ - To, co (ty) powiedziałeś / powiedziałaś na spotkaniu, było ledwo dopuszczalne. Proszę, wyrażaj się bardziej profesjonalnie. (O que você disse na reunião foi mal admissível. Por favor, expresse-se de forma mais profissional.)
+ - Zgodnie z regulaminem ten rodzaj zachowania nie jest dopuszczalny w naszej firmie. (De acordo com as regras, esse tipo de comportamento não é admissível em nossa empresa.)
+ - Czy (ty) uważasz, że jest dopuszczalne, aby oni / one działali / działały w taki sposób? (My) musimy to omówić. (Você acha que é admissível eles / elas agirem dessa forma? (Nós) precisamos discutir isso.)
+ - Jeśli (my) uznamy to za dopuszczalne, będziemy musieli / musiały ustalić granice na przyszłość. (Se (nós) considerarmos isso admissível, teremos que estabelecer limites no futuro.)
+ - Zostało uznane, że jego / jej komentarze były dopuszczalne, ale tylko w określonym kontekście. (Ficou decidido que os comentários dele / dela eram admissíveis, mas apenas em um contexto específico.)
 
 - [] Dzień 364 - 
  - 
