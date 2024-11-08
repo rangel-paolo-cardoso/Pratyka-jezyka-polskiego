@@ -1461,12 +1461,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli (my) uznamy to za dopuszczalne, będziemy musieli / musiały ustalić granice na przyszłość. (Se (nós) considerarmos isso admissível, teremos que estabelecer limites no futuro.)
  - Zostało uznane, że jego / jej komentarze były dopuszczalne, ale tylko w określonym kontekście. (Ficou decidido que os comentários dele / dela eram admissíveis, mas apenas em um contexto específico.)
 
-- [] Dzień 364 - 
- - 
- - 
- - 
- -
- -
+- [x] Dzień 364 - Przyjęty / Przyjęta. (Admitido / Admitida. - Przymiotnik)
+ - Po miesiącach oczekiwania, oni / one zostali / zostały w końcu przyjęci / przyjęte do prestiżowej akademii. (Após meses de espera, eles / elas foram finalmente admitidos / admitidas na academia prestigiada.)
+ - Wy zostaniecie przyjęci / przyjęte na szkolenie, jeśli spełnicie wszystkie wymagania. (Vocês serão admitidos / admitidas no treinamento se cumprirem todos os requisitos.)
+ - On / Ona nie mógł / mogła uwierzyć, że został / została przyjęty / przyjęta na wymarzone stanowisko. (Ele / Ela não podia acreditar que foi admitido / admitida no cargo dos sonhos.)
+ - (Ja) zostanę przyjęty / przyjęta do tego programu, bo pracowałem / pracowałam na to przez lata. ((Eu) serei admitido / admitida nesse programa, pois trabalhei para isso por anos.)
+ - Czy twój / twoja przyjaciel / przyjaciółka już został / została przyjęty / przyjęta na kurs językowy? (O / A seu / sua amigo / amiga já foi admitido / admitida no curso de idiomas?)
 
 - [] Dzień 365 -
  - 
