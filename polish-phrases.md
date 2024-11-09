@@ -1468,12 +1468,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) zostanę przyjęty / przyjęta do tego programu, bo pracowałem / pracowałam na to przez lata. ((Eu) serei admitido / admitida nesse programa, pois trabalhei para isso por anos.)
  - Czy twój / twoja przyjaciel / przyjaciółka już został / została przyjęty / przyjęta na kurs językowy? (O / A seu / sua amigo / amiga já foi admitido / admitida no curso de idiomas?)
 
-- [] Dzień 365 -
- - 
- - 
- - 
- -
- -
+- [x] Dzień 365 - Przyznać, Przyznać się. (Admitir. - Czasownik)
+ - (Ja) muszę przyznać, że ty zawsze znajdujesz rozwiązanie, gdy wszyscy inni są bezradni. ((Eu) preciso admitir que você sempre encontra uma solução quando todos os outros estão sem saída.)
+ - Oni / One nie chcą przyznać, że ich plan nie zadziałał tak, jak przewidywali / przewidywały. (Eles / Elas não querem admitir que o plano deles / delas não funcionou como esperavam.)
+ - Czy (wy) jesteście gotowi / gotowe przyznać, że zrobiliście / zrobiłyście błąd? (Vocês estão prontos / prontas para admitir que cometeram um erro?)
+ - (Ja) przyznam się do wszystkiego, jeśli pozwolą mi zachować honor. ((Eu) admitirei tudo, se me permitirem manter minha honra.)
+ - Wiceprezes / Wiceprezeska przyznał / przyznała się do porażki i uznał / uznała zwycięstwo swojego / swojej przeciwnika / przeciwniczki. (O / A vice-presidente admitiu a derrota e reconheceu a vitória de seu / sua adversário / adversária.)
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
