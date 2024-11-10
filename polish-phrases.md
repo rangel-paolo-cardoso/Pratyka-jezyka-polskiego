@@ -1475,9 +1475,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) przyznam się do wszystkiego, jeśli pozwolą mi zachować honor. ((Eu) admitirei tudo, se me permitirem manter minha honra.)
  - Wiceprezes / Wiceprezeska przyznał / przyznała się do porażki i uznał / uznała zwycięstwo swojego / swojej przeciwnika / przeciwniczki. (O / A vice-presidente admitiu a derrota e reconheceu a vitória de seu / sua adversário / adversária.)
 
-Witajcie, piękne i pachnące osoby!
-Dziękuję wszystkim, moi drodzy, za oglądanie!
-- [] Dzień 366 - 
+- [x] Dzień 366 - Osłodzony / Osłodzona, Słodzony / Słodzona. (Adoçado / Adoçada. - Przymiotnik)
+ - Mój napój został osłodzony miodem, ponieważ staram się unikać cukru. (Minha bebida foi adoçada com mel, pois estou tentando evitar açúcar.)
+ - Czy (ty) spróbowałaś / spróbowałaś tej herbaty? Jest delikatnie osłodzona i ma niesamowity smak. (Você experimentou esse chá? (Ele) está levemente adoçado e tem um sabor incrível.)
+ - Oni / One zawsze wybierają jogurt osłodzony naturalnym syropem, ponieważ jest zdrowszy. (Eles / Elas sempre escolhem iogurte adoçado com xarope natural, pois é mais saudável.)
+ - Jutro nasze desery będą osłodzone tylko owocami, aby zachować ich lekkość. (Amanhã nossos doces serão adoçados apenas com frutas, para manter a leveza deles.)
+ - Nasze ciastka zostały lekko osłodzone, aby nie były zbyt ciężkie. (Nossos biscoitos foram levemente adoçados para que não ficassem muito pesados.)
+
 - [] Dzień 367 - 
 - [] Dzień 368 - 
 - [] Dzień 369 - 
@@ -2111,4 +2115,6 @@ Dziękuję wszystkim, moi drodzy, za oglądanie!
 - [] Dzień 997 - 
 - [] Dzień 998 - 
 - [] Dzień 999 - 
-- [] Dzień 1000 - 
+- [] Dzień 1000 -
+Witajcie, piękne i pachnące osoby!
+Dziękuję wszystkim, moi drodzy, za oglądanie!
