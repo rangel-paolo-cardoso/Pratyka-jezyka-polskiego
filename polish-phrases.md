@@ -1482,61 +1482,121 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro nasze desery będą osłodzone tylko owocami, aby zachować ich lekkość. (Amanhã nossos doces serão adoçados apenas com frutas, para manter a leveza deles.)
  - Nasze ciastka zostały lekko osłodzone, aby nie były zbyt ciężkie. (Nossos biscoitos foram levemente adoçados para que não ficassem muito pesados.)
 
-- [] Dzień 367 - 
+- [x] Dzień 367 - Słodzik - Rzeczownik męski. (Adoçante. - Przymiotnik)
+ - Oni / One kupili / kupiły nowy słodzik, który jest całkowicie naturalny i bez kalorii. (Eles / Elas compraram um novo adoçante, que é totalmente natural e sem calorias.)
+ - Czy (wy) dodaliście / dodałyście słodzik do tej herbaty, czy to jest naturalnie słodkie? (Vocês adicionaram adoçante a este chá ou ele é naturalmente doce?)
+ - (Ja) zamierzam używać tego słodzika, ponieważ nie podnosi poziomu cukru we krwi. ((Eu) pretendo usar esse adoçante, pois ele não aumenta o nível de açúcar no sangue.)
+ - On / Ona zawsze sprawdza skład słodzików, które kupuje, aby upewnić się, że są bezpieczne. (Ele / Ela sempre verifica a composição dos adoçantes que compra para garantir que sejam seguros.)
+ - Ten deser był posłodzony naturalnym słodzikiem pochodzącym z roślin, co nadaje mu unikalny smak. (Essa sobremesa foi adoçada com um adoçante natural derivado de plantas, o que lhe dá um sabor único.)
+
 - [] Dzień 368 - 
+
 - [] Dzień 369 - 
+
 - [] Dzień 370 - 
+
 - [] Dzień 371 - 
+
 - [] Dzień 372 - 
+
 - [] Dzień 373 - 
+
 - [] Dzień 374 - 
+
 - [] Dzień 375 - 
+
 - [] Dzień 376 - 
+
 - [] Dzień 377 - 
+
 - [] Dzień 378 - 
+
 - [] Dzień 379 - 
+
 - [] Dzień 380 - 
+
 - [] Dzień 381 - 
+
 - [] Dzień 382 - 
+
 - [] Dzień 383 - 
+
 - [] Dzień 384 - 
+
 - [] Dzień 385 - 
+
 - [] Dzień 386 - 
+
 - [] Dzień 387 - 
+
 - [] Dzień 388 - 
+
 - [] Dzień 389 - 
+
 - [] Dzień 390 - 
+
 - [] Dzień 391 - 
+
 - [] Dzień 392 - 
+
 - [] Dzień 393 - 
+
 - [] Dzień 394 - 
+
 - [] Dzień 395 - 
+
 - [] Dzień 396 - 
+
 - [] Dzień 397 - 
+
 - [] Dzień 398 - 
+
 - [] Dzień 399 - 
+
 - [] Dzień 400 - 
+
 - [] Dzień 401 - 
+
 - [] Dzień 402 - 
+
 - [] Dzień 403 - 
+
 - [] Dzień 404 - 
+
 - [] Dzień 405 - 
+
 - [] Dzień 406 - 
+
 - [] Dzień 407 - 
+
 - [] Dzień 408 - 
+
 - [] Dzień 409 - 
+
 - [] Dzień 410 - 
+
 - [] Dzień 411 - 
+
 - [] Dzień 412 - 
+
 - [] Dzień 413 - 
+
 - [] Dzień 414 - 
+
 - [] Dzień 415 - 
+
 - [] Dzień 416 - 
+
 - [] Dzień 417 - 
+
 - [] Dzień 418 - 
+
 - [] Dzień 419 - 
+
 - [] Dzień 420 - 
+
 - [] Dzień 421 - 
+
 - [] Dzień 422 - 
 - [] Dzień 423 - 
 - [] Dzień 424 - 
