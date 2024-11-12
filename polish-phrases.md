@@ -1496,7 +1496,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli (ty) chcesz, możesz dosłodzić tę herbatę, ale ja wolę ją bez cukru. (Se (você) quiser, (você) pode adoçar esse chá, mas eu prefiro (ele) sem açúcar.)
  - On / Ona dosłodził / dosłodziła mleko waniliowe, żeby było bardziej smaczne. (Ele / Ela adoçou o leite com baunilha para que ficasse mais saboroso.)
 
-- [] Dzień 369 - 
+- [x] Dzień 369 - Słodkawy, Delikatnie słodki. (Adocicado. - Przymiotnik)
+ - Ten napój jest lekko słodkawy, idealny na gorące dni. (Esta bebida está levemente adocicada, perfeita para dias quentes.)
+ - Jego / Jej deser miał delikatny, słodkawy smak, który bardzo nam smakował. (A sobremesa dele / dela tinha um sabor suave e adocicado, que (nós) gostamos muito.)
+ - On / Ona doda trochę miodu, aby ciasto miało lekko słodkawy smak. (Ele / Ela vai adicionar um pouco de mel para que o bolo tenha um gosto levemente adocicado.)
+ - Czy (wy) czujecie, jak ten sok jest słodkawy? To naturalna słodycz owoców. (Vocês sentem como este suco é adocicado? É a doçura natural das frutas.)
+ - (My) wybraliśmy / wybrałyśmy słodkawy sos, aby wzbogacić smak sałatki. ((Nós) escolhemos um molho adocicado para enriquecer o sabor da salada.)
 
 - [] Dzień 370 - 
 
