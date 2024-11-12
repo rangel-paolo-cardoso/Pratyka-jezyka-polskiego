@@ -1489,7 +1489,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zawsze sprawdza skład słodzików, które kupuje, aby upewnić się, że są bezpieczne. (Ele / Ela sempre verifica a composição dos adoçantes que compra para garantir que sejam seguros.)
  - Ten deser był posłodzony naturalnym słodzikiem pochodzącym z roślin, co nadaje mu unikalny smak. (Essa sobremesa foi adoçada com um adoçante natural derivado de plantas, o que lhe dá um sabor único.)
 
-- [] Dzień 368 - 
+- [x] Dzień 368 - Osłodzić, Dosłodzić. (Adoçar. - Czasownik)
+ - (Ja) chcę osłodzić kawę odrobiną miodu zamiast cukru. ((Eu) quero adoçar o café com um pouco de mel em vez de açúcar.)
+ - (My) osłodziliśmy / osłodziłyśmy deser, dodając trochę wanilii i syropu klonowego. (Nós adoçamos a sobremesa adicionando um pouco de baunilha e xarope de bordo.)
+ - On / Ona zamierza osłodzić swój napój owocami, żeby smak był bardziej naturalny. (Ele / Ela pretende adoçar sua bebida com frutas para deixar o sabor mais natural.)
+ - Jeśli (ty) chcesz, możesz dosłodzić tę herbatę, ale ja wolę ją bez cukru. (Se (você) quiser, (você) pode adoçar esse chá, mas eu prefiro (ele) sem açúcar.)
+ - On / Ona dosłodził / dosłodziła mleko waniliowe, żeby było bardziej smaczne. (Ele / Ela adoçou o leite com baunilha para que ficasse mais saboroso.)
 
 - [] Dzień 369 - 
 
