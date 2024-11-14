@@ -1503,7 +1503,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (wy) czujecie, jak ten sok jest słodkawy? To naturalna słodycz owoców. (Vocês sentem como este suco é adocicado? É a doçura natural das frutas.)
  - (My) wybraliśmy / wybrałyśmy słodkawy sos, aby wzbogacić smak sałatki. ((Nós) escolhemos um molho adocicado para enriquecer o sabor da salada.)
 
-- [] Dzień 370 - 
+- [x] Dzień 370 - Osłodzić, Dosłodzić. (Adocicar. - Czasownik)
+ - (Ja) muszę osłodzić herbatę, jest zbyt gorzka dla mnie. ((Eu) preciso adocicar o chá, está muito amargo para mim.)
+ - On / Ona osłodził / osłodziła kawę miodem, aby miała łagodniejszy smak. (Ele / Ela adocicou o café com mel para ter um sabor mais suave.)
+ - Dziś wieczorem (my) osłodzimy nasze koktajle świeżymi owocami. (Hoje à noite, (nós) vamos adocicar nossos coquetéis com frut as frescas.)
+ - Czy (wy) moglibyście / mogłybyście osłodzić ten napój bardziej? Smakuje trochę zbyt kwaśno. (Vocês poderiam adocicar mais esta bebida? Está com um sabor um pouco ácido demais.)
+ - On / Ona osłodził / osłodziła ciasto cukrem trzcinowym, żeby było bardziej naturalne. (Ele / Ela adocicou o bolo com açúcar mascavo para que ficasse mais natural.)
 
 - [] Dzień 371 - 
 
