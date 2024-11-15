@@ -1510,7 +1510,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (wy) moglibyście / mogłybyście osłodzić ten napój bardziej? Smakuje trochę zbyt kwaśno. (Vocês poderiam adocicar mais esta bebida? Está com um sabor um pouco ácido demais.)
  - On / Ona osłodził / osłodziła ciasto cukrem trzcinowym, żeby było bardziej naturalne. (Ele / Ela adocicou o bolo com açúcar mascavo para que ficasse mais natural.)
 
-- [] Dzień 371 - 
+- [x] Dzień 371 - Adopcja. (Adoção. - Rzeczownik żeński)
+ - Oni / One rozważają adopcję dziecka, aby stworzyć szczęśliwą rodzinę. (Eles / Elas estão considerando a adoção de uma criança para formar (criar) uma família feliz.)
+ - (Ja) adoptowałem /  adoptowałam kota / kotkę w zeszłym roku, teraz on / ona jest moim / moją najlepszym / najlepszą przyjacielem / przyjaciółką. (Eu fiz a adoção de um / uma gato / gata no ano passado; agora ele / ela é meu / minha melhor amigo / amiga.)
+ - W przyszłym tygodniu (my) adoptujemy szczeniaka, którego poznaliśmy / poznałyśmy w schronisku. (Na próxima semana, (nós) vamos fazer a adoção de um filhote que conhecemos no abrigo.)
+ - (Oni / One) adoptowali / adoptowały psa / suczkę ze schroniska, aby dać mu / jej nowy dom i życie pełne miłości. (Eles / Elas adotaram um / uma cão / cadela do abrigo para lhe dar um novo lar e uma vida cheia de amor.)
+ - On / Ona popiera adopcję ekologicznych nawyków w codziennym życiu. (Ele / Ela apoia a adoção de hábitos ecológicos no cotidiano.)
 
 - [] Dzień 372 - 
 
