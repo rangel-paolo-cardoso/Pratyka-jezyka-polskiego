@@ -1517,7 +1517,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Oni / One) adoptowali / adoptowały psa / suczkę ze schroniska, aby dać mu / jej nowy dom i życie pełne miłości. (Eles / Elas adotaram um / uma cão / cadela do abrigo para lhe dar um novo lar e uma vida cheia de amor.)
  - On / Ona popiera adopcję ekologicznych nawyków w codziennym życiu. (Ele / Ela apoia a adoção de hábitos ecológicos no cotidiano.)
 
-- [] Dzień 372 - 
+- [x] Dzień 372 - Zachorować. (Adoecer. - Czasownik(i))
+ - W zeszłym tygodniu (ja) zachorowałem / zachorowałam na grypę, ale już czuję się lepiej. (Na semana passada, (eu) adoeci com gripe, mas já estou me sentindo melhor.)
+ - Jeśli nie założysz szalika, możesz zachorować na zapalenie gardła. (Se você não colocar (vestir) um cachecol, pode adoecer com dor de garganta (faringite).)
+ - Mój / Moja brat / siostra zachorował / zachorowała wczoraj, więc (on / ona) nie pójdzie jutro do pracy. (Meu / Minha irmão / irmã adoeceu ontem, então ele / ela não vai ao trabalho amanhã.)
+ - Oni / One zachorują, jeśli będą pracować bez odpoczynku przez cały miesiąc. (Eles / Elas vão adoecer se trabalharem sem descanso o mês inteiro.)
+ - (My) zachorowaliśmy / zachorowałyśmy w górach, ponieważ pogoda zmieniała się co godzinę. ((Nós) adoecemos na montanha porque o tempo mudava a cada hora.)
 
 - [] Dzień 373 - 
 
