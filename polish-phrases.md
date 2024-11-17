@@ -1524,7 +1524,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zachorują, jeśli będą pracować bez odpoczynku przez cały miesiąc. (Eles / Elas vão adoecer se trabalharem sem descanso o mês inteiro.)
  - (My) zachorowaliśmy / zachorowałyśmy w górach, ponieważ pogoda zmieniała się co godzinę. ((Nós) adoecemos na montanha porque o tempo mudava a cada hora.)
 
-- [] Dzień 373 - 
+- [x] Dzień 373 - Zachorowanie, Pogorszenie zdrowia - Rzeczownik nijaki. (Adoecimento. - Rzeczownik męski)
+ - Nagłe zachorowanie mojego / mojej brata / siostry zmartwiło całą rodzinę. (O adoecimento repentino do / da meu / minha irmão / irmã preocupou toda a família.)
+ - Jeśli nie będziemy nosić ciepłych ubrań, ryzykujemy zachorowaniem w nadchodzących zimowych miesiącach. (Se não usarmos (vestirmos) roupas quentes, corremos o risco de adoecimento nos próximos meses de inverno.)
+ - Pogorszenie zdrowia mojego / mojej dziadka / babci było wynikiem wieloletniego ignorowania zaleceń lekarzy. (O adoecimento do / da meu / minha avô / avó foi resultado de muitos anos ignorando os conselhos médicos.)
+ - Regularne badania lekarskie pomagają zapobiegać zachorowaniom i dbają o nasze zdrowie. (Exames médicos regulares ajudam a prevenir adoecimentos e cuidam da nossa saúde.)
+ - Oni / One nie spodziewali / spodziewały się, że niewielka infekcja doprowadzi do poważnego zachorowania. (Eles / Elas não esperavam que uma pequena infecção levasse a um adoecimento sério.)
 
 - [] Dzień 374 - 
 
