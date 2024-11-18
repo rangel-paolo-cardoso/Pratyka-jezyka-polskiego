@@ -1531,7 +1531,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Regularne badania lekarskie pomagają zapobiegać zachorowaniom i dbają o nasze zdrowie. (Exames médicos regulares ajudam a prevenir adoecimentos e cuidam da nossa saúde.)
  - Oni / One nie spodziewali / spodziewały się, że niewielka infekcja doprowadzi do poważnego zachorowania. (Eles / Elas não esperavam que uma pequena infecção levasse a um adoecimento sério.)
 
-- [] Dzień 374 - 
+- [x] Dzień 374 - Młodość - Rzeczownik żeński, Naście lat - Wyrażenie, Lata młodzieńcze - Rzeczownik nijaki. (Adolescência. - Rzeczownik żeński)
+ - (Ja) wróciłbym / wróciłabym  do swojej młodości i zrobiłbym / zrobiłabym wszystko jeszcze raz. To był najlepszy okres w moim życiu. (Eu voltaria à minha adolescência e faria tudo outra vez. Foi a melhor época da minha vida.)
+ - Podczas naszych naście lat (my) lubiliśmy / lubiłyśmy chodzić na imprezy z muzyką elektroniczną, żeby tańczyć. (Durante nossos anos de adolescência, (nós) gostávamos de frequentar baladas de música eletrônica para dançar.)
+ - Jego / Jej młodość była pełna marzeń o zostaniu astronautą / astronautką, ale wybrał / wybrała inną drogę. (A adolescência dele / dela foi cheia de sonhos de se tornar astronauta, mas ele / ela escolheu outro caminho.)
+ - W przyszłości opowiem moim dzieciom, jak wyglądały nasze lata młodzieńcze bez smartfonów. (No futuro, contarei aos meus filhos como eram nossos anos de adolescência sem smartphones.)
+ - W czasie ich młodości wszystko wydawało się prostsze i bardziej spontaniczne niż teraz. (Durante a adolescência deles / delas, tudo parecia mais simples e mais espontâneo do que agora.)
 
 - [] Dzień 375 - 
 
