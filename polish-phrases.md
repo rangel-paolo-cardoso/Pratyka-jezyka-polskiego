@@ -1538,7 +1538,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości opowiem moim dzieciom, jak wyglądały nasze lata młodzieńcze bez smartfonów. (No futuro, contarei aos meus filhos como eram nossos anos de adolescência sem smartphones.)
  - W czasie ich młodości wszystko wydawało się prostsze i bardziej spontaniczne niż teraz. (Durante a adolescência deles / delas, tudo parecia mais simples e mais espontâneo do que agora.)
 
-- [] Dzień 375 - 
+- [x] Dzień 375 - Nastolatek - męski, Nastolatka - żeński, Nastolatkowie, Nastolatki – Plural. (Adolescente. - Przymiotnik, Rzeczownik męski)
+ - Jako nastolatkowie / nastolatki ich życie polegało głównie na graniu w gry wideo, imprezach i randkach. (Como adolescentes, a vida deles / delas era basicamente jogar videogame, festas, e namoros.)
+ - Nastolatkowie / Nastolatki z tej szkoły są bardzo inteligentni / inteligentne, spójrz tylko na ich oceny. (Os / As adolescentes dessa escola são bastante inteligentes, veja só as notas deles / delas.)
+ - (Ja) byłem / byłam nastolatkiem / nastolatką, kiedy odkryłem / odkryłam swoją pasję do malarstwa i postanowiłem / postanowiłam rozwijać się w tym kierunku. (Eu era um / uma adolescente quando descobri minha paixão pela pintura e decidi me desenvolver nessa área.)
+ - W przyszłości nastolatkowie / nastolatki będą musieli / musiały nauczyć się więcej o ekologii, aby chronić planetę. (No futuro, os / as adolescentes terão que aprender mais sobre ecologia para proteger o planeta.)
+ - Czy (ty) pamiętasz, jak jako nastolatek / nastolatka zawsze marzyłeś / marzyłaś o podróżach po świecie? (Você se lembra de quando era adolescente, sempre sonhava em viajar pelo mundo?)
 
 - [] Dzień 376 - 
 
