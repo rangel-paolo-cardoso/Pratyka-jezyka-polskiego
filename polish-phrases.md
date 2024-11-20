@@ -1545,7 +1545,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości nastolatkowie / nastolatki będą musieli / musiały nauczyć się więcej o ekologii, aby chronić planetę. (No futuro, os / as adolescentes terão que aprender mais sobre ecologia para proteger o planeta.)
  - Czy (ty) pamiętasz, jak jako nastolatek / nastolatka zawsze marzyłeś / marzyłaś o podróżach po świecie? (Você se lembra de quando era adolescente, sempre sonhava em viajar pelo mundo?)
 
-- [] Dzień 376 - 
+- [x] Dzień 376 - Kult - Rzeczownik męski, Uwielbienie, Oddanie - Rzeczownik nijaki. (Adoração. - Rzeczownik żeński)
+ - Starożytny artefakt znaleziony podczas wykopalisk prawdopodobnie był obiektem kultu. (Um artefato antigo encontrado durante as escavações possivelmente era objeto de adoração.)
+ - Kult świętego / świętej ukazywał szacunek i wiarę chrześcijan podczas obchodów święta. (A adoração pelo / pela santo / santa demonstrava o apreço e fé dos / das cristãos em meio à celebração do feriado.)
+ - W przyszłości (my) będziemy uczestniczyć w nabożeństwie pełnym uwielbienia i duchowego uniesienia. (No futuro, (nós) participaremos de um culto cheio de adoração e elevação espiritual.)
+ - Jego / Jej oddanie i adoracja dla sztuki były widoczne w każdym obrazie, który (on / ona) namalował / namalowała. (A sua devoção (dele / dela) e adoração pela arte eram visíveis em cada quadro que ele / ela pintava.)
+ - Czy twoja rodzina nadal kultywuje tradycje adoracji w czasie ważnych świąt? (A sua família ainda cultiva as tradições de adoração durante as datas comemorativas importantes?)
 
 - [] Dzień 377 - 
 
