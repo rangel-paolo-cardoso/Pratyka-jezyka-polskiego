@@ -1552,7 +1552,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jego / Jej oddanie i adoracja dla sztuki były widoczne w każdym obrazie, który (on / ona) namalował / namalowała. (A sua devoção (dele / dela) e adoração pela arte eram visíveis em cada quadro que ele / ela pintava.)
  - Czy twoja rodzina nadal kultywuje tradycje adoracji w czasie ważnych świąt? (A sua família ainda cultiva as tradições de adoração durante as datas comemorativas importantes?)
 
-- [] Dzień 377 - 
+- [x] Dzień 377 - Uwielbiany, Uwielbiana. (Adorado, Adorada. - Przymiotnik(i))
+ - Król / Królowa był / była uwielbiany / uwielbiana przez wszystkich za swoją dobroć i akty charytatywne. (O / A rei / rainha era adorado / adorada por todos por sua benevolência e atos de caridade.)
+ - Marek / Marta jest uwielbiany / uwielbiana za to, że jest doskonałym / doskonałą nauczycielem / nauczycielką, wyjaśniającym / wyjaśniającą i upraszczającym / upraszczającą wiele złożonych tematów. (Marek / Marta é adorado / adorada por ser um / uma excelente professor / professora, explicando e simplificando muitos temas complexos.)
+ - W przyszłości ich lider / liderka będzie uwielbiany / uwielbiana przez swoich zwolenników za odwagę i mądrość. (No futuro, o / a líder deles / delas será adorado / adorada por seus / suas seguidores / seguidoras pela coragem e sabedoria.)
+ - (My) uwielbialiśmy / uwielbiałyśmy naszego / naszą dziadka / babcię za jego / jej historie pełne magii i przygód. ((Nós) adorávamos nosso / nossa avô / avó pelas suas histórias (dele / dela) cheias de magia e aventuras.)
+ - Ci / Te chłopcy / dziewczynki są uwielbiani / uwielbiane przez swoich / swoje nauczycieli / nauczycielki za pracowitość i kreatywność. (Esses / Essas meninos / meninas são adoradas / adoradas por seus/ suas professores / professoras por sua dedicação e criatividade.)
 
 - [] Dzień 378 - 
 
