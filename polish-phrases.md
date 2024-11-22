@@ -1559,7 +1559,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) uwielbialiśmy / uwielbiałyśmy naszego / naszą dziadka / babcię za jego / jej historie pełne magii i przygód. ((Nós) adorávamos nosso / nossa avô / avó pelas suas histórias (dele / dela) cheias de magia e aventuras.)
  - Ci / Te chłopcy / dziewczynki są uwielbiani / uwielbiane przez swoich / swoje nauczycieli / nauczycielki za pracowitość i kreatywność. (Esses / Essas meninos / meninas são adoradas / adoradas por seus/ suas professores / professoras por sua dedicação e criatividade.)
 
-- [] Dzień 378 - 
+- [x] Dzień 378 - Adorator / Adoratorka. (Adorador / Adoradora. - Rzeczownik męski, Rzeczownik żeński, Przymiotnik(i))
+ - (Ja) byłem / byłam adoratorem / adoratorką sztuki współczesnej, spędzając godziny w galeriach i muzeach. Eu era um / uma adorador / adoradora de arte contemporânea, passando horas em galerias e museus.
+ - On / Ona jest oddanym / oddaną adoratorem / adoratorką natury, spędza każdą wolną chwilę na wędrówkach po górach. Ele / Ela é um / uma adorador / adoradora dedicado / dedicada da natureza, passando todo tempo livre caminhando nas montanhas.
+ - W przyszłości (my) staniemy się adoratorami / adoratorkami nowoczesnych technologii, bardziej niż kiedykolwiek wcześniej. No futuro, (nós) nos tornaremos adoradores / adoradoras de tecnologias modernas, mais do que nunca antes.
+ - Adoratorzy / Adoratorki tego / tej muzyka / muzyczki zebrali / zebrały się przed sceną, by razem śpiewać jego / jej największe hity. Os / As adoradores / adoradoras desse / dessa músico / música se reuniram na frente do palco para cantar juntos seus (os) maiores sucessos (dele / dela).
+ - (Czy) ty zawsze byłeś / byłaś takim / taką adoratorem / adoratorką książek historycznych? Você sempre foi um / uma grande adorador / adoradora de livros de história?
 
 - [] Dzień 379 - 
 
