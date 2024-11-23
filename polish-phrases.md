@@ -1566,7 +1566,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Adoratorzy / Adoratorki tego / tej muzyka / muzyczki zebrali / zebrały się przed sceną, by razem śpiewać jego / jej największe hity. Os / As adoradores / adoradoras desse / dessa músico / música se reuniram na frente do palco para cantar juntos seus (os) maiores sucessos (dele / dela).
  - (Czy) ty zawsze byłeś / byłaś takim / taką adoratorem / adoratorką książek historycznych? Você sempre foi um / uma grande adorador / adoradora de livros de história?
 
-- [] Dzień 379 - 
+- [x] Dzień 379 - Uwielbiać, Pokochać. (Adorar. - Czasownik(i))
+ - (Ja) uwielbiałem / uwielbiałam spędzać letnie wieczory nad rzeką, słuchając szumu wody. Eu adorava passar as noites de verão perto do rio, ouvindo o som da água.
+ - On / Ona uwielbia każdą chwilę spędzoną z dziećmi, bo uważa, że to jego / jej największy skarb. Ele / Ela adora cada momento que passa com as crianças, porque acredita que elas são seu maior tesouro.
+ - Czy oni / one pokochają to nowe hobby, które im zaproponowaliśmy / zaproponowałyśmy? Será que eles / elas vão adorar este novo hobby que sugerimos para eles / elas?
+ - (My) uwielbialiśmy / uwielbiałyśmy te spacery po lesie, zwłaszcza jesienią, kiedy liście były złote. (Nós) adorávamos esses passeios pela floresta, especialmente no outono, quando as folhas ficavam douradas.
+ - (Ja) jestem pewien / pewna, że (ty) pokochasz książkę, którą (ja) ci podaruję na urodziny. (Eu) tenho certeza de que você vai adorar o livro que (eu) vou te dar de presente de aniversário.
 
 - [] Dzień 380 - 
 
