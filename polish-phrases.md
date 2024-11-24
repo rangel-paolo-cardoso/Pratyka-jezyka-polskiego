@@ -1573,7 +1573,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) uwielbialiśmy / uwielbiałyśmy te spacery po lesie, zwłaszcza jesienią, kiedy liście były złote. (Nós) adorávamos esses passeios pela floresta, especialmente no outono, quando as folhas ficavam douradas.
  - (Ja) jestem pewien / pewna, że (ty) pokochasz książkę, którą (ja) ci podaruję na urodziny. (Eu) tenho certeza de que você vai adorar o livro que (eu) vou te dar de presente de aniversário.
 
-- [] Dzień 380 - 
+- [x] Dzień 380 - Uroczy / Urocza / Urocze. (Adorável. - Przymiotnik(i))
+ - Ten / Ta / To szczeniak / szczeniaczka / szczenię jest tak uroczy / urocza / urocze, że wszyscy chcą go / ją / je przytulić. Esse / Essa filhote (filhota) é tão adorável que todos querem abraçá-lo / abraçá-la.
+ - Twój / Twoja brat / siostra był / była naprawdę uroczym / uroczą chłopcem / dziewczynką, zawsze się uśmiechał / uśmiechała i pomagał / pomagała innym. Seu / Sua irmão / irmã era realmente um / uma menino / menina adorável, sempre ajudava os outros e estava sorrindo.
+ - Nasz / Nasza pies / suczka zawsze będzie uroczym / uroczą towarzyszem / towarzyszką, który / która rozjaśnia nasz dom. Nosso / Nossa cachorro (cão) / cachorra (cadela) sempre será um / uma companheiro / companheira adorável que ilumina nossa casa.
+ - (Czy) (wy) zauważyliście / zauważyłyście, jakie te dzieci były urocze, kiedy się bawiły? Vocês notaram como aquelas crianças eram adoráveis enquanto brincavam?
+ - (Ja) jestem pewien / pewna, że twoje nowe dziecko okaże się tak urocze jak ty. (Eu) tenho certeza de que o seu novo bebê será tão adorável quanto você.
 
 - [] Dzień 381 - 
 
