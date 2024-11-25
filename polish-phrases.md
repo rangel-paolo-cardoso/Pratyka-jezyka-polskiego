@@ -1580,7 +1580,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) zauważyliście / zauważyłyście, jakie te dzieci były urocze, kiedy się bawiły? Vocês notaram como aquelas crianças eram adoráveis enquanto brincavam?
  - (Ja) jestem pewien / pewna, że twoje nowe dziecko okaże się tak urocze jak ty. (Eu) tenho certeza de que o seu novo bebê será tão adorável quanto você.
 
-- [] Dzień 381 - 
+- [x] Dzień 381 - Zasnąć, Zasypiać. (Adormecer. - Czasownik(i))
+ - Wczoraj (ja) zasnąłem / zasnęłam na kanapie podczas oglądania filmu. Ontem (eu) adormeci no sofá enquanto assistia a um filme.
+ - On / Ona zasypia codziennie z książką w ręku, bo uwielbia czytać przed snem. Ele / Ela adormece todos os dias com um livro na mão porque adora ler antes de dormir.
+ - Po ciężkim dniu pracy (my) zasnęliśmy / zasnęłyśmy bardzo szybko, nawet nie zgasiliśmy / zgasiłyśmy światła. Depois de um dia cansativo de trabalho, (nós) adormecemos muito rápido, nem apagamos a luz.
+ - (Ty) myślisz, że (oni / one) zasną w namiocie, mimo hałasu burzy? Você acha que (eles / elas) vão adormecer na barraca apesar do barulho da tempestade?
+ - (Wy) zasnęlibyście / zasnęłybyście już dawno, gdybyście nie rozmawiali / rozmawiały tak długo przez telefon. Vocês já teriam adormecido há muito tempo se (vocês) não estivessem conversando tanto tempo pelo telefone.
 
 - [] Dzień 382 - 
 
