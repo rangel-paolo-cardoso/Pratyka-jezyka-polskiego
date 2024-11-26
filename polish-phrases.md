@@ -1587,7 +1587,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) myślisz, że (oni / one) zasną w namiocie, mimo hałasu burzy? Você acha que (eles / elas) vão adormecer na barraca apesar do barulho da tempestade?
  - (Wy) zasnęlibyście / zasnęłybyście już dawno, gdybyście nie rozmawiali / rozmawiały tak długo przez telefon. Vocês já teriam adormecido há muito tempo se (vocês) não estivessem conversando tanto tempo pelo telefone.
 
-- [] Dzień 382 - 
+- [x] Dzień 382 - Adoptować, Przyjąć. (Adotar. - Czasownik(i))
+ - (Ja) zdecydowałem / zdecydowałam się adoptować psa / sukę, który / która został / została porzucony / porzucona w parku. (Eu) decidi adotar um / uma cachorro / cachorra que foi abandonado / abandonada no parque.
+ - (On / Ona) adoptował / adoptowała dziecko z sierocińca i jest teraz bardzo szczęśliwy / szczęśliwa jako ojciec / matka. Ele / Ela adotou uma criança de um orfanato e agora (ele / ela) está muito feliz como pai / mãe.
+ - Czy (wy) zamierzacie przyjąć bardziej ekologiczny styl życia w swojej rodzinie? Vocês pretendem adotar um estilo de vida mais sustentável (ecológico) na sua família?
+ - (My) przyjęliśmy / przyjęłyśmy nową strategię pracy zespołowej, aby poprawić nasze wyniki. (Nós) adotamos uma nova estratégia de trabalho em equipe para melhorar nossos resultados.
+ - Oni / One adoptują szczeniaka / szczeniaczka / szczenię w przyszłym tygodniu i są bardzo podekscytowani / podekscytowane. Eles / Elas vão adotar um / uma filhote / filhota na próxima semana e estão muito animados / animadas.
 
 - [] Dzień 383 - 
 
