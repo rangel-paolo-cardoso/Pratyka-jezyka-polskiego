@@ -1594,7 +1594,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przyjęliśmy / przyjęłyśmy nową strategię pracy zespołowej, aby poprawić nasze wyniki. (Nós) adotamos uma nova estratégia de trabalho em equipe para melhorar nossos resultados.
  - Oni / One adoptują szczeniaka / szczeniaczka / szczenię w przyszłym tygodniu i są bardzo podekscytowani / podekscytowane. Eles / Elas vão adotar um / uma filhote / filhota na próxima semana e estão muito animados / animadas.
 
-- [] Dzień 383 - 
+- [x] Dzień 383 - Adopcyjny / Adopcyjna. (Adotivo / Adotiva. - Przymiotnik(i))
+ - (Ja) wychowywałem / wychowywałam się w rodzinie adopcyjnej, ale nigdy nie czułem / czułam się inaczej niż biologiczne dzieci. (Eu) fui criado / criada em uma família adotiva, mas nunca me senti diferente dos filhos biológicos.
+ - Czy (ty) wiesz, że on / ona jest ojcem / matką adopcyjnym / adopcyjną tego / tej chłopca / dziewczynki? To prawdziwy przykład miłości i poświęcenia. Você sabia que ele / ela é o / a pai / mãe adotivo / adotiva desse menino / menina? É um verdadeiro exemplo de amor e dedicação.
+ - On / Ona został / została przyjęty / przyjęta przez ojca / matkę adopcyjnego / adopcyjną, który / która zawsze traktował / traktowała go / ją jak własne dziecko. Ele / Ela foi acolhido / acolhida por um / uma pai / mãe adotivo / adotiva, que sempre o / a tratou como seu / sua próprio / própria filho / filha.
+ - (My) jesteśmy rodzicami adopcyjnymi tego / tej chłopca / dziewczynki i planujemy razem piękną przyszłość. (Nós) somos os pais adotivos desse / dessa menino / menina e planejamos um futuro lindo juntos.
+ - W przyszłości (wy) chcielibyście / chciałybyście zostać rodziną adopcyjną dla dzieci w potrzebie? No futuro, vocês gostariam de se tornar uma família adotiva para crianças necessitadas?
 
 - [] Dzień 384 - 
 
