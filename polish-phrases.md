@@ -1601,7 +1601,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jesteśmy rodzicami adopcyjnymi tego / tej chłopca / dziewczynki i planujemy razem piękną przyszłość. (Nós) somos os pais adotivos desse / dessa menino / menina e planejamos um futuro lindo juntos.
  - W przyszłości (wy) chcielibyście / chciałybyście zostać rodziną adopcyjną dla dzieci w potrzebie? No futuro, vocês gostariam de se tornar uma família adotiva para crianças necessitadas?
 
-- [] Dzień 384 - 
+- [x] Dzień 384 - . (Adrenalina. - Rzeczownik żeński)
+ - Skok na bungee w zeszłym roku dostarczył mi takiej dawki adrenaliny, jakiej nigdy wcześniej nie czułem / czułam. O salto de bungee jump no ano passado me deu uma grande dose de adrenalina que eu nunca tinha sentido antes.
+ - Czy (ty) czujesz adrenalinę, kiedy wchodzisz na scenę, aby śpiewać przed publicznością? Você sente adrenalina quando sobe ao palco para cantar diante do público?
+ - Oni / One uwielbiali / uwielbiały sporty ekstremalne, które zawsze dostarczały im ogromnej ilości adrenaliny. Eles / Elas adoravam esportes radicais, que sempre lhes (os / as) proporcionavam uma enorme quantidade de adrenalina.
+ - (My) będziemy skakać ze spadochronem w przyszły weekend, wyobraź sobie całą tę adrenalinę! Nós vamos saltar de paraquedas no próximo fim de semana, imagine toda essa adrenalina!
+ - Jego / Jej adrenalinę można było wyczuć, gdy startował / startowała w biegu finałowym mistrzostw. A adrenalina dele / dela podia ser sentida quando ele / ela começou na corrida final do campeonato.
 
 - [] Dzień 385 - 
 
