@@ -1608,7 +1608,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy skakać ze spadochronem w przyszły weekend, wyobraź sobie całą tę adrenalinę! Nós vamos saltar de paraquedas no próximo fim de semana, imagine toda essa adrenalina!
  - Jego / Jej adrenalinę można było wyczuć, gdy startował / startowała w biegu finałowym mistrzostw. A adrenalina dele / dela podia ser sentida quando ele / ela começou na corrida final do campeonato.
 
-- [] Dzień 385 - 
+- [x] Dzień 385 - Usługa celna, Urząd celny, Dokumenty celne, Celnicy, System celny. (Aduaneiro / Aduaneira. - Przymiotnik(i))
+ - Wysyłając do niego / niej list, (ja) musiałem / musiałam zapłacić opłatę związaną z usługą celną. Ao enviar (enviando) uma carta para ele / ela, (eu) tive de pagar uma taxa referente ao serviço aduaneiro.
+ - On / Ona pracował / pracowała w urzędzie celnym przez wiele lat, zanim przeszedł / przeszła na emeryturę. Ele / Ela trabalhou no setor aduaneiro por muitos anos antes de passar para a aposentadoria.
+ - Przy następnej podróży do Europy (my) planujemy lepiej przygotować dokumenty celne. Na próxima viagem à Europa, (nós) planejamos preparar melhor os documentos aduaneiros.
+ - Celnicy przeszukiwali / przeszukiwały ich bagaże, ponieważ znaleźli / znalazły coś podejrzanego na skanerze. Os / As agentes aduaneiros / aduaneiras revistaram as bagagens deles / delas porque encontraram algo suspeito no scanner.
+ - (My) spodziewamy się, że nowy system celny przyspieszy proces odprawy. Nós esperamos que o novo sistema aduaneiro acelere o processo de liberação (desembaraço).
 
 - [] Dzień 386 - 
 
