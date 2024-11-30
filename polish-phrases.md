@@ -1615,7 +1615,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Celnicy przeszukiwali / przeszukiwały ich bagaże, ponieważ znaleźli / znalazły coś podejrzanego na skanerze. Os / As agentes aduaneiros / aduaneiras revistaram as bagagens deles / delas porque encontraram algo suspeito no scanner.
  - (My) spodziewamy się, że nowy system celny przyspieszy proces odprawy. Nós esperamos que o novo sistema aduaneiro acelere o processo de liberação (desembaraço).
 
-- [] Dzień 386 - 
+- [x] Dzień 386 - Nawożenie. (Adubação, Adubagem. - Rzeczownik żeński)
+ - Proces nawożenia gleby jest kluczowy dla poprawy jakości upraw. O processo de adubação do solo é essencial para melhorar a qualidade das plantações.
+ - Nawożenie wymaga odpowiedniej wiedzy o składnikach odżywczych gleby. A adubação exige conhecimento adequado sobre os nutrientes do solo.
+ - W tym roku (my) inwestowaliśmy / inwestowałyśmy w bardziej ekologiczne nawożenie pól. Este ano (nós) investimos em uma adubação mais ecológica para os campos.
+ - Na tej farmie nawożenie jest wykonywane dwa razy w roku. Nesta fazenda, a adubação é realizada duas vezes por ano.
+ - Dobre nawożenie jest jednym z najważniejszych elementów udanej uprawy roślin. Uma boa adubação é um dos elementos mais importantes para o sucesso no cultivo de plantas.
 
 - [] Dzień 387 - 
 
