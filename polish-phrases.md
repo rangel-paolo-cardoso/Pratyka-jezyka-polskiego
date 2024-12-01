@@ -1622,7 +1622,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Na tej farmie nawożenie jest wykonywane dwa razy w roku. Nesta fazenda, a adubação é realizada duas vezes por ano.
  - Dobre nawożenie jest jednym z najważniejszych elementów udanej uprawy roślin. Uma boa adubação é um dos elementos mais importantes para o sucesso no cultivo de plantas.
 
-- [] Dzień 387 - 
+- [x] Dzień 387 - Nawozić. (Adubar. - Czasownik(i))
+ - Codziennie (ja) nawożę moje rośliny w domu naturalnymi nawozami, żeby pięknie rosły. Todos os dias (eu) adubo minhas plantas em casa com fertilizantes naturais para que cresçam bonitas.
+ - Czy (ty) nawoziłeś / nawoziłaś już ten ogród w tym sezonie, czy jeszcze nie? (Você) já adubou este jardim nesta temporada ou ainda não?
+ - (My) planujemy nawiezienie pól nowym rodzajem nawozu w przyszłym miesiącu. (Nós) planejamos adubar os campos com um novo tipo de fertilizante no próximo mês.
+ - W zeszłym roku oni / one nawidzili / nawiozły swoje sady specjalnym kompostem i rezultaty były niesamowite. No ano passado, eles / elas adubaram seus pomares com um composto especial, e os resultados foram incríveis.
+ - Moi / Moje dziadkowie / babcie nawozili / nawoziły ogródek suszonym na słońcu obornikiem bydlęcym. Meus / Minhas avós (avôs / avós) adubavam a horta com esterco bovino (de gado) desidratado pelo sol.
 
 - [] Dzień 388 - 
 
