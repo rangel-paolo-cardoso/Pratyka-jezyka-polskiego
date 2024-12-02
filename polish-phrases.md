@@ -1629,7 +1629,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W zeszłym roku oni / one nawidzili / nawiozły swoje sady specjalnym kompostem i rezultaty były niesamowite. No ano passado, eles / elas adubaram seus pomares com um composto especial, e os resultados foram incríveis.
  - Moi / Moje dziadkowie / babcie nawozili / nawoziły ogródek suszonym na słońcu obornikiem bydlęcym. Meus / Minhas avós (avôs / avós) adubavam a horta com esterco bovino (de gado) desidratado pelo sol.
 
-- [] Dzień 388 - 
+- [x] Dzień 388 - Nawozić. (Adubo. - Rzeczownik męski)
+ - Wczoraj (ja) kupiłem / kupiłam nowy nawóz organiczny do mojego ogrodu. Ontem (eu) comprei um novo adubo orgânico para o meu jardim.
+ - Czy ten nawóz jest odpowiedni dla roślin doniczkowych? Este adubo é adequado para plantas de vaso?
+ - Oni / One zawsze wybierają naturalny nawóz, aby uniknąć szkodliwych chemikaliów. Eles / Elas sempre escolhem adubo natural para evitar produtos químicos prejudiciais.
+ - (My) planujemy użycie nawozu kompostowego na naszej farmie w przyszłym miesiącu. (Nós) planejamos usar adubo composto em nossa fazenda no próximo mês.
+ - Dziadek / Babcia dał / dała nam worek nawozu na kwiaty, żeby pięknie kwitły wiosną. O / A vovô / vovó nos deu um saco de adubo para as flores, para que floresçam lindamente na primavera.
 
 - [] Dzień 389 - 
 
