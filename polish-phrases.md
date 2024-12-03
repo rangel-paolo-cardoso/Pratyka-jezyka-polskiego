@@ -1636,7 +1636,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) planujemy użycie nawozu kompostowego na naszej farmie w przyszłym miesiącu. (Nós) planejamos usar adubo composto em nossa fazenda no próximo mês.
  - Dziadek / Babcia dał / dała nam worek nawozu na kwiaty, żeby pięknie kwitły wiosną. O / A vovô / vovó nos deu um saco de adubo para as flores, para que floresçam lindamente na primavera.
 
-- [] Dzień 389 - 
+- [x] Dzień 389 - Pochlebstwa - Rzeczownik nijaki, Pochwała. (Adulação. - Rzeczownik żeński)
+ - Ta nadmierna pochwała, którą (ja) od niego / niej usłyszałem / usłyszałam, sprawiła, że poczułem / poczułam się niezręcznie. Aquela adulação excessiva que (eu) ouvi dele / dela fez com que me sentisse desconfortável.
+ - Wy zawsze używacie pochlebstw, żeby coś uzyskać od swoich przełożonych. Vocês sempre usam adulação para conseguir algo dos seus superiores.
+ - Oni / One przestaną z tymi pochlebstwami, gdy zobaczą, że nie przynoszą oni / one żadnych rezultatów. Eles / Elas vão parar com essas adulações quando (eles / elas) perceberem que não trazem nenhum resultado.
+ - (Ja) musiałem / musiałam ignorować jego / jej ciągłe pochwały, bo były wyraźnie nieszczere. (Eu) tive que ignorar suas (as) constantes adulações (dele / dela), pois eram claramente falsas (insinceras).
+ - Nasz / Nasza nauczyciel / nauczycielka zawsze powtarzał / powtarzała, że pochlebstwa są zbędne, a szczerość jest najważniejsza. Nosso / Nossa professor / professora sempre dizia que a adulação é desnecessária e a sinceridade é o mais importante.
 
 - [] Dzień 390 - 
 
