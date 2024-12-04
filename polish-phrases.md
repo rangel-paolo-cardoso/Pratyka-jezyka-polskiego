@@ -1643,7 +1643,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) musiałem / musiałam ignorować jego / jej ciągłe pochwały, bo były wyraźnie nieszczere. (Eu) tive que ignorar suas (as) constantes adulações (dele / dela), pois eram claramente falsas (insinceras).
  - Nasz / Nasza nauczyciel / nauczycielka zawsze powtarzał / powtarzała, że pochlebstwa są zbędne, a szczerość jest najważniejsza. Nosso / Nossa professor / professora sempre dizia que a adulação é desnecessária e a sinceridade é o mais importante.
 
-- [] Dzień 390 - 
+- [x] Dzień 390 - Pochlebca - Rzeczownik męski. (Adulador / Aduladora. - Rzeczownik męski / żeński)
+ - On / Ona był / była zawsze pochlebcą, który nigdy nie miał / miała własnego zdania. Ele / Ela sempre foi um / uma adulador / aduladora que nunca teve opinião própria.
+ - (Ja) widziałem / widziałam, jak (ty) starałeś / starałaś się być pochlebcą wobec nowego / nowej szefa / szefowej. (Eu) vi como você tentou ser um / uma adulador / aduladora para o / a novo / nova chefe.
+ - (Wy) przestaniecie być pochlebcami, kiedy zrozumiecie, że ludzie was nie szanują za to. Vocês deixarão de ser aduladores / aduladoras quando entenderem que as pessoas não nos respeitam por isso.
+ - Mój / Moja szef / szefowa zawsze rozpoznaje pochlebców i nie pozwala im wpływać na swoje decyzje. Meu / Minha chefe sempre reconhece os aduladores e não permite que eles influenciem nas suas decisões.
+ - W przyszłości nie (my) zamierzamy być pochlebcami tylko po to, by osiągnąć cele zawodowe. No futuro, (nós) não pretendemos ser aduladores apenas para alcançar objetivos profissionais.
 
 - [] Dzień 391 - 
 
