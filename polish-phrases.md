@@ -1650,7 +1650,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Mój / Moja szef / szefowa zawsze rozpoznaje pochlebców i nie pozwala im wpływać na swoje decyzje. Meu / Minha chefe sempre reconhece os aduladores e não permite que eles influenciem nas suas decisões.
  - W przyszłości nie (my) zamierzamy być pochlebcami tylko po to, by osiągnąć cele zawodowe. No futuro, (nós) não pretendemos ser aduladores apenas para alcançar objetivos profissionais.
 
-- [] Dzień 391 - 
+- [x] Dzień 391 - Schlebiać, Pochlebiać. (Adular. - Czasownik(i))
+ - Dlaczego schlebiasz mu / jej tak często? To sprawia, że staje się arogancki / arogancka. Por que você (o / a) adula ele / ela tão frequentemente? Isso faz com que ele / ela se torne arrogante.
+ - W przeszłości (my) schlebialiśmy / schlebiałyśmy naszym nauczycielom / nauczycielkom, aby zdobyć lepsze oceny, ale teraz (my) rozumiemy, że to nie było właściwe. No passado, (nós) adulávamos nossos / nossas professores / professoras para obter melhores notas, mas agora (nós) entendemos que isso não era correto.
+ - Oni / One zawsze będą schlebiać swoim szefom, bo liczą na awans. Eles / Elas sempre vão adular seus / suas chefes, pois esperam (contam com) uma promoção.
+ - (Ja) schlebiałem / schlebiałam mu / jej przez cały wieczór, ale wciąż nie zdobyłem / zdobyłam jego / jej uwagi. Eu (o / a) adulei ele / ela a (por) noite toda, mas ainda não consegui sua atenção.
+ - Nigdy (my) nie będziemy schlebiać ludziom, którzy nie okazują szacunku innym. (Nós) nunca vamos adular pessoas que não demonstram respeito pelos outros.
 
 - [] Dzień 392 - 
 
