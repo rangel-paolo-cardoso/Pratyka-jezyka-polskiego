@@ -1657,7 +1657,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) schlebiałem / schlebiałam mu / jej przez cały wieczór, ale wciąż nie zdobyłem / zdobyłam jego / jej uwagi. Eu (o / a) adulei ele / ela a (por) noite toda, mas ainda não consegui sua atenção.
  - Nigdy (my) nie będziemy schlebiać ludziom, którzy nie okazują szacunku innym. (Nós) nunca vamos adular pessoas que não demonstram respeito pelos outros.
 
-- [] Dzień 392 - 
+- [x] Dzień 392 - Fałszowanie - Rzeczownik nijaki. (Adulteração. - Rzeczownik żeński)
+ - Podejrzewam, że doszło do fałszowania dokumentów w celu oszukania urzędu skarbowego. Eu suspeito que houve adulteração dos documentos para enganar a Receita Federal.
+ - Czy wiecie, że ta fabryka była oskarżona o fałszowanie swoich produktów? Vocês sabiam que essa fábrica foi acusada de adulteração dos seus produtos?
+ - W przyszłości chcemy wprowadzić system, który uniemożliwi jakiekolwiek fałszowanie danych. No futuro, nós queremos implementar um sistema que impeça qualquer adulteração de dados.
+ - On zaprzeczył, jakoby miał cokolwiek wspólnego z fałszowaniem wyników badań. Ele negou que teria qualquer relação com a adulteração dos resultados das pesquisas.
+ - Po ujawnieniu fałszowania mleka cała firma została zamknięta. Após a revelação da adulteração do leite, toda a empresa foi fechada.
 
 - [] Dzień 393 - 
 
