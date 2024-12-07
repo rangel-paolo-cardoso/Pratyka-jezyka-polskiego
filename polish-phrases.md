@@ -1664,7 +1664,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On zaprzeczył, jakoby miał cokolwiek wspólnego z fałszowaniem wyników badań. Ele negou que teria qualquer relação com a adulteração dos resultados das pesquisas.
  - Po ujawnieniu fałszowania mleka cała firma została zamknięta. Após a revelação da adulteração do leite, toda a empresa foi fechada.
 
-- [] Dzień 393 - 
+- [x] Dzień 393 - Sfałszować, Fałszować. (Adulterar. - Czasownik(i))
+ - Czy myślisz, że ktoś sfałszował wyniki testów? To wydaje się bardzo podejrzane. Você acha que alguém adulterou os resultados dos testes? Isso parece muito suspeito.
+ - Oni sfałszowali dane w raporcie, aby uniknąć odpowiedzialności. Eles adulteraram os dados no relatório para evitar responsabilidades.
+ - W przyszłym miesiącu (my) sprawdzimy, czy nikt nie próbuje fałszować dokumentów. No próximo mês, (nós) verificaremos se ninguém está tentando adulterar os documentos.
+ - Przyznała się, że sfałszowała informacje w formularzu, ponieważ była zdesperowana. Ela admitiu que adulterou as informações no formulário porque estava desesperada.
+ - Jeśli (wy) nadal będziecie fałszować te dane, zostaną wyciągnięte konsekwencje prawne. Se vocês continuarem a adulterar esses dados, serão tomadas medidas legais.
 
 - [] Dzień 394 - 
 
