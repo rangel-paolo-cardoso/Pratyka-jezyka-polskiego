@@ -1671,7 +1671,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Przyznała się, że sfałszowała informacje w formularzu, ponieważ była zdesperowana. Ela admitiu que adulterou as informações no formulário porque estava desesperada.
  - Jeśli (wy) nadal będziecie fałszować te dane, zostaną wyciągnięte konsekwencje prawne. Se vocês continuarem a adulterar esses dados, serão tomadas medidas legais.
 
-- [] Dzień 394 - 
+- [x] Dzień 394 - Dorosły / Dorosła, Dorośli / Dorosłe. (Adulto / Adulta, Adultos / Adultas. - Przymiotnik, Rzeczowniki)
+ - Gdy byłem dzieckiem, chciałem jak najszybciej zostać dorosłym. Teraz widzę, że to nie było takie proste. Quando eu era criança, queria me tornar adulto o mais rápido possível. Agora vejo que não era tão simples.
+ - Ona uważa, że jako dorosła osoba powinna podjąć ważne decyzje dotyczące swojej przyszłości. Ela acredita que, como uma pessoa adulta, deve tomar decisões importantes sobre seu futuro.
+ - Kiedy staniecie się dorośli, zrozumiecie, jak ważne jest oszczędzanie pieniędzy. Quando vocês se tornarem adultos, entenderão como é importante economizar dinheiro.
+ - My, dorośli, musimy być odpowiedzialni za wychowanie naszych dzieci. Nós, adultos, precisamos ser responsáveis pela educação de nossos filhos.
+ - Na imprezie byli zarówno młodzi, jak i dorośli, a atmosfera była bardzo przyjemna. Na festa havia tanto jovens quanto adultos, e o ambiente estava muito agradável.
 
 - [] Dzień 395 - 
 
