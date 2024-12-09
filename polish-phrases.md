@@ -1678,7 +1678,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My, dorośli, musimy być odpowiedzialni za wychowanie naszych dzieci. Nós, adultos, precisamos ser responsáveis pela educação de nossos filhos.
  - Na imprezie byli zarówno młodzi, jak i dorośli, a atmosfera była bardzo przyjemna. Na festa havia tanto jovens quanto adultos, e o ambiente estava muito agradável.
 
-- [] Dzień 395 - 
+- [x] Dzień 395 - Przeciwnik / Przeciwniczka. (Adversário / Adversária. - Przymiotnik(i))
+ - Mój / Moja przeciwnik / przeciwniczka w zawodach biegowych był / była bardzo szybki / szybka, ale udało mi się go / ją pokonać. Meu / Minha adversário / adversária na competição de corrida era muito rápido / rápida, mas eu consegui vencê-lo / vencê-la (vencer ele / ela).
+ - Czy (ty) wiesz, kim będzie twój / twoja przeciwnik / przeciwniczka w najbliższym meczu? Jestem ciekawy, jak się przygotujesz. Você sabe quem será seu / sua adversário / adversária no próximo jogo? Estou curioso para saber como você vai se preparar.
+ - On / Ona pokonał / pokonała swojego / swoją przeciwnika / przeciwniczkę w pierwszej rundzie, co było wielkim zaskoczeniem dla wszystkich. Ele / Ela derrotou seu / sua adversário / adversária na primeira rodada, o que foi uma grande surpresa para todos.
+ - Jeśli (my) będziemy współpracować, nasi / nasze przeciwnicy / przeciwniczki nie będą mieli / miały żadnych szans. Se (nós) trabalharmos juntos, nossos / nossas adversários / adversárias não terão nenhuma chance.
+ - Na turnieju (ja) spotkałem / spotkałam się z wieloma trudnymi przeciwnikami / przeciwniczkami, ale finał był zdecydowanie najtrudniejszy. No torneio, (eu) enfrentei muitos / muitas adversários / adversárias difíceis, mas a final foi, definitivamente, a mais difícil.
 
 - [] Dzień 396 - 
 
