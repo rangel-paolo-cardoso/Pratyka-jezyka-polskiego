@@ -1685,7 +1685,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli (my) będziemy współpracować, nasi / nasze przeciwnicy / przeciwniczki nie będą mieli / miały żadnych szans. Se (nós) trabalharmos juntos, nossos / nossas adversários / adversárias não terão nenhuma chance.
  - Na turnieju (ja) spotkałem / spotkałam się z wieloma trudnymi przeciwnikami / przeciwniczkami, ale finał był zdecydowanie najtrudniejszy. No torneio, (eu) enfrentei muitos / muitas adversários / adversárias difíceis, mas a final foi, definitivamente, a mais difícil.
 
-- [] Dzień 396 - 
+- [x] Dzień 396 - Przeciwność. (Adversidade. - Rzeczownik żeński)
+ - Pomimo wielu przeciwności losu, udało mi się ukończyć projekt na czas. Apesar de muitas adversidades na vida, consegui terminar o projeto a tempo.
+ - On nigdy nie poddał się przeciwnościom i zawsze walczył do końca. Ele nunca cedeu às adversidades e sempre lutou até o fim.
+ - Czy wierzysz, że w przyszłości będziemy w stanie przezwyciężyć wszystkie przeciwności? Você acredita que no futuro seremos capazes de superar todas as adversidades?
+ - My, kobiety, pokazałyśmy, że nawet w obliczu największych przeciwności możemy osiągnąć sukces. Nós, mulheres, mostramos que, mesmo diante das maiores adversidades, podemos alcançar o sucesso.
+ - Przeciwności losu w przeszłości uczyniły mnie silniejszą osobą, gotową na każde wyzwanie. As adversidades da vida no passado me tornaram uma pessoa mais forte, pronta para qualquer desafio.
 
 - [] Dzień 397 - 
 
