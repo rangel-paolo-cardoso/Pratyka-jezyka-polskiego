@@ -1692,7 +1692,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My, kobiety, pokazałyśmy, że nawet w obliczu największych przeciwności możemy osiągnąć sukces. Nós, mulheres, mostramos que, mesmo diante das maiores adversidades, podemos alcançar o sucesso.
  - Przeciwności losu w przeszłości uczyniły mnie silniejszą osobą, gotową na każde wyzwanie. As adversidades da vida no passado me tornaram uma pessoa mais forte, pronta para qualquer desafio.
 
-- [] Dzień 397 - 
+- [x] Dzień 397 - Ostrzeżenie - nijaki, Przestroga - żeński. (Advertência. - Rzeczownik żeński)
+ - Otrzymałem dziś ostrzeżenie od przełożonego za moje spóźnienia. Recebi hoje uma advertência do meu superior por causa dos meus atrasos.
+ - Powinnaś wziąć pod uwagę ostrzeżenia lekarza i bardziej dbać o swoje zdrowie. Você deveria levar em conta as advertências do médico e cuidar melhor da sua saúde.
+ - Jeśli nie posłuchacie mojej przestrogi, możecie narazić się na poważne konsekwencje. Se vocês não ouvirem minha advertência, podem enfrentar consequências graves.
+ - Nasze dzieci często ignorują nasze ostrzeżenia, dopóki nie doświadczą problemów na własnej skórze. Nossos filhos frequentemente ignoram nossas advertências até que enfrentem os problemas por conta própria (na própria pele).
+ - Ostrzeżenie od policji w przeszłości nauczyło mnie, by być bardziej odpowiedzialnym na drodze. A advertência da polícia no passado me ensinou a ser mais responsável no trânsito.
 
 - [] Dzień 398 - 
 
