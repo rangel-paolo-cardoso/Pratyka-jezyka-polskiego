@@ -1699,7 +1699,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Nasze dzieci często ignorują nasze ostrzeżenia, dopóki nie doświadczą problemów na własnej skórze. Nossos filhos frequentemente ignoram nossas advertências até que enfrentem os problemas por conta própria (na própria pele).
  - Ostrzeżenie od policji w przeszłości nauczyło mnie, by być bardziej odpowiedzialnym na drodze. A advertência da polícia no passado me ensinou a ser mais responsável no trânsito.
 
-- [] Dzień 398 - 
+- [x] Dzień 398 - Ostrzeżony / Ostrzeżona, Upomniany / Upomniana. (Advertido / Advertida. - Przymiotnik(i))
+ - (Ja) byłem / byłam już wcześniej ostrzeżony / ostrzeżona przez moich rodziców, ale zignorowałem / zignorowałam ich rady. Eu já tinha sido advertido / advertida pelos meus pais, mas ignorei os conselhos deles.
+ - On / Ona został / została dzisiaj upomniany / upomniana przez nauczyciela / nauczycielkę za brak przygotowania do lekcji. Ele / Ela foi advertido / advertida hoje pelo / pela professor / professora pela falta de preparação para a aula.
+ - Jeśli (wy) nie zostaniecie ostrzeżeni / ostrzeżone o zagrożeniach, możecie popełnić te same błędy. Se (vocês) não forem advertidos / advertidas sobre os perigos, podem cometer os mesmos erros.
+ - (My) ostrzegliśmy / ostrzegłyśmy ich o ryzyku, ale oni / one nie chcieli / chciały nas słuchać. Nós os / as advertimos (eles / elas) sobre o risco, mas eles / elas não quiseram nos ouvir.
+ - Jutro (ja) będę ostrzeżony / ostrzeżona przez szefa / szefową, jeśli nie zakończę tego projektu na czas. Amanhã (eu) serei advertido / advertida pelo / pela chefe se não terminar este projeto a tempo.
 
 - [] Dzień 399 - 
 
