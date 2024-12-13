@@ -1706,7 +1706,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) ostrzegliśmy / ostrzegłyśmy ich o ryzyku, ale oni / one nie chcieli / chciały nas słuchać. Nós os / as advertimos (eles / elas) sobre o risco, mas eles / elas não quiseram nos ouvir.
  - Jutro (ja) będę ostrzeżony / ostrzeżona przez szefa / szefową, jeśli nie zakończę tego projektu na czas. Amanhã (eu) serei advertido / advertida pelo / pela chefe se não terminar este projeto a tempo.
 
-- [] Dzień 399 - 
+- [x] Dzień 399 - Ostrzegać, Upominać. (Advertir. - Czasownik(i))
+ - (Ja) ostrzegłem / ostrzegłam go / ją przed konsekwencjami jego / jej działań, ale nie chciał / chciała mnie słuchać. Eu o / a adverti (ele / ela) sobre as consequências de suas ações, mas ele / ela não quis me ouvir.
+ - On / Ona zawsze ostrzega swoje dzieci, zanim zrobią coś niebezpiecznego. Ele / Ela sempre adverte seus filhos antes de eles fazerem algo perigoso.
+ - Jeśli (ty) nie ostrzeżesz go / jej o tym, co może się wydarzyć, (on / ona) będzie później żałować. Se você não o / a advertir sobre o que pode acontecer, ele / ela se arrependerá mais tarde.
+ - (My) ostrzegliśmy / ostrzegłyśmy ich w zeszłym tygodniu, żeby nie podpisywali / podpisywały tej umowy. (Nós) os / as advertimos (eles / elas) na semana passada para não assinarem esse contrato.
+ - Jutro szef / szefowa ostrzeże wszystkich pracowników o nowych zasadach bezpieczeństwa. Amanhã o / a chefe advertirá todos os funcionários sobre as novas regras de segurança.
 
 - [] Dzień 400 - 
 
