@@ -1713,7 +1713,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) ostrzegliśmy / ostrzegłyśmy ich w zeszłym tygodniu, żeby nie podpisywali / podpisywały tej umowy. (Nós) os / as advertimos (eles / elas) na semana passada para não assinarem esse contrato.
  - Jutro szef / szefowa ostrzeże wszystkich pracowników o nowych zasadach bezpieczeństwa. Amanhã o / a chefe advertirá todos os funcionários sobre as novas regras de segurança.
 
-- [] Dzień 400 - 
+- [x] Dzień 400 - Wynikający / Wynikająca. (Advindo / Advinda. - Przymiotnik(i))
+ - Wynikający z naszych decyzji problem wymagał natychmiastowego rozwiązania. O problema advindo de nossas decisões exigiu uma solução imediata.
+ - Korzyści wynikające z tej współpracy są ogromne i wpłyną na naszą przyszłość. Os benefícios advindos dessa colaboração são enormes e impactarão nosso futuro.
+ - On / Ona zrozumiał / zrozumiała trudności wynikające z jego / jej działań dopiero później. Ele / Ela compreendeu as dificuldades advindas de suas ações apenas mais tarde.
+ - My, jako zespół, musimy sprostać wyzwaniom wynikającym z tego projektu. Nós, como equipe, precisamos enfrentar os desafios advindos desse projeto.
+ - Problemy wynikające z niewłaściwego zarządzania zostaną wkrótce rozwiązane. Os problemas advindos de uma gestão inadequada serão resolvidos em breve.
 
 - [] Dzień 401 - 
 
