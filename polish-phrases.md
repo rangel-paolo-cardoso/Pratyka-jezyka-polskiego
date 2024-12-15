@@ -1720,7 +1720,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My, jako zespół, musimy sprostać wyzwaniom wynikającym z tego projektu. Nós, como equipe, precisamos enfrentar os desafios advindos desse projeto.
  - Problemy wynikające z niewłaściwego zarządzania zostaną wkrótce rozwiązane. Os problemas advindos de uma gestão inadequada serão resolvidos em breve.
 
-- [] Dzień 401 - 
+- [x] Dzień 401 - Wynikać, Wyniknąć. (Advir. - Czasownik(i))
+ - Z wynikających z tego decyzji problemów (my) będziemy się musieli / musiały wspólnie rozliczyć. Dos problemas que podem advir dessas decisões, (nós) teremos que nos responsabilizar juntos.
+ - Konsekwencje wynikające z jego / jej działań były nieuniknione. As consequências que advieram de suas (das) ações (dele / dela) foram inevitáveis.
+ - Jeśli wynikną jakieś trudności, (wy) powinniście natychmiast nas powiadomić. Se advierem dificuldades, vocês devem nos informar imediatamente.
+ - Wynikające z tej umowy obowiązki dotkną zarówno ciebie, jak i mnie. Os deveres que hão de advir deste contrato afetarão tanto você quanto a mim.
+ - My nie przewidzieliśmy / przewidziałyśmy problemów, które wynikły z tej elekcji. Nós não previmos os problemas que advieram desta eleição.
 
 - [] Dzień 402 - 
 
