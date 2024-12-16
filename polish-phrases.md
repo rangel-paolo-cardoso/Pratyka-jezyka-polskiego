@@ -1727,7 +1727,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wynikające z tej umowy obowiązki dotkną zarówno ciebie, jak i mnie. Os deveres que hão de advir deste contrato afetarão tanto você quanto a mim.
  - My nie przewidzieliśmy / przewidziałyśmy problemów, które wynikły z tej elekcji. Nós não previmos os problemas que advieram desta eleição.
 
-- [] Dzień 402 - 
+- [x] Dzień 402 - Adwokatura. (Advocacia. - Rzeczownik żeński)
+ - Kiedy (ja) byłem / byłam młody / młoda, myślałem / myślałam, że adwokatura to najlepsza ścieżka kariery, ale życie pokazało coś innego. Quando eu era jovem, achava que a advocacia era o melhor caminho de carreira, mas a vida mostrou outra coisa.
+ - Mój / Moja brat / siostra zamierza rozpocząć studia związane z adwokaturą, bo zawsze interesował / interesowała się prawem. Meu / Minha irmão / irmã pretende começar um curso relacionado à advocacia, pois (ele / ela) sempre se interessou por direito.
+ - Wy, jako studenci / studentki prawa, powinniście / powinnyście zrozumieć, że adwokatura wymaga wielu lat ciężkiej pracy i poświęcenia. Vocês, como estudantes de direito, devem entender que a advocacia exige muitos anos de trabalho duro e dedicação.
+ - (My) poświęciliśmy / poświęciłyśmy ostatnie pięć lat na rozwijanie naszej kancelarii adwokackiej i teraz jesteśmy dumni / dumne z wyników. (Nós) dedicamos os últimos cinco anos para desenvolver nosso escritório de advocacia e agora estamos orgulhosos / orgulhosas dos resultados.
+ - Oni / One wierzą, że adwokatura przyszłości będzie bardziej oparta na sztucznej inteligencji niż na pracy ludzi. Eles / Elas acreditam que a advocacia do futuro será mais baseada em inteligência artificial do que no trabalho humano.
 
 - [] Dzień 403 - 
 
