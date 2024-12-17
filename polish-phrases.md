@@ -1734,7 +1734,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poświęciliśmy / poświęciłyśmy ostatnie pięć lat na rozwijanie naszej kancelarii adwokackiej i teraz jesteśmy dumni / dumne z wyników. (Nós) dedicamos os últimos cinco anos para desenvolver nosso escritório de advocacia e agora estamos orgulhosos / orgulhosas dos resultados.
  - Oni / One wierzą, że adwokatura przyszłości będzie bardziej oparta na sztucznej inteligencji niż na pracy ludzi. Eles / Elas acreditam que a advocacia do futuro será mais baseada em inteligência artificial do que no trabalho humano.
 
-- [] Dzień 403 - 
+- [x] Dzień 403 - Adwokat / Adwokatka, Prawnik / Prawniczka. - (Rzeczownik(i))
+ - Mój / Moja przyjaciel / przyjaciółka jest znanym / znaną adwokatem / adwokatką, który / która specjalizuje się w prawie karnym. Meu / minha amigo / amiga é um / uma advogado / advogada renomado / renomada que se especializa em direito penal.
+ - Mój / Moja kuzyn / kuzynka został / została adwokatem / adwokatką i niedawno otworzył / otworzyła własną kancelarię prawną. Meu / Minha primo / prima se tornou advogado / advogada e recentemente abriu seu próprio escritório jurídico.
+ - (My) zatrudniliśmy / zatrudniłyśmy adwokata / adwokatkę, który / która pomoże nam rozwiązać problem z umową kupna-sprzedaży. Nós contratamos um / uma advogado / advogada para nos ajudar a resolver o problema com o contrato de compra e venda.
+ - Oni / One studiowali / studiowały prawo przez wiele lat, aby zostać najlepszymi adwokatami / adwokatkami w swoim mieście. Eles / Elas estudaram direito por muitos anos para se tornarem os / as melhores advogados / advogadas de sua cidade.
+ - Jako adwokat / adwokatka (ty) będziesz musiał / musiała wykazać się dużą cierpliwością i zdolnością do analizy. Como advogado / advogada, você terá que demonstrar muita paciência e capacidade de análise.
 
 - [] Dzień 404 - 
 
