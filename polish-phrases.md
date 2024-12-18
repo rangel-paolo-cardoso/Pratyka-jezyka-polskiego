@@ -1741,7 +1741,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One studiowali / studiowały prawo przez wiele lat, aby zostać najlepszymi adwokatami / adwokatkami w swoim mieście. Eles / Elas estudaram direito por muitos anos para se tornarem os / as melhores advogados / advogadas de sua cidade.
  - Jako adwokat / adwokatka (ty) będziesz musiał / musiała wykazać się dużą cierpliwością i zdolnością do analizy. Como advogado / advogada, você terá que demonstrar muita paciência e capacidade de análise.
 
-- [] Dzień 404 - 
+- [x] Dzień 404 - Adwokatować. (Advogar. - Czasownik(i))
+ - On / Ona zawsze chciał / chciała pracować jako prawnik / prawniczka i będzie adwokatował / adwokatowała w sprawach rodzinnych. Ele / Ela sempre quis trabalhar como advogado / advogada e vai advogar em causas de família.
+ - Jako adwokat / adwokatka, (ja) często występuję w obronie (adwokuję na rzecz) praw mężczyzn / kobiet w mojej społeczności. Como advogado / advogada, (eu) frequentemente advogo pelos direitos dos / das homens / mulheres na minha comunidade.
+ - Oni / One adwokatowali / adwokatowały w tej skomplikowanej sprawie i wygrali / wygrały ją dla swojego klienta. Eles / Elas advogaram nesse caso complicado e venceram (ela) a causa para o cliente deles.
+ - My będziemy adwokatować w sądzie, aby pomóc ofiarom tego wypadku. Nós vamos advogar no tribunal para ajudar as vítimas desse acidente.
+ - On / Ona adwokatował / adwokatowała z determinacją, aby obronić swojego / swoją przyjaciela / przyjaciółkę przed niesprawiedliwością. Ele / Ela advogou com determinação para defender o / a seu / sua amigo / amiga contra a injustiça.
 
 - [] Dzień 405 - 
 
