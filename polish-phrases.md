@@ -1748,7 +1748,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My będziemy adwokatować w sądzie, aby pomóc ofiarom tego wypadku. Nós vamos advogar no tribunal para ajudar as vítimas desse acidente.
  - On / Ona adwokatował / adwokatowała z determinacją, aby obronić swojego / swoją przyjaciela / przyjaciółkę przed niesprawiedliwością. Ele / Ela advogou com determinação para defender o / a seu / sua amigo / amiga contra a injustiça.
 
-- [] Dzień 405 - 
+- [x] Dzień 405 - Powietrzny, Lotniczy, Drogi oddechowe, Zamyślony, Nieobecny duchem. (Aéreo. - Przymiotnik(i), Wyrażenie)
+ - Wczoraj siły powietrzne przeprowadziły operację ratunkową w górach, ratując wielu turystów. Ontem, a força aérea realizou uma operação de resgate nas montanhas, salvando (resgatando) muitos turistas.
+ - Nasze drogi oddechowe muszą być czyste, szczególnie podczas infekcji wirusowych. Nossas vias aéreas precisam estar limpas, especialmente durante infecções virais.
+ - Rozmawiając z tobą, (ja) zauważyłem / zauważyłam, że (ty) jesteś bardzo zamyślony / zamyślona i niemalże nieobecny / nieobecna duchem. Conversando com você, (eu) percebi que você estava muito distraído / distraída e quase aéreo / aérea.
+ - Nowo wybudowane lotnisko międzynarodowe ma nowoczesny terminal powietrzny obsługujący tysiące pasażerów dziennie. O novo aeroporto internacional construído tem um terminal aéreo moderno que atende milhares de passageiros diariamente.
+ - Czy oni / one wiedzieli / wiedziały o problemach związanych z przestrzenią powietrzną w tym rejonie? Eles / Elas sabiam dos problemas relacionados ao espaço aéreo nesta região?
 
 - [] Dzień 406 - 
 
