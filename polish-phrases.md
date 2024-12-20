@@ -1755,7 +1755,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Nowo wybudowane lotnisko międzynarodowe ma nowoczesny terminal powietrzny obsługujący tysiące pasażerów dziennie. O novo aeroporto internacional construído tem um terminal aéreo moderno que atende milhares de passageiros diariamente.
  - Czy oni / one wiedzieli / wiedziały o problemach związanych z przestrzenią powietrzną w tym rejonie? Eles / Elas sabiam dos problemas relacionados ao espaço aéreo nesta região?
 
-- [] Dzień 406 - 
+- [x] Dzień 406 - Aerodynamika - Rzeczownik żeński, Aerodynamiczny / Aerodynamiczna - Przymiotnik(i). (Aerodinâmica - Rzeczownik żeński, Aerodinâmico - Przymiotnik.)
+ - Samochód, który kupiłem w zeszłym roku, ma bardzo aerodynamiczny kształt, co zmniejsza zużycie paliwa. O carro que comprei no ano passado tem um formato muito aerodinâmico, o que reduz o consumo de combustível.
+ - Projektując ten samolot, skupiliśmy się na jego aerodynamice, aby zwiększyć efektywność lotu. Ao projetar este avião, nos concentramos em sua aerodinâmica para aumentar a eficiência do voo.
+ - Ona marzy o tym, aby zaprojektować rower bardziej aerodynamiczny, który pomoże kolarzom osiągać lepsze wyniki. Ele / Ela sonha em projetar uma bicicleta mais aerodinâmica, que ajude os / as ciclistas a alcançarem melhores resultados.
+ - Czy wiecie, że nowe autobusy miejskie będą bardziej aerodynamiczne, co zmniejszy ich emisję spalin? Vocês sabiam que os novos ônibus urbanos serão mais aerodinâmicos, o que reduzirá suas emissões de gases?
+ - W przyszłości (my) zamierzamy zainwestować w technologie poprawiające aerodynamikę naszych pojazdów. No futuro, (nós) pretendemos investir em tecnologias que melhorem a aerodinâmica de nossos veículos.
 
 - [] Dzień 407 - 
 
