@@ -1762,7 +1762,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy wiecie, że nowe autobusy miejskie będą bardziej aerodynamiczne, co zmniejszy ich emisję spalin? Vocês sabiam que os novos ônibus urbanos serão mais aerodinâmicos, o que reduzirá suas emissões de gases?
  - W przyszłości (my) zamierzamy zainwestować w technologie poprawiające aerodynamikę naszych pojazdów. No futuro, (nós) pretendemos investir em tecnologias que melhorem a aerodinâmica de nossos veículos.
 
-- [] Dzień 407 - 
+- [x] Dzień 407 - Aerodrom. (Aeródromo. - Rzeczownik męski)
+ - Wczoraj (my) lądowaliśmy / lądowałyśmy na małym aerodromie w pobliżu gór i widok był niesamowity. Ontem (nós) pousamos em um pequeno aeródromo perto das montanhas, e a vista era incrível.
+ - Piloci / Pilotki powiedzieli / powiedziały, że lot będzie opóźniony, ponieważ aerodrom jest tymczasowo zamknięty. Os / As pilotos disseram que o voo vai atrasar porque o aeródromo está temporariamente fechado.
+ - W przyszłym tygodniu (my) odwiedzimy nowy aerodrom, który został otwarty w naszym mieście. Na próxima semana, (nós) visitaremos o novo aeródromo que foi inaugurado (aberto) na nossa cidade.
+ - Kiedy (on / ona) był / była dzieckiem, jego / jej ojciec / matka często zabierał / zabierała go / ją na aerodrom, aby oglądać startujące samoloty. Quando ele / ela era criança, o / a pai / mãe dele / dela costumava levá-lo / levá-la (levar ele / ela) ao aeródromo para assistir aos aviões decolando.
+ - Czy (ty) słyszałeś / słyszałaś, że na aerodromie w naszym mieście odbywa się festiwal lotniczy? Você ouviu dizer que no aeródromo da nossa cidade está acontecendo um festival aéreo?
 
 - [] Dzień 408 - 
 
