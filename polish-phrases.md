@@ -1769,7 +1769,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Kiedy (on / ona) był / była dzieckiem, jego / jej ojciec / matka często zabierał / zabierała go / ją na aerodrom, aby oglądać startujące samoloty. Quando ele / ela era criança, o / a pai / mãe dele / dela costumava levá-lo / levá-la (levar ele / ela) ao aeródromo para assistir aos aviões decolando.
  - Czy (ty) słyszałeś / słyszałaś, że na aerodromie w naszym mieście odbywa się festiwal lotniczy? Você ouviu dizer que no aeródromo da nossa cidade está acontecendo um festival aéreo?
 
-- [] Dzień 408 - 
+- [x] Dzień 408 - Kanał wentylacyjny, Przewód powietrzny. (Aeroduto. - Rzeczownik męski)
+ - Kot / Kotka wszedł / weszła do domu przez kanał wentylacyjny, co mnie kompletnie zaskoczyło. O / A gato / gata entrou na casa pelo aeroduto (canal / tubo de ventilção), o que me deixou completamente surpreso.
+ - Oni / One muszą naprawić przewody powietrzne, bo system klimatyzacji przestał działać. Eles / Elas precisam consertar os aerodutos (canais / tubos de ventilção) porque o sistema de ar-condicionado parou de funcionar.
+ - Czy (ty) sprawdziłeś / sprawdziłaś już przewody wentylacyjne? (One) Mogą być zablokowane przez kurz. Você já verificou os aerodutos (canais / tubos de ventilção)? (Eles) podem estar bloqueados por poeira.
+ - Za dwa dni inżynierowie / inżynierki zainstalują nowy kanał wentylacyjny w naszym biurze. Daqui a dois dias, os / as engenheiros / engenheiras vão instalar um novo aeroduto (canal / tubo de ventilção) em nosso escritório.
+ - Przed wyjazdem na wakacje (my) wyczyściliśmy / wyczyściłyśmy wszystkie kanały wentylacyjne w domu. Antes de sair de férias, (nós) limpamos todos os aerodutos (canais / tubos de ventilção) da casa.
 
 - [] Dzień 409 - 
 
