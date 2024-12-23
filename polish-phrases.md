@@ -1776,7 +1776,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Za dwa dni inżynierowie / inżynierki zainstalują nowy kanał wentylacyjny w naszym biurze. Daqui a dois dias, os / as engenheiros / engenheiras vão instalar um novo aeroduto (canal / tubo de ventilção) em nosso escritório.
  - Przed wyjazdem na wakacje (my) wyczyściliśmy / wyczyściłyśmy wszystkie kanały wentylacyjne w domu. Antes de sair de férias, (nós) limpamos todos os aerodutos (canais / tubos de ventilção) da casa.
 
-- [] Dzień 409 - 
+- [x] Dzień 409 - Przestrzeń powietrzna, Przestrzeń kosmiczna. (Aeroespaço. - Rzeczownik męski)
+ - Po ukończeniu studiów inżynierii kosmicznej (ja) postanowiłem / postanowiłam pracować w sektorze przestrzeni powietrznej. Depois de me formar em engenharia aeroespacial, (eu) decidi trabalhar no setor de aeroespaço.
+ - Czy (ty) myślisz, że ludzie będą mogli mieszkać w przestrzeni kosmicznej w ciągu najbliższych pięćdziesięciu lat? Você acha que as pessoas poderão viver no aeroespaço nos próximos cinquenta anos?
+ - Wczoraj (my) widzieliśmy / widziałśmy film dokumentalny o eksploracji przestrzeni powietrznej i (ja) byłem / byłam naprawdę zachwycony / zachwycona tym, co zobaczyłem / zobaczyłam. Ontem (nós) assistimos a um documentário sobre a exploração do aeroespaço e eu fiquei realmente fascinado / fascinada com o que vi.
+ - Oni / One badali / badały możliwości nowych technologii związanych z przestrzenią powietrzną, które mogłyby przyspieszyć podróże międzyplanetarne. Eles / Elas estavam pesquisando as possibilidades de novas tecnologias relacionadas ao aeroespaço que poderiam acelerar viagens interplanetárias.
+ - Za dwa lata (my) zamierzamy wprowadzić nowy system komunikacji w przestrzeni powietrznej, aby ułatwić kontrolę ruchu lotniczego. Em dois anos, (nós) planejamos implementar um novo sistema de comunicação no aeroespaço para facilitar o controle do tráfego aéreo.
 
 - [] Dzień 410 - 
 
