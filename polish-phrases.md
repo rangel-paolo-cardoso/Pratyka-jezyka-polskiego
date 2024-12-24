@@ -1783,7 +1783,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One badali / badały możliwości nowych technologii związanych z przestrzenią powietrzną, które mogłyby przyspieszyć podróże międzyplanetarne. Eles / Elas estavam pesquisando as possibilidades de novas tecnologias relacionadas ao aeroespaço que poderiam acelerar viagens interplanetárias.
  - Za dwa lata (my) zamierzamy wprowadzić nowy system komunikacji w przestrzeni powietrznej, aby ułatwić kontrolę ruchu lotniczego. Em dois anos, (nós) planejamos implementar um novo sistema de comunicação no aeroespaço para facilitar o controle do tráfego aéreo.
 
-- [] Dzień 410 - 
+- [x] Dzień 410 - Steward / Stewardesa. (Aeromoço / Aeromoça (comissário/a de bordo). - Rzeczowniki)
+ - W zeszłym tygodniu steward / stewardessa pomógł / pomogła mi znaleźć miejsce na bagaż w schowku podczas lotu do Warszawy. Na semana passada, o / a aeromoço / aeromoça (comissário/a de bordo) me ajudou a encontrar espaço para minha bagagem no compartimento durante o voo para Varsóvia.
+ - Czy (ty) wiesz, że steward / stewardessa musi przejść trudne szkolenie, zanim będzie mógł / mogła obsługiwać pasażerów? Você sabia que um / uma comissário / comissária de bordo precisa passar por um treinamento difícil antes de poder atender os passageiros?
+ - Podczas naszej podróży do Paryża steward / stewardessa podał / podała nam gorącą kawę i herbatę z uśmiechem na twarzy. Durante nossa viagem para Paris, o / a aeromoço / aeromoça (comissário/a de bordo) nos serviu café e chá quente com um sorriso no rosto.
+ - Za dwa miesiące (ja) zamierzam aplikować na stanowisko stewarda / stewardessy, bo zawsze marzyłem / marzyłam o pracy na pokładzie samolotu. Daqui a dois meses, (eu) planejo me candidatar para a vaga de comissário / comissária de bordo, porque sempre sonhei em trabalhar a bordo de um avião.
+ - Steward / Stewardesa przyniósł / przyniosła mi koc, gdy zauważył / zauważyła, że jest mi zimno podczas lotu.O / A aeromoço / aeromoça (comissário/a de bordo) trouxe-me (me trouxe) um cobertor quando percebeu que eu estava com frio durante o voo.
 
 - [] Dzień 411 - 
 
