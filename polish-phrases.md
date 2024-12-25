@@ -1790,7 +1790,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Za dwa miesiące (ja) zamierzam aplikować na stanowisko stewarda / stewardessy, bo zawsze marzyłem / marzyłam o pracy na pokładzie samolotu. Daqui a dois meses, (eu) planejo me candidatar para a vaga de comissário / comissária de bordo, porque sempre sonhei em trabalhar a bordo de um avião.
  - Steward / Stewardesa przyniósł / przyniosła mi koc, gdy zauważył / zauważyła, że jest mi zimno podczas lotu.O / A aeromoço / aeromoça (comissário/a de bordo) trouxe-me (me trouxe) um cobertor quando percebeu que eu estava com frio durante o voo.
 
-- [] Dzień 411 - 
+- [x] Dzień 411 - Aeronautyka - Rzeczownik żeński, Lotnictwo - Rzeczownik nijaki. (Aeronáutica. - Rzeczownik żeński)
+ - Gdybyśmy kiedykolwiek mieli / miały latające miasta, to technologia lotnicza musiałaby osiągnąć poziom niewyobrażalny. Se algum dia tivermos cidades flutuantes, a tecnologia aeronáutica teria que alcançar um nível inimaginável.
+ - On / Ona zawsze powtarzał / powtarzała, że podróże kosmiczne są przyszłością lotnictwa, ale ja wciąż w to nie wierę. Ele / Ela sempre dizia que as viagens espaciais são o futuro da aeronáutica, mas eu ainda não acredito nisso.
+ - (Czy) (Ty) myślisz, że ludzie mogą kiedyś zbudować statki lotnicze zdolne do podróży w czasie? Ja jestem sceptyczny / sceptyczna. Você acha que os humanos poderiam algum dia construir aeronaves capazes de viajar no tempo? Eu sou cético / cética.
+ - (My) uczyliśmy / uczyłyśmy się o historii aeronautyki i o tym, jak pierwszy samolot zmienił świat, ale nikt nie wierzył w przyszłość teleportacji. (Nós) estudamos sobre a história da aeronáutica e como o primeiro avião mudou o mundo, mas ninguém acreditava no futuro do teletransporte.
+ - (Oni / One) powiedzieli / powiedziały, że pracują nad tajnym projektem lotniczym, który pozwoli nam unosić się nad ziemią bez użycia paliwa. Czy to możliwe? (Eles / Elas) disseram que estão trabalhando em um projeto aeronáutico secreto que nos permitirá flutuar sobre a terra sem usar combustível. Será possível?
 
 - [] Dzień 412 - 
 
