@@ -1797,7 +1797,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) uczyliśmy / uczyłyśmy się o historii aeronautyki i o tym, jak pierwszy samolot zmienił świat, ale nikt nie wierzył w przyszłość teleportacji. (Nós) estudamos sobre a história da aeronáutica e como o primeiro avião mudou o mundo, mas ninguém acreditava no futuro do teletransporte.
  - (Oni / One) powiedzieli / powiedziały, że pracują nad tajnym projektem lotniczym, który pozwoli nam unosić się nad ziemią bez użycia paliwa. Czy to możliwe? (Eles / Elas) disseram que estão trabalhando em um projeto aeronáutico secreto que nos permitirá flutuar sobre a terra sem usar combustível. Será possível?
 
-- [] Dzień 412 - 
+- [x] Dzień 412 - Statek powietrzny, Samolot, Maszyna latająca, Pojazd lotniczy. (Aeronave. - Rzeczownik żeński)
+ - Wczoraj (ja) widziałem / widziałam ogromny statek powietrzny, który wyglądał, jakby pochodził z przyszłości. Ontem, (eu) vi uma enorme aeronave que parecia ter vindo do futuro.
+ - Czy (ty) wiesz, że budowa nowoczesnej maszyny latającej może trwać nawet kilka lat? Você sabia que a construção de uma aeronave moderna pode levar até alguns anos?
+ - Oni / One powiedzieli / powiedziały, że ich statek powietrzny może przelecieć ocean bez zatrzymywania się. Eles / Elas disseram que a aeronave deles / delas pode atravessar o oceano sem paradas.
+ - (My) zastanawialiśmy / zastanawiałyśmy się, czy kiedykolwiek będzie możliwe stworzenie pojazdu lotniczego, który osiągnie prędkość światła. (Nós) nos perguntamos se algum dia será possível criar uma aeronave que alcance a velocidade da luz.
+ - W przyszłym tygodniu (wy) polecicie nowoczesnym samolotem, który jest wyposażony w najnowszą technologię. Na próxima semana, vocês viajarão em uma aeronave moderna, que está equipada com a mais nova tecnologia.
 
 - [] Dzień 413 - 
 
