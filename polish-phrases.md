@@ -1804,7 +1804,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zastanawialiśmy / zastanawiałyśmy się, czy kiedykolwiek będzie możliwe stworzenie pojazdu lotniczego, który osiągnie prędkość światła. (Nós) nos perguntamos se algum dia será possível criar uma aeronave que alcance a velocidade da luz.
  - W przyszłym tygodniu (wy) polecicie nowoczesnym samolotem, który jest wyposażony w najnowszą technologię. Na próxima semana, vocês viajarão em uma aeronave moderna, que está equipada com a mais nova tecnologia.
 
-- [] Dzień 413 - 
+- [x] Dzień 413 - Lotnisko - Rzeczownik nijaki, Port lotniczy - Rzeczownik męski. (Aeroporto. - Rzeczownik męski)
+ - (Ja) byłem / byłam na lotnisku, kiedy zobaczyłem / zobaczyłam, że samolot wylądował w niesamowitej mgle. Eu estava no aeroporto quando vi que o avião pousou em uma névoa impressionante.
+ - W przyszłym tygodniu (wy) odwiedzicie największy port lotniczy w Polsce. Na próxima semana, vocês visitarão o maior aeroporto da Polônia.
+ - Czy on / ona pamięta, jak spędziliśmy / spędziłyśmy noc na lotnisku z powodu odwołanego lotu? Ele / Ela se lembra de como passamos a noite no aeroporto por causa de um voo cancelado?
+ - (My) przybyliśmy / przybyłyśmy na port lotniczy dokładnie w momencie, gdy ogłaszano nasz lot. (Nós) chegamos ao aeroporto exatamente no momento em que o nosso voo foi anunciado.
+ - Oni / One planują otwarcie nowego lotniska w przyszłym roku, które będzie obsługiwać miliony pasażerów. Eles / Elas planejam abrir um novo aeroporto no próximo ano, que atenderá milhões de passageiros.
 
 - [] Dzień 414 - 
 
