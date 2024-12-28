@@ -1811,7 +1811,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przybyliśmy / przybyłyśmy na port lotniczy dokładnie w momencie, gdy ogłaszano nasz lot. (Nós) chegamos ao aeroporto exatamente no momento em que o nosso voo foi anunciado.
  - Oni / One planują otwarcie nowego lotniska w przyszłym roku, które będzie obsługiwać miliony pasażerów. Eles / Elas planejam abrir um novo aeroporto no próximo ano, que atenderá milhões de passageiros.
 
-- [] Dzień 414 - 
+- [x] Dzień 414 - Oddalenie, Odsunięcie - Rzeczownik nijaki, Przerwa - Rzeczownik żeński. (Afastamento. - Rzeczownik męski)
+ - (Ja) zauważyłem / zauważyłam oddalenie między nami po tym, jak (ty) wyjechałeś / wyjechałaś do innego miasta. Eu percebi um afastamento entre nós depois que você se mudou para outra cidade.
+ - Oni / One potrzebowali / potrzebowały przerwy od swoich codziennych obowiązków, aby odzyskać równowagę. Eles / Elas precisaram de um afastamento das suas tarefas diárias para recuperar o equilíbrio.
+ - Czy (ty) wiesz, dlaczego odsunięcie mnie od projektu było konieczne? Você sabe por que meu afastamento do projeto foi necessário?
+ - W przyszłym miesiącu (my) planujemy oddalić się na kilka dni, żeby odpocząć na wsi. No próximo mês, (nós) planejamos um afastamento de alguns dias para descansar no campo.
+ - Przerwa, którą (on / ona) zrobił / zrobiła, pomogła mu / jej podjąć lepsze decyzje dotyczące kariery. O afastamento que ele / ela fez ajudou-o/a (ajudou ele / ela) a tomar melhores decisões sobre a carreira.
 
 - [] Dzień 415 - 
 
