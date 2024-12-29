@@ -1818,7 +1818,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym miesiącu (my) planujemy oddalić się na kilka dni, żeby odpocząć na wsi. No próximo mês, (nós) planejamos um afastamento de alguns dias para descansar no campo.
  - Przerwa, którą (on / ona) zrobił / zrobiła, pomogła mu / jej podjąć lepsze decyzje dotyczące kariery. O afastamento que ele / ela fez ajudou-o/a (ajudou ele / ela) a tomar melhores decisões sobre a carreira.
 
-- [] Dzień 415 - 
+- [x] Dzień 415 - Oddalić, Odsunąć, Odsunąć się, Odciągnąć. (Afastar. - Czasownik(i))
+ - (Ja) oddaliłem / oddaliłam się od grupy, ponieważ potrzebowałem / potrzebowałam chwili samotności. Eu me afastei do grupo porque precisava de um momento de solidão.
+ - On / Ona zawsze stara się odsunąć negatywne myśli, skupiając się na swoich celach. Ele / Ela sempre tenta afastar pensamentos negativos, concentrando-se em seus objetivos.
+ - Czy oni / one naprawdę myślą, że (my) możemy odsunąć się od tego problemu bez rozwiązania go? Será que eles / elas realmente acham que (nós) podemos nos afastar desse problema sem resolvê-lo (resolver ele)?
+ - W przyszłości (my) planujemy odsunąć te stare meble i zrobić miejsce na nowe. No futuro, (nós) planejamos afastar esses móveis velhos e abrir espaço para novos.
+ - Podczas rozmowy (ja) odciągnąłem / odciągnęłam swojego / swoją przyjaciela / przyjaciółkę od kłopotliwego tematu, aby nie wywoływać konfliktu. Durante a conversa, eu afastei meu / minha amigo / amiga de um tema complicado para não provocar um conflito.
 
 - [] Dzień 416 - 
 
