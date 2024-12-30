@@ -1825,7 +1825,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) planujemy odsunąć te stare meble i zrobić miejsce na nowe. No futuro, (nós) planejamos afastar esses móveis velhos e abrir espaço para novos.
  - Podczas rozmowy (ja) odciągnąłem / odciągnęłam swojego / swoją przyjaciela / przyjaciółkę od kłopotliwego tematu, aby nie wywoływać konfliktu. Durante a conversa, eu afastei meu / minha amigo / amiga de um tema complicado para não provocar um conflito.
 
-- [] Dzień 416 - 
+- [x] Dzień 416 - Obowiązki - Rzeczownik męski, Zajęcia, Zadania - Rzeczownik nijaki, Prace - Rzeczownik żeński. (Afazeres. - Rzeczownik męski)
+ - Dziś mam tyle obowiązków, że nawet nie będę miał / miała czasu na przerwę na kawę. Hoje tenho tantos afazeres que nem terei tempo para uma pausa para o café.
+ - Wczoraj (my) zakończyliśmy / zakończyłyśmy wszystkie nasze zajęcia wcześniej, więc mogliśmy / mogłyśmy obejrzeć film. Ontem (nós) terminamos todos os nossos afazeres mais cedo, então pudemos assistir a um filme.
+ - Czy oni / one naprawdę są tak zajęci swoimi zadaniami, że nie mogą znaleźć czasu na rozmowę? Será que eles / elas estão realmente tão ocupados / ocupadas com seus afazeres que não conseguem encontrar tempo para conversar?
+ - (Ja) myślałem / myślałam, że skończę prace domowe przed południem, ale zajęło mi to cały dzień. Eu pensei que terminaria os afazeres domésticos antes do meio-dia, mas eu levei o dia todo nisso.
+ - (My) planujemy zakończyć nasze obowiązki w weekend, aby w poniedziałek mieć więcej czasu dla siebie. (Nós) planejamos concluir nossos afazeres no fim de semana, para termos mais tempo para nós na segunda-feira.
 
 - [] Dzień 417 - 
 
