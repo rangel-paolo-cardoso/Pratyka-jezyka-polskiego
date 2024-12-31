@@ -1832,7 +1832,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) myślałem / myślałam, że skończę prace domowe przed południem, ale zajęło mi to cały dzień. Eu pensei que terminaria os afazeres domésticos antes do meio-dia, mas eu levei o dia todo nisso.
  - (My) planujemy zakończyć nasze obowiązki w weekend, aby w poniedziałek mieć więcej czasu dla siebie. (Nós) planejamos concluir nossos afazeres no fim de semana, para termos mais tempo para nós na segunda-feira.
 
-- [] Dzień 417 - 
+- [x] Dzień 417 - Wpływać, Dotykać, Oddziaływać, Naruszać. (Afetar. - Czasownik(i))
+ - Silny wiatr wpłynął na nasz lot na lotnisku, powodując duże opóźnienie. O vento forte afetou o nosso voo no aeroporto, causando um grande atraso.
+ - (Ja) nie sądzę, że te zmiany w prawie dotkną cię osobiście. (Eu) não acho que essas mudanças na lei irão te afetar pessoalmente.
+ - (My) wierzymy, że działania ekologiczne pozytywnie oddziałują na przyszłe pokolenia. (Nós) acreditamos que as ações ecológicas afetam positivamente as futuras gerações.
+ - Czy to, co (on / ona) powiedział / powiedziała, naprawdę wpłynęło na twoją decyzję? O que ele / ela disse realmente afetou na sua decisão?
+ - Jeśli (my) nie będziemy ostrożni / ostrożne, problemy techniczne mogą naruszyć funkcjonowanie całego systemu. Se (nós) não formos cuidadosos / cuidadosas, problemas técnicos podem afetar o funcionamento de todo o sistema.
 
 - [] Dzień 418 - 
 
