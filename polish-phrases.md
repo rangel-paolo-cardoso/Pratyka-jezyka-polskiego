@@ -1839,7 +1839,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy to, co (on / ona) powiedział / powiedziała, naprawdę wpłynęło na twoją decyzję? O que ele / ela disse realmente afetou na sua decisão?
  - Jeśli (my) nie będziemy ostrożni / ostrożne, problemy techniczne mogą naruszyć funkcjonowanie całego systemu. Se (nós) não formos cuidadosos / cuidadosas, problemas técnicos podem afetar o funcionamento de todo o sistema.
 
-- [] Dzień 418 - 
+- [x] Dzień 418 - Uczucie - Rzeczownik nijaki, Czułość - Rzeczownik żeński, Przywiązanie - Rzeczownik nijaki, Kochający - Przymiotnik. (Afeto. - Rzeczownik męski, Przymiotnik)
+ - (Ja) okazałem / okazałam mu / jej uczucie w trudnym momencie jego / jej życia, bo wiedziałem / wiedziałam, że tego potrzebuje. (Eu) mostrei afeto a ele / ela em um momento difícil da vida dele / dela, porque sabia que ele / ela precisava disso.
+ - Twoje przywiązanie do rodziny jest naprawdę godne podziwu, (ty) zawsze dbasz o wszystkich. O seu afeto pela família é realmente admirável, você sempre cuida de todos.
+ - W przyszłości (my) chcemy okazać więcej czułości naszym dzieciom, aby czuły się bardziej kochane. No futuro, (nós) queremos demonstrar mais afeto aos nossos filhos para que se sintam mais amados.
+ - Oni / One zawsze byli / były kochającymi przyjaciółmi / przyjaciółkami, wspierając się nawzajem przez całe życie. Eles / Elas sempre foram amigos / amigas afetuosos / afetuosas, apoiando-se mutuamente ao longo da vida.
+ - Czułość, którą (on / ona) wyraził / wyraziła wobec swojego zwierzaka, była naprawdę wzruszająca. O afeto que ele / ela demonstrou pelo seu animal de estimação foi realmente comovente.
 
 - [] Dzień 419 - 
 
