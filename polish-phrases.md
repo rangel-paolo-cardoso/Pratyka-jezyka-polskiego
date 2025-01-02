@@ -1846,7 +1846,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zawsze byli / były kochającymi przyjaciółmi / przyjaciółkami, wspierając się nawzajem przez całe życie. Eles / Elas sempre foram amigos / amigas afetuosos / afetuosas, apoiando-se mutuamente ao longo da vida.
  - Czułość, którą (on / ona) wyraził / wyraziła wobec swojego zwierzaka, była naprawdę wzruszająca. O afeto que ele / ela demonstrou pelo seu animal de estimação foi realmente comovente.
 
-- [] Dzień 419 - 
+- [x] Dzień 419 - Czuły / Czuła, Kochający / Kochająca, Troskliwy / Troskliwa. (Afetuoso / Afetuosa. - Przymiotnik(i))
+ - (On / Ona) zawsze był / była czułym / czułą ojcem / matką, który / która dbał / dbała o nasze potrzeby i uczucia. Ele / Ela sempre foi um / uma pai / mãe afetuoso / afetuosa, que cuidava das nossas necessidades e sentimentos.
+ - W przyszłości (ja) chcę być bardziej troskliwą osobą wobec tych, których kocham. No futuro, (eu) quero ser uma pessoa mais afetuosa com aqueles que amo.
+ - Czy on / ona był / była wystarczająco czuły / czuła wobec ciebie, kiedy (ty) potrzebowałeś / potrzebowałaś wsparcia? Ele / Ela foi afetuoso / afetuosa o suficiente com você quando você precisou de apoio?
+ - Kochający / Kochająca dziadek / babcia zawsze przytulał / przytulała swoje wnuki / wnuczki z ogromnym uczuciem. O / A avô / avó afetuoso / afetuosa sempre abraçava seus / suas netos / netas com enorme carinho.
+ - (Wy) jesteście tak troskliwi / troskliwe wobec swoich przyjaciół / przyjaciółek, że wszyscy to doceniają. Vocês são tão afetuosos / afetuosas com seus / suas amigos / amigas que todos apreciam isso.
 
 - [] Dzień 420 - 
 
