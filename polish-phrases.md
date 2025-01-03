@@ -1853,91 +1853,177 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Kochający / Kochająca dziadek / babcia zawsze przytulał / przytulała swoje wnuki / wnuczki z ogromnym uczuciem. O / A avô / avó afetuoso / afetuosa sempre abraçava seus / suas netos / netas com enorme carinho.
  - (Wy) jesteście tak troskliwi / troskliwe wobec swoich przyjaciół / przyjaciółek, że wszyscy to doceniają. Vocês são tão afetuosos / afetuosas com seus / suas amigos / amigas que todos apreciam isso.
 
-- [] Dzień 420 - 
+- [x] Dzień 420 - Ostrzenie, Szlifowanie, Nastrzenie - Rzeczowniki nijakie. (Afiação. - Rzeczownik żeński)
+ - Wczoraj (ja) skończyłem / skończyłam ostrzenie noży kuchennych, aby były gotowe na kolację. Ontem (eu) terminei a afiação das facas de cozinha para que estivessem prontas para o jantar.
+ - (My) potrzebujemy nowego sprzętu do szlifowania, bo stare narzędzia są już bezużyteczne. (Nós) precisamos de um novo equipamento para afiação, pois as ferramentas antigas já estão inutilizáveis.
+ - Czy (ty) widziałeś / widziałaś, jak on / ona zajmuje się ostrzeniem mieczy w warsztacie? Você viu como ele / ela trabalha na afiação das espadas na oficina?
+ - Ostrzenie nożyczek zajmie tylko kilka minut, a potem będą jak nowe. A afiação das tesouras levará apenas alguns minutos, e depois estarão como novas.
+ - W przyszłym tygodniu (my) zorganizujemy warsztaty ostrzenia narzędzi dla wszystkich zainteresowanych. Na próxima semana, (nós) organizaremos oficinas de afiação de ferramentas para todos os interessados.
 
 - [] Dzień 421 - 
 
 - [] Dzień 422 - 
+
 - [] Dzień 423 - 
+
 - [] Dzień 424 - 
+
 - [] Dzień 425 - 
+
 - [] Dzień 426 - 
+
 - [] Dzień 427 - 
+
 - [] Dzień 428 - 
+
 - [] Dzień 429 - 
+
 - [] Dzień 430 - 
+
 - [] Dzień 431 - 
+
 - [] Dzień 432 - 
+
 - [] Dzień 433 - 
+
 - [] Dzień 434 - 
+
 - [] Dzień 435 - 
+
 - [] Dzień 436 - 
+
 - [] Dzień 437 - 
+
 - [] Dzień 438 - 
+
 - [] Dzień 439 - 
+
 - [] Dzień 440 - 
+
 - [] Dzień 441 - 
+
 - [] Dzień 442 - 
+
 - [] Dzień 443 - 
+
 - [] Dzień 444 - 
+
 - [] Dzień 445 - 
+
 - [] Dzień 446 - 
+
 - [] Dzień 447 - 
+
 - [] Dzień 448 - 
+
 - [] Dzień 449 - 
+
 - [] Dzień 450 - 
+
 - [] Dzień 451 - 
+
 - [] Dzień 452 - 
+
 - [] Dzień 453 - 
+
 - [] Dzień 454 - 
+
 - [] Dzień 455 - 
+
 - [] Dzień 456 - 
+
 - [] Dzień 457 - 
+
 - [] Dzień 458 - 
+
 - [] Dzień 459 - 
+
 - [] Dzień 460 - 
+
 - [] Dzień 461 - 
+
 - [] Dzień 462 - 
+
 - [] Dzień 463 - 
+
 - [] Dzień 464 - 
+
 - [] Dzień 465 - 
+
 - [] Dzień 466 - 
+
 - [] Dzień 467 - 
+
 - [] Dzień 468 - 
+
 - [] Dzień 469 - 
+
 - [] Dzień 470 - 
+
 - [] Dzień 471 - 
+
 - [] Dzień 472 - 
+
 - [] Dzień 473 - 
+
 - [] Dzień 474 - 
+
 - [] Dzień 475 - 
+
 - [] Dzień 476 - 
+
 - [] Dzień 477 - 
+
 - [] Dzień 478 - 
+
 - [] Dzień 479 - 
+
 - [] Dzień 480 - 
+
 - [] Dzień 481 - 
+
 - [] Dzień 482 - 
+
 - [] Dzień 483 - 
+
 - [] Dzień 484 - 
+
 - [] Dzień 485 - 
+
 - [] Dzień 486 - 
+
 - [] Dzień 487 - 
+
 - [] Dzień 488 - 
+
 - [] Dzień 489 - 
+
 - [] Dzień 490 - 
+
 - [] Dzień 491 - 
+
 - [] Dzień 492 - 
+
 - [] Dzień 493 - 
+
 - [] Dzień 494 - 
+
 - [] Dzień 495 - 
+
 - [] Dzień 496 - 
+
 - [] Dzień 497 - 
+
 - [] Dzień 498 - 
+
 - [] Dzień 499 - 
+
 - [] Dzień 500 - 
+
 - [] Dzień 501 - 
+
 - [] Dzień 502 - 
+
 - [] Dzień 503 - 
 - [] Dzień 504 - 
 - [] Dzień 505 - 
