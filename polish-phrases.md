@@ -1860,7 +1860,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Ostrzenie nożyczek zajmie tylko kilka minut, a potem będą jak nowe. A afiação das tesouras levará apenas alguns minutos, e depois estarão como novas.
  - W przyszłym tygodniu (my) zorganizujemy warsztaty ostrzenia narzędzi dla wszystkich zainteresowanych. Na próxima semana, (nós) organizaremos oficinas de afiação de ferramentas para todos os interessados.
 
-- [] Dzień 421 - 
+- [x] Dzień 421 - Ostry / Ostra / Ostre. (Afiado / Afiada. - Przymiotnik(i))
+ - Czy (ty) zauważyłeś / zauważyłaś, że nożyczki są zbyt ostre? Mój / Moja syn / córka prawie się skaleczył / skaleczyła, kiedy próbował / próbowała ich użyć. Você percebeu que a tesoura está muito afiada? Meu / Minha filho / filha quase se cortou quando tentou usá-la.
+ - W przyszłości (my) zamierzamy kupić tylko noże, które długo pozostają ostre. No futuro, (nós) planejamos comprar apenas facas que fiquem afiadas por muito tempo.
+ - Jego / Jej ostre uwagi często ranią uczucia innych, ale on / ona nawet tego nie zauważa. Os comentários afiados dele / dela frequentemente machucam os sentimentos dos outros, mas ele / ela nem percebe isso.
+ - Wszystkie narzędzia, które (my) używamy na budowie, muszą być ostre, inaczej ich praca jest nieefektywna. Todas as ferramentas que (nós) usamos na construção precisam estar afiadas, caso contrário, o trabalho delas é ineficiente.
+ - Kiedy (ja) dotknąłem / dotknęłam tego noża, byłem / byłam zaskoczony / zaskoczona, jak ostry jest jego brzeg. Quando (eu) toquei essa faca, fiquei surpreso / surpresa com quão afiada é sua lâmina.
 
 - [] Dzień 422 - 
 
