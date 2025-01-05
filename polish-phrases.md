@@ -1867,7 +1867,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wszystkie narzędzia, które (my) używamy na budowie, muszą być ostre, inaczej ich praca jest nieefektywna. Todas as ferramentas que (nós) usamos na construção precisam estar afiadas, caso contrário, o trabalho delas é ineficiente.
  - Kiedy (ja) dotknąłem / dotknęłam tego noża, byłem / byłam zaskoczony / zaskoczona, jak ostry jest jego brzeg. Quando (eu) toquei essa faca, fiquei surpreso / surpresa com quão afiada é sua lâmina.
 
-- [] Dzień 422 - 
+- [x] Dzień 422 - Naostrzyć, Ostrzyć. (Afiar. - Czasownik(i))
+ - Wczoraj musiałem / musiałam naostrzyć wszystkie noże w kuchni, bo były zbyt tępe, żeby cokolwiek pokroić. Ontem eu tive que afiar todas as facas da cozinha, porque estavam muito cegas para cortar qualquer coisa.
+ - Czy możesz naostrzyć ten miecz przed bitwą? Ostrze musi być idealnie ostre. Você pode afiar esta espada antes da batalha? A lâmina precisa estar perfeitamente afiada.
+ - Oni naostrzą swoje narzędzia w warsztacie przed rozpoczęciem kolejnego projektu. Eles vão afiar suas ferramentas na oficina antes de começar o próximo projeto.
+ - Naostrzyliśmy wszystkie siekiery przed wyjazdem na obóz w lesie. Nós afiamos todos os machados antes de ir para o acampamento na floresta.
+ - Ostrzę teraz ołówek, bo muszę narysować bardzo precyzyjny rysunek techniczny. Estou afiando o lápis agora, porque preciso desenhar um desenho técnico muito preciso.
 
 - [] Dzień 423 - 
 
