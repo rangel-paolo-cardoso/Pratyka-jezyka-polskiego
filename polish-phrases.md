@@ -1874,7 +1874,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Naostrzyliśmy wszystkie siekiery przed wyjazdem na obóz w lesie. Nós afiamos todos os machados antes de ir para o acampamento na floresta.
  - Ostrzę teraz ołówek, bo muszę narysować bardzo precyzyjny rysunek techniczny. Estou afiando o lápis agora, porque preciso desenhar um desenho técnico muito preciso.
 
-- [] Dzień 423 - 
+- [x] Dzień 423 - Chrześniak / Chrześniaczka. (Afilhado / Afilhada. - Rzeczownik(i))
+ - Mój / Moja chrześniak / chrześniaczka zawsze prosi mnie o pomoc w odrabianiu lekcji matematyki. Meu / Minha afilhado / afilhada sempre me pede ajuda com a lição de casa de matemática.
+ - W zeszłym roku (my) kupiliśmy / kupiłyśmy naszej / naszemu chrześniaczce / chrześniakowi piękną zabawkę na urodziny. No ano passado, (nós) compramos um brinquedo lindo para nosso / nossa afilhado / afilhada de presente de aniversário.
+ - Czy (ty) spotkasz się ze swoim / swoją chrześniakiem / chrześniaczką na święta? On / Ona bardzo tęskni za tobą. Você vai encontrar seu / sua afilhado / afilhada no Natal? Ele / Ela sente muito a sua falta.
+ - Chrześniak / Chrześniaczka mojej żony podziękował / podziękowała nam za pomoc w przygotowaniach do jego / jej ślubu. O / A afilhado / afilhada da minha esposa nos agradeceu pela ajuda nos preparativos para o casamento dele / dela.
+ - Jutro (my) zamierzamy zabrać naszych / nasze chrześniaków / chrześniaczki do parku rozrywki. Amanhã, (nós) planejamos levar nossos / nossas afilhados / afilhadas ao parque de diversões.
 
 - [] Dzień 424 - 
 
