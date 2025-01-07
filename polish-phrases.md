@@ -1881,7 +1881,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Chrześniak / Chrześniaczka mojej żony podziękował / podziękowała nam za pomoc w przygotowaniach do jego / jej ślubu. O / A afilhado / afilhada da minha esposa nos agradeceu pela ajuda nos preparativos para o casamento dele / dela.
  - Jutro (my) zamierzamy zabrać naszych / nasze chrześniaków / chrześniaczki do parku rozrywki. Amanhã, (nós) planejamos levar nossos / nossas afilhados / afilhadas ao parque de diversões.
 
-- [] Dzień 424 - 
+- [x] Dzień 424 - Afiliacja, Przynależność. (Afiliação. - Rzeczownik(i) żeńskie)
+ - W zeszłym roku nasza firma podpisała umowę o afiliację z międzynarodową organizacją. No ano passado, nossa empresa firmou um acordo de afiliação com uma organização internacional.
+ - Jego / Jej afiliacja do tej grupy społecznej pozwoliła mu / jej rozwijać nowe umiejętności zawodowe. A afiliação dele / dela a esse grupo social permitiu que ele / ela desenvolvesse novas habilidades profissionais.
+ - Czy wasza szkoła planuje nawiązać afiliację z jakąś uniwersytetów organizacją badawczą? A sua escola planeja firmar uma afiliação com alguma organização de pesquisa universitária?
+ - Dzięki afiliacji z lokalnymi klubami sportowymi nasza drużyna zyskała więcej zasobów i wsparcia. Graças à afiliação com clubes esportivos locais, nosso time ganhou mais recursos e apoio.
+ - W przyszłości chciałbym / chciałabym, aby moja afiliacja z międzynarodową organizacją humanitarną przyczyniła się do pomocy większej liczbie ludzi. No futuro, eu gostaria que minha afiliação a uma organização humanitária internacional contribuisse para ajudar um número maior de pessoas.
 
 - [] Dzień 425 - 
 
