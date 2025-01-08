@@ -1888,7 +1888,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Dzięki afiliacji z lokalnymi klubami sportowymi nasza drużyna zyskała więcej zasobów i wsparcia. Graças à afiliação com clubes esportivos locais, nosso time ganhou mais recursos e apoio.
  - W przyszłości chciałbym / chciałabym, aby moja afiliacja z międzynarodową organizacją humanitarną przyczyniła się do pomocy większej liczbie ludzi. No futuro, eu gostaria que minha afiliação a uma organização humanitária internacional contribuisse para ajudar um número maior de pessoas.
 
-- [] Dzień 425 - 
+- [x] Dzień 425 - Afiliować się. (Afiliar. - Czasownik(i))
+ - W zeszłym roku (ja) zdecydowałem / zdecydowałam się afiliować do międzynarodowej organizacji ekologicznej. No ano passado, (eu) decidi me afiliar a uma organização ambiental internacional.
+ - Czy (ty) zamierzasz afiliować się do tej grupy sportowej, aby korzystać z ich zajęć? Você pretende se afiliar a esse grupo esportivo para participar das atividades deles?
+ - W przyszłym miesiącu (my) zamierzamy afiliować się do lokalnego klubu literackiego. No próximo mês, (nós) pretendemos nos afiliar ao clube literário local.
+ - On / Ona nie chciał / chciała afiliować się do żadnej politycznej organizacji, ponieważ woli być neutralny / neutralna. Ele / Ela não quis se afiliar a nenhuma organização política, pois prefere ser neutro / neutra.
+ - Moi rodzice afiliowali się do klubu seniora, żeby spędzać czas z rówieśnikami. Meus pais se afiliaram ao clube da terceira idade para passar o tempo com os colegas.
 
 - [] Dzień 426 - 
 
