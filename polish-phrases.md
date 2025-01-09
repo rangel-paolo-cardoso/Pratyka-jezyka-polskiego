@@ -1895,7 +1895,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona nie chciał / chciała afiliować się do żadnej politycznej organizacji, ponieważ woli być neutralny / neutralna. Ele / Ela não quis se afiliar a nenhuma organização política, pois prefere ser neutro / neutra.
  - Moi rodzice afiliowali się do klubu seniora, żeby spędzać czas z rówieśnikami. Meus pais se afiliaram ao clube da terceira idade para passar o tempo com os colegas.
 
-- [] Dzień 426 - 
+- [x] Dzień 426 - Liniowy, Podobny, Zbliżony, Pokrewny. (Afim. - Przymiotnik(i))
+ - Nauczyciel / Nauczycielka poprosił / poprosiła nas, abyśmy jako ćwiczenie stworzyli wykres funkcji liniowej. O / A professor / professora nos pediu que montássemos o gráfico da função afim (linear) como exercício.
+ - Czy (ty) uważasz, że twoje zainteresowania są pokrewne moim pasjom? Você acha que seus interesses são afins às minhas paixões?
+ - On / Ona zawsze wybiera książki o tematyce zbliżonej do historii, bo to go / ją najbardziej interesuje. Ele / Ela sempre escolhe livros de temas afins à história, porque isso é o que mais o / a interessa (a ele / ela).
+ - W przyszłości (my) planejamos współpracować z firmami pokrewnymi naszej branży. No futuro, (nós) pretendemos colaborar com empresas afins ao nosso setor.
+ - Wczoraj (ja) odkryłem / odkryłam, że moje poglądy polityczne są zaskakująco podobne do jego / jej. Ontem (eu) descobri que minhas opiniões políticas são surpreendentemente afins às dele / dela.
 
 - [] Dzień 427 - 
 
