@@ -1902,7 +1902,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) planejamos współpracować z firmami pokrewnymi naszej branży. No futuro, (nós) pretendemos colaborar com empresas afins ao nosso setor.
  - Wczoraj (ja) odkryłem / odkryłam, że moje poglądy polityczne są zaskakująco podobne do jego / jej. Ontem (eu) descobri que minhas opiniões políticas são surpreendentemente afins às dele / dela.
 
-- [] Dzień 427 - 
+- [x] Dzień 427 - Nastrojony, Dostrojony, Smukły - Przymiotniki. (Afinado / Afinada. - Przymiotnik(i) i Rzeczownik(i))
+ - Jego / Jej głos był tak czysty i dobrze nastrojony, że publiczność nie mogła przestać klaskać. A voz dele / dela estava tão afinada e bem ajustada que o público não conseguia parar de aplaudir.
+ - Mój instrument był perfekcyjnie nastrojony, kiedy (ja) rozpocząłem / rozpoczęłam grę na scenie. Meu instrumento estava perfeitamente afinado quando (eu) comecei a tocar no palco.
+ - Dzieci w chórze miały doskonale dostrojone głosy, co zrobiło wielkie wrażenie na nauczycielu / nauczycielce. As crianças no coral tinham vozes perfeitamente afinadas, o que causou uma ótima impressão no / na professor / professora.
+ - Twój nos jest smukły i delikatny, idealnie wpisuje się w proporcje twojej twarzy. Seu nariz é afinado e delicado, combinando perfeitamente com as proporções do seu rosto.
+ - Czy (ty) widziałeś / widziałaś te skrzypce? Są przepiękne i zawsze idealnie nastrojone przez mojego / moją dziadka / babcię. Você viu aquele violino? É lindíssimo e sempre perfeitamente afinado pelo / pela meu / minha avô / avó.
 
 - [] Dzień 428 - 
 
