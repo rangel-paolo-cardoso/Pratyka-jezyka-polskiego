@@ -1909,7 +1909,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Twój nos jest smukły i delikatny, idealnie wpisuje się w proporcje twojej twarzy. Seu nariz é afinado e delicado, combinando perfeitamente com as proporções do seu rosto.
  - Czy (ty) widziałeś / widziałaś te skrzypce? Są przepiękne i zawsze idealnie nastrojone przez mojego / moją dziadka / babcię. Você viu aquele violino? É lindíssimo e sempre perfeitamente afinado pelo / pela meu / minha avô / avó.
 
-- [] Dzień 428 - 
+- [x] Dzień 428 - Stroić, Dostrajać. (Afinar. - Czasownik(i))
+ - Zanim zaczęliśmy / zaczęłyśmy grać, on / ona dostroił / dostroiła wszystkie struny w swojej gitarze. Antes de começarmos a tocar, ele / ela afinou todas as cordas do seu violão.
+ - Czy (ty) potrafisz stroić pianino, czy musimy wezwać specjalistę / specjalistkę? Você sabe afinar o piano, ou precisamos chamar um / uma especialista?
+ - (My) dostrajaliśmy / dostrajałyśmy antenę przez godzinę, aby złapać dobry sygnał telewizyjny. (Nós) afinamos a antena por uma hora para pegar um bom sinal de TV (Televisão).
+ - W przyszłości (ja) chciałbym / chciałabym się nauczyć, jak stroić skrzypce, aby nie zależeć od innych. No futuro, (eu) gostaria de aprender a como afinar violinos para não depender de outros.
+ - Oni / One dostroili / dostroiły swoje głosy przed występem na konkursie chóralnym. Eles / Elas afinaram suas vozes antes da apresentação no concurso de coral.
 
 - [] Dzień 429 - 
 
