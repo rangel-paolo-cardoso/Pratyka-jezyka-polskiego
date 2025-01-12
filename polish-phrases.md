@@ -1916,7 +1916,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (ja) chciałbym / chciałabym się nauczyć, jak stroić skrzypce, aby nie zależeć od innych. No futuro, (eu) gostaria de aprender a como afinar violinos para não depender de outros.
  - Oni / One dostroili / dostroiły swoje głosy przed występem na konkursie chóralnym. Eles / Elas afinaram suas vozes antes da apresentação no concurso de coral.
 
-- [] Dzień 429 - 
+- [x] Dzień 429 - Twierdzenie, Oświadczenie, Potwierdzenie - Rzeczowniki nijakich. (Afirmação. - Rzeczownik żeński)
+ - Jego / Jej twierdzenie o odkryciu nowej planety wzbudziło duże zainteresowanie naukowców. Sua (a) afirmação (dele / dela) sobre a descoberta de um novo planeta despertou grande interesse nos cientistas.
+ - Czy twoje oświadczenie o tym, że wygrałeś / wygrałaś konkurs, jest prawdziwe? A sua afirmação de que venceu o concurso é verdadeira?
+ - Oni / One powtórzyli / powtórzyły swoje twierdzenie na konferencji prasowej, aby rozwiać wszelkie wątpliwości. Eles / Elas repetiram sua afirmação na conferência de imprensa para dissipar quaisquer dúvidas.
+ - Jeśli jego / jej potwierdzenie zostanie zaakceptowane, (my) będziemy mogli / mogły rozpocząć projekt w przyszłym tygodniu. Se a afirmação dele / dela for aceita, (nós) poderemos começar o projeto na próxima semana.
+ - W przeszłości my często składaliśmy / składałyśmy oficjalne oświadczenia w tej sprawie, ale teraz tego unikamy. No passado, nós frequentemente fazíamos afirmações oficiais sobre o assunto, mas agora evitamos isso.
 
 - [] Dzień 430 - 
 
