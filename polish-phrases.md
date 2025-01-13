@@ -1923,7 +1923,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli jego / jej potwierdzenie zostanie zaakceptowane, (my) będziemy mogli / mogły rozpocząć projekt w przyszłym tygodniu. Se a afirmação dele / dela for aceita, (nós) poderemos começar o projeto na próxima semana.
  - W przeszłości my często składaliśmy / składałyśmy oficjalne oświadczenia w tej sprawie, ale teraz tego unikamy. No passado, nós frequentemente fazíamos afirmações oficiais sobre o assunto, mas agora evitamos isso.
 
-- [] Dzień 430 - 
+- [x] Dzień 430 - Twierdzić, Potwierdzać, Oświadczać. (Afirmar. - Czasownik(i))
+ - (Ja) twierdziłem / twierdziłam, że znam odpowiedź na to pytanie, ale okazało się, że się myliłem / myliłam. (Eu) afirmei que sabia a resposta para essa pergunta, mas acabou que eu estava errado / errada.
+ - On / Ona twierdzi teraz, że nigdy tego nie powiedział / powiedziała. Ele / Ela afirma agora que nunca disse isso.
+ - (My) będziemy potwierdzać naszą opinię w przyszłym tygodniu podczas spotkania zespołu. (Nós) afirmaremos nossa opinião na próxima semana durante a reunião da equipe.
+ - Oni / One oświadczyli / oświadczyły wczoraj, że nie zamierzają zmieniać swoich planów. Eles / Elas afirmaram ontem que não pretendem mudar seus planos.
+ - Czy (ty) potwierdzisz, że to właśnie ty wysłałeś / wysłałaś to pismo? Você afirmará que foi você quem enviou essa carta?
 
 - [] Dzień 431 - 
 
