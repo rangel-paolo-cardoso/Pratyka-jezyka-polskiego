@@ -1930,7 +1930,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One oświadczyli / oświadczyły wczoraj, że nie zamierzają zmieniać swoich planów. Eles / Elas afirmaram ontem que não pretendem mudar seus planos.
  - Czy (ty) potwierdzisz, że to właśnie ty wysłałeś / wysłałaś to pismo? Você afirmará que foi você quem enviou essa carta?
 
-- [] Dzień 431 - 
+- [x] Dzień 431 - Twierdzący, Potwierdzający - Przymiotniki. (Afirmativa - Rzeczownik żeński, Afirmativo - Przymiotnik.)
+ - On / Ona zawsze udzielał / udzielała odpowiedzi twierdzących, ale tym razem był / była niezdecydowany / niezdecydowana. Ele / Ela sempre dava respostas afirmativas, mas desta vez estava indeciso / indecisa.
+ - Twoja odpowiedź była twierdząca, więc zakładam, że zgadzasz się z propozycją. Sua resposta foi afirmativa, então presumo que você concorda com a proposta.
+ - (My) będziemy oczekiwać deklaracji twierdzącej od wszystkich uczestników przed rozpoczęciem projektu. (Nós) aguardaremos uma declaração afirmativa de todos os participantes antes de iniciar o projeto.
+ - Jego / Jej ton był bardzo twierdzący, co oznaczało, że był / była pewny / pewna swojego zdania. O tom dele / dela era muito afirmativo, o que significava que ele / ela estava certo / certa da sua opinião.
+ - Oni / One potwierdzili / potwierdziły wczoraj swoją decyzję w sposób bardzo twierdzący i nie zostawili / zostawiły wątpliwości. Eles / Elas afirmaram ontem sua decisão de forma muito afirmativa e não deixaram dúvidas.
 
 - [] Dzień 432 - 
 
