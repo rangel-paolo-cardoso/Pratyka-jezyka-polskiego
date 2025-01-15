@@ -1937,7 +1937,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jego / Jej ton był bardzo twierdzący, co oznaczało, że był / była pewny / pewna swojego zdania. O tom dele / dela era muito afirmativo, o que significava que ele / ela estava certo / certa da sua opinião.
  - Oni / One potwierdzili / potwierdziły wczoraj swoją decyzję w sposób bardzo twierdzący i nie zostawili / zostawiły wątpliwości. Eles / Elas afirmaram ontem sua decisão de forma muito afirmativa e não deixaram dúvidas.
 
-- [] Dzień 432 - 
+- [x] Dzień 432 - Zapiąć, Zapinać. (Afivelar. - Czasownik(i))
+ - Przed startem steward / stewardessa poprosił / poprosiła nas, abyśmy zapięli / zapięły pasy bezpieczeństwa. Antes de decolarmos, o / a comissário / comissária de bordo nos pediu que afivelássemos os cintos de segurança.
+ - W Brazylii (ty) możesz zostać ukarany / ukarana mandatem, jeśli zostaniesz przyłapany / przyłapana na jeździe bez zapięcia pasów bezpieczeństwa. No Brasil você pode ser multado / multada se for pego / pega dirigindo sem afivelar o cinto de segurança.
+ - Pracownik / Pracownica kolejki górskiej zapiął / zapięła pasy wszystkim odwiedzającym przed rozpoczęciem przejażdżki. O / A profissional da montanha-russa afivelou o cinto de todos os visitantes antes de iniciar o brinquedo.
+ - Zawsze zapinam pasy w samochodzie, ponieważ bezpieczeństwo jest dla mnie priorytetem. Sempre afivelo o cinto no carro, porque a segurança é prioridade para mim.
+ - Oni / One zapną pasy bezpieczeństwa przed odlotem, zgodnie z instrukcjami pilota / pilotki. Eles / Elas afivelarão os cintos de segurança antes da decolagem, conforme as instruções do / da piloto.
 
 - [] Dzień 433 - 
 
