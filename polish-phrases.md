@@ -1944,7 +1944,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Zawsze zapinam pasy w samochodzie, ponieważ bezpieczeństwo jest dla mnie priorytetem. Sempre afivelo o cinto no carro, porque a segurança é prioridade para mim.
  - Oni / One zapną pasy bezpieczeństwa przed odlotem, zgodnie z instrukcjami pilota / pilotki. Eles / Elas afivelarão os cintos de segurança antes da decolagem, conforme as instruções do / da piloto.
 
-- [] Dzień 433 - 
+- [x] Dzień 433 - Udręka - żeński, Niepokój - męski, Troska - żeński, Zmartwienie - nijaki. (Aflição. - Rzeczownik żeński)
+ - Wczoraj czułem / czułam ogromną udrękę, gdy nie mogłem / mogłam znaleźć mojego / mojej psa / suki. Ontem senti uma grande aflição quando não consegui encontrar meu / minha cachorro / cachorra.
+ - Czy (ty) widzisz jego / jej niepokój? On / Ona cały czas myśli o swoim egzaminie. Você vê a aflição dele / dela? Ele / Ela está o tempo todo pensando na prova.
+ - My odczujemy troskę rodziców, jeśli nie wrócimy na czas. Nós sentiremos a aflição dos nossos pais se não voltarmos a tempo.
+ - Oni / One przez cały dzień przeżywali / przeżywały ogromne zmartwienie z powodu opóźnienia lotu. Eles / Elas passaram o dia inteiro em grande aflição por causa do atraso do voo.
+ - (Ja) będę próbował / próbowała ukoić jego / jej niepokój, kiedy zobaczymy wyniki testu. (Eu) tentarei acalmar a aflição dele / dela quando virmos o resultado do teste.
 
 - [] Dzień 434 - 
 
