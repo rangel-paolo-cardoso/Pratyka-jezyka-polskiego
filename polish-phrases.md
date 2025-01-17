@@ -1951,7 +1951,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One przez cały dzień przeżywali / przeżywały ogromne zmartwienie z powodu opóźnienia lotu. Eles / Elas passaram o dia inteiro em grande aflição por causa do atraso do voo.
  - (Ja) będę próbował / próbowała ukoić jego / jej niepokój, kiedy zobaczymy wyniki testu. (Eu) tentarei acalmar a aflição dele / dela quando virmos o resultado do teste.
 
-- [] Dzień 434 - 
+- [x] Dzień 434 - Dręczyć, Martwić, Gnębić, Niepokoić. (Afligir. - Czasownik(i))
+ - (Ja) nie chciałem / chciałam cię martwić, ale wynik badania jest niepewny. (Eu) não queria te afligir, mas o resultado do exame é incerto.
+ - Wczoraj dręczyło mnie, że zapomniałem / zapomniałam o jego / jej urodzinach. Ontem, me afligi que esqueci do aniversário dele / dela.
+ - Nie pozwolimy, aby coś cię gnębiło w przyszłości. Não permitiremos que algo te aflija no futuro.
+ - Oni / One niepokoją się o swoje dzieci, które nie wróciły jeszcze ze szkoły. Eles / Elas estão aflitos / aflitas com seus filhos, que ainda não voltaram da escola.
+ - Czy (ty) myślisz, że on / ona zmartwiłby / zmartwiłaby się, gdyby usłyszał / usłyszała tę wiadomość? Você acha que ele / ela se afligiria se ouvisse essa notícia?
 
 - [] Dzień 435 - 
 
