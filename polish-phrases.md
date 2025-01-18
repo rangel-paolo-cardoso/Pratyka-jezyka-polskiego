@@ -1958,7 +1958,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One niepokoją się o swoje dzieci, które nie wróciły jeszcze ze szkoły. Eles / Elas estão aflitos / aflitas com seus filhos, que ainda não voltaram da escola.
  - Czy (ty) myślisz, że on / ona zmartwiłby / zmartwiłaby się, gdyby usłyszał / usłyszała tę wiadomość? Você acha que ele / ela se afligiria se ouvisse essa notícia?
 
-- [] Dzień 435 - 
+- [x] Dzień 435 - Zmartwiony, Zaniepokojony, Zdenerwowany, Przygnębiony, Zasmucony. (Aflito / Aflita. - Przymiotnik(i))
+ - (Ja) byłem / byłam zmartwiony / zmartwiona, kiedy usłyszałem / usłyszałam, że on / ona miał / miała wypadek. Eu estava aflito / aflita quando ouvi que ele / ela teve um acidente.
+ - Czy on / ona wyglądał / wyglądała na zaniepokojonego / zaniepokojoną, kiedy zobaczył / zobaczyła te wyniki? Ele / Ela parecia aflito / aflita quando viu esses resultados?
+ - Jutro nie będziemy zdenerwowani / zdenerwowane, bo wszystko jest już przygotowane. Amanhã não estaremos aflitos / aflitas, porque tudo já está preparado.
+ - Oni / One byli / były bardzo przygnębieni / przygnębione po stracie swojego / swojej psa / suczki. Eles / Elas estavam muito aflitos / aflitas após a perda de seu / sua cachorro / cachorra.
+ - Zasmucony / Zasmucona ojciec / matka czekał / czekała na wiadomość od swojego / swojej syna / córki. O / A pai / mãe aflito / aflita esperava por notícias do / da seu / sua filho / filha.
 
 - [] Dzień 436 - 
 
