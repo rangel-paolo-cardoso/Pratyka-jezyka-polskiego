@@ -1965,7 +1965,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One byli / były bardzo przygnębieni / przygnębione po stracie swojego / swojej psa / suczki. Eles / Elas estavam muito aflitos / aflitas após a perda de seu / sua cachorro / cachorra.
  - Zasmucony / Zasmucona ojciec / matka czekał / czekała na wiadomość od swojego / swojej syna / córki. O / A pai / mãe aflito / aflita esperava por notícias do / da seu / sua filho / filha.
 
-- [] Dzień 436 - 
+- [x] Dzień 436 - Wynurzać się, Pojawiać się, Wyrównywać, Zbliżać się do powierzchni. (Aflorar. - Czasownik(i))
+ - Kamienie wynurzyły się z wody po obniżeniu poziomu jeziora. As pedras afloraram da água após o nível do lago baixar.
+ - My wyrównaliśmy / wyrównałyśmy powierzchnię ściany, aby przygotować ją do malowania. Nós afloramos a superfície da parede para prepará-la para a pintura.
+ - Czy korzenie drzewa pojawiły się na powierzchni ziemi po tej burzy? As raízes da árvore afloraram à superfície do solo após aquela tempestade?
+ - W przyszłości ta skała wulkaniczna może zbliżyć się do powierzchni w wyniku erozji. No futuro, essa rocha vulcânica pode aflorar à superfície devido à erosão.
+ - Ziemia wyrównywała się stopniowo w wyniku pracy koparki. O terreno foi aflorado (sendo aflorado) gradualmente como resultado do trabalho da escavadeira.
 
 - [] Dzień 437 - 
 
