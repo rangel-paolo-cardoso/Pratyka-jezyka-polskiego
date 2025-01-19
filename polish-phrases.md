@@ -1972,7 +1972,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości ta skała wulkaniczna może zbliżyć się do powierzchni w wyniku erozji. No futuro, essa rocha vulcânica pode aflorar à superfície devido à erosão.
  - Ziemia wyrównywała się stopniowo w wyniku pracy koparki. O terreno foi aflorado (sendo aflorado) gradualmente como resultado do trabalho da escavadeira.
 
-- [] Dzień 437 - 
+- [x] Dzień 437 - Dopływ - Rzeczownik męski, Zamożny - Przymiotnik. (Afluente. - Rzeczownik męski, Przymiotnik)
+ - Ten dopływ Wisły był kiedyś większy, zanim zbudowano tamę. Esse afluente do rio Vístula era maior antes de construírem a barragem.
+ - My zbadamy wszystkie dopływy Odry podczas naszej wycieczki w przyszłym miesiącu. Nós exploraremos todos os afluentes do rio Oder durante nossa viagem no próximo mês.
+ - On / Ona zawsze wyglądał / wyglądała na zamożnego / zamożną człowieka / kobietę, ale w rzeczywistości miał / miała długi. Ele / Ela sempre pareceu ser uma pessoa (um(a) homem / mulher) afluente, mas na realidade tinha dívidas.
+ - Czy oni / one nie zauważyli / zauważyły, jak dopływy rzeki wysychają z powodu suszy? Eles / Elas não perceberam como os afluentes do rio estão secando por causa da seca?
+ - Mężczyzna / Kobieta, który / która był / była zamożny / zamożna, postanowił / postanowiła wspierać lokalne schroniska dla zwierząt. O / A homem / mulher, que era afluente, decidiu apoiar abrigos locais para animais.
 
 - [] Dzień 438 - 
 
