@@ -1979,7 +1979,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy oni / one nie zauważyli / zauważyły, jak dopływy rzeki wysychają z powodu suszy? Eles / Elas não perceberam como os afluentes do rio estão secando por causa da seca?
  - Mężczyzna / Kobieta, który / która był / była zamożny / zamożna, postanowił / postanowiła wspierać lokalne schroniska dla zwierząt. O / A homem / mulher, que era afluente, decidiu apoiar abrigos locais para animais.
 
-- [] Dzień 438 - 
+- [x] Dzień 438 - Pośpiech, Niepokój - Rzeczowniki męskiego. (Afobação. - Rzeczownik żeński)
+ - W jego / jej pośpiechu zapomniał / zapomniała wziąć klucze z domu. Na sua afobação (dele / dela), ele / ela esqueceu de levar as chaves de casa.
+ - (My) nie powinniśmy / powinnyśmy działać w pośpiechu, bo możemy popełnić błędy. (Nós) não deveríamos agir com afobação, pois podemos cometer erros.
+ - Czy on / ona w pośpiechu podpisał / podpisała dokumenty bez przeczytania ich? Ele / Ela assinou os documentos na afobação sem lê-los (ler eles)?
+ - W przyszłości uniknę tego rodzaju niepokoju przed ważnymi egzaminami. No futuro, evitarei esse tipo de afobação antes de exames importantes.
+ - Oni / One w pośpiechu zebrali / zebrały swoje rzeczy, żeby zdążyć na pociąg. Eles / Elas, na afobação, juntaram suas coisas para pegar o trem.
 
 - [] Dzień 439 - 
 
