@@ -1986,7 +1986,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości uniknę tego rodzaju niepokoju przed ważnymi egzaminami. No futuro, evitarei esse tipo de afobação antes de exames importantes.
  - Oni / One w pośpiechu zebrali / zebrały swoje rzeczy, żeby zdążyć na pociąg. Eles / Elas, na afobação, juntaram suas coisas para pegar o trem.
 
-- [] Dzień 439 - 
+- [x] Dzień 439 - Poganiać, Niepokoić się, Działać w pośpiechu. (Afobar. - Czasownik(i))
+ - Nie poganiaj mnie, bo mogę coś źle zrobić. Não me afobe, porque posso fazer algo errado.
+ - Wczoraj bardzo się niepokoiłem / niepokoiłam, gdy nie mogłem / mogłam znaleźć mojego telefonu. Ontem, me afobei muito quando não consegui encontrar meu telefone.
+ - On / Ona działa w pośpiechu, dlatego zawsze popełnia błędy. Ele / Ela se afoba, por isso sempre comete erros.
+ - W przyszłości spróbuję nie działać w pośpiechu podczas rozmów kwalifikacyjnych. No futuro, tentarei não me afobar durante entrevistas de emprego.
+ - Oni / One poganiali / poganiały siebie nawzajem, żeby szybko wyjść z domu. Eles / Elas se afobavam (uns / umas aos / as outros / outras) para sair de casa rapidamente.
 
 - [] Dzień 440 - 
 
