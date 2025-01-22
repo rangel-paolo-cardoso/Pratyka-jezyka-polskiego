@@ -1993,7 +1993,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości spróbuję nie działać w pośpiechu podczas rozmów kwalifikacyjnych. No futuro, tentarei não me afobar durante entrevistas de emprego.
  - Oni / One poganiali / poganiały siebie nawzajem, żeby szybko wyjść z domu. Eles / Elas se afobavam (uns / umas aos / as outros / outras) para sair de casa rapidamente.
 
-- [] Dzień 440 - 
+- [x] Dzień 440 - Utopiony / Utopiona, Duszony / Duszona. (Afogado / Afogada. - Przymiotnik(i))
+ - On / Ona był / była utopiony / utopiona w jeziorze, zanim zdążyliśmy / zdążyłyśmy go / ją uratować. Ele / Ela estava afogado / afogada no lago antes que pudéssemos salvá-lo/la (salvar ele / ela).
+ - On / Ona czuje się, jakby był / była duszony / duszona przez obowiązki w pracy. Ele / Ela se sente como se estivesse afogado / afogada nas responsabilidades do trabalho.
+ - W przyszłości nie pozwolimy, aby ktoś został utopiony podczas naszych wakacji. No futuro, não permitiremos que alguém fique afogado durante nossas férias.
+ - My byliśmy / byłyśmy całkowicie utopieni / utopione w problemach finansowych w zeszłym roku. Nós estávamos completamente afogados / afogadas em problemas financeiros no ano passado.
+ - Czy czuliście / czułyście się duszeni / duszone przez ilość informacji na szkoleniu? Vocês se sentiram afogados / afogadas pela quantidade de informações no treinamento?
 
 - [] Dzień 441 - 
 
