@@ -2000,7 +2000,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My byliśmy / byłyśmy całkowicie utopieni / utopione w problemach finansowych w zeszłym roku. Nós estávamos completamente afogados / afogadas em problemas financeiros no ano passado.
  - Czy czuliście / czułyście się duszeni / duszone przez ilość informacji na szkoleniu? Vocês se sentiram afogados / afogadas pela quantidade de informações no treinamento?
 
-- [] Dzień 441 - 
+- [x] Dzień 441 - Utopić, Utopić się. (Afogar, Afogar-se. - Czasownik(i))
+ - Prawie się utopiłem / utopiłam, gdy fala nagle mnie przewróciła. Quase me afoguei quando uma onda de repente me derrubou.
+ - On / Ona utopił / utopiła swój smutek w butelce wina. Ele / Ela afogou sua tristeza em uma garrafa de vinho.
+ - (My) utopimy wszystkie nasze zmartwienia w rzece czasu. (Nós) afogaremos todas as nossas preocupações no rio do tempo.
+ - Czy oni / one naprawdę próbowali / próbowały go / ją utopić w jeziorze? Eles / Elas realmente tentaram afogá-lo /la (afogar ele / ela) no lago?
+ - W przyszłym roku nie pozwolę, aby ktokolwiek utopił / utopiła się podczas wakacji nad morzem. No próximo ano, não permitirei que ninguém se afogue durante as férias no mar.
 
 - [] Dzień 442 - 
 
