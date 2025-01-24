@@ -2007,7 +2007,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy oni / one naprawdę próbowali / próbowały go / ją utopić w jeziorze? Eles / Elas realmente tentaram afogá-lo /la (afogar ele / ela) no lago?
  - W przyszłym roku nie pozwolę, aby ktokolwiek utopił / utopiła się podczas wakacji nad morzem. No próximo ano, não permitirei que ninguém se afogue durante as férias no mar.
 
-- [] Dzień 442 - 
+- [x] Dzień 442 - Afrykański / Afrykańska - Przymiotnik(i), Afrykanin /Afrykanka - Rzeczownik(i). (Africano / Africana. - Przymiotnik(i), Rzeczownik(i))
+ - On / Ona jest Afrykaninem / Afrykanką, który / która mieszka w Polsce od dziesięciu lat. Ele / Ela é um / uma africano / africana que mora na Polônia há dez anos.
+ - Afrykanin / Afrykanka, który / która wygrał / wygrała maraton, powiedział / powiedziała, że trenował / trenowała przez pięć lat. O / A africano / africana que ganhou a maratona disse que treinou por cinco anos.
+ - Afrykańskie potrawy, które gotowaliśmy / gotowałyśmy w zeszłym tygodniu, były bardzo smaczne. Os pratos africanos que cozinhamos na semana passada estavam muito saborosos.
+ - W przyszłości chcielibyśmy / chciałybyśmy odwiedzić afrykański kontynent i zobaczyć jego różnorodność. No futuro, gostaríamos de visitar o continente africano e ver sua diversidade.
+ - Afrykanie / Afrykanki są znani / znane ze swojej muzyki i bogatej kultury, które inspirują cały świat. Os / As africanos / africanas são conhecidos / conhecidas por sua música e cultura rica, que inspiram o mundo inteiro.
 
 - [] Dzień 443 - 
 
