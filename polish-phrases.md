@@ -2014,7 +2014,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości chcielibyśmy / chciałybyśmy odwiedzić afrykański kontynent i zobaczyć jego różnorodność. No futuro, gostaríamos de visitar o continente africano e ver sua diversidade.
  - Afrykanie / Afrykanki są znani / znane ze swojej muzyki i bogatej kultury, które inspirują cały świat. Os / As africanos / africanas são conhecidos / conhecidas por sua música e cultura rica, que inspiram o mundo inteiro.
 
-- [] Dzień 443 - 
+- [x] Dzień 443 - Afroamerykański / Afroamerykańska. (Afro-americano/a - Przymiotnik(i))
+ - Afroamerykański / Afroamerykańska pisarz / pisarka napisał / napisała książkę o historii swojej rodziny. Um / Uma escritor / escritora afro-americano/a escreveu um livro sobre a história de sua família.
+ - Spotkaliśmy / Spotkałyśmy Afroamerykanina / Afroamerykankę, który / która opowiedział / opowiedziała nam o swoich doświadczeniach życiowych. Encontramos um / uma afro-americano/a que nos contou sobre suas experiências de vida.
+ - W przyszłym roku Afroamerykanie / Afroamerykanki będą obchodzić ważną rocznicę w swojej historii. No próximo ano, os afro-americanos/nas celebrarão um importante aniversário em sua história.
+ - Moja kuzynka wyszła za Afroamerykanina, który jest muzykiem jazzowym. Minha prima se casou com um afro-americano que é músico de jazz.
+ - Afroamerykańska społeczność w tym mieście jest bardzo zaangażowana w projekty społeczne. A comunidade afro-americana nesta cidade está muito engajada em projetos sociais.
 
 - [] Dzień 444 - 
 
