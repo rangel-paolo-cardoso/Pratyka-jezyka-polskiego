@@ -2021,7 +2021,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Moja kuzynka wyszła za Afroamerykanina, który jest muzykiem jazzowym. Minha prima se casou com um afro-americano que é músico de jazz.
  - Afroamerykańska społeczność w tym mieście jest bardzo zaangażowana w projekty społeczne. A comunidade afro-americana nesta cidade está muito engajada em projetos sociais.
 
-- [] Dzień 444 - 
+- [x] Dzień 444 - Afrodyta. (Afrodite. - Rzeczownik żeński)
+ - Kiedy byłem / byłam w Grecji, zobaczyłem / zobaczyłam piękną rzeźbę Afrodyty w muzeum. Quando estive na Grécia, vi uma bela escultura de Afrodite no museu.
+ - Afrodyta jest często kojarzona z miłością i pięknem, które inspirują artystów / artystki do dziś. Afrodite é frequentemente associada ao amor e à beleza, que inspira artistas até hoje.
+ - Jutro uczniowie / uczennice będą uczyć się o mitologii greckiej i roli Afrodyty w mitach. Amanhã os / as alunos / alunas aprenderão sobre a mitologia grega e o papel de Afrodite nos mitos.
+ - On / Ona zawsze interesował / interesowała się mitologią grecką i Afrodytą jako boginią miłości. Ele / Ela sempre se interessou pela mitologia grega e por Afrodite como a deusa do amor.
+ - Wy, jako grupa, powinniście / powinnyście stworzyć obraz Afrodyty na podstawie jej opisu z mitologii. Vocês, como grupo, deveriam criar uma imagem de Afrodite com base em sua descrição na mitologia.
 
 - [] Dzień 445 - 
 
