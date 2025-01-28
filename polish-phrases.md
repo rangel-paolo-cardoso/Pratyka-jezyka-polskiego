@@ -2028,7 +2028,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zawsze interesował / interesowała się mitologią grecką i Afrodytą jako boginią miłości. Ele / Ela sempre se interessou pela mitologia grega e por Afrodite como a deusa do amor.
  - Wy, jako grupa, powinniście / powinnyście stworzyć obraz Afrodyty na podstawie jej opisu z mitologii. Vocês, como grupo, deveriam criar uma imagem de Afrodite com base em sua descrição na mitologia.
 
-- [] Dzień 445 - 
+- [x] Dzień 445 - Obraza, Zniewaga - Rzeczowniki żeńskie, Znieważenie - Rzeczownik nijaki. (Afronta. - Rzeczownik żeński)
+ - Kiedy usłyszałem / usłyszałam jego / jej słowa, poczułem / poczułam to jako osobistą obrazę. Quando ouvi as palavras dele / dela, senti isso como uma afronta pessoal.
+ - Jego / Jej zniewaga wobec nauczyciela / nauczycielki była nie do przyjęcia i wszyscy to zauważyli. A afronta dele / dela contra o / a professor / professora foi inaceitável e todos perceberam isso.
+ - Jeśli jutro (ty) powiesz coś podobnego, uznam to za ogromne znieważenie. Se você disser algo parecido amanhã, considerarei isso uma grande afronta.
+ - Oni / One nie mogli / mogły zrozumieć, dlaczego tak mała uwaga była uznawana za obraźliwą zniewagę. Eles / Elas não conseguiam entender por que um comentário tão pequeno foi considerado uma afronta ofensiva.
+ - My zawsze staramy się unikać znieważenia kogokolwiek w naszych rozmowach. Nós sempre tentamos evitar afrontar alguém em nossas conversas.
 
 - [] Dzień 446 - 
 
