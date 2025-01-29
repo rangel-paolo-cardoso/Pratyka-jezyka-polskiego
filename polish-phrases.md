@@ -2042,7 +2042,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wyzywaliśmy / wyzywałyśmy naszych / nasze przeciwników / przeciwniczki podczas meczu, ale to tylko zwiększyło ich motywację. Nós afrontamos nossos / nossas adversários / adversárias durante a partida, mas isso apenas aumentou sua (a) motivação (deles / delas).
  - Oni / One nie rozumieli / rozumiały, dlaczego on / ona obraził / obraziła swojego / swoją przyjaciela / przyjaciółkę w tak publiczny sposób. Eles / Elas não entendiam por que ele / ela afrontou seu / sua amigo / amiga de uma maneira tão pública.
 
-- [] Dzień 447 - 
+- [x] Dzień 447 - Poluzować, Rozluźnić, Osłabić, Złagodzić. (Afrouxar. - Czasownik(i))
+ - (Ja) poluzowałem / poluzowałam pasek, bo był za ciasny. (Eu) afrouxei o cinto porque estava muito apertado.
+ - Jeśli (ty) nie rozluźnisz ramion, masaż nie przyniesie efektu. Se você não afrouxar os ombros, a massagem não trará efeito.
+ - Oni / One złagodzą przepisy, aby ułatwić działalność firm. Eles / Elas vão afrouxar as regras para facilitar os negócios das empresas.
+ - Wczoraj (my) osłabiliśmy / osłabiłyśmy zabezpieczenia, ale dzisiaj je przywrócimy. Ontem (nós) afrouxamos a segurança, mas hoje a restauraremos (ela).
+ - On / Ona nigdy nie poluzuje zasad, nawet jeśli poprosisz. Ele / Ela nunca afrouxará as regras, mesmo que você peça (se você pedir).
 
 - [] Dzień 448 - 
 
