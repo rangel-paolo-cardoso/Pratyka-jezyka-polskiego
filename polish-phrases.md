@@ -2035,7 +2035,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One nie mogli / mogły zrozumieć, dlaczego tak mała uwaga była uznawana za obraźliwą zniewagę. Eles / Elas não conseguiam entender por que um comentário tão pequeno foi considerado uma afronta ofensiva.
  - My zawsze staramy się unikać znieważenia kogokolwiek w naszych rozmowach. Nós sempre tentamos evitar afrontar alguém em nossas conversas.
 
-- [] Dzień 446 - 
+- [x] Dzień 446 - Obrazić, Znieważyć, Wyzywać, Stawić czoła. (.)
+ - Kiedy ja go / ją obraziłem / obraziłam, nie spodziewałem / spodziewałam się, że natychmiast odpowie mi w ten sposób. Quando eu o / a afrontei (ele / ela), não esperava que ele / ela me respondesse dessa maneira imediatamente.
+ - On / Ona zawsze stawia czoła problemom z odwagą, zamiast unikać ich. Ele / Ela sempre afronta os problemas com coragem, em vez de evitá-los (evitar eles).
+ - Jeśli ich jutro (ty) znieważysz, możesz spodziewać się konsekwencji. Se você os afrontar (eles) amanhã, pode esperar por consequências.
+ - (My) wyzywaliśmy / wyzywałyśmy naszych / nasze przeciwników / przeciwniczki podczas meczu, ale to tylko zwiększyło ich motywację. Nós afrontamos nossos / nossas adversários / adversárias durante a partida, mas isso apenas aumentou sua (a) motivação (deles / delas).
+ - Oni / One nie rozumieli / rozumiały, dlaczego on / ona obraził / obraziła swojego / swoją przyjaciela / przyjaciółkę w tak publiczny sposób. Eles / Elas não entendiam por que ele / ela afrontou seu / sua amigo / amiga de uma maneira tão pública.
 
 - [] Dzień 447 - 
 
