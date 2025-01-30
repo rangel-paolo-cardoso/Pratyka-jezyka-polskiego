@@ -2049,7 +2049,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wczoraj (my) osłabiliśmy / osłabiłyśmy zabezpieczenia, ale dzisiaj je przywrócimy. Ontem (nós) afrouxamos a segurança, mas hoje a restauraremos (ela).
  - On / Ona nigdy nie poluzuje zasad, nawet jeśli poprosisz. Ele / Ela nunca afrouxará as regras, mesmo que você peça (se você pedir).
 
-- [] Dzień 448 - 
+- [x] Dzień 448 - Afta. (Afta. - Rzeczowniki żeńskie)
+ - On / Ona ma afty w ustach od dwóch dni i szuka lekarstwa. Ele / Ela está com afta na boca há dois dias e está procurando um remédio.
+ - (Ja) miałem / miałam afty w zeszłym tygodniu, ale już się wyleczyły. (Eu) tive afta na semana passada, mas já sarou.
+ - Czy wy też macie problem z aftami, gdy jecie dużo cytrusów? Vocês também têm problema com afta quando comem muitas frutas cítricas?
+ - On / Ona powiedział / powiedziała, że jeśli (ty) nie przestaniesz jeść pikantnych potraw, afty będą się pojawiać częściej. Ele / Ela disse que, se você não parar de comer comidas apimentadas, a afta vai aparecer com mais frequência.
+ - (My) zawsze używamy płukanki do ust, aby zapobiec aftom. (Nós) sempre usamos enxaguante bucal (para a boca) para prevenir afta.
 
 - [] Dzień 449 - 
 
