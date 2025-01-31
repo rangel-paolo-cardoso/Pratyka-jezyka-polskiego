@@ -2056,7 +2056,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona powiedział / powiedziała, że jeśli (ty) nie przestaniesz jeść pikantnych potraw, afty będą się pojawiać częściej. Ele / Ela disse que, se você não parar de comer comidas apimentadas, a afta vai aparecer com mais frequência.
  - (My) zawsze używamy płukanki do ust, aby zapobiec aftom. (Nós) sempre usamos enxaguante bucal (para a boca) para prevenir afta.
 
-- [] Dzień 449 - 
+- [x] Dzień 449 - Zatopić, Zatapiać się. (Afundar, Afundar-se. - Czasownik(i))
+ - (Ja) zatopiłem / zatopiłam łódkę, bo nie zauważyłem / zauważyłam skały pod wodą. (Eu) afundei o barco porque não percebi as pedras submersas (debaixo d'água).
+ - On / Ona zatopi swój smutek w pracy, jak zawsze to robi. Ele / Ela vai afundar sua tristeza no trabalho, como sempre faz.
+ - Czy wy zatopicie te stare papiery, czy mam je wyrzucić? Vocês vão afundar esses papéis velhos, ou devo jogá-los fora?
+ - (My) zatopiliśmy / zatopiłyśmy butelkę w morzu jako symbol naszego przywiązania. (Nós) afundamos uma garrafa no mar como símbolo do nosso vínculo (laço, da nossa parceria).
+ - On / Ona zatapia się w długach, ale nie chce poprosić o pomoc. Ele / Ela está se afundando em dívidas, mas não quer pedir ajuda.
 
 - [] Dzień 450 - 
 
