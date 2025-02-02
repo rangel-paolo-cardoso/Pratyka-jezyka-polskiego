@@ -2063,7 +2063,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zatopiliśmy / zatopiłyśmy butelkę w morzu jako symbol naszego przywiązania. (Nós) afundamos uma garrafa no mar como símbolo do nosso vínculo (laço, da nossa parceria).
  - On / Ona zatapia się w długach, ale nie chce poprosić o pomoc. Ele / Ela está se afundando em dívidas, mas não quer pedir ajuda.
 
-- [] Dzień 450 - 
+- [x] Dzień 450 - Kucnąć, Kucać. (Agachar. - Czasownik(i))
+ - (Ja) kucnąłem / kucnęłam, żeby podnieść klucze, które upadły na podłogę. (Eu) me agachei para pegar as chaves que caíram no chão.
+ - On / Ona kuca zawsze, gdy chce porozmawiać z dziećmi na ich poziomie. Ele / Ela se agacha sempre que quer conversar com as crianças no nível delas.
+ - Czy wy kucniecie, żeby schować się za tym murem? Vocês vão se agachar para se esconder atrás desse muro?
+ - (My) kucnęliśmy / kucnęłyśmy, aby uniknąć gałęzi na ścieżce w lesie. (Nós) nos agachamos para evitar os galhos na trilha da floresta.
+ - On / Ona będzie kucał / kucała przez cały mecz, żeby nie zasłaniać widoku innym kibicom / kibiczkom. Ele / Ela vai ficar agachado / agachada durante a partida inteira para não atrapalhar a visão dos / das outros / outras torcedores / torcedoras.
 
 - [] Dzień 451 - 
 
