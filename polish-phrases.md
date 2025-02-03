@@ -2070,7 +2070,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kucnęliśmy / kucnęłyśmy, aby uniknąć gałęzi na ścieżce w lesie. (Nós) nos agachamos para evitar os galhos na trilha da floresta.
  - On / Ona będzie kucał / kucała przez cały mecz, żeby nie zasłaniać widoku innym kibicom / kibiczkom. Ele / Ela vai ficar agachado / agachada durante a partida inteira para não atrapalhar a visão dos / das outros / outras torcedores / torcedoras.
 
-- [] Dzień 451 - 
+- [x] Dzień 451 - Złapać, Łapać. (Agarrar. - Czasownik(i))
+ - (Ja) złapałem / złapałam psa / suczkę za obrożę, żeby nie uciekł / uciekła. (Eu) agarrei o / a cachorro / cachorra pela coleira para que ele / ela não fugisse.
+ - On / Ona złapie cię za rękę, jeśli poczuje się zagrożony / zagrożona. Ele / Ela vai agarrar você pela mão se se sentir ameaçado / ameaçada.
+ - Czy wy złapaliście / złapałyście tę okazję, czy pozwoliliście / pozwoliłyście jej uciec? Vocês agarraram essa oportunidade ou deixaram ela escapar?
+ - (My) złapaliśmy / złapałyśmy się poręczy, gdy winda gwałtownie się zatrzymała. (Nós) nos agarramos no corrimão quando o elevador parou bruscamente.
+ - On / Ona złapie każdą szansę, aby pokazać swoje umiejętności. Ele vai agarrar cada chance para mostrar suas habilidades.
 
 - [] Dzień 452 - 
 
