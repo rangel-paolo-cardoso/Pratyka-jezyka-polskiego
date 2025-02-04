@@ -2077,7 +2077,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) złapaliśmy / złapałyśmy się poręczy, gdy winda gwałtownie się zatrzymała. (Nós) nos agarramos no corrimão quando o elevador parou bruscamente.
  - On / Ona złapie każdą szansę, aby pokazać swoje umiejętności. Ele vai agarrar cada chance para mostrar suas habilidades.
 
-- [] Dzień 452 - 
+- [x] Dzień 452 - Ciepło się ubrać - Wyrażenie. (Agasalhar. - Czasownik(i))
+ - (Ja) ciepło się ubrałem / ubrałam, bo wiedziałem / wiedziałam, że na zewnątrz jest mróz. (Eu) me agasalhei porque sabia que estava congelando lá fora.
+ - On / Ona zawsze ciepło się ubiera, nawet gdy jest tylko trochę chłodno. Ele / Ela sempre se agasalha, mesmo quando está só um pouco frio.
+ - Czy wy ciepło się ubraliście / ubrałyście przed wyjściem na sanki? Vocês se agasalharam antes de saírem de trenó?
+ - (My) zawsze ciepło się ubieramy, gdy jedziemy w góry zimą. (Nós) sempre nos agasalhamos quando vamos para as montanhas no inverno.
+ - On / Ona ciepło się ubierze, zanim wyjdzie na mróz, bo nie chce zachorować. Ele / Ela vai se agasalhar antes de sair no frio, porque não quer ficar doente (adoecer).
 
 - [] Dzień 453 - 
 
