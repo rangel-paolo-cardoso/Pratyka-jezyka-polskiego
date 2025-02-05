@@ -2084,7 +2084,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze ciepło się ubieramy, gdy jedziemy w góry zimą. (Nós) sempre nos agasalhamos quando vamos para as montanhas no inverno.
  - On / Ona ciepło się ubierze, zanim wyjdzie na mróz, bo nie chce zachorować. Ele / Ela vai se agasalhar antes de sair no frio, porque não quer ficar doente (adoecer).
 
-- [] Dzień 453 - 
+- [x] Dzień 453 - Ciepłe ubranie, Kurtka - Rzeczownik żeński, Sweter, Płaszcz - Rzeczowniki męskie. (Agasalho - Rzeczownik męski (Roupas quentes).)
+ - (Ja) kupiłem / kupiłam nową kurtkę, bo stara już nie chroniła mnie przed zimnem. (Eu) comprei um agasalho (jaqueta) novo porque o antigo já não me protegia do frio.
+ - On / Ona zawsze nos przypomina, żeby zabrać ciepłe ubranie, gdy wychodzimy w góry. Ele / Ela sempre nos lembra de levar agasalhos quando saímos para as montanhas.
+ - (Czy) (wy) zabraliście / zabrałyście swoje kurtki? Na zewnątrz jest bardzo zimno. Vocês trouxeram seus agasalhos (suas jaquetas)? Lá fora está muito frio.
+ - (My) zawsze pakujemy dodatkowe ciepłe ubrania, gdy jedziemy na narty. (Nós) sempre levamos agasalhos extras quando vamos esquiar.
+ - On / Ona zapomniał / zapomniała swojej kurtki w domu i teraz marznie na przystanku autobusowym. Ele / Ela esqueceu seu agasalho (sua jaqueta) em casa e agora está congelando no ponto de ônibus.
 
 - [] Dzień 454 - 
 
