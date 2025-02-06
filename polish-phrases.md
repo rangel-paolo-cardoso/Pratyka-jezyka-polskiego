@@ -2091,7 +2091,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze pakujemy dodatkowe ciepłe ubrania, gdy jedziemy na narty. (Nós) sempre levamos agasalhos extras quando vamos esquiar.
  - On / Ona zapomniał / zapomniała swojej kurtki w domu i teraz marznie na przystanku autobusowym. Ele / Ela esqueceu seu agasalho (sua jaqueta) em casa e agora está congelando no ponto de ônibus.
 
-- [] Dzień 454 - 
+- [x] Dzień 454 - Agencja - Rzeczownik żeński, Biuro podróży - Rzeczownik męski. (Agência. - Rzeczownik żeński) 
+ - (Ja) pracuję w agencji reklamowej od pięciu lat i uwielbiam to, co robię. (Eu) trabalho em uma agência de publicidade há cinco anos e adoro o que faço.
+ - On / Ona założył / założyła własną agencję podróży i teraz organizuje wycieczki na całym świecie. Ele / Ela abriu sua própria agência de viagens e agora organiza passeios pelo mundo todo.
+ - Czy wy skorzystaliście / skorzystałyście z usług tej agencji nieruchomości? (Ja) słyszałem / słyszałam, że są bardzo dobrzy. Vocês usaram os serviços dessa agência imobiliária? (Eu) ouvi dizer que eles são muito bons.
+ - (My) zawsze wybieramy tę samą agencję ubezpieczeniową, bo mają najlepsze oferty. (Nós) sempre escolhemos essa mesma agência de seguros porque eles têm as melhores ofertas.
+ - On / Ona będzie współpracował / współpracowała z agencją modeli / modelek, aby promować swoją nową kolekcję. Ele / Ela vai colaborar com uma agência de modelos para promover sua nova coleção.
 
 - [] Dzień 455 - 
 
