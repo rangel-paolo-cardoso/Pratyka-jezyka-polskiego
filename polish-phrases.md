@@ -2098,7 +2098,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze wybieramy tę samą agencję ubezpieczeniową, bo mają najlepsze oferty. (Nós) sempre escolhemos essa mesma agência de seguros porque eles têm as melhores ofertas.
  - On / Ona będzie współpracował / współpracowała z agencją modeli / modelek, aby promować swoją nową kolekcję. Ele / Ela vai colaborar com uma agência de modelos para promover sua nova coleção.
 
-- [] Dzień 455 - 
+- [x] Dzień 455 - Kalendarz, Harmonogram, Terminarz - Rzeczowniki męskie. (Agenda. - Rzeczownik żeński)
+ - (Ja) muszę sprawdzić mój kalendarz, żeby zobaczyć, czy mam czas na spotkanie w piątek. (Eu) preciso verificar minha agenda para ver se tenho tempo para a reunião na sexta-feira.
+ - On / Ona zawsze zapisuje wszystko w terminarzu, żeby nie zapomnieć o żadnym obowiązku. Ele / Ela sempre anota tudo na agenda para não esquecer de nenhum compromisso.
+ - Nasz harmonogram na dzisiaj jest bardzo napięty, mamy aż pięć prezentacji do wygłoszenia. Nossa agenda de hoje está muito apertada, temos cinco apresentações para fazer.
+ - (Ja) kupiłem / kupiłam nowy kalendarz na przyszły rok, jest pięknie zaprojektowany i bardzo praktyczny. (Eu) comprei uma nova agenda para o próximo ano, é lindamente projetada e muito prática.
+ - Jeśli (ty) chcesz umówić się na wizytę, sprawdź dostępne terminy w naszym terminarzu online. Se (você) quiser marcar uma consulta, verifique os horários disponíveis na nossa agenda online.
 
 - [] Dzień 456 - 
 
