@@ -2105,7 +2105,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) kupiłem / kupiłam nowy kalendarz na przyszły rok, jest pięknie zaprojektowany i bardzo praktyczny. (Eu) comprei uma nova agenda para o próximo ano, é lindamente projetada e muito prática.
  - Jeśli (ty) chcesz umówić się na wizytę, sprawdź dostępne terminy w naszym terminarzu online. Se (você) quiser marcar uma consulta, verifique os horários disponíveis na nossa agenda online.
 
-- [] Dzień 456 - 
+- [x] Dzień 456 - Agent - Rzeczownik męski, Agentka - Rzeczownik żeński. (Agente. - Rzeczownik nijaki, Przymiotnik)
+ - (Ja) pracuję jako agent / agentka ubezpieczeniowy od dziesięciu lat. (Eu) trabalho como agente de seguros há dez anos.
+ - On / Ona był / była tajnym / tajną agentem / agentką rządowym / rządową, ale teraz prowadzi spokojne życie. Ele / Ela foi um / uma agente secreto / secreta do governo, mas agora leva uma vida tranquila.
+ - Czy wy znacie tego / tę agenta / agentkę nieruchomości? Słyszałem / Słyszałam, że jest bardzo skuteczny / skuteczna. Vocês conhecem esse / essa agente imobiliário / imobiliária? Ouvi dizer que ele / ela é muito eficiente.
+ - Agenci / Agentki federalni / federalne śledzili / śledziły podejrzanego / podejrzaną przez kilka miesięcy, zanim go / ją aresztowali / aresztowały. Os / As agentes federais seguiram o / a suspeito / suspeita por vários meses antes de prendê-lo/la (prender ele / ela).
+ - On / Ona będzie agentem / agentką specjalnym / specjalną w nowej misji rządowej. Ele / Ela será um / uma agente especial em uma nova missão do governo.
 
 - [] Dzień 457 - 
 
