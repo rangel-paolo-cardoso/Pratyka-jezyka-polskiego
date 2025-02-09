@@ -2112,7 +2112,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Agenci / Agentki federalni / federalne śledzili / śledziły podejrzanego / podejrzaną przez kilka miesięcy, zanim go / ją aresztowali / aresztowały. Os / As agentes federais seguiram o / a suspeito / suspeita por vários meses antes de prendê-lo/la (prender ele / ela).
  - On / Ona będzie agentem / agentką specjalnym / specjalną w nowej misji rządowej. Ele / Ela será um / uma agente especial em uma nova missão do governo.
 
-- [] Dzień 457 - 
+- [x] Dzień 457 - Zwinny, Zwinna. (Ágil. - Przymiotnik(i))
+ - (Ja) zawsze byłem / byłam zwinny / zwinna w rozwiązywaniu problemów w pracy. (Eu) sempre fui ágil em resolver problemas no trabalho.
+ - On / Ona jest najzwinniejszym / najzwinniejszą zawodnikiem / zawodniczką w drużynie i zawsze wygrywa wyścigi. Ele / Ela é o / a jogador / jogadora mais ágil do time e sempre vence as corridas.
+ - Czy wy będziecie bardziej zwinni / zwinne w realizacji tego projektu? Czas nas goni. Vocês vão ser mais ágeis na execução desse projeto? O tempo está passando rápido (O tempo está nos perseguindo).
+ - (My) zawsze staramy się być zwinni / zwinne w podejmowaniu decyzji, aby nie tracić czasu. (Nós) sempre tentamos ser ágeis na hora de tomar decisões para não perder tempo.
+ - On / Ona będzie musiał / musiała być bardziej zwinny / zwinna, jeśli chce nadążyć za zespołem. Ele / Ela vai precisar ser mais ágil se quiser acompanhar a equipe.
 
 - [] Dzień 458 - 
 
