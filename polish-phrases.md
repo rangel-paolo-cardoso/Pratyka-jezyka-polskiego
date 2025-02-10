@@ -2119,7 +2119,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze staramy się być zwinni / zwinne w podejmowaniu decyzji, aby nie tracić czasu. (Nós) sempre tentamos ser ágeis na hora de tomar decisões para não perder tempo.
  - On / Ona będzie musiał / musiała być bardziej zwinny / zwinna, jeśli chce nadążyć za zespołem. Ele / Ela vai precisar ser mais ágil se quiser acompanhar a equipe.
 
-- [] Dzień 458 - 
+- [x] Dzień 458 - Przyspieszyć, Usprawnić. (Agilizar. - Czasownik(i))
+ - (Ja) przyspieszyłem / przyspieszyłam proces w mojej firmie, wprowadzając nowe technologie. (Eu) agilizei o processo na minha empresa ao implementar (implementando) novas tecnologias.
+ - On / Ona przyspieszył / przyspieszyła przygotowania do wyjazdu, żeby zdążyć na wcześniejszy pociąg. Ele / Ela agilizou os preparativos para a viagem para conseguir pegar um trem mais cedo.
+ - Jeśli wszyscy będziemy współpracować, możemy przyspieszyć zakończenie tej budowy. Se todos cooperarmos, podemos agilizar a finalização desta obra.
+ - (My) przyspieszyliśmy / przyspieszyłyśmy naszą pracę, ale i tak nie udało nam się skończyć na czas. (Nós) agilizamos nosso trabalho, mas ainda assim não conseguimos terminar a tempo.
+ - Czy (wy) moglibyście / mogłybyście przyspieszyć dostawę? (My) naprawdę potrzebujemy tego produktu jak najszybciej. Vocês poderiam agilizar a entrega? (Nós) realmente precisamos desse produto o quanto antes.
 
 - [] Dzień 459 - 
 
