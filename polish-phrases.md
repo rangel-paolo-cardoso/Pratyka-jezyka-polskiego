@@ -2126,7 +2126,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przyspieszyliśmy / przyspieszyłyśmy naszą pracę, ale i tak nie udało nam się skończyć na czas. (Nós) agilizamos nosso trabalho, mas ainda assim não conseguimos terminar a tempo.
  - Czy (wy) moglibyście / mogłybyście przyspieszyć dostawę? (My) naprawdę potrzebujemy tego produktu jak najszybciej. Vocês poderiam agilizar a entrega? (Nós) realmente precisamos desse produto o quanto antes.
 
-- [] Dzień 459 - 
+- [x] Dzień 459 - Lichwiarz / Lichwiarka - Przymiotniki. (Agiota. - Przymiotnik, Rzeczownik nijaki)
+ - (Ja) nigdy nie pożyczałem / pożyczałam pieniędzy od lichwiarza / lichwiarki, bo to zbyt niebezpieczne. (Eu) nunca peguei dinheiro emprestado com um / uma agiota, pois é muito perigoso.
+ - On / Ona został / została oszukany / oszukana przez lichwiarza / lichwiarkę, który / która naliczał / naliczała ogromne odsetki. Ele / Ela foi enganado / enganada por um / uma agiota que cobrava juros enormes.
+ - (Czy) (wy) wiecie, że ten sklep jest prowadzony przez lichwiarza / lichwiarkę? (My) powinniśmy / powinnyśmy uważać. (Vocês) sabiam que essa loja é administrada por um / uma agiota? (Nós) devemos tomar cuidado.
+ - (My) nigdy nie będziemy współpracować z lichwiarzami / lichwiarkami, bo to nieetyczne. (Nós) nunca vamos cooperar (cooperaremos) com agiotas, pois isso é antiético.
+ - On / Ona będzie musiał / musiała zwrócić pieniądze lichwiarzowi / lichwiarce, nawet jeśli to go / ją zrujnuje. Ele / Ela vai ter que devolver o dinheiro ao / a agiota, mesmo que isso o / a arruíne (ele / ela).
 
 - [] Dzień 460 - 
 
