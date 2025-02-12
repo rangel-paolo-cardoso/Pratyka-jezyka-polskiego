@@ -2133,7 +2133,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) nigdy nie będziemy współpracować z lichwiarzami / lichwiarkami, bo to nieetyczne. (Nós) nunca vamos cooperar (cooperaremos) com agiotas, pois isso é antiético.
  - On / Ona będzie musiał / musiała zwrócić pieniądze lichwiarzowi / lichwiarce, nawet jeśli to go / ją zrujnuje. Ele / Ela vai ter que devolver o dinheiro ao / a agiota, mesmo que isso o / a arruíne (ele / ela).
 
-- [] Dzień 460 - 
+- [x] Dzień 460 - Działać, Reagować. (Agir. - Czasownik(i))
+ - Jeśli (my) nie zareagujemy teraz, sytuacja stanie się jeszcze gorsza. Se (nós) não agirmos agora, a situação vai piorar ainda mais.
+ - Wczoraj (ja) działałem / działałam pod wpływem emocji, ale dziś widzę, że to był błąd. Ontem (eu) agi por influência das emoções (impulso), mas hoje vejo que foi um erro.
+ - On / Ona zawsze działa rozsądnie, nigdy nie podejmuje pochopnych decyzji. Ele / Ela sempre age com prudência, nunca toma decisões precipitadas.
+ - Oni / One powinni / powinny działać szybciej, bo czas ucieka. Eles / Elas deveriam agir mais rápido, porque o tempo está passando.
+ - Jak (ty) zamierzasz działać w tej sytuacji? Como (você) pretende agir nessa situação?
 
 - [] Dzień 461 - 
 
