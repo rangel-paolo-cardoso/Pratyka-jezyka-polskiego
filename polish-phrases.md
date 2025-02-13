@@ -2140,7 +2140,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One powinni / powinny działać szybciej, bo czas ucieka. Eles / Elas deveriam agir mais rápido, porque o tempo está passando.
  - Jak (ty) zamierzasz działać w tej sytuacji? Como (você) pretende agir nessa situação?
 
-- [] Dzień 461 - 
+- [x] Dzień 461 - Poruszenie, Zamieszanie, Ożywienie. - Rzeczowniki nijakie (Agitação. - Rzeczownik)
+ - Wczoraj w mieście panowało wielkie poruszenie z powodu protestu. Ontem houve uma grande agitação na cidade por causa do protesto.
+ - (Ja) nie lubię zamieszania w pracy, wolę spokojne środowisko. (Eu) não gosto de agitação no trabalho, prefiro um ambiente tranquilo.
+ - W ich domu zawsze jest dużo hałasu i zamieszania, ponieważ (oni / one) mają trójkę dzieci. Na casa deles / delas sempre há muito barulho e agitação, porque eles / elas têm três filhos (crianças).
+ - Jutro na plaży będzie sporo ożywienia, bo (oni / one) organizują tam koncert. Amanhã haverá muita (bastante) agitação na praia, porque (eles / elas) estão organizando um show lá.
+ - Podczas meczu kibice / kibicki wpadli / wpadły w euforię i na stadionie zapanowało wielkie poruszenie. Durante a partida, os / as torcedores / torcedoras ficaram eufóricos / eufóricas e houve uma grande agitação no estádio.
 
 - [] Dzień 462 - 
 
