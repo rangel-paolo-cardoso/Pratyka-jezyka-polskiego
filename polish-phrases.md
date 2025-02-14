@@ -2147,7 +2147,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro na plaży będzie sporo ożywienia, bo (oni / one) organizują tam koncert. Amanhã haverá muita (bastante) agitação na praia, porque (eles / elas) estão organizando um show lá.
  - Podczas meczu kibice / kibicki wpadli / wpadły w euforię i na stadionie zapanowało wielkie poruszenie. Durante a partida, os / as torcedores / torcedoras ficaram eufóricos / eufóricas e houve uma grande agitação no estádio.
 
-- [] Dzień 462 - 
+- [x] Dzień 462 - Wymieszać, Agitować, Poruszać. (Agitar. Czasowniki)
+ - Czy mogę poprosić cię, abyś wymieszał / wymieszała dobrze ten napój przed podaniem? Posso te pedir para agitar bem essa bebida antes de servir?
+ - Wczoraj na stadionie kibice / kibicki zaczęli / zaczęły agitować, kiedy drużyna strzeliła gola. Ontem no estádio, os / as torcedores / torcedoras começaram a se agitar quando o time fez o gol.
+ - Dzisiaj (my) musimy poruszyć ten temat na spotkaniu, bo sprawa staje się coraz bardziej napięta. Hoje (nós) precisamos agitar esse assunto na reunião, pois a situação está ficando cada vez mais tensa.
+ - On / Ona zaczął / zaczęła agitować na demonstracji, bo bardzo zależało mu / jej na tej sprawie. Ele / Ela começou a se agitar na manifestação, porque (ele / ela) se importava muito com essa causa.
+ - Jutro na imprezie zamierzamy agitować publiczność, puszczając różnorodne gatunki muzyki. Amanhã, na festa, pretendemos agitar o público (informal: a galera) tocando diferentes estilos de música.
 
 - [] Dzień 463 - 
 
