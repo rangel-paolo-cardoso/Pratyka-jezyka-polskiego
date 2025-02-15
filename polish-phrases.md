@@ -2154,7 +2154,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zaczął / zaczęła agitować na demonstracji, bo bardzo zależało mu / jej na tej sprawie. Ele / Ela começou a se agitar na manifestação, porque (ele / ela) se importava muito com essa causa.
  - Jutro na imprezie zamierzamy agitować publiczność, puszczając różnorodne gatunki muzyki. Amanhã, na festa, pretendemos agitar o público (informal: a galera) tocando diferentes estilos de música.
 
-- [] Dzień 463 - 
+- [x] Dzień 463 - Skupisko, Nagromadzenie - [Rzeczowniki nijakie], Zbity, Zagęszczony - Przymiotniki. (Aglomerado. - [Przymiotnik, Rzeczownik męski])
+ - Wczoraj (ja) widziałem / widziałam ogromne skupisko ludzi przed stadionem przed rozpoczęciem meczu. Ontem (eu) vi um enorme aglomerado de pessoas (gente) em frente ao estádio antes do início da partida.
+ - To miasto jest bardzo zagęszczone, ulice są pełne ludzi o każdej porze dnia. Essa cidade é muito aglomerada, as ruas estão cheias de pessoas a qualquer hora do dia.
+ - (My) musimy unikać zbyt dużego nagromadzenia pojazdów na tej drodze, inaczej powstaną korki. (Nós) precisamos evitar um grande aglomerado de veículos nesta estrada, senão surgirão engarrafamentos.
+ - Oni / One zawsze mieszkali / mieszkały w skupisku domów na obrzeżach miasta, z dala od hałasu. Eles / Elas sempre moraram em um aglomerado de casas na periferia da cidade, longe do barulho.
+ - W przyszłości spróbujemy stworzyć bardziej zbite struktury w tej fabryce, aby zaoszczędzić miejsce. No futuro, tentaremos criar estruturas mais aglomeradas nesta fábrica para economizar espaço.
 
 - [] Dzień 464 - 
 
