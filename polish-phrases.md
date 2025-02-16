@@ -2161,7 +2161,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zawsze mieszkali / mieszkały w skupisku domów na obrzeżach miasta, z dala od hałasu. Eles / Elas sempre moraram em um aglomerado de casas na periferia da cidade, longe do barulho.
  - W przyszłości spróbujemy stworzyć bardziej zbite struktury w tej fabryce, aby zaoszczędzić miejsce. No futuro, tentaremos criar estruturas mais aglomeradas nesta fábrica para economizar espaço.
 
-- [] Dzień 464 - 
+- [x] Dzień 464 - Gromadzić się, Zbierać się, Aglomerować się, Nagromadzać się. (Aglomerar. - Czasownik(i))
+ - Po koncercie tysiące fanów zaczęło gromadzić się wokół sceny, aby zobaczyć artystę. Depois do show, milhares de fãs começaram a se aglomerar ao redor do palco para ver o artista.
+ - Nie aglomerujcie się w jednym miejscu, bo (my) musimy przestrzegać zasad bezpieczeństwa. Não se aglomerem em um só lugar, pois (nós) precisamos seguir as regras de segurança.
+ - W zeszłym roku ludzie nie mogli zbierać się w dużych grupach ze względu na pandemię. No ano passado, as pessoas não podiam se aglomerar em grandes grupos por causa da pandemia.
+ - Jutro wszyscy / wszystkie będziemy się gromadzić na rynku, żeby świętować Nowy Rok! Amanhã todos / todas iremos nos aglomerar na praça para celebrar o Ano Novo!
+ - Gdy zobaczyłam / zobaczyłem, jak ludzie zaczęli nagromadzać się w sali, poczułam / poczułem się niekomfortowo. Quando vi como as pessoas começaram a se aglomerar na sala, me senti desconfortável.
 
 - [] Dzień 465 - 
 
