@@ -2168,7 +2168,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro wszyscy / wszystkie będziemy się gromadzić na rynku, żeby świętować Nowy Rok! Amanhã todos / todas iremos nos aglomerar na praça para celebrar o Ano Novo!
  - Gdy zobaczyłam / zobaczyłem, jak ludzie zaczęli nagromadzać się w sali, poczułam / poczułem się niekomfortowo. Quando vi como as pessoas começaram a se aglomerar na sala, me senti desconfortável.
 
-- [] Dzień 465 - 
+- [x] Dzień 465 - Aglutynacja. (Aglutinação. - Rzeczowniki żeńskie)
+ - W języku tureckim aglutynacja jest podstawową zasadą gramatyczną. No idioma turco, a aglutinação é uma regra gramatical básica.
+ - Pod mikroskopem (ja) zobaczyłem / zobaczyłam aglutynację komórek krwi. Sob o microscópio, (eu) vi a aglutinação das células sanguíneas.
+ - Jeśli (ty) nie podgrzejesz mieszanki, aglutynacja składników nie nastąpi. Se (você) não aquecer a mistura, a aglutinação dos componentes não acontecerá.
+ - Wczoraj w laboratorium (my) analizowaliśmy / analizowałyśmy proces aglutynacji bakterii. Ontem, no laboratório, (nós) analisamos o processo de aglutinação das bactérias.
+ - Nasi / Nasze naukowcy / naukowczynie odkryją nowy sposób na kontrolowanie aglutynacji białek. Nossos / Nossas cientistas descobrirão uma nova maneira de controlar a aglutinação das proteínas.
 
 - [] Dzień 466 - 
 
