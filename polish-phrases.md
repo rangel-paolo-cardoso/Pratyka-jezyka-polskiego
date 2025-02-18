@@ -2175,7 +2175,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wczoraj w laboratorium (my) analizowaliśmy / analizowałyśmy proces aglutynacji bakterii. Ontem, no laboratório, (nós) analisamos o processo de aglutinação das bactérias.
  - Nasi / Nasze naukowcy / naukowczynie odkryją nowy sposób na kontrolowanie aglutynacji białek. Nossos / Nossas cientistas descobrirão uma nova maneira de controlar a aglutinação das proteínas.
 
-- [] Dzień 466 - 
+- [x] Dzień 466 - Aglutynować, Zlepiać, Scalać. (Aglutinar. - Czasownik(i))
+ - Nauczyciel / Nauczycielka chce aglutynować różne metody nauczania, aby poprawić wyniki uczniów. O / A professor / professora quer aglutinar diferentes métodos de ensino para melhorar os resultados dos alunos.
+ - W laboratorium naukowcy / naukowczynie aglutynowali / aglutynowały komórki w celu przeprowadzenia eksperymentu. No laboratório, os / as cientistas aglutinaram células para realizar um experimento.
+ - Jeśli (my) dodamy to rozwiązanie, zacznie ono zlepiać cząsteczki substancji. Se (nós) adicionarmos esta solução, ela começará a aglutinar as moléculas da substância.
+ - (My) zawsze staraliśmy / starałyśmy się scalać nasz zespół, aby działał jak jedna drużyna. (Nós) sempre tentamos aglutinar nossa equipe para que funcionasse como um só time.
+ - W przyszłym roku rząd planuje aglutynować różne instytucje w jedną organizację. No próximo ano, o governo planeja aglutinar várias instituições em uma única organização.
 
 - [] Dzień 467 - 
 
