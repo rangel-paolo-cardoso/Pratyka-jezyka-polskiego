@@ -2182,7 +2182,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze staraliśmy / starałyśmy się scalać nasz zespół, aby działał jak jedna drużyna. (Nós) sempre tentamos aglutinar nossa equipe para que funcionasse como um só time.
  - W przyszłym roku rząd planuje aglutynować różne instytucje w jedną organizację. No próximo ano, o governo planeja aglutinar várias instituições em uma única organização.
 
-- [] Dzień 467 - 
+- [x] Dzień 467 - Agonia, Udręka, Męczarnia. (Agonia. - Rzeczowniki żeńskie)
+ - (Ja) widziałem / widziałam jego / jej agonię i nie mogłem / mogłam nic zrobić, aby mu / jej pomóc. (Eu) vi a agonia dele / dela e não pude fazer nada para ajudá-lo/la (ajudar ele / ela).
+ - On / Ona był / była w strasznej udręce, czekając na wyniki badań. Ele / Ela estava em uma terrível agonia esperando os resultados dos exames.
+ - To była prawdziwa męczarnia patrzeć, jak oni / one cierpią. Foi uma verdadeira agonia ver eles / elas sofrerem.
+ - Jeśli (my) nie znajdziemy rozwiązania, wszyscy / wszystkie będziemy w agonii. Se (nós) não encontrarmos uma solução, todos / todas estaremos em agonia.
+ - Ich agonia dobiegła końca, gdy wreszcie usłyszeli / usłyszały dobrą wiadomość. A agonia deles / delas chegou ao fim quando finalmente ouviram a boa notícia.
 
 - [] Dzień 468 - 
 
