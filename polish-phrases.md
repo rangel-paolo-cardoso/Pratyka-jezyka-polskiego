@@ -2189,7 +2189,16 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli (my) nie znajdziemy rozwiązania, wszyscy / wszystkie będziemy w agonii. Se (nós) não encontrarmos uma solução, todos / todas estaremos em agonia.
  - Ich agonia dobiegła końca, gdy wreszcie usłyszeli / usłyszały dobrą wiadomość. A agonia deles / delas chegou ao fim quando finalmente ouviram a boa notícia.
 
-- [] Dzień 468 - 
+- [x] Dzień 468 - Zaniepokojony  / Zaniepokojona,
+                  Zdenerwowany / Zdenerwowana,
+                  Strapiony    / Strapiona,
+                  Niespokojny  / Niespokojna,
+                  Zrozpaczony  / Zrozpaczona. (Agoniado / Agoniada. - Przymiotnik(i))
+ - (Ja) byłem / byłam bardzo zaniepokojony / zaniepokojona, gdy nie  mogłem / mogłam się z tobą skontaktować. Eu estava muito agoniado / agoniada quando não consegui (contatar🇧🇷/contactar🇵🇹) entrar em contato com você.
+ - On / Ona wygląda na zdenerwowanego / zdenerwowaną, bo nie wie, co się wydarzy. Ele / Ela parece agoniado / agoniada porque não sabe o que vai acontecer.
+ - Jeśli (my) nie dostaniemy odpowiedzi do jutra, będziemy niespokojni / niespokojne. Se (nós) não recebermos uma resposta até amanhã, ficaremos agoniados / agoniadas.
+ - (Wy) byliście / byłyście tak strapieni / strapione całą sytuacją, że nie mogliście / mogłyście spać. Vocês estavam tão agoniados / agoniadas com toda a situação que não conseguiram dormir.
+ - Zrozpaczone dziecko płakało, bo zgubiło swoją zabawkę. A criança agoniada chorava porque perdeu seu brinquedo.
 
 - [] Dzień 469 - 
 
