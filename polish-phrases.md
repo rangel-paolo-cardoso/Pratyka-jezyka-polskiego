@@ -2200,7 +2200,16 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) byliście / byłyście tak strapieni / strapione całą sytuacją, że nie mogliście / mogłyście spać. Vocês estavam tão agoniados / agoniadas com toda a situação que não conseguiram dormir.
  - Zrozpaczone dziecko płakało, bo zgubiło swoją zabawkę. A criança agoniada chorava porque perdeu seu brinquedo.
 
-- [] Dzień 469 - 
+- [x] Dzień 469 - Agonizujący   / Agonizująca
+                  Cierpiący     / Cierpiąca
+                  Konający      / Konająca
+                  Dręczący      / Dręcząca
+                  Wyniszczający / Wyniszczająca - Przymiotnik(i). (Agonizante. - Przymiotnik, Rzeczownik nijaki)
+ - On / Ona leżał / leżała agonizujący / agonizująca w szpitalnym łóżku, ale lekarze robili wszystko, by go / ją uratować. Ele / Ela estava agonizante deitado / deitada na cama (no leito) do hospital, mas os médicos faziam de tudo para salvá-lo/la (salvar ele / ela).
+ - Jego / Jej cierpiąca twarz pokazywała, jak bardzo bolało go / ją pożegnanie. Seu (o) rosto agonizante (dele / dela) mostrava o quanto a despedida o / a machucava (ele / ela).
+ - Konające zwierzę patrzyło na mnie z bólem, a ja nie mogłem / mogłam nic zrobić. O animal agonizante me olhava (para mim) com dor, e eu não podia fazer nada.
+ - To było dręczące uczucie niepewności, które nie pozwalało nam spać. Era um sentimento agonizante de incerteza que não nos deixava dormir.
+ - Wyniszczająca choroba powoli odbierała mu / jej siły, ale on / ona nie tracił / traciła nadziei. A doença agonizante lentamente tirava suas (as) forças (dele / dela), mas ele / ela não perdia a esperança.
 
 - [] Dzień 470 - 
 
