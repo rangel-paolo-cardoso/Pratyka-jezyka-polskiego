@@ -2211,7 +2211,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - To było dręczące uczucie niepewności, które nie pozwalało nam spać. Era um sentimento agonizante de incerteza que não nos deixava dormir.
  - Wyniszczająca choroba powoli odbierała mu / jej siły, ale on / ona nie tracił / traciła nadziei. A doença agonizante lentamente tirava suas (as) forças (dele / dela), mas ele / ela não perdia a esperança.
 
-- [] Dzień 470 - 
+- [x] Dzień 470 - Teraz, Już, Obecnie. (Agora. - Przysłówki)
+  Explanation: The word "agora" in Polish can be translated mainly as "teraz". In certain contexts, variations such as "już" (when emphasizing something that has already happened or is happening immediately) and "obecnie" (more formal, meaning "at the present moment").
+ - Kiedyś (ja) bałem / bałam się mówić publicznie, ale teraz czuję się pewnie na scenie. Antes eu tinha medo de falar em público, mas agora me sinto confiante no palco.
+ - Już (ty) nie musisz się martwić, wszystko zostało rozwiązane. Agora você não precisa (mais) se preocupar, tudo foi resolvido.
+ - Obecnie (my) pracujemy nad nowym projektem, który zmieni branżę technologiczną. Agora (nós) estamos trabalhando em um novo projeto que vai mudar o setor tecnológico.
+ - Teraz albo nigdy! (Ty) musisz podjąć decyzję natychmiast. Agora ou nunca! Você precisa tomar uma decisão imediatamente.
+ - (My) nie wiedzieliśmy / wiedziałyśmy wcześniej, ale teraz wszystko jest jasne. (Nós) não sabíamos antes, mas agora tudo está claro.
 
 - [] Dzień 471 - 
 
