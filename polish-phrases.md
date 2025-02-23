@@ -2219,7 +2219,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Teraz albo nigdy! (Ty) musisz podjąć decyzję natychmiast. Agora ou nunca! Você precisa tomar uma decisão imediatamente.
  - (My) nie wiedzieliśmy / wiedziałyśmy wcześniej, ale teraz wszystko jest jasne. (Nós) não sabíamos antes, mas agora tudo está claro.
 
-- [] Dzień 471 - 
+- [x] Dzień 471 - Sierpień. (Agosto. - Rzeczownik męski)
+ - W sierpniu (my) zawsze jeździliśmy / jeździłyśmy z rodziną w góry, żeby odpocząć od miasta. Em agosto, (nós) sempre viajávamos para as montanhas com a família para descansar da cidade.
+ - On / Ona urodził / urodziła się w sierpniu, więc w tym miesiącu (my) będziemy świętować jego / jej urodziny. Ele / Ela nasceu em agosto, então (nós) vamos comemorar o aniversário dele / dela nesse mês.
+ - Sierpień to dla mnie czas wakacji i relaksu nad jeziorem. Agosto, para mim, é tempo de férias e relaxamento à beira do lago.
+ - Za rok w sierpniu (my) weźmiemy ślub i planujemy wielkie przyjęcie. Em agosto do ano que vem, (nós) vamos nos casar e planejamos uma grande festa.
+ - Kiedy (my) byliśmy / byłyśmy dziećmi, sierpień był naszym ulubionym miesiącem, bo mogliśmy / mogłyśmy cały dzień bawić się na podwórku. Quando (nós) éramos crianças, agosto era o nosso mês favorito porque podíamos brincar o dia todo no quintal.
 
 - [] Dzień 472 - 
 
