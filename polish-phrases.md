@@ -2226,7 +2226,14 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Za rok w sierpniu (my) weźmiemy ślub i planujemy wielkie przyjęcie. Em agosto do ano que vem, (nós) vamos nos casar e planejamos uma grande festa.
  - Kiedy (my) byliśmy / byłyśmy dziećmi, sierpień był naszym ulubionym miesiącem, bo mogliśmy / mogłyśmy cały dzień bawić się na podwórku. Quando (nós) éramos crianças, agosto era o nosso mês favorito porque podíamos brincar o dia todo no quintal.
 
-- [] Dzień 472 - 
+- [x] Dzień 472 - Podobać się - Czasownik,
+                  Zadowalać / Zadowolić - Czasowniki,
+                  Sprawiać przyjemność - Czasownik frazowy. (Agradar. - Czasownik)
+ - Czy podoba ci się ten prezent? (Ja) mam nadzieję, że udało mi się ciebie zadowolić. Você gostou do presente? (Eu) espero ter conseguido te agradar.
+ - Jego / Jej pomysł na dekorację nie podobał się wszystkim, ale mnie bardzo przypadł do gustu. A ideia dele / dela para a decoração não agradou a todos, mas eu gostei muito.
+ - (My) staraliśmy / starałyśmy się zadowolić naszych gości, przygotowując ich ulubione potrawy. (Nós) tentamos agradar nossos convidados preparando seus pratos favoritos.
+ - On / Ona zawsze stara się sprawiać przyjemność innym, dlatego jest tak lubiany / lubiana. Ele / Ela sempre tenta agradar os outros, por isso é tão querido / querida.
+ - Jeśli (ty) chcesz mnie zadowolić, wystarczy, że będziesz szczęśliwy / szczęśliwa. Se (você) quer me agradar, basta que esteja feliz.
 
 - [] Dzień 473 - 
 
