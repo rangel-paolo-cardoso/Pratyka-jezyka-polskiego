@@ -2235,7 +2235,14 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zawsze stara się sprawiać przyjemność innym, dlatego jest tak lubiany / lubiana. Ele / Ela sempre tenta agradar os outros, por isso é tão querido / querida.
  - Jeśli (ty) chcesz mnie zadowolić, wystarczy, że będziesz szczęśliwy / szczęśliwa. Se (você) quer me agradar, basta que esteja feliz.
 
-- [] Dzień 473 - 
+- [x] Dzień 473 - Przyjemny / Przyjemna
+                  Miły / Miła
+                  Ładny / Ładna. (Agradável. - Przymiotnik(i))
+ - Wczorajszy wieczór był bardzo przyjemny – (Ja) dziękuję za miłe towarzystwo! A noite de ontem foi muito agradável – [(Eu) agradeço] obrigado pela companhia agradável!
+ - (Ja) mam nadzieję, że wasza podróż będzie przyjemna i bezproblemowa. (Eu) espero que a viagem de vocês seja agradável e sem problemas.
+ - On / Ona zawsze był / była miłym / miłą człowiekiem / osobą, dlatego wszyscy go / ją lubili. Ele / Ela sempre foi uma pessoa agradável, por isso todos gostavam dele / dela.
+ - Spacerując po plaży, (ja) czułem / czułam przyjemny wiatr na twarzy. Caminhando pela praia, (eu) senti um vento agradável no rosto (na cara).
+ - Czy to nie jest ładne miejsce na piknik? (Ja) myślę, że wam się spodoba. Este não é um lugar agradável para um piquenique? (Eu) acho que vocês vão gostar.
 
 - [] Dzień 474 - 
 
