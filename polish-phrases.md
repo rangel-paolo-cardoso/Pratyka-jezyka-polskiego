@@ -2244,14 +2244,19 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Spacerując po plaży, (ja) czułem / czułam przyjemny wiatr na twarzy. Caminhando pela praia, (eu) senti um vento agradável no rosto (na cara).
  - Czy to nie jest ładne miejsce na piknik? (Ja) myślę, że wam się spodoba. Este não é um lugar agradável para um piquenique? (Eu) acho que vocês vão gostar.
 
-- [x] Dzień 474 - Dziękować, Podziękować. (Agradecer. - Czasownik(i))
+- [x] Dzień 474 - Dziękować, Podziękować - . (Agradecer. - Czasownik(i))
  - (Ja) chcę ci serdecznie podziękować za wszystko, co dla mnie (ty) zrobiłeś / zrobiłaś. (Eu) quero te agradecer de coração por tudo que você fez por mim.
  - Wczoraj (my) podziękowaliśmy / podziękowałyśmy naszym rodzicom za ich wsparcie przez te lata. Ontem (nós) agradecemos aos nossos pais pelo apoio deles ao longo dos anos.
  - Czy (ty) dziękujesz każdemu / każdej, kto ci pomaga, czy zapominasz o tym? Você agradece a todos / todas que te ajudam ou se esquece disso?
  - Jeśli (ty) mi pomożesz, podziękuję ci w wyjątkowy sposób. Se (você) me ajudar, eu te agradecerei da uma maneira especial.
  - Oni / One jeszcze nie podziękowali / podziękowały za otrzymane wsparcie, ale na pewno to zrobią. Eles / Elas ainda não agradeceram pelo apoio recebido, mas com certeza o farão.
 
-- [] Dzień 475 - 
+- [x] Dzień 475 - Podziękowanie - Rzeczownik nijaki, Wdzięczność - Rzeczownik żeński. (Agradecimento. - Rzeczownik męski)
+ - (Ja) chciałem / chciałam wyrazić swoje szczere podziękowanie za twoją pomoc w trudnym czasie. (Eu) queria expressar meu sincero agradecimento pela sua ajuda em um momento difícil.
+ - Wasze podziękowanie za nasz wysiłek było dla nas bardzo wzruszające. O agradecimento de vocês pelo nosso esforço foi muito emocionante para nós.
+ - Jego / Jej podziękowanie było krótkie, ale pełne wdzięczności i szacunku. O agradecimento dele / dela foi curto, mas cheio de gratidão e respeito.
+ - W przyszłym tygodniu (my) wyślemy oficjalne podziękowanie wszystkim, którzy wsparli nasz projekt. Na próxima semana, (nós) enviaremos um agradecimento oficial a todos que apoiaram nosso projeto.
+ - Gdy (on / ona) zobaczył / zobaczyła prezent, jego / jej wdzięczność i podziękowanie były widoczne na twarzy. Quando ele / ela viu o presente, sua gratidão e agradecimento estavam visíveis em seu rosto.
 
 - [] Dzień 476 - 
 
