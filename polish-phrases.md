@@ -2258,7 +2258,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym tygodniu (my) wyślemy oficjalne podziękowanie wszystkim, którzy wsparli nasz projekt. Na próxima semana, (nós) enviaremos um agradecimento oficial a todos que apoiaram nosso projeto.
  - Gdy (on / ona) zobaczył / zobaczyła prezent, jego / jej wdzięczność i podziękowanie były widoczne na twarzy. Quando ele / ela viu o presente, sua gratidão e agradecimento estavam visíveis em seu rosto.
 
-- [] Dzień 476 - 
+- [x] Dzień 476 - Pogorszony, Zaostrzony - Przymiotniki, Pogorszenie - Rzeczownik nijaki. (Agravado. - Przymiotnik, Rzeczownik męski)
+ - Jego / Jej stan zdrowia został poważnie pogorszony po ostatniej operacji. O estado de saúde dele / dela foi gravemente agravado após a última cirurgia.
+ - Sytuacja w regionie jest zaostrzona przez trwające protesty. A situação na região está agravada pelos protestos em andamento.
+ - Jeśli (my) nie zmienimy strategii, problem będzie jeszcze bardziej pogorszony. Se (nós) não mudarmos a estratégia, o problema será ainda mais agravado.
+ - Wasze spóźnienie tylko pogorszyło napiętą atmosferę na spotkaniu. O atraso de vocês só agravou a atmosfera tensa da reunião.
+ - Po burzy sytuacja na drogach była mocno zaostrzona przez silne opady deszczu. Após a tempestade, a situação nas estradas estava bastante agravada pelas chuvas intensas.
 
 - [] Dzień 477 - 
 
