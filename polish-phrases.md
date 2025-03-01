@@ -2265,7 +2265,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wasze spóźnienie tylko pogorszyło napiętą atmosferę na spotkaniu. O atraso de vocês só agravou a atmosfera tensa da reunião.
  - Po burzy sytuacja na drogach była mocno zaostrzona przez silne opady deszczu. Após a tempestade, a situação nas estradas estava bastante agravada pelas chuvas intensas.
 
-- [] Dzień 477 - 
+- [x] Dzień 477 - Zaatakować, Napadać, Uderzyć, Zranić. (Agredir. - Czasowniki)
+ - On / Ona zaatakował / zaatakowała mężczyznę / kobietę na ulicy i teraz odpowie za swoje czyny. Ele / Ela agrediu um / uma homem / mulher na rua e agora responderá por seus atos.
+ - Jeśli (ty) mnie obrazisz, nie zamierzam cię napadać – po prostu odejdę. Se (você) me insultar, não pretendo te agredir – simplesmente irei embora.
+ - Policja zatrzymała grupę osób, które wczoraj napadły przechodnia / przechodenkę. A polícia deteve um grupo de pessoas que agrediram um / uma pedestre ontem.
+ - (My) nie możemy tolerować sytuacji, w których nauczyciele / nauczycielki są fizycznie atakowani / atakowane przez uczniów. (Nós) não podemos tolerar situações em que professores / professoras sejam fisicamente agredidos / agredidas por alunos.
+ - Jeśli (oni / one) będą nas prowokować, nie zamierzamy nikogo uderzyć, ale będziemy się bronić. Se eles / elas nos provocarem, não pretendemos agredir ninguém, mas iremos nos defender.
 
 - [] Dzień 478 - 
 
