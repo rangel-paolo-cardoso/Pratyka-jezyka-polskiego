@@ -2272,7 +2272,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) nie możemy tolerować sytuacji, w których nauczyciele / nauczycielki są fizycznie atakowani / atakowane przez uczniów. (Nós) não podemos tolerar situações em que professores / professoras sejam fisicamente agredidos / agredidas por alunos.
  - Jeśli (oni / one) będą nas prowokować, nie zamierzamy nikogo uderzyć, ale będziemy się bronić. Se eles / elas nos provocarem, não pretendemos agredir ninguém, mas iremos nos defender.
 
-- [] Dzień 478 - 
+- [x] Dzień 478 - Agregacja - Rzeczownik żeński, Połączenie, Zjednoczenie - Rzeczowniki nijakie. (Agregação. - Rzeczownik żeński)
+ - W chemii agregacja cząsteczek może prowadzić do powstania większych struktur. Na química, a agregação de moléculas pode levar à formação de estruturas maiores.
+ - Nasza firma dąży do agregacji różnych technologii, aby zwiększyć efektywność pracy. Nossa empresa busca a agregação de diferentes tecnologias para aumentar a eficiência do trabalho.
+ - W przeszłości agregacja małych plemion była konieczna do przetrwania w trudnych warunkach. No passado, a agregação de pequenas tribos era necessária para a sobrevivência em condições adversas.
+ - Czy agregacja tych danych w jednym systemie poprawi jakość analizy? A agregação desses dados em um único sistema melhorará a qualidade da análise?
+ - W przyszłości agregacja zasobów naturalnych będzie kluczowa dla zrównoważonego rozwoju. No futuro, a agregação de recursos naturais será crucial para o desenvolvimento sustentável.
 
 - [] Dzień 479 - 
 
