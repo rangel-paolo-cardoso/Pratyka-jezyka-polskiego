@@ -2279,7 +2279,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy agregacja tych danych w jednym systemie poprawi jakość analizy? A agregação desses dados em um único sistema melhorará a qualidade da análise?
  - W przyszłości agregacja zasobów naturalnych będzie kluczowa dla zrównoważonego rozwoju. No futuro, a agregação de recursos naturais será crucial para o desenvolvimento sustentável.
 
-- [] Dzień 479 - 
+- [x] Dzień 479 - Agresywność, Napastliwość, Zajadłość. (Agressividade. - Rzeczowniki żeńskie)
+ - Jego / Jej agresywność w dyskusjach sprawia, że inni nie chcą z nim / nią rozmawiać. A agressividade dele / dela em discussões faz com que os outros não queiram conversar com ele / ela.
+ - Wczoraj (ja) widziałem / widziałam, jak agresywność kibiców doprowadziła do bójki na stadionie. Ontem (eu) vi como a agressividade dos torcedores levou a uma briga no estádio.
+ - Czy twoja agresywność w negocjacjach zawsze przynosi dobre rezultaty? A sua agressividade nas negociações sempre traz bons resultados?
+ - W przyszłości (my) będziemy uczyć dzieci, jak radzić sobie z agresywnością w zdrowy sposób. No futuro, (nós) ensinaremos as crianças a como lidar com a agressividade de maneira saudável.
+ - Agresywność tej reklamy sprawia, że ludzie czują się niekomfortowo. A agressividade desse comercial faz com que as pessoas se sintam desconfortáveis.
 
 - [] Dzień 480 - 
 
