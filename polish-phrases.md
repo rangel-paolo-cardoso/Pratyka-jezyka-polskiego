@@ -2286,7 +2286,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) będziemy uczyć dzieci, jak radzić sobie z agresywnością w zdrowy sposób. No futuro, (nós) ensinaremos as crianças a como lidar com a agressividade de maneira saudável.
  - Agresywność tej reklamy sprawia, że ludzie czują się niekomfortowo. A agressividade desse comercial faz com que as pessoas se sintam desconfortáveis.
 
-- [] Dzień 480 - 
+- [x] Dzień 480 - Rolniczy / Rolnicza,
+                  Agrarny / Agrarna. (Agrícola. - Przymiotniki)
+ - Moja rodzina od pokoleń prowadzi działalność rolniczą na tych ziemiach. Minha família há gerações mantém uma atividade agrícola nessas terras.
+ - W przyszłości (my) będziemy inwestować w nowoczesne technologie rolnicze. No futuro, (nós) investiremos em tecnologias agrícolas modernas.
+ - Wczoraj (my) odwiedziliśmy / odwiedziłyśmy targ rolniczy, gdzie kupiliśmy / kupiłyśmy świeże warzywa i owoce. Ontem (nós) visitamos uma feira agrícola onde compramos frutas e verduras frescas.
+ - Czy (ty) wiesz, że sektor agrarny jest jednym z najważniejszych w gospodarce kraju? (Você) sabia que o setor agrícola é um dos mais importantes na economia do país?
+ - Oni / One zawsze interesowali / interesowały się rolniczymi metodami uprawy bez użycia chemikaliów. Eles / Elas sempre se interessaram por métodos agrícolas sem o uso de produtos químicos.
 
 - [] Dzień 481 - 
 
