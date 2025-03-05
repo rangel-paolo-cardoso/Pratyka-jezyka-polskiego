@@ -2294,7 +2294,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (ty) wiesz, że sektor agrarny jest jednym z najważniejszych w gospodarce kraju? (Você) sabia que o setor agrícola é um dos mais importantes na economia do país?
  - Oni / One zawsze interesowali / interesowały się rolniczymi metodami uprawy bez użycia chemikaliów. Eles / Elas sempre se interessaram por métodos agrícolas sem o uso de produtos químicos.
 
-- [] Dzień 481 - 
+- [x] Dzień 481 - Siwieć, Posiwieć. (Agrisalhar. - Czasowniki)
+ - Po latach stresu on / ona w końcu posiwiał / posiwiała i wygląda teraz zupełnie inaczej. Depois de anos de estresse, ele / ela finalmente agrisalhou e agora parece totalmente diferente.
+ - Z wiekiem (my) siwiejemy, ale ważne jest, aby akceptować naturalne zmiany. Com a idade, (nós) agrisalhamos, mas é importante aceitar as mudanças naturais.
+ - Czy (ty) zauważyłeś / zauważyłaś, że twoje włosy zaczęły siwieć szybciej w ostatnich latach? (Você) percebeu que seus cabelos começaram (seu cabelo começou) a agrisalhar mais rápido nos últimos anos?
+ - On / Ona posiwiał / posiwiała bardzo wcześnie, ale wygląda z tym naprawdę elegancko. Ele / Ela agrisalhou muito cedo, mas fica realmente elegante assim.
+ - W przyszłości oni / one też siwieją, więc nie ma sensu się tym przejmować. No futuro, eles também vão agrisalhar, então não faz sentido se preocupar com isso.
 
 - [] Dzień 482 - 
 
