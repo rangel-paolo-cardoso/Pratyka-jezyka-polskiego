@@ -2301,7 +2301,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona posiwiał / posiwiała bardzo wcześnie, ale wygląda z tym naprawdę elegancko. Ele / Ela agrisalhou muito cedo, mas fica realmente elegante assim.
  - W przyszłości oni / one też siwieją, więc nie ma sensu się tym przejmować. No futuro, eles também vão agrisalhar, então não faz sentido se preocupar com isso.
 
-- [] Dzień 482 - 
+- [x] Dzień 482 - Przemysł rolno-spożywczy, Przemysł rolny. (Agroindústria. - Rzeczownik żeński)
+ - Przemysł rolny odgrywa kluczową rolę w gospodarce naszego kraju, zwłaszcza w eksporcie żywności. A agroindústria desempenha um papel fundamental na economia do nosso país, especialmente na exportação de alimentos.
+ - W zeszłym roku (ja) pracowałem / pracowałam w dużym zakładzie przemysłu rolno-spożywczego i nauczyłem / nauczyłam się tam wielu rzeczy. No ano passado, (eu) trabalhei em uma grande empresa agroindustrial e aprendi muitas coisas lá.
+ - Czy (ty) wiesz, że przemysł rolno-spożywczy w Polsce rozwija się coraz szybciej dzięki nowym technologiom? Você sabia que a agroindústria na Polônia está crescendo cada vez mais rápido graças às novas tecnologias?
+ - W przyszłości (my) chcemy inwestować w przemysł rolny, ponieważ ma ogromny potencjał. No futuro, (nós) queremos investir na agroindústria, pois ela tem um enorme potencial.
+ - Oni / One założyli / założyły własną firmę w branży przemysłu rolno-spożywczego i teraz dostarczają produkty do całej Europy. Eles / Elas abriram sua própria empresa no setor agroindustrial e agora fornecem produtos para toda a Europa.
 
 - [] Dzień 483 - 
 
