@@ -2308,7 +2308,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) chcemy inwestować w przemysł rolny, ponieważ ma ogromny potencjał. No futuro, (nós) queremos investir na agroindústria, pois ela tem um enorme potencial.
  - Oni / One założyli / założyły własną firmę w branży przemysłu rolno-spożywczego i teraz dostarczają produkty do całej Europy. Eles / Elas abriram sua própria empresa no setor agroindustrial e agora fornecem produtos para toda a Europa.
 
-- [] Dzień 483 - 
+- [x] Dzień 483 - Agronomia - Rzeczownik żeński, Nauka o rolnictwie. (Agronomia. - Rzeczownik żeński)
+ - (Ja) studiuję agronomię, ponieważ zawsze interesowałem / interesowałam się nowoczesnym rolnictwem. (Eu) estudo agronomia porque sempre me interessei por agricultura moderna.
+ - W zeszłym roku (on / ona) obronił / obroniła pracę magisterską z agronomii i teraz pracuje w firmie doradczej dla rolników. No ano passado, ele / ela defendeu sua tese de mestrado em agronomia e agora trabalha em uma empresa de consultoria para agricultores.
+ - Czy (ty) wiesz, że agronomia odgrywa kluczową rolę w zwiększaniu wydajności upraw i ochronie środowiska? (Você) sabia que a agronomia desempenha um papel fundamental no aumento da produtividade das lavouras e na proteção do meio ambiente?
+ - W przyszłości (my) chcemy założyć własne gospodarstwo ekologiczne i wykorzystać naszą wiedzę z agronomii. No futuro, (nós) queremos abrir nossa própria fazenda orgânica e aplicar nosso conhecimento em agronomia.
+ - Oni / One zawsze interesowali / interesowały się agronomią, dlatego wybrali studia na wydziale nauk o rolnictwie. Eles / Elas sempre se interessaram por agronomia, por isso escolheram estudar na faculdade de ciências agrícolas.
 
 - [] Dzień 484 - 
 
