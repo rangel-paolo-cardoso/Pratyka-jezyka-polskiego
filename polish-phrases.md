@@ -2315,7 +2315,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) chcemy założyć własne gospodarstwo ekologiczne i wykorzystać naszą wiedzę z agronomii. No futuro, (nós) queremos abrir nossa própria fazenda orgânica e aplicar nosso conhecimento em agronomia.
  - Oni / One zawsze interesowali / interesowały się agronomią, dlatego wybrali studia na wydziale nauk o rolnictwie. Eles / Elas sempre se interessaram por agronomia, por isso escolheram estudar na faculdade de ciências agrícolas.
 
-- [] Dzień 484 - 
+- [x] Dzień 484 - Rolnictwo i hodowla, Gospodarka rolno-hodowlana. (Agropecuária. - Rzeczownik żeński)
+ - W zeszłym roku (ja) studiowałem / studiowałam rolnictwo i hodowlę, aby lepiej zrozumieć nowoczesne metody produkcji żywności. No ano passado, (eu) estudei agropecuária para entender melhor os métodos modernos de produção de alimentos.
+ - Czy (ty) wiesz, że gospodarka rolno-hodowlana odgrywa kluczową rolę w rozwoju gospodarczym naszego kraju? (Você) sabia que a agropecuária desempenha um papel fundamental no desenvolvimento econômico do nosso país?
+ - Oni / One zawsze marzyli / marzyły o własnym gospodarstwie rolno-hodowlanym, dlatego postanowili / postanowiły zainwestować w agrobiznes. Eles / Elas sempre sonharam em ter sua própria fazenda agropecuária, por isso decidiram investir no agronegócio.
+ - W przyszłości (my) chcemy rozwinąć naszą firmę zajmującą się rolnictwem i hodowlą, aby dostarczać zdrową żywność na rynek. No futuro, (nós) queremos expandir os negócios da nossa empresa agropecuária para fornecer alimentos saudáveis ao mercado.
+ - My jako społeczność musimy wspierać zrównoważone rolnictwo i hodowlę, aby chronić środowisko i zapewnić przyszłość naszej planety. Nós, como comunidade, precisamos apoiar a agropecuária sustentável para proteger o meio ambiente e garantir o futuro do nosso planeta.
 
 - [] Dzień 485 - 
 
