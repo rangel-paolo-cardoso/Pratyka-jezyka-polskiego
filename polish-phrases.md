@@ -2322,7 +2322,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) chcemy rozwinąć naszą firmę zajmującą się rolnictwem i hodowlą, aby dostarczać zdrową żywność na rynek. No futuro, (nós) queremos expandir os negócios da nossa empresa agropecuária para fornecer alimentos saudáveis ao mercado.
  - My jako społeczność musimy wspierać zrównoważone rolnictwo i hodowlę, aby chronić środowisko i zapewnić przyszłość naszej planety. Nós, como comunidade, precisamos apoiar a agropecuária sustentável para proteger o meio ambiente e garantir o futuro do nosso planeta.
 
-- [] Dzień 485 - 
+- [x] Dzień 485 - Zgrupowanie, Grupowanie, Skupisko - Rzeczowniki nijakie. (Agrupamento. - Rzeczownik męski)
+ - W zeszłym roku nasze zgrupowanie sportowe odbyło się w górach i było niezwykle udane. No ano passado, nosso agrupamento esportivo aconteceu nas montanhas e foi extremamente bem-sucedido.
+ - (Czy) (ty) wiesz, że to miasto słynie ze swoich skupisk zabytkowych budynków? (Você) sabia que esta cidade é famosa por seu agrupamento de edifícios históricos?
+ - Jutro (my) rozpoczniemy grupowanie danych, aby lepiej zrozumieć wyniki badań. Amanhã (nós) começaremos o agrupamento de dados para entender melhor os resultados da pesquisa.
+ - Oni / One utworzyli / utworzyły zgrupowanie ekspertów, aby znaleźć rozwiązanie tego problemu. Eles / Elas formaram um agrupamento de especialistas para encontrar uma solução para esse problema.
+ - My jako społeczność dążymy do stworzenia lepszego skupiska ludzi o podobnych wartościach. Nós, como comunidade, nos esforçamos para criar um agrupamento melhor de pessoas com valores semelhantes.
 
 - [] Dzień 486 - 
 
