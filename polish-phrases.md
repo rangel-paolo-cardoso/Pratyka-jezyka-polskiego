@@ -2329,7 +2329,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One utworzyli / utworzyły zgrupowanie ekspertów, aby znaleźć rozwiązanie tego problemu. Eles / Elas formaram um agrupamento de especialistas para encontrar uma solução para esse problema.
  - My jako społeczność dążymy do stworzenia lepszego skupiska ludzi o podobnych wartościach. Nós, como comunidade, nos esforçamos para criar um agrupamento melhor de pessoas com valores semelhantes.
 
-- [] Dzień 486 - 
+- [x] Dzień 486 - Grupować, Zgrupować, Skupiać, Skupić. (Agrupar. - Czasownik(i))
+ - (Ja) muszę zgrupować wszystkie dokumenty przed spotkaniem, żeby łatwiej było je omówić. (Eu) preciso agrupar todos os documentos antes da reunião para que seja mais fácil discuti-los.
+ - Wczoraj oni / one zgrupowali / zgrupowały ludzi według ich umiejętności, aby lepiej przydzielić zadania. Ontem, eles  / elas agruparam as pessoas de acordo com suas habilidades para distribuir melhor as tarefas.
+ - Czy (ty) potrafisz grupować te pliki według daty? To ułatwi nam pracę. Você pode agrupar esses arquivos por data? Isso facilitará nosso trabalho.
+ - My jako nauczyciele / nauczycielki skupiamy uczniów w małych zespołach, aby poprawić efektywność nauki. Nós, como professores, agrupamos os alunos em pequenas equipes para melhorar a eficácia do aprendizado.
+ - Jutro (my) zgrupujemy wszystkie produkty w magazynie, żeby zoptymalizować przestrzeń. Amanhã, (nós) vamos agrupar todos os produtos no armazém para otimizar o espaço.
 
 - [] Dzień 487 - 
 
