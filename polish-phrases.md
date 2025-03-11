@@ -2336,7 +2336,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - My jako nauczyciele / nauczycielki skupiamy uczniów w małych zespołach, aby poprawić efektywność nauki. Nós, como professores, agrupamos os alunos em pequenas equipes para melhorar a eficácia do aprendizado.
  - Jutro (my) zgrupujemy wszystkie produkty w magazynie, żeby zoptymalizować przestrzeń. Amanhã, (nós) vamos agrupar todos os produtos no armazém para otimizar o espaço.
 
-- [] Dzień 487 - 
+- [x] Dzień 487 - Woda, Wody, Wodzie (x2), Wodę, Wodą, "Wodo!". (Água. - Rzeczownik żeński)
+ - Woda jest niezbędna do życia, dlatego (my) musimy ją oszczędzać. A água é essencial para a vida, por isso (nós) devemos economizá-la.
+ - Wczoraj zabrakło wody w naszym domu i (my) musieliśmy / musiałyśmy kupić butelkowaną. Ontem faltou água em nossa casa e (nós) tivemos que comprar engarrafada.
+ - Dziecko bawi się wodą w ogrodzie, chociaż jest zimno. A criança está brincando com água no jardim, embora esteja frio.
+ - Na lekcji chemii (my) rozmawialiśmy / rozmawiałyśmy o wodzie i jej różnych stanach skupienia. Na aula de química, (nós) falamos sobre a água e seus diferentes estados físicos.
+ - Tato / Mamo, podaj mi wodę, proszę! Pai / Mãe, me dá água, por favor!
 
 - [] Dzień 488 - 
 
