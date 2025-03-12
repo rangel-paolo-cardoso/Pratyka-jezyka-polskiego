@@ -2343,7 +2343,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Na lekcji chemii (my) rozmawialiśmy / rozmawiałyśmy o wodzie i jej różnych stanach skupienia. Na aula de química, (nós) falamos sobre a água e seus diferentes estados físicos.
  - Tato / Mamo, podaj mi wodę, proszę! Pai / Mãe, me dá água, por favor!
 
-- [] Dzień 488 - 
+- [x] Dzień 488 - Ulewa - Rzeczownik żeński, Oberwanie chmury, Deszcz nawalny. (Aguaceiro. - Rzeczownik męski)
+ - Wczoraj była straszna ulewa i całkowicie (ja) zmokłem / zmokłam. Ontem houve um aguaceiro terrível e (eu) fiquei completamente encharcado / encharcada.
+ - Gdy (wy) wychodziliście / wychodziłyście z domu, zaczęła się nagła ulewa. Quando vocês saíram de casa, começou um aguaceiro repentino.
+ - Jeśli będzie dziś ulewa, (ja) nie pójdę na spacer. Se houver um aguaceiro hoje, (eu) não vou sair para caminhar.
+ - Podczas oberwania chmury lepiej zostać w domu. Durante um aguaceiro forte, é melhor ficar em casa.
+ - Jutro meteorolodzy przewidują deszcz nawalny w całym kraju. Amanhã, os meteorologistas preveem um aguaceiro em todo o país.
 
 - [] Dzień 489 - 
 
