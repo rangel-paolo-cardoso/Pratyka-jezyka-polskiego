@@ -2350,7 +2350,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Podczas oberwania chmury lepiej zostać w domu. Durante um aguaceiro forte, é melhor ficar em casa.
  - Jutro meteorolodzy przewidują deszcz nawalny w całym kraju. Amanhã, os meteorologistas preveem um aguaceiro em todo o país.
 
-- [] Dzień 489 - 
+- [x] Dzień 489 - Wodnisty, Wodnista, Wodniste, Rozwodniony / Rozwodniona. (Aguado / Aguada. - Przymiotnik(i))
+ - (Ja) nie lubię, gdy zupa jest wodnista. Wolę gęstą i aromatyczną. (Eu) não gosto quando a sopa está aguada. Prefiro uma espessa e aromática.
+ - Kawa, którą (ty) mi podałeś / podałaś, była bardzo rozwodniona. O café que você me serviu estava muito aguado.
+ - Jeśli (ty) nie dodasz więcej czekolady, krem będzie wodnisty i niezbyt smaczny. Se você não adicionar mais chocolate, o creme ficará aguado e não muito saboroso.
+ - Przynieśli nam rozwodnione soki, więc wszyscy / wszystkie byliśmy / byłyśmy rozczarowani / rozczarowane. Nos trouxeram sucos aguados, então todos / todas nós ficamos decepcionados / decepcionadas.
+ - (Ja) mam nadzieję, że zupa dzisiaj nie będzie wodnista jak ostatnim razem. (Eu) espero que a sopa hoje não esteja aguada como da última vez.
 
 - [] Dzień 490 - 
 
