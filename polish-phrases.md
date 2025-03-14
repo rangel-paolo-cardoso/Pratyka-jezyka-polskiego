@@ -2357,7 +2357,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Przynieśli nam rozwodnione soki, więc wszyscy / wszystkie byliśmy / byłyśmy rozczarowani / rozczarowane. Nos trouxeram sucos aguados, então todos / todas nós ficamos decepcionados / decepcionadas.
  - (Ja) mam nadzieję, że zupa dzisiaj nie będzie wodnista jak ostatnim razem. (Eu) espero que a sopa hoje não esteja aguada como da última vez.
 
-- [] Dzień 490 - 
+- [x] Dzień 490 - Hiacynt wodny, Roślina wodna. (Aguapé. - Rzeczownik męski)
+- (Ja) widziałem / widziałam mnóstwo hiacyntów wodnych na jeziorze podczas wakacji. (Eu) vi muitos aguapés no lago durante as férias.
+- Czy (ty) wiesz, że hiacynty wodne mogą szybko pokryć całą powierzchnię rzeki? (Você) sabia que os aguapés podem cobrir rapidamente toda a superfície de um rio?
+- Jeśli (my) nie usuniemy hiacyntów wodnych, w przyszłości mogą zagrozić ekosystemowi. Se (nós) não removermos os aguapés, no futuro eles poderão ameaçar o ecossistema.
+- Oni / One badali / badały wpływ hiacyntów wodnych na jakość wody w tym jeziorze. Eles / Elas estudaram o impacto dos aguapés na qualidade da água deste lago.
+- (Ja) mam nadzieję, że w przyszłym roku posadzimy hiacynty wodne w naszym stawie. (Eu) espero que no próximo ano plantemos aguapés no nosso lago.
 
 - [] Dzień 491 - 
 
