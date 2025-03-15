@@ -2364,7 +2364,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - Oni / One badali / badały wpływ hiacyntów wodnych na jakość wody w tym jeziorze. Eles / Elas estudaram o impacto dos aguapés na qualidade da água deste lago.
 - (Ja) mam nadzieję, że w przyszłym roku posadzimy hiacynty wodne w naszym stawie. (Eu) espero que no próximo ano plantemos aguapés no nosso lago.
 
-- [] Dzień 491 - 
+- [x] Dzień 491 - Czekać, Oczekiwać. (Aguardar (formal). - Czasownik(i))
+ - (Ja) czekałem / czekałam na ciebie przez godzinę i już miałem / miałam zamiar odejść. (Eu) aguardei por você por uma hora e já estava prestes a ir embora.
+ - Czy (ty) oczekujesz na ważną wiadomość, czy możemy już wychodzić? Você está aguardando uma mensagem importante ou já podemos sair?
+ - (My) będziemy czekać na was przy wejściu do kina. (Nós) aguardaremos (por) vocês na entrada do cinema.
+ - Oni / One oczekiwali / oczekiwały wyników egzaminu z niecierpliwością. Eles / Elas aguardaram os resultados do exame com impaciência.
+ - (Ja) mam nadzieję, że on / ona nie będzie długo czekał / czekała na odpowiedź. (Eu) espero que ele / ela não tenha que aguardar muito tempo por uma resposta.
 
 - [] Dzień 492 - 
 
