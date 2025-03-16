@@ -2371,7 +2371,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One oczekiwali / oczekiwały wyników egzaminu z niecierpliwością. Eles / Elas aguardaram os resultados do exame com impaciência.
  - (Ja) mam nadzieję, że on / ona nie będzie długo czekał / czekała na odpowiedź. (Eu) espero que ele / ela não tenha que aguardar muito tempo por uma resposta.
 
-- [] Dzień 492 - 
+- [x] Dzień 492 - Meduza, Chełbia. (Água-viva. - Rzeczowniki żeńskie)
+ - W zeszłym roku, gdy (ja) byłem / byłam nad morzem, meduza ugryzła mojego / moją brata / siostrę i musieliśmy / musiałyśmy iść do lekarza. No ano passado, quando eu estava no mar, uma água-viva picou meu / minha irmão / irmã e tivemos que ir ao médico.
+ - (Czy) (ty) wiesz, że meduzy nie mają mózgu, ale mogą się poruszać i reagować na bodźce? (Você) sabia que as águas-vivas não têm cérebro, mas conseguem se mover e reagir a estímulos?
+ - (My) będziemy nurkować w oceanie, ale mam nadzieję, że nie spotkamy żadnej chełbi. (Nós) vamos mergulhar no oceano, mas espero que não encontremos nenhuma água-viva.
+ - One są piękne, ale niektóre meduzy mogą być bardzo niebezpieczne dla człowieka. Elas são bonitas, mas algumas águas-vivas podem ser muito perigosas para os humanos.
+ - Jeśli (ty) kiedykolwiek zostaniesz poparzony / poparzona przez meduzę, nie pocieraj skóry rękami, to może tylko pogorszyć sytuację. Se você por acaso for queimado / queimada por uma água-viva, não esfregue a pele com as mãos, isso (só) pode piorar a situação.
 
 - [] Dzień 493 - 
 
