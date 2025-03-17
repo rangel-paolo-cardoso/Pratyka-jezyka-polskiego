@@ -2378,7 +2378,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - One są piękne, ale niektóre meduzy mogą być bardzo niebezpieczne dla człowieka. Elas são bonitas, mas algumas águas-vivas podem ser muito perigosas para os humanos.
  - Jeśli (ty) kiedykolwiek zostaniesz poparzony / poparzona przez meduzę, nie pocieraj skóry rękami, to może tylko pogorszyć sytuację. Se você por acaso for queimado / queimada por uma água-viva, não esfregue a pele com as mãos, isso (só) pode piorar a situação.
 
-- [] Dzień 493 - 
+- [x] Dzień 493 - Ostrzyć, Wyostrzyć, Zaostrzyć. (Aguçar. - Czasownik(i))
+ - (Ja) musiałem / musiałam wyostrzyć swój wzrok, żeby zobaczyć szczegóły obrazu. (Eu) tive que aguçar minha visão para ver os detalhes da pintura.
+ - (My) wyostrzymy nasz słuch, aby lepiej usłyszeć dźwięki natury podczas podróży. (Nós) vamos aguçar nossa audição para ouvir melhor os sons da natureza durante a viagem.
+ - Kiedy (ja) byłem / byłam dzieckiem, dziadek / babcia nauczył / nauczyła mnie, jak prawidłowo ostrzyć noże. Quando eu era criança, meu / minha avô / avó me ensinou como afiar facas corretamente.
+ - (Wy) zaostrzyliście / zaostrzyłyście zasady w firmie, żeby uniknąć przyszłych problemów? Vocês aguçaram (endureceram) as regras na empresa para evitar problemas futuros?
+ - Jeśli (ty) będziesz codziennie ćwiczyć, wyostrzysz swoje umiejętności i staniesz się ekspertem / ekspertką. Se você praticar todos os dias, vai aguçar suas habilidades e se tornar um / uma especialista.
 
 - [] Dzień 494 - 
 
