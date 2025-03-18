@@ -2385,7 +2385,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) zaostrzyliście / zaostrzyłyście zasady w firmie, żeby uniknąć przyszłych problemów? Vocês aguçaram (endureceram) as regras na empresa para evitar problemas futuros?
  - Jeśli (ty) będziesz codziennie ćwiczyć, wyostrzysz swoje umiejętności i staniesz się ekspertem / ekspertką. Se você praticar todos os dias, vai aguçar suas habilidades e se tornar um / uma especialista.
 
-- [] Dzień 494 - 
+- [x] Dzień 494 - Ostry, Przenikliwy, Nagły. (Agudo. - Przymiotnik(i))
+ - Wczoraj wieczorem (ja) usłyszałem / usłyszałam ostry, przerażający krzyk. Ontem à noite (eu) ouvi um grito agudo e assustador.
+ - Jego / Jej wzrok jest bardzo przenikliwy, zauważa każdy szczegół. O olhar dele / dela é muito agudo, percebe cada detalhe.
+ - Podczas lekcji matematyki (my) nauczyliśmy / nauczyłyśmy się, że kąt ostry ma mniej niż 90 (dziewięćdziesiąt) stopni. Durante a aula de matemática, (nós) aprendemos que um ângulo agudo tem menos de 90 (noventa) graus.
+ - Pachniało ostrym zapachem spalenizny, więc natychmiast wyłączyliśmy / wyłączyłyśmy piekarnik. Sentia-se um cheiro agudo de queimado, então desligamos o forno imediatamente.
+ - Jeśli (ty) nie założysz czapki, poczujesz przenikliwe zimno na uszach. Se (você) não colocar um gorro, vai sentir o frio agudo nos ouvidos.
 
 - [] Dzień 495 - 
 
