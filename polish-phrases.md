@@ -2392,7 +2392,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Pachniało ostrym zapachem spalenizny, więc natychmiast wyłączyliśmy / wyłączyłyśmy piekarnik. Sentia-se um cheiro agudo de queimado, então desligamos o forno imediatamente.
  - Jeśli (ty) nie założysz czapki, poczujesz przenikliwe zimno na uszach. Se (você) não colocar um gorro, vai sentir o frio agudo nos ouvidos.
 
-- [] Dzień 495 - 
+- [x] Dzień 495 - Wytrzymać, Znieść, Utrzymać, Przetrwać. (Aguentar. - Czasowniki)
+ - (Ja) nie wiem, czy wytrzymam kolejną noc bez snu. (Eu) não sei se vou aguentar mais uma noite sem dormir.
+ - On / Ona nie zdołał / zdołała znieść tej niesprawiedliwości i postanowił / postanowiła odejść z pracy. Ele / Ela não conseguiu aguentar essa injustiça e decidiu sair do trabalho.
+ - Czy (wy) wytrzymacie tak długą podróż bez przerwy? Vocês vão aguentar uma viagem tão longa sem pausa?
+ - (My) musieliśmy / musiałyśmy przetrwać trudne czasy, ale teraz jest nam lepiej. (Nós) tivemos que aguentar tempos difíceis, mas agora estamos melhores.
+ - (On / Ona) utrzymał / utrzymała ciężką walizkę jedną ręką, chociaż było widać, że ledwo daje radę. Ele / Ela aguentou a mala pesada com uma mão, embora estivesse claro que mal conseguia
 
 - [] Dzień 496 - 
 
