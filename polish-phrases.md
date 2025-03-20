@@ -2399,7 +2399,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) musieliśmy / musiałyśmy przetrwać trudne czasy, ale teraz jest nam lepiej. (Nós) tivemos que aguentar tempos difíceis, mas agora estamos melhores.
  - (On / Ona) utrzymał / utrzymała ciężką walizkę jedną ręką, chociaż było widać, że ledwo daje radę. Ele / Ela aguentou a mala pesada com uma mão, embora estivesse claro que mal conseguia
 
-- [] Dzień 496 - 
+- [x] Dzień 496 - Orzeł - Rzeczownik męski, Orlica - Rzeczownik żeński. (Águia. - Rzeczownik żeński)
+ - Wczoraj (ja) widziałem / widziałam orła szybującego nad górami. Ontem (eu) vi uma águia planando sobre as montanhas.
+ - Czy (ty) wiesz, że orły mają niezwykle ostry wzrok? (Você) sabia que as águias têm uma visão extremamente aguçada?
+ - Jutro (my) pojedziemy w góry i mam nadzieję, że zobaczymy jakiegoś / jakąś orła / orlicę. Amanhã (nós) vamos para as montanhas e espero que vejamos alguma águia.
+ - Oni / One obserwowali / obserwowały orła, który polował na swoją zdobycz. Eles / Elas observaram a águia que caçava sua presa.
+ - Jeśli (my) będziemy cierpliwi, może uda nam się zobaczyć orła na wolności. Se (nós) formos pacientes, talvez consigamos ver uma águia na natureza.
 
 - [] Dzień 497 - 
 
