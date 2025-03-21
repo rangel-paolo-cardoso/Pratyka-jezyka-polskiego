@@ -2406,7 +2406,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One obserwowali / obserwowały orła, który polował na swoją zdobycz. Eles / Elas observaram a águia que caçava sua presa.
  - Jeśli (my) będziemy cierpliwi, może uda nam się zobaczyć orła na wolności. Se (nós) formos pacientes, talvez consigamos ver uma águia na natureza.
 
-- [] Dzień 497 - 
+- [x] Dzień 497 - Igła - Rzeczownik żeński, Drut - Rzeczownik męski, Strzykawka - Rzeczownik żeński. (Agulha. - Rzeczownik żeński)
+ - (Ja) nigdy nie lubiłem / lubiłam igieł, ale musiałem / musiałam zrobić badanie krwi. (Eu) nunca gostei de agulhas, mas precisei fazer um exame de sangue.
+ - On / Ona nauczył / nauczyła się szyć i teraz potrafi sprawnie używać igły. Ele / Ela aprendeu a costurar e agora consegue usar a agulha eficientemente.
+ - Czy (ty) jutro pomożesz mi znaleźć igłę? (Ja) zgubiłem / zgubiłam ją na dywanie. Você pode me ajudar a encontrar a agulha amanhã? Eu (a) perdi ela no tapete.
+ - Wczoraj mój / moja dziadek / babcia naprawiał / naprawiała swój płaszcz za pomocą igły i nitki. Ontem meu / minha avô / avó consertou o (seu) casaco dele / dela com a ajuda de uma agulha e linha.
+ - Jeśli (ty) nie boisz się igieł, możesz pomóc mi zszyć ten materiał? Se você não tem medo de agulhas, pode me ajudar a costurar esse tecido?
 
 - [] Dzień 498 - 
 
