@@ -2413,7 +2413,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Wczoraj mój / moja dziadek / babcia naprawiał / naprawiała swój płaszcz za pomocą igły i nitki. Ontem meu / minha avô / avó consertou o (seu) casaco dele / dela com a ajuda de uma agulha e linha.
  - Jeśli (ty) nie boisz się igieł, możesz pomóc mi zszyć ten materiał? Se você não tem medo de agulhas, pode me ajudar a costurar esse tecido?
 
-- [] Dzień 498 - 
+- [x] Dzień 498 - Tam. (Aí - Przysłówek)
+ - Czy tam u ciebie też pada deszcz? Tutaj pogoda jest okropna. Aí onde você está também está chovendo? Aqui o tempo está horrível.
+ - (My) byliśmy / byłyśmy tam u was w zeszłym roku i bardzo nam się podobało. (Nós) estivemos aí com vocês no ano passado e (nós) gostamos muito.
+ - Co tam u ciebie słychać? Dawno się nie widzieliśmy / widziałyśmy. E aí, como você está? Faz tempo que não nos vemos.
+ - Jeśli tam (ty) zostaniesz, (ja) poczekam na ciebie tutaj. Se você ficar aí, (eu) te espero (por você) aqui.
+ - W tym miejscu było kiedyś piękne drzewo, ale teraz jest tam tylko beton. Nesse lugar havia uma árvore tão linda, mas agora aí só tem concreto.
 
 - [] Dzień 499 - 
 
