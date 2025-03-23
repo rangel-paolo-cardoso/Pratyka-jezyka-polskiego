@@ -2420,7 +2420,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jeśli tam (ty) zostaniesz, (ja) poczekam na ciebie tutaj. Se você ficar aí, (eu) te espero (por você) aqui.
  - W tym miejscu było kiedyś piękne drzewo, ale teraz jest tam tylko beton. Nesse lugar havia uma árvore tão linda, mas agora aí só tem concreto.
 
-- [] Dzień 499 - 
+- [x] Dzień 499 - Jeszcze, Wciąż, Dalej, Nadal. (Ainda. - Przysłówki)
+ - (Ja) jeszcze nie skończyłem / skończyłam pracy, ale zrobię to do wieczora. (Eu) ainda não terminei o trabalho, mas vou concluir até a noite.
+ - On / Ona wciąż czeka na odpowiedź od lekarza. Ele / Ela ainda está esperando uma resposta do médico.
+ - Czy (wy) nadal chcecie jechać na wakacje, mimo złej pogody? (Vocês) ainda querem viajar de férias, apesar do mau tempo?
+ - Dalej nie rozumiem, jak to działa. Ainda não entendo como isso funciona.
+ - On / Ona jeszcze nigdy nie był / była w Brazylii, ale ma nadzieję, że kiedyś tam pojedzie. Ele / Ela ainda nunca esteve no Brasil, mas espera ir lá um dia.
 
 - [] Dzień 500 - 
 
