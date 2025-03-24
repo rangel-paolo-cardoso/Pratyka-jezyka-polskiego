@@ -2427,7 +2427,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Dalej nie rozumiem, jak to działa. Ainda não entendo como isso funciona.
  - On / Ona jeszcze nigdy nie był / była w Brazylii, ale ma nadzieję, że kiedyś tam pojedzie. Ele / Ela ainda nunca esteve no Brasil, mas espera ir lá um dia.
 
-- [] Dzień 500 - 
+- [x] Dzień 500 - Maniok - Rzeczownik męski, Kassawa - Rzeczownik żeński(Uncommon). (Aipim. - Rzeczownik męski)
+ - Wczoraj ugotowałem / ugotowałam maniok na kolację i podałem / podałam go z masłem i solą. Ontem cozinhei aipim para o jantar e servi (ele) com manteiga e sal.
+ - On / Ona nigdy nie jadł / jadła manioku, ale myślę, że jemu / jej się spodoba. Ele / Ela nunca comeu aipim, mas acho que (ele / ela) vai gostar.
+ - Czy (wy) kupiliście / kupiłyście maniok na targu? (Ja) chciałem / chciałam zrobić z niego purée. (Vocês) compraram aipim na feira? (Eu) queria fazer um purê com ele.
+ - Jutro (my) przygotujemy frytki z manioku na obiad. Amanhã (nós) vamos preparar batatas fritas de aipim para o almoço.
+ - Maniok jest bardzo popularny w Brazylii i można z niego zrobić wiele potraw. O aipim é muito popular no Brasil e dá para fazer muitos pratos com ele.
 
 - [] Dzień 501 - 
 
