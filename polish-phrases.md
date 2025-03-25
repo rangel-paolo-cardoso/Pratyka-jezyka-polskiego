@@ -2434,7 +2434,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (my) przygotujemy frytki z manioku na obiad. Amanhã (nós) vamos preparar batatas fritas de aipim para o almoço.
  - Maniok jest bardzo popularny w Brazylii i można z niego zrobić wiele potraw. O aipim é muito popular no Brasil e dá para fazer muitos pratos com ele.
 
-- [] Dzień 501 - 
+- [x] Dzień 501 - Seler. (Aipo. - Rzeczowniki męskie)
+ - Wczoraj (ja) dodałem / dodałam seler naciowy do sałatki i smakował naprawdę dobrze. Ontem (eu) adicionei um talo de aipo à salada e ficou realmente bom.
+ - On / Ona nie lubi smaku selera, ale (ja) uważam, że jest bardzo zdrowy. Ele / Ela não gosta do sabor do aipo, mas (eu) acho que é muito saudável.
+ - Czy (wy) kupiliście / kupiłyście seler na zupę? Bez niego nie będzie miała tego samego smaku. (Vocês) compraram aipo para a sopa? Sem ele, não terá o mesmo sabor.
+ - Jutro (my) przygotujemy świeży sok z marchwi i selera. Amanhã (nós) vamos preparar um suco fresco de cenoura e aipo.
+ - Seler korzeniowy jest często używany w polskich zupach i daniach jednogarnkowych. O aipo-rábano é frequentemente usado em sopas e ensopados poloneses.
 
 - [] Dzień 502 - 
 
