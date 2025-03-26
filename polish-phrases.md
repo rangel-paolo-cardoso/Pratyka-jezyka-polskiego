@@ -2441,7 +2441,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (my) przygotujemy świeży sok z marchwi i selera. Amanhã (nós) vamos preparar um suco fresco de cenoura e aipo.
  - Seler korzeniowy jest często używany w polskich zupach i daniach jednogarnkowych. O aipo-rábano é frequentemente usado em sopas e ensopados poloneses.
 
-- [] Dzień 502 - 
+- [x] Dzień 502 - Poprawić, Ułożyć, Dostosować, Naprawić. (Ajeitar. - Czasownik(i))
+ - (Ja) muszę poprawić krawat przed wyjściem na spotkanie. (Eu) preciso ajeitar a gravata antes de sair para a reunião.
+ - On / Ona ułożył / ułożyła książki na półce, żeby wyglądały ładniej. Ele / Ela ajeitou os livros na estante para que ficassem mais bonitos.
+ - Czy (wy) dostosowaliście / dostosowałyście plan do nowych okoliczności? (Vocês) ajeitaram o plano para as novas circunstâncias?
+ - Jutro (ja) naprawię ten kran, bo od tygodnia cieknie. Amanhã eu ajeitarei essa torneira, porque está vazando há uma semana.
+ - On / Ona poprawił / poprawiła swoją marynarkę, zanim wszedł na scenę. Ele / Ela ajeitou seu paletó antes de subir ao palco.
 
 - [] Dzień 503 - 
 - [] Dzień 504 - 
