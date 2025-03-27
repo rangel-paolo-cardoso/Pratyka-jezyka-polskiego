@@ -2448,111 +2448,221 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (ja) naprawię ten kran, bo od tygodnia cieknie. Amanhã eu ajeitarei essa torneira, porque está vazando há uma semana.
  - On / Ona poprawił / poprawiła swoją marynarkę, zanim wszedł na scenę. Ele / Ela ajeitou seu paletó antes de subir ao palco.
 
-- [] Dzień 503 - 
+- [x] Dzień 503 - Uklęknąć, Klęczeć. (Ajoelhar. - Czasowniki)
+ - On / Ona uklęknął / uklękła przed ołtarzem i zaczął / zaczęła się modlić. Ele / Ela se ajoelhou diante do altar e começou a rezar.
+ - Czy (ty) uklękniesz, jeśli o to poproszę? Você se ajoelhará se eu pedir?
+ - (My) klęczeliśmy / klęczałyśmy przez całą ceremonię, co było bardzo męczące. (Nós) ficamos ajoelhados / ajoelhadas durante toda a cerimônia, o que foi muito cansativo.
+ - On / Ona uklęknął / uklękła, żeby podnieść pierścionek, który mu / jej upadł. Ele / Ela se ajoelhou para pegar o anel que (ele / ela) derrubou.
+ - (Oni / One) uklęknęli / uklęknęły przed starszą kobietą, aby okazać szacunek. Eles / Elas se ajoelharam diante da senhora idosa para demonstrar respeito. (mulher velha -> really rude)
+
 - [] Dzień 504 - 
+
 - [] Dzień 505 - 
+
 - [] Dzień 506 - 
+
 - [] Dzień 507 - 
+
 - [] Dzień 508 - 
+
 - [] Dzień 509 - 
+
 - [] Dzień 510 - 
+
 - [] Dzień 511 - 
+
 - [] Dzień 512 - 
+
 - [] Dzień 513 - 
+
 - [] Dzień 514 - 
+
 - [] Dzień 515 - 
+
 - [] Dzień 516 - 
+
 - [] Dzień 517 - 
+
 - [] Dzień 518 - 
+
 - [] Dzień 519 - 
+
 - [] Dzień 520 - 
+
 - [] Dzień 521 - 
+
 - [] Dzień 522 - 
+
 - [] Dzień 523 - 
+
 - [] Dzień 524 - 
+
 - [] Dzień 525 - 
+
 - [] Dzień 526 - 
+
 - [] Dzień 527 - 
+
 - [] Dzień 528 - 
+
 - [] Dzień 529 - 
+
 - [] Dzień 530 - 
+
 - [] Dzień 531 - 
+
 - [] Dzień 532 - 
+
 - [] Dzień 533 - 
+
 - [] Dzień 534 - 
+
 - [] Dzień 535 - 
+
 - [] Dzień 536 - 
+
 - [] Dzień 537 - 
+
 - [] Dzień 538 - 
+
 - [] Dzień 539 - 
+
 - [] Dzień 540 - 
+
 - [] Dzień 541 - 
+
 - [] Dzień 542 - 
+
 - [] Dzień 543 - 
+
 - [] Dzień 544 - 
+
 - [] Dzień 545 - 
+
 - [] Dzień 546 - 
+
 - [] Dzień 547 - 
+
 - [] Dzień 548 - 
+
 - [] Dzień 549 - 
+
 - [] Dzień 550 - 
+
 - [] Dzień 551 - 
+
 - [] Dzień 552 - 
+
 - [] Dzień 553 - 
+
 - [] Dzień 554 - 
+
 - [] Dzień 555 - 
+
 - [] Dzień 556 - 
+
 - [] Dzień 557 - 
+
 - [] Dzień 558 - 
+
 - [] Dzień 559 - 
+
 - [] Dzień 560 - 
+
 - [] Dzień 561 - 
+
 - [] Dzień 562 - 
+
 - [] Dzień 563 - 
+
 - [] Dzień 564 - 
+
 - [] Dzień 565 - 
+
 - [] Dzień 566 - 
+
 - [] Dzień 567 - 
+
 - [] Dzień 568 - 
+
 - [] Dzień 569 - 
+
 - [] Dzień 570 - 
+
 - [] Dzień 571 - 
+
 - [] Dzień 572 - 
+
 - [] Dzień 573 - 
+
 - [] Dzień 574 - 
+
 - [] Dzień 575 - 
+
 - [] Dzień 576 - 
+
 - [] Dzień 577 - 
+
 - [] Dzień 578 - 
+
 - [] Dzień 579 - 
+
 - [] Dzień 580 - 
+
 - [] Dzień 581 - 
+
 - [] Dzień 582 - 
+
 - [] Dzień 583 - 
+
 - [] Dzień 584 - 
+
 - [] Dzień 585 - 
+
 - [] Dzień 586 - 
+
 - [] Dzień 587 - 
+
 - [] Dzień 588 - 
+
 - [] Dzień 589 - 
+
 - [] Dzień 590 - 
+
 - [] Dzień 591 - 
+
 - [] Dzień 592 - 
+
 - [] Dzień 593 - 
+
 - [] Dzień 594 - 
+
 - [] Dzień 595 - 
+
 - [] Dzień 596 - 
+
 - [] Dzień 597 - 
+
 - [] Dzień 598 - 
+
 - [] Dzień 599 - 
+
 - [] Dzień 600 - 
+
 - [] Dzień 601 - 
+
 - [] Dzień 602 - 
+
 - [] Dzień 603 - 
+
 - [] Dzień 604 - 
+
 - [] Dzień 605 - 
+
 - [] Dzień 606 - 
+
 - [] Dzień 607 - 
+
 - [] Dzień 608 - 
 - [] Dzień 609 - 
 - [] Dzień 610 - 
