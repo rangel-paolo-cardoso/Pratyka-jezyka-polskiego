@@ -2455,7 +2455,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona uklęknął / uklękła, żeby podnieść pierścionek, który mu / jej upadł. Ele / Ela se ajoelhou para pegar o anel que (ele / ela) derrubou.
  - (Oni / One) uklęknęli / uklęknęły przed starszą kobietą, aby okazać szacunek. Eles / Elas se ajoelharam diante da senhora idosa para demonstrar respeito. (mulher velha -> really rude)
 
-- [] Dzień 504 - 
+- [x] Dzień 504 - Pomoc. (Ajuda. - Rzeczowniki żeńskie)
+ - Czy (ty) możesz mi udzielić pomocy w tym zadaniu? (Você) pode me dar uma ajuda com essa tarefa?
+ - On / Ona potrzebował / potrzebowała pomocy, ale nikt nie zareagował. Ele / Ela precisava de ajuda, mas ninguém reagiu.
+ - On / Ona zaoferuje nam pomoc, jeśli o to poprosimy. Ele / Ela nos oferecerá ajuda se pedirmos.
+ - (My) potrzebujemy waszej pomocy, aby ukończyć ten projekt na czas. (Nós) precisamos da ajuda de vocês para terminar este projeto a tempo.
+ - Bez twojej pomocy (ja) nigdy bym tego nie zrobił / zrobiła. Sem a sua ajuda, eu nunca teria feito isso.
 
 - [] Dzień 505 - 
 
