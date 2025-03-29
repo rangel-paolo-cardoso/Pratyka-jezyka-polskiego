@@ -2462,7 +2462,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) potrzebujemy waszej pomocy, aby ukończyć ten projekt na czas. (Nós) precisamos da ajuda de vocês para terminar este projeto a tempo.
  - Bez twojej pomocy (ja) nigdy bym tego nie zrobił / zrobiła. Sem a sua ajuda, eu nunca teria feito isso.
 
-- [] Dzień 505 - 
+- [x] Dzień 505 - Pomocnik - Rzeczownik męski / Pomocniczka - Rzeczownik żeński. (O / A / Um / Uma Ajudante. - Przymiotnik, Rzeczownik)
+ - Wczoraj (ja) pracowałem / pracowałam jako pomocnik / pomocnica na budowie i było naprawdę ciężko. Ontem (eu) trabalhei como ajudante na construção e foi realmente difícil (pesado).
+ - On / Ona jest świetnym / świetną pomocnikiem / pomocniczką w kuchni – robi najlepsze desery! Ele / Ela é um / uma ótimo / ótima ajudante na cozinha – faz as melhores sobremesas!
+ - Jutro zaczynam nową pracę jako pomocnik / pomocnica w supermarkecie. Amanhã começo um novo trabalho como ajudante no supermercado.
+ - Podczas pokazu magik poprosił swojego pomocnika / pomocnicę o podanie kart. Durante o show, o mágico pediu ao / a seu / sua ajudante para entregar as cartas.
+ - Kiedy (my) byliśmy / byłyśmy dziećmi, zawsze byliśmy / byłyśmy pomocnikami / pomocnicami taty w warsztacie. Quando (nós) éramos crianças, sempre fomos ajudantes do nosso pai na oficina.
 
 - [] Dzień 506 - 
 
