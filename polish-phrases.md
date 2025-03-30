@@ -2469,7 +2469,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Podczas pokazu magik poprosił swojego pomocnika / pomocnicę o podanie kart. Durante o show, o mágico pediu ao / a seu / sua ajudante para entregar as cartas.
  - Kiedy (my) byliśmy / byłyśmy dziećmi, zawsze byliśmy / byłyśmy pomocnikami / pomocnicami taty w warsztacie. Quando (nós) éramos crianças, sempre fomos ajudantes do nosso pai na oficina.
 
-- [] Dzień 506 - 
+- [x] Dzień 506 - Pomagać, Pomóc. (Ajudar. - Czasownik(i))
+- (Ja) zawsze pomagam mojemu / mojej bratu / siostrze w nauce matematyki. (Eu) sempre ajudo meu / minha irmão / irmã com os estudos de matemática.
+- On / Ona pomógł / pomogła starszemu / starszej mężczyźnie / kobiecie przejść przez ulicę wczoraj wieczorem. Ele / Ela ajudou um / uma senhor / senhora a atravessar a rua ontem à noite.
+- Czy (ty) możesz mi pomóc z tym ciężkim pudłem? Você pode me ajudar com essa caixa pesada?
+- Jutro (my) pomożemy naszym / naszymi przyjaciołom / przyjaciółkom w przeprowadzce do nowego mieszkania. Amanhã (nós) ajudaremos nossos / nossas amigos / amigas na mudança para o novo apartamento.
+- Oni / One zawsze pomagali / pomagały swojemu / swojej dziadkowi / babci w ogrodzie, kiedy byli / były dziećmi. Eles / Elas sempre ajudavam o / a avô / avó deles / delas no jardim quando eram crianças.
 
 - [] Dzień 507 - 
 
