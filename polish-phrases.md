@@ -2476,7 +2476,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - Jutro (my) pomożemy naszym / naszymi przyjaciołom / przyjaciółkom w przeprowadzce do nowego mieszkania. Amanhã (nós) ajudaremos nossos / nossas amigos / amigas na mudança para o novo apartamento.
 - Oni / One zawsze pomagali / pomagały swojemu / swojej dziadkowi / babci w ogrodzie, kiedy byli / były dziećmi. Eles / Elas sempre ajudavam o / a avô / avó deles / delas no jardim quando eram crianças.
 
-- [] Dzień 507 - 
+- [x] Dzień 507 - Dostosowany / Dostosowana, Dopasowany / Dopasowana, Wyregulowany / Wyregulowana. (Ajustado / Ajustada. - Przymiotnik(i))
+ - Mój garnitur został dopasowany specjalnie na tę okazję. Meu terno foi ajustado especialmente para essa ocasião.
+ - Jego / Jej plan treningowy został dostosowany do jego / jej poziomu sprawności fizycznej. O plano de treino dele / dela foi ajustado ao nível de condicionamento físico dele / dela.
+ - Czy twój zegarek jest już wyregulowany, czy nadal się spóźnia? Seu relógio já está ajustado ou ainda está atrasado?
+ - Nasze godziny pracy zostaną dostosowane do nowych przepisów firmy. Nosso horário de trabalho será ajustado às novas regulamentações da empresa.
+ - Kiedyś ten fotel był bardzo niewygodny, ale teraz został dopasowany do moich pleców. Antes essa poltrona era muito desconfortável, mas agora foi ajustada para as minhas costas.
 
 - [] Dzień 508 - 
 
