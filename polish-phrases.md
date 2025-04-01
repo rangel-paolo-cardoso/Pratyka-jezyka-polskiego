@@ -2483,7 +2483,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Nasze godziny pracy zostaną dostosowane do nowych przepisów firmy. Nosso horário de trabalho será ajustado às novas regulamentações da empresa.
  - Kiedyś ten fotel był bardzo niewygodny, ale teraz został dopasowany do moich pleców. Antes essa poltrona era muito desconfortável, mas agora foi ajustada para as minhas costas.
 
-- [] Dzień 508 - 
+- [x] Dzień 508 - Dostosować, Dopasować, Wyregulować. (Ajustar. - Czasowniki)
+ - (Ja) muszę dostosować mój harmonogram, aby mieć więcej czasu na naukę. (Eu) preciso ajustar minha agenda para ter mais tempo para estudar.
+ - On / Ona  dopasował / dopasowała marynarkę do swojego / swojej nowego / nowej garnituru / garsonki. Ele / Ela ajustou o paletó ao seu novo terno / tailleur.
+ - Czy (ty) wyregulujesz temperaturę klimatyzacji, proszę? Jest za zimno. Você ajustaria a temperatura do ar-condicionado, por favor? Está frio demais.
+ - (My) dostosowaliśmy / dostosowałyśmy naszą strategię, aby sprostać wymaganiom rynku. (Nós) ajustamos nossa estratégia para atender às exigências do mercado.
+ - Jutro (ja) dopasuję wszystkie szczegóły dekoracji na wesele. Amanhã (eu) ajustarei todos os detalhes da decoração para o casamento.
 
 - [] Dzień 509 - 
 
