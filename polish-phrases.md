@@ -2490,7 +2490,14 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) dostosowaliśmy / dostosowałyśmy naszą strategię, aby sprostać wymaganiom rynku. (Nós) ajustamos nossa estratégia para atender às exigências do mercado.
  - Jutro (ja) dopasuję wszystkie szczegóły dekoracji na wesele. Amanhã (eu) ajustarei todos os detalhes da decoração para o casamento.
 
-- [] Dzień 509 - 
+- [x] Dzień 509 - Regulowany / Regulowana / Regulowane,
+                  Dopasowywalny / Dopasowywalna / Dopasowywalne,
+                  Elastyczny / Elastyczna / Elastyczne. (Ajustável. - Przymiotniki)
+ - To krzesło biurowe jest regulowane, więc (ty) możesz dostosować wysokość do swoich potrzeb. Essa cadeira de escritório é ajustável, então você pode regular a altura conforme suas necessidades.
+ - On / Ona kupił / kupiła pasek, który jest dopasowywalny do każdej talii. Ele / Ela comprou um cinto que é ajustável a qualquer cintura.
+ - Nasza strategia marketingowa musi być elastyczna, aby reagować na zmieniające się trendy. Nossa estratégia de marketing precisa ser ajustável para reagir às mudanças nas tendências.
+ - Czy twoje okulary są regulowane, czy mają stały rozmiar? Seus óculos são ajustáveis ou têm (um) tamanho fixo?
+ - (My) wybraliśmy / wybrałyśmy meble z regulowanymi półkami, aby dopasować je do różnych przedmiotów. (Nós) escolhemos móveis com prateleiras ajustáveis para ajustá-los a diferentes objetos.
 
 - [] Dzień 510 - 
 
