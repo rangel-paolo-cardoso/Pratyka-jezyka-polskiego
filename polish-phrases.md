@@ -2499,7 +2499,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy twoje okulary są regulowane, czy mają stały rozmiar? Seus óculos são ajustáveis ou têm (um) tamanho fixo?
  - (My) wybraliśmy / wybrałyśmy meble z regulowanymi półkami, aby dopasować je do różnych przedmiotów. (Nós) escolhemos móveis com prateleiras ajustáveis para ajustá-los a diferentes objetos.
 
-- [] Dzień 510 - 
+- [x] Dzień 510 - Dostosowanie, Ustawienie - Rzeczowniki nijakie, Regulacja, Korekta - Rzeczowniki żeńskie. (Ajuste. - Rzeczownik męski)
+ - (Ja) muszę zrobić drobne dostosowanie w projekcie, zanim go wyślę do klienta. (Eu) preciso fazer um pequeno ajuste no projeto antes de enviá-lo (enviar ele para/pro o) ao cliente.
+ - Czy (wy) dokonaliście / dokonałyście już regulacji temperatury w systemie chłodzenia? Vocês já fizeram o ajuste da temperatura no sistema de refrigeração?
+ - On / Ona wprowadził / wprowadziła korektę w raporcie, ponieważ zawierał kilka błędów. Ele / Ela fez um ajuste no relatório, pois continha alguns erros.
+ - Jego / Jej fotel wymagał ustawienia, bo był za niski dla jego / jej wzrostu. A poltrona dele / dela precisava de um ajuste, pois estava muito baixa para (a) altura (dele / dela).
+ - Jutro (my) dokonamy ostatnich dostosowań w oprogramowaniu przed premierą. Amanhã (nós) faremos os últimos ajustes no software antes do lançamento.
 
 - [] Dzień 511 - 
 
