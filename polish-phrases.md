@@ -2506,7 +2506,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jego / Jej fotel wymagał ustawienia, bo był za niski dla jego / jej wzrostu. A poltrona dele / dela precisava de um ajuste, pois estava muito baixa para (a) altura (dele / dela).
  - Jutro (my) dokonamy ostatnich dostosowań w oprogramowaniu przed premierą. Amanhã (nós) faremos os últimos ajustes no software antes do lançamento.
 
-- [] Dzień 511 - 
+- [x] Dzień 511 - Skrzydło - Rzeczownik nijaki, Oddział - Rzeczownik męski, Frakcja, Flanka - Rzeczowniki żeńskie. (Ala. - Rzeczownik żeński)
+ - Nowa sala operacyjna znajduje się w zachodnim skrzydle szpitala. A nova sala de cirurgia fica na ala oeste do hospital.
+ - Wczoraj (ja) odwiedziłem / odwiedziłam mojego / moją dziadka / babcię, który / która jest leczony / leczona w oddziale kardiologicznym. Ontem (eu) visitei meu / minha avô / avó, que está sendo tratado / tratada na ala de cardiologia.
+ - Ta partia polityczna podzieliła się na dwie frakcje o różnych poglądach. Esse partido político se dividiu em duas alas com opiniões diferentes.
+ - Lewa flanka naszej drużyny piłkarskiej jest bardzo silna w ataku. A ala esquerda do nosso time de futebol é muito forte no ataque.
+ - Architekt / Architektka zaprojektował / zaprojektowała dodatkowe skrzydło budynku, które zostanie ukończone w przyszłym roku. O / A arquiteto / arquiteta projetou uma nova ala do prédio, que será concluída no próximo ano.
 
 - [] Dzień 512 - 
 
