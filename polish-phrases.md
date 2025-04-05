@@ -2513,7 +2513,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Lewa flanka naszej drużyny piłkarskiej jest bardzo silna w ataku. A ala esquerda do nosso time de futebol é muito forte no ataque.
  - Architekt / Architektka zaprojektował / zaprojektowała dodatkowe skrzydło budynku, które zostanie ukończone w przyszłym roku. O / A arquiteto / arquiteta projetou uma nova ala do prédio, que será concluída no próximo ano.
 
-- [] Dzień 512 - 
+- [x] Dzień 512 - Skrzydlaty / Skrzydlata, Uskrzydlony / Uszkrzydlona. (Alado / Alada. - Przymiotniki)
+ - W dzieciństwie (ja) wyobrażałem / wyobrażałam sobie, że jestem skrzydlatym / skrzydlatą chłopcem / dziewczynką, który / która może latać po niebie. Na infância, (eu) imaginava que era um / uma menino / menina alado / alada que podia voar pelo céu.
+ - W mitologii greckiej on / ona był / była uskrzydlonym / uskrzydloną bogiem / boginią wolności. Na mitologia grega, ele / ela era um / uma deus / deusa alado / alada da liberdade.
+ - Jeśli (wy) będziecie uważni, zobaczycie skrzydlatą istotę wśród drzew. Se (vocês) prestarem atenção, verão uma criatura alada entre as árvores.
+ - (Ja) zobaczyłem / zobaczyłam go / ją wczoraj w kostiumie z uskrzydlonymi ramionami — wyglądał / wyglądała jak anioł. Eu o / a vi (ele / ela) ontem com uma fantasia de braços alados — parecia um anjo.
+ - W przyszłości (my) stworzymy roboty z uskrzydlonymi strukturami do lotu. No futuro, (nós) criaremos robôs com estruturas aladas para voar.
 
 - [] Dzień 513 - 
 
