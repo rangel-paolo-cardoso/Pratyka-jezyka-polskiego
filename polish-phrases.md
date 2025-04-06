@@ -2520,7 +2520,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) zobaczyłem / zobaczyłam go / ją wczoraj w kostiumie z uskrzydlonymi ramionami — wyglądał / wyglądała jak anioł. Eu o / a vi (ele / ela) ontem com uma fantasia de braços alados — parecia um anjo.
  - W przyszłości (my) stworzymy roboty z uskrzydlonymi strukturami do lotu. No futuro, (nós) criaremos robôs com estruturas aladas para voar.
 
-- [] Dzień 513 - 
+- [x] Dzień 513 - Zalany / Zalana / Zalane, Podtopiony / Podtopiona / Podtopione.
+ - Po wczorajszej burzy moja ulica była całkowicie zalana. Depois da tempestade de ontem, minha rua estava completamente alagada.
+ - Czy twoje mieszkanie było kiedyś podtopione po ulewie? O seu apartamento já ficou alagado depois de uma tempestade?
+ - Nasze piwnice zostaną jutro zalane, jeśli deszcz nie przestanie padać. Nossos porões ficarão alagados amanhã se a chuva não parar de cair.
+ - (Ja) zauważyłem / zauważyłam, że ich ogród był częściowo podtopiony po roztopach. (Eu) notei que o jardim deles estava parcialmente alagado após o derretimento da neve (degelo).
+ - Oni / One byli / były przerażeni / przerażone, gdy zobaczyli / zobaczyły zalane korytarze szkoły. Eles / Elas ficaram assustados / assustadas ao verem os corredores da escola alagados.
 
 - [] Dzień 514 - 
 
