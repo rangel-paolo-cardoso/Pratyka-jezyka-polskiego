@@ -2527,7 +2527,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) zauważyłem / zauważyłam, że ich ogród był częściowo podtopiony po roztopach. (Eu) notei que o jardim deles estava parcialmente alagado após o derretimento da neve (degelo).
  - Oni / One byli / były przerażeni / przerażone, gdy zobaczyli / zobaczyły zalane korytarze szkoły. Eles / Elas ficaram assustados / assustadas ao verem os corredores da escola alagados.
 
-- [] Dzień 514 - 
+- [x] Dzień 514 - Alarm. (Alarme. - Rzeczowniki męskie)
+ - Wczoraj (ja) ustawiłem / ustawiłam alarm na piątą rano, ale i tak zaspałem / zaspałam. Ontem (eu) programei o alarme para as cinco da manhã, mas mesmo assim me atrasei.
+ - Czy on / ona słyszy ten alarm przeciwpożarowy, czy tylko ja go słyszę? Ele / Ela está ouvindo esse alarme de incêndio, ou só eu estou ouvindo (isso / ele)?
+ - Jutro (wy) ustawicie alarm wcześniej, żeby zdążyć na pociąg, prawda? Amanhã vocês vão programar o alarme mais cedo para pegar o trem, certo (né)?
+ - Kiedy (my) weszliśmy / weszłyśmy do magazynu bez pozwolenia, uruchomił się alarm. Quando (nós) entramos no armazém sem permissão, o alarme disparou.
+ - Oni / One ignorowali / ignorowały alarm, myśląc, że to tylko test systemu. Eles / Elas ignoraram o alarme, achando que era só um teste do sistema.
 
 - [] Dzień 515 - 
 
