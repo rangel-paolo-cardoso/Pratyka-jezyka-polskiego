@@ -2534,7 +2534,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Kiedy (my) weszliśmy / weszłyśmy do magazynu bez pozwolenia, uruchomił się alarm. Quando (nós) entramos no armazém sem permissão, o alarme disparou.
  - Oni / One ignorowali / ignorowały alarm, myśląc, że to tylko test systemu. Eles / Elas ignoraram o alarme, achando que era só um teste do sistema.
 
-- [] Dzień 515 - 
+- [x] Dzień 515 - Dźwignia. (Alavanca. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) użyłem / użyłam dźwigni, żeby otworzyć ciężkie drzwi w piwnicy. Ontem (eu) usei a alavanca para abrir a porta pesada do porão.
+ - Czy on / ona wie, jak działa ta dźwignia w maszynie? Ele / Ela sabe como funciona essa alavanca na máquina?
+ - Jutro (wy) ustawicie dźwignię we właściwej pozycji przed startem, prawda? Amanhã vocês vão colocar a alavanca na posição correta antes da partida, certo (né)?
+ - Kiedy (my) pociągnęliśmy / pociągnęłyśmy za dźwignię, cały system się uruchomił. Quando (nós) puxamos a alavanca, todo o sistema foi ativado.
+ - Oni / One złamali / złamały dźwignię, próbując naprawić starą maszynę. Eles / Elas quebraram a alavanca tentando consertar a máquina velha.
 
 - [] Dzień 516 - 
 
