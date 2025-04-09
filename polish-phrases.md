@@ -2541,7 +2541,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Kiedy (my) pociągnęliśmy / pociągnęłyśmy za dźwignię, cały system się uruchomił. Quando (nós) puxamos a alavanca, todo o sistema foi ativado.
  - Oni / One złamali / złamały dźwignię, próbując naprawić starą maszynę. Eles / Elas quebraram a alavanca tentando consertar a máquina velha.
 
-- [] Dzień 516 - 
+- [x] Dzień 516 - Albinizm. (Albinismo. - Rzeczowniki męskie)
+ - On / Ona od dzieciństwa żyje z albinizmem, ale nigdy się go nie wstydził / wstydziła. Ele / Ela vive com albinismo desde a infância, mas nunca teve vergonha (se envergonhou) disso.
+ - W przyszłości (my) pomożemy dzieciom z albinizmem, oferując im specjalne okulary przeciwsłoneczne. No futuro, (nós) ajudaremos crianças com albinismo oferecendo a elas óculos de sol especiais.
+ - Czy (ty) wiedziałeś / wiedziałaś, że albinizm może wpływać na wzrok? (Você) sabia que o albinismo pode afetar a visão?
+ - (Ja) długo nie rozumiałem / rozumiałam, czym naprawdę jest albinizm. Durante muito tempo (eu) não entendi o que realmente é o albinismo.
+ - Oni / One byli / były zaskoczeni / zaskoczone, że ich kuzyn / kuzynka urodził / urodziła się z albinizmem. Eles / Elas ficaram surpresos / surpresas que o / a primo / prima deles / delas nasceu com albinismo.
 
 - [] Dzień 517 - 
 
