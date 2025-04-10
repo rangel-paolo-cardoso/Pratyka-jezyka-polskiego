@@ -2548,7 +2548,13 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) długo nie rozumiałem / rozumiałam, czym naprawdę jest albinizm. Durante muito tempo (eu) não entendi o que realmente é o albinismo.
  - Oni / One byli / były zaskoczeni / zaskoczone, że ich kuzyn / kuzynka urodził / urodziła się z albinizmem. Eles / Elas ficaram surpresos / surpresas que o / a primo / prima deles / delas nasceu com albinismo.
 
-- [] Dzień 517 - 
+- [x] Dzień 517 - Albinos / Albinoska - Rzeczowniki męski / żeński
+                  Albinotyczny, Albinosowy - Przymiotniki. (Albino. - Rzeczownik / Przymiotnik)
+ - (Ja) jestem albinosem / albinoską i całe życie musiałem / musiałam chronić skórę przed słońcem. (Eu) sou albino / albina e a vida inteira tive que proteger minha pele do sol.
+ - On / Ona jest albinosem / albinoską, ale nigdy nie czuł / czuła się inny / inna od reszty klasy. Ele / Ela é albino / albina, mas nunca se sentiu diferente do resto da turma.
+ - Czy (wy) wiedzieliście / wiedziałyście, że niektóre zwierzęta albinosy mają trudności z przetrwaniem w naturze? (Vocês) sabiam que alguns animais albinos têm dificuldades para sobreviver na natureza?
+ - W przyszłości (my) pomożemy każdemu dziecku albinosowi uzyskać odpowiednią opiekę okulistyczną. No futuro, (nós) ajudaremos toda criança albina a obter o cuidado oftalmológico adequado.
+ - On / Ona spotkał / spotkała chłopaka / dziewczynę, który / która jest albinosem / albinoską i od razu go / ją polubił / polubiła. Ele / Ela conheceu um / uma rapaz / moça que é albino / albina e gostou dele / dela imediatamente (de primeira).
 
 - [] Dzień 518 - 
 
