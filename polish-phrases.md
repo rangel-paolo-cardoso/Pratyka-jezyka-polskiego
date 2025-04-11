@@ -2556,7 +2556,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości (my) pomożemy każdemu dziecku albinosowi uzyskać odpowiednią opiekę okulistyczną. No futuro, (nós) ajudaremos toda criança albina a obter o cuidado oftalmológico adequado.
  - On / Ona spotkał / spotkała chłopaka / dziewczynę, który / która jest albinosem / albinoską i od razu go / ją polubił / polubiła. Ele / Ela conheceu um / uma rapaz / moça que é albino / albina e gostou dele / dela imediatamente (de primeira).
 
-- [] Dzień 518 - 
+- [x] Dzień 518 - Album. (Álbum. - Rzeczowniki męskie)
+ - (Ja) niedawno kupiłem / kupiłam nowy album muzyczny mojego ulubionego zespołu. (Eu) comprei recentemente o novo álbum musical da minha banda favorita.
+ - On / Ona w dzieciństwie miał / miała album z rzadkimi naklejkami zwierząt. Ele / Ela tinha um álbum com figurinhas raras de animais na infância.
+ - (Czy) (wy) już zobaczyliście / zobaczyłyście nasz ślubny album fotograficzny? (Vocês) já viram o nosso álbum de casamento?
+ - W przyszłym miesiącu oni / one wydadzą swój pierwszy album studyjny. No próximo mês, eles / elas lançarão seu primeiro álbum de estúdio.
+ - (My) zawsze w niedzielę oglądaliśmy / oglądałyśmy stary rodzinny album i wspominaliśmy / wspominałyśmy czasy młodości. (Nós) sempre olhávamos o velho álbum de família aos domingos e relembrávamos os tempos de juventude.
 
 - [] Dzień 519 - 
 
