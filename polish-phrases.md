@@ -2563,7 +2563,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłym miesiącu oni / one wydadzą swój pierwszy album studyjny. No próximo mês, eles / elas lançarão seu primeiro álbum de estúdio.
  - (My) zawsze w niedzielę oglądaliśmy / oglądałyśmy stary rodzinny album i wspominaliśmy / wspominałyśmy czasy młodości. (Nós) sempre olhávamos o velho álbum de família aos domingos e relembrávamos os tempos de juventude.
 
-- [] Dzień 519 - 
+- [x] Dzień 519 - Uchwyt - męski, Rączka - żeński, Pasek - męski, Szelka - żeński, Zjazd - męski. (Alça. - Rzeczownik żeński)
+ - (Ja) złapałem / złapałam torbę za uchwyt, ale nagle się urwał. (Eu) peguei a bolsa pela alça, mas ela de repente se soltou.
+ - Czy (ty) możesz poprawić pasek mojej sukienki? Ciągle spada z ramienia. Você pode ajustar a alça do meu vestido? Ela continua caindo do ombro.
+ - On / Ona miał / miała problem z noszeniem plecaka, bo jedna szelka była za krótka. Ele / Ela teve problema para carregar a mochila, porque uma alça estava curta demais.
+ - Jutro (my) wyruszymy wcześniej, bo musimy znaleźć właściwy zjazd z autostrady. Amanhã (nós) vamos sair mais cedo, porque precisamos achar a alça certa da rodovia.
+ - (My) zawsze trzymaliśmy / trzymałyśmy się rączki w autobusie, żeby nie upaść przy hamowaniu. (Nós) sempre nos segurávamos na alça do ônibus para não cair quando freava.
 
 - [] Dzień 520 - 
 
