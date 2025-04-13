@@ -2570,7 +2570,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (my) wyruszymy wcześniej, bo musimy znaleźć właściwy zjazd z autostrady. Amanhã (nós) vamos sair mais cedo, porque precisamos achar a alça certa da rodovia.
  - (My) zawsze trzymaliśmy / trzymałyśmy się rączki w autobusie, żeby nie upaść przy hamowaniu. (Nós) sempre nos segurávamos na alça do ônibus para não cair quando freava.
 
-- [] Dzień 520 - 
+- [x] Dzień 520 - Zasadowy / Zasadowa / Zasadowe. (Alcalino / Alcalina. - Przymiotniki)
+ - Kiedy (ja) byłem / byłam dzieckiem, nie wiedziałem / wiedziałam, że woda może być zasadowa. Quando eu era criança, não sabia que a água podia ser alcalina.
+ - On / Ona codziennie pije wodę zasadową, bo wierzy, że to pomaga jego / jej zdrowiu. Ele / Ela bebe água alcalina todos os dias porque acredita que isso ajuda na saúde dele / dela.
+ - Jutro (my) sprawdzimy, czy ten roztwór chemiczny jest zasadowy, czy kwaśny. Amanhã (nós) vamos verificar se essa solução química é alcalina ou ácida.
+ - (Wy) nie wiedzieliście / wiedziałyście, że mydło ma zasadowy odczyn? (Vocês) não sabiam que o sabão tem reação alcalina?
+ - Oni / One używali / używały zasadowych substancji do czyszczenia pieca w zeszłym tygodniu. Eles / Elas usaram substâncias alcalinas para limpar o forno na semana passada.
 
 - [] Dzień 521 - 
 
