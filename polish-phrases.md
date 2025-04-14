@@ -2577,7 +2577,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) nie wiedzieliście / wiedziałyście, że mydło ma zasadowy odczyn? (Vocês) não sabiam que o sabão tem reação alcalina?
  - Oni / One używali / używały zasadowych substancji do czyszczenia pieca w zeszłym tygodniu. Eles / Elas usaram substâncias alcalinas para limpar o forno na semana passada.
 
-- [] Dzień 521 - 
+- [x] Dzień 521 - Osiągnąć, Dosięgnąć, Dotrzeć, Dogonić. (Alcançar. - Czasowniki)
+ - Wczoraj (ja) osiągnąłem / osiągnęłam mój cel i byłem / byłam bardzo dumny / dumna. Ontem (eu) alcancei meu objetivo e fiquei muito orgulhoso / orgulhosa.
+ - On / Ona nie mógł / mogła dosięgnąć książki na najwyższej półce. Ele / Ela não conseguiu alcançar o livro na prateleira mais alta.
+ - Jutro (my) dotrzemy do schroniska, jeśli pójdziemy szybciej. Amanhã (nós) vamos alcançar o abrigo, se andarmos mais rápido.
+ - (Wy) osiągnęliście / osiągnęłyście wszystko, o czym marzyliście / marzyłyście. Gratulacje! (Vocês) alcançaram tudo o que sonharam. Parabéns!
+ - Oni / One próbują dogonić autobus, ale on już odjechał. Eles / Elas estão tentando alcançar o ônibus, mas ele já partiu.
 
 - [] Dzień 522 - 
 
