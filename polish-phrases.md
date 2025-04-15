@@ -2584,7 +2584,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) osiągnęliście / osiągnęłyście wszystko, o czym marzyliście / marzyłyście. Gratulacje! (Vocês) alcançaram tudo o que sonharam. Parabéns!
  - Oni / One próbują dogonić autobus, ale on już odjechał. Eles / Elas estão tentando alcançar o ônibus, mas ele já partiu.
 
-- [] Dzień 522 - 
+- [x] Dzień 522 - Zasięg, Zakres. (Alcance. - Rzeczowniki męskie)
+ - (Ja) nie miałem / miałam zasięgu, więc nie mogłem / mogłam zadzwonić. Eu não tinha alcance de sinal, então não pude ligar.
+ - On / Ona wierzy, że osiągnięcie sukcesu jest w jego / jej zasięgu. Ele / Ela acredita que o alcance do sucesso está ao seu alcance (dele / dela).
+ - Jutro (my) sprawdzimy, jaki jest zakres twoich obowiązków w nowej pracy. Amanhã (nós) vamos verificar qual é o alcance das suas responsabilidades no novo trabalho.
+ - (Wy) przekroczyliście / przekroczyłyście już wasz dotychczasowy zasięg wpływu. (Vocês) já ultrapassaram seu alcance de influência até agora.
+ - Oni / One oceniali / oceniały zasięg strzału z łuku podczas treningu. Eles / Elas estavam avaliando o alcance do tiro com arco durante o treino.
 
 - [] Dzień 523 - 
 
