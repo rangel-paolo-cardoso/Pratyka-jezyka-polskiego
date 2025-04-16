@@ -2591,7 +2591,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) przekroczyliście / przekroczyłyście już wasz dotychczasowy zasięg wpływu. (Vocês) já ultrapassaram seu alcance de influência até agora.
  - Oni / One oceniali / oceniały zasięg strzału z łuku podczas treningu. Eles / Elas estavam avaliando o alcance do tiro com arco durante o treino.
 
-- [] Dzień 523 - 
+- [x] Dzień 523 - Właz - Rzeczownik męski, Zapadnia - Rzeczownik żeński. (Alçapão. - Rzeczownik męski)
+ - (Ja) przypadkowo otworzyłem / otworzyłam stary właz na strych i prawie wpadłem / wpadłam do środka. (Eu) abri acidentalmente o velho alçapão do sótão e quase caí dentro.
+ - (Ty) znajdziesz właz w podłodze, jeśli przesuniesz dywan. Você vai encontrar o alçapão no chão se mover o tapete.
+ - On / Ona odkrył / odkryła zapadnię w lochu i od razu ostrzegł / ostrzegła nas wszystkich. Ele / Ela descobriu um alçapão no calabouço e imediatamente alertou todos nós.
+ - (My) naprawimy właz na dachu w przyszłym tygodniu, zanim zacznie padać. (Nós) vamos consertar o alçapão no telhado na próxima semana, antes que comece a chover.
+ - Oni / One wpadli / wpadły w zapadnię podczas gry i musieli / musiały zacząć od nowa. Eles / Elas caíram no alçapão durante o jogo e tiveram que recomeçar.
 
 - [] Dzień 524 - 
 
