@@ -2598,7 +2598,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) naprawimy właz na dachu w przyszłym tygodniu, zanim zacznie padać. (Nós) vamos consertar o alçapão no telhado na próxima semana, antes que comece a chover.
  - Oni / One wpadli / wpadły w zapadnię podczas gry i musieli / musiały zacząć od nowa. Eles / Elas caíram no alçapão durante o jogo e tiveram que recomeçar.
 
-- [] Dzień 524 - 
+- [x] Dzień 524 - Podnieść, Unieść, Wznieść. (Alçar. - Czasowniki)
+ - Wczoraj (ja) podniosłem / podniosłam ciężką skrzynię, żeby pomóc sąsiadowi / sąsiadce. Ontem (eu) alcei um caixote pesado para ajudar o / a vizinho / vizinha.
+ - On / Ona zawsze unosi ręce do nieba, gdy się modli. Ele / Ela sempre alça as mãos ao céu quando reza.
+ - Jutro (oni / one) wzniosą nową wieżę w centrum miasta. Amanhã (eles / elas) vão alçar uma nova torre no centro da cidade.
+ - (Wy) unieśliście / uniosłyście flagę z dumą podczas ceremonii. Vocês alçaram a bandeira com orgulho durante a cerimônia.
+ - (My) podniesiemy dziecko na rękach, żeby mogło zobaczyć paradę. (Nós) vamos alçar a criança nos braços para que ela possa ver o desfile.
 
 - [] Dzień 525 - 
 
