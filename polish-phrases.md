@@ -2605,7 +2605,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) unieśliście / uniosłyście flagę z dumą podczas ceremonii. Vocês alçaram a bandeira com orgulho durante a cerimônia.
  - (My) podniesiemy dziecko na rękach, żeby mogło zobaczyć paradę. (Nós) vamos alçar a criança nos braços para que ela possa ver o desfile.
 
-- [] Dzień 525 - 
+- [x] Dzień 525 - Polędwica z udźca, Zrazowa górna, Wołowina z udźca - Wyrażenia. (Alcatra. - Rzeczownik żeński)
+ - Wczoraj (ja) kupiłem / kupiłam świeżą zrazową górną na obiad. Ontem (eu) comprei uma alcatra fresca para o almoço.
+ - On / Ona uwielbia wołowinę z udźca z grilla, szczególnie latem. Ele / Ela adora alcatra grelhada, especialmente no verão.
+ - Jutro (wy) przyrządzicie polędwicę z udźca z ziemniakami i sosem. Amanhã vocês vão preparar alcatra com batatas e molho.
+ - (My) zawsze wybieramy zrazową górną, kiedy gotujemy dla całej rodziny. (Nós) sempre escolhemos alcatra quando cozinhamos para toda a família.
+ - Oni / One jedli / jadły polędwicę z udźca, ale ja wybrałem / wybrałam coś lżejszego. Eles / Elas comeram alcatra, mas eu escolhi algo mais leve.
 
 - [] Dzień 526 - 
 
