@@ -2612,7 +2612,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze wybieramy zrazową górną, kiedy gotujemy dla całej rodziny. (Nós) sempre escolhemos alcatra quando cozinhamos para toda a família.
  - Oni / One jedli / jadły polędwicę z udźca, ale ja wybrałem / wybrałam coś lżejszego. Eles / Elas comeram alcatra, mas eu escolhi algo mais leve.
 
-- [] Dzień 526 - 
+- [x] Dzień 526 - Łoś - męski, Łosza - żeński, Łosie - Neutralny, Mnogi. (Alce. - Rzeczownik męski)
+ - W zeszłym roku (ja) widziałem / widziałam łosia podczas wycieczki do lasu. (No) ano passado (eu) vi um alce durante um passeio na floresta.
+ - On / Ona nigdy wcześniej nie widział / widziała łosia na żywo. Ele / Ela nunca tinha visto um alce ao vivo antes.
+ - Jutro (wy) pójdziecie do rezerwatu, gdzie można zobaczyć łosie z bliska. Amanhã vocês vão ao santuário, onde é possível ver alces de perto.
+ - (My) często rozmawiamy o tym, jak imponujące są rogi łosia. (Nós) frequentemente falamos sobre como os chifres do alce são impressionantes.
+ - Oni / One natknęli / natknęły się na łosia, kiedy jechali / jechały przez góry. Eles / Elas se depararam com um alce enquanto viajavam pelas montanhas.
 
 - [] Dzień 527 - 
 
