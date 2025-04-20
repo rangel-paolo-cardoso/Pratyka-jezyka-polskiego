@@ -2619,7 +2619,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często rozmawiamy o tym, jak imponujące są rogi łosia. (Nós) frequentemente falamos sobre como os chifres do alce são impressionantes.
  - Oni / One natknęli / natknęły się na łosia, kiedy jechali / jechały przez góry. Eles / Elas se depararam com um alce enquanto viajavam pelas montanhas.
 
-- [] Dzień 527 - 
+- [x] Dzień 527 - Alkohol, Spirytus. (Álcool. - Rzeczowniki męskie)
+ - Wczoraj (ja) piłem / piłam za dużo alkoholu i dziś boli mnie głowa. Ontem (eu) bebi álcool demais e hoje estou com dor de cabeça.
+ - On / Ona unika alkoholu, bo chce prowadzić zdrowy styl życia. Ele / Ela evita o álcool porque quer levar um estilo de vida saudável.
+ - Jutro (wy) spróbujecie lokalnego alkoholu na festiwalu. Amanhã vocês vão experimentar o álcool local no festival.
+ - (My) nigdy nie trzymamy alkoholu w domu. (Nós) nunca guardamos álcool em casa.
+ - Oni / One kupili / kupiły spirytus do przygotowania domowej nalewki. Eles / Elas compraram álcool forte para preparar uma bebida caseira.
 
 - [] Dzień 528 - 
 
