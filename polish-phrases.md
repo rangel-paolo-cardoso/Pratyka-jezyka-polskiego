@@ -2626,7 +2626,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) nigdy nie trzymamy alkoholu w domu. (Nós) nunca guardamos álcool em casa.
  - Oni / One kupili / kupiły spirytus do przygotowania domowej nalewki. Eles / Elas compraram álcool forte para preparar uma bebida caseira.
 
-- [] Dzień 528 - 
+- [x] Dzień 528 - Alkoholik - Rzeczownik męski, Alkoholiczka - Rzeczownik żeński. (Alcoólatra. - Rzeczownik nijaki)
+ - Kiedy (ja) byłem / byłam dzieckiem, mój / moja wujek / ciocia był / była alkoholikiem / alkoholiczką i to bardzo wpłynęło na naszą rodzinę. Quando (eu) era criança, meu / minha tio / tia era alcoólatra e isso afetou muito nossa família.
+ - On / Ona pomaga alkoholikom / alkoholiczkom wyjść z nałogu, bo sam / sama kiedyś był / była uzależniony / uzależniona. Ele / Ela ajuda (homens / mulheres) alcoólatras a saírem do vício, porque ele / ela mesmo / mesma já foi dependente.
+ - Czy (ty) naprawdę nie widzisz, że on / ona zachowuje się jak alkoholik / alkoholiczka? Você realmente não vê que ele / ela está se comportando como um / uma alcoólatra?
+ - (My) znamy wielu alkoholików / alkoholiczek, którzy / które odzyskali / odzyskały kontrolę nad swoim życiem. (Nós) conhecemos muitos / muitas alcoólatras que recuperaram o controle sobre suas vidas.
+ - Jeśli oni / one nie podejmą leczenia, jako alkoholicy / alkoholiczki mogą stracić wszystko. Se eles / elas não começarem um tratamento, como alcoólatras podem perder tudo.
 
 - [] Dzień 529 - 
 
