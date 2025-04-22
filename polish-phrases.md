@@ -2633,7 +2633,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) znamy wielu alkoholików / alkoholiczek, którzy / które odzyskali / odzyskały kontrolę nad swoim życiem. (Nós) conhecemos muitos / muitas alcoólatras que recuperaram o controle sobre suas vidas.
  - Jeśli oni / one nie podejmą leczenia, jako alkoholicy / alkoholiczki mogą stracić wszystko. Se eles / elas não começarem um tratamento, como alcoólatras podem perder tudo.
 
-- [] Dzień 529 - 
+- [x] Dzień 529 - Alkoholowy, Alkoholowa, Alkoholowe. (Alcoólico / Alcoólica. - Przymiotniki)
+ - Wczoraj (ja) piłem / piłam napój alkoholowy i dziś mam kaca. Ontem (eu) bebi uma bebida alcoólica e hoje estou de ressaca.
+ - On / Ona nigdy nie używa alkoholowych perfum, bo jest uczulony / uczulona. Ele / Ela nunca usa perfumes alcoólicos porque é alérgico / alérgica.
+ - Czy (ty) planujesz przynieść jakieś alkoholowe trunki na imprezę? Você está planejando trazer alguma bebida alcoólica para a festa?
+ - (My) unikamy produktów alkoholowych, bo prowadzimy zdrowy tryb życia. (Nós) evitamos produtos alcoólicos porque levamos um modo de vida saudável.
+ - Jeśli oni / one znowu zamówią alkoholowe koktajle, ja zamówię coś bezalkoholowego. Se eles / elas pedirem coquetéis alcoólicos de novo, eu vou pedir algo sem álcool.
 
 - [] Dzień 530 - 
 
