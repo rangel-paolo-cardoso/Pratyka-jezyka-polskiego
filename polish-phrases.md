@@ -2640,7 +2640,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) unikamy produktów alkoholowych, bo prowadzimy zdrowy tryb życia. (Nós) evitamos produtos alcoólicos porque levamos um modo de vida saudável.
  - Jeśli oni / one znowu zamówią alkoholowe koktajle, ja zamówię coś bezalkoholowego. Se eles / elas pedirem coquetéis alcoólicos de novo, eu vou pedir algo sem álcool.
 
-- [] Dzień 530 - 
+- [x] Dzień 530 - Koran. (Alcorão. - Rzeczowniki męskie)
+ - Kiedy (ja) byłem / byłam młody / młoda, zacząłem / zaczęłam czytać Koran z ciekawości. Quando eu era jovem, comecei a ler o Alcorão por curiosidade.
+ - On / Ona codziennie czyta fragmenty Koranu, żeby się uspokoić. Ele / Ela lê trechos do Alcorão todos os dias para se acalmar.
+ - Czy (wy) kiedyś próbowaliście / próbowałyście zrozumieć przesłanie Koranu? (Vocês) já tentaram entender a mensagem do Alcorão?
+ - Jutro oni / one będą analizować fragment Koranu na zajęciach religijnych. Amanhã eles / elas vão analisar um trecho do Alcorão nas aulas de religião.
+ - (My) znaleźliśmy / znalazłyśmy stary egzemplarz Koranu w bibliotece. (Nós) encontramos um exemplar antigo do Alcorão na biblioteca.
 
 - [] Dzień 531 - 
 
