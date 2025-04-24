@@ -2647,7 +2647,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro oni / one będą analizować fragment Koranu na zajęciach religijnych. Amanhã eles / elas vão analisar um trecho do Alcorão nas aulas de religião.
  - (My) znaleźliśmy / znalazłyśmy stary egzemplarz Koranu w bibliotece. (Nós) encontramos um exemplar antigo do Alcorão na biblioteca.
 
-- [] Dzień 531 - 
+- [x] Dzień 531 - Wieś, Wioska. (Aldeia. - Rzeczowniki żeńskie)
+ - Kiedy (ja) byłem / byłam dzieckiem, mieszkałem / mieszkałam w małej wiosce w górach. Quando eu era criança, morava numa pequena aldeia nas montanhas.
+ - On / Ona odwiedził / odwiedziła wieś swojego / swojej dziadka / babci i zakochał / zakochała się w tym miejscu. Ele / Ela visitou a aldeia da avô / avó e se apaixonou por aquele lugar.
+ - Czy (wy) planujecie pojechać do tej wioski w przyszłym tygodniu? Vocês planejam ir para essa aldeia na próxima semana?
+ - Jutro oni / one pomogą odbudować starą chatę we wsi. Amanhã eles / elas vão ajudar a reconstruir a cabana antiga na aldeia.
+ - (My) często wracamy do naszej rodzinnej wioski na święta. (Nós) frequentemente voltamos para nossa aldeia natal durante os feriados.
 
 - [] Dzień 532 - 
 
