@@ -2654,7 +2654,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro oni / one pomogą odbudować starą chatę we wsi. Amanhã eles / elas vão ajudar a reconstruir a cabana antiga na aldeia.
  - (My) często wracamy do naszej rodzinnej wioski na święta. (Nós) frequentemente voltamos para nossa aldeia natal durante os feriados.
 
-- [] Dzień 532 - 
+- [x] Dzień 532 - Losowy / Losowa, Przypadkowy / Przypadkowa. (Aleatório / Aleatória. - Przymiotniki)
+ - Wczoraj (ja) spotkałem / spotkałam przypadkowego / przypadkową mężczyznę / kobietę, który / która znał / znała mojego brata. Ontem (eu) encontrei um homem aleatório que conhecia meu irmão.
+ - On / Ona zawsze wybiera losową piosenkę z listy. Ele / Ela sempre escolhe uma música (canção) aleatória da lista.
+ - Czy (ty) naprawdę podjąłeś / podjęłaś przypadkową decyzję bez zastanowienia? Você realmente tomou uma decisão aleatória sem pensar?
+ - (My) trafiliśmy / trafiłyśmy do tej restauracji zupełnie losowo, ale jedzenie było pyszne. (Nós) acabamos nesse restaurante completamente no aleatório, mas a comida estava deliciosa.
+ - Jutro oni / one dostaną losowe zadania do wykonania. Amanhã eles / elas receberão tarefas aleatórias para realizar.
 
 - [] Dzień 533 - 
 
