@@ -2661,7 +2661,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) trafiliśmy / trafiłyśmy do tej restauracji zupełnie losowo, ale jedzenie było pyszne. (Nós) acabamos nesse restaurante completamente no aleatório, mas a comida estava deliciosa.
  - Jutro oni / one dostaną losowe zadania do wykonania. Amanhã eles / elas receberão tarefas aleatórias para realizar.
 
-- [] Dzień 533 - 
+- [x] Dzień 533 - Rozmaryn. (Alecrim. - Rzeczowniki męskie)
+ - W dzieciństwie mój / moja dziadek / babcia dodawał / dodawała rozmaryn do każdej pieczeni. Na infância, meu / minha avô / avó colocava alecrim em todos os assados.
+ - (My) często używamy rozmarynu, gdy gotujemy razem kolację. (Nós) frequentemente usamos alecrim quando cozinhamos o jantar juntos.
+ - Oni / One zasadzili / zasadziły rozmaryn w ogrodzie ziołowym w zeszłym tygodniu. Eles / Elas plantaram alecrim na horta na semana passada.
+ - Czy (ty) wiesz, że rozmaryn pomaga poprawić pamięć? (Você) sabia que o alecrim ajuda a melhorar a memória?
+ - Jutro oni / one dodadzą świeży rozmaryn do zupy warzywnej. Amanhã eles / elas vão adicionar alecrim fresco à sopa de legumes.
 
 - [] Dzień 534 - 
 
