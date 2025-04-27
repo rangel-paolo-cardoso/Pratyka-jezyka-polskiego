@@ -2668,7 +2668,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (ty) wiesz, że rozmaryn pomaga poprawić pamięć? (Você) sabia que o alecrim ajuda a melhorar a memória?
  - Jutro oni / one dodadzą świeży rozmaryn do zupy warzywnej. Amanhã eles / elas vão adicionar alecrim fresco à sopa de legumes.
 
-- [] Dzień 534 - 
+- [x] Dzień 534 - Alegoria. (Alegoria. - Rzeczowniki żeńskie)
+ - W liceum (ja) napisałem / napisałam esej o alegorii wolności w literaturze. No ensino médio, (eu) escrevi uma redação sobre a alegoria da liberdade na literatura.
+ - On / Ona nie zrozumiał / zrozumiała alegorii użytej w tym filmie. Ele / Ela não entendeu a alegoria usada nesse filme.
+ - (My) analizujemy alegorie w obrazach religijnych na zajęciach. (Nós) estamos analisando alegorias em pinturas religiosas na aula.
+ - Czy (ty) potrafisz odróżnić alegorię od metafory? (Você) consegue diferenciar alegoria de metáfora?
+ - Oni / One stworzą piękną alegorię życia codziennego w swojej sztuce. Eles / Elas vão criar uma bela alegoria da vida cotidiana em sua arte.
 
 - [] Dzień 535 - 
 
