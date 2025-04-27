@@ -2675,7 +2675,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (ty) potrafisz odróżnić alegorię od metafory? (Você) consegue diferenciar alegoria de metáfora?
  - Oni / One stworzą piękną alegorię życia codziennego w swojej sztuce. Eles / Elas vão criar uma bela alegoria da vida cotidiana em sua arte.
 
-- [] Dzień 535 - 
+- [x] Dzień 535 - Wesoły / Wesoła. (Alegre. - Przymiotniki)
+ - Kiedy (ja) byłem / byłam dzieckiem, byłem / byłam bardzo wesoły / wesoła każdego dnia. Quando eu era criança, (eu) era muito alegre todos os dias.
+ - On / Ona jest dzisiaj wyjątkowo wesoły / wesoła, bo wygrał / wygrała konkurs. Ele / Ela está especialmente alegre hoje porque ganhou o concurso.
+ - Jutro (my) będziemy weseli / wesołe podczas świętowania urodzin przyjaciela / przyjaciółki. Amanhã (nós) estaremos alegres durante a comemoração do aniversário do / da amigo / amiga.
+ - Czy (ty) zawsze jesteś taki / taka wesoły / wesoła rano? Você é sempre tão alegre de manhã?
+ - Oni / One widzieli / widziały wczoraj wesołego / wesołą chłopca / dziewczynkę tańczącego / tańczącą na rynku. Eles / Elas viram ontem um / uma menino / menina alegre dançando na praça.
 
 - [] Dzień 536 - 
 
