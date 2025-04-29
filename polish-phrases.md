@@ -2682,7 +2682,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (ty) zawsze jesteś taki / taka wesoły / wesoła rano? Você é sempre tão alegre de manhã?
  - Oni / One widzieli / widziały wczoraj wesołego / wesołą chłopca / dziewczynkę tańczącego / tańczącą na rynku. Eles / Elas viram ontem um / uma menino / menina alegre dançando na praça.
 
-- [] Dzień 536 - 
+- [] Dzień 536 - Radość. (Alegria. - Rzeczowniki żeńskie)
+ - (Ja) czułem / czułam wielką radość, gdy odwiedziłem / odwiedziłam moich rodziców. (Eu) senti uma grande alegria quando visitei meus pais.
+ - On / Ona nie ukrywał / ukrywała swojej radości po zdanym egzaminie. Ele / Ela não escondeu a sua alegria depois de passar no exame.
+ - W przyszłym tygodniu (my) będziemy świętować z wielką radością. Na próxima semana (nós) comemoraremos com grande alegria.
+ - Czy (ty) czujesz radość, kiedy patrzysz na wschód słońca? Você sente alegria quando olha para o nascer do sol?
+ - Oni / One dzielili / dzieliły się swoją radością po zwycięstwie drużyny. Eles / Elas compartilharam a sua alegria após a vitória do time.
 
 - [] Dzień 537 - 
 
