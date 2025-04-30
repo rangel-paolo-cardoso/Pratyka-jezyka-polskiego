@@ -2689,7 +2689,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (ty) czujesz radość, kiedy patrzysz na wschód słońca? Você sente alegria quando olha para o nascer do sol?
  - Oni / One dzielili / dzieliły się swoją radością po zwycięstwie drużyny. Eles / Elas compartilharam a sua alegria após a vitória do time.
 
-- [] Dzień 537 - 
+- [x] Dzień 537 - Kaleka, Kaleki. (Aleijado. - Przymiotnik, Rzeczownik)
+ - Kiedy (ja) byłem / byłam dzieckiem, widziałem / widziałam kalekę, który / która malował / malowała obrazy stopami. Quando eu era criança, vi um / uma aleijado / aleijada que pintava quadros com os pés.
+ - On / Ona pomógł / pomogła kalekiemu / kalekiej mężczyźnie / kobiecie przejść przez ulicę. Ele / Ela ajudou um / uma homem / mulher aleijado / aleijada a atravessar a rua.
+ - W przyszłości (my) będziemy budować więcej ramp dla kalekich osób. No futuro, (nós) construiremos mais rampas para pessoas aleijadas.
+ - Czy (wy) spotkaliście / spotkałyście kiedyś kalekiego / kaleką mężczyznę / kobietę, który / która gra na gitarze? (Vocês) já encontraram um / uma homem / mulher aleijado / aleijada que toca guitarra?
+ - Oni / One zorganizowali / zorganizowały zbiórkę pieniędzy dla kalek. Eles / Elas organizaram uma coleta de dinheiro (vaquinha) para os aleijados.
 
 - [] Dzień 538 - 
 
