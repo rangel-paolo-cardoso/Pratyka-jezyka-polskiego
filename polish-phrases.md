@@ -2696,7 +2696,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Czy (wy) spotkaliście / spotkałyście kiedyś kalekiego / kaleką mężczyznę / kobietę, który / która gra na gitarze? (Vocês) já encontraram um / uma homem / mulher aleijado / aleijada que toca guitarra?
  - Oni / One zorganizowali / zorganizowały zbiórkę pieniędzy dla kalek. Eles / Elas organizaram uma coleta de dinheiro (vaquinha) para os aleijados.
 
-- [] Dzień 538 - 
+- [x] Dzień 538 - Okaleczyć, Okaleczać. (Aleijar. - Czasowniki)
+ - (Ja) nie chciałem / chciałam go / jej okaleczyć, to był wypadek. Eu não queria aleijá-lo/la (aleijar ele / ela), foi um acidente.
+ - On / Ona okaleczył / okaleczyła się podczas wypadku samochodowego. Ele / Ela se aleijou durante o acidente de carro.
+ - Jeśli (wy) nie będziecie ostrożni / ostrożne, możecie kogoś poważnie okaleczyć. Se vocês não forem cuidadosos / cuidadosas, podem aleijar alguém seriamente.
+ - On / Ona mówił / mówiła, że jego / jej brat / siostra został / została okaleczony / okaleczona na wojnie. Ele / Ela disse que o / a irmão / irmã dele / dela foi aleijado / aleijada na guerra.
+ - Jutro (my) nie dopuścimy, by ktokolwiek został / została okaleczony / okaleczona. Amanhã (nós) não permitiremos que ninguém seja aleijado / aleijada.
 
 - [] Dzień 539 - 
 
