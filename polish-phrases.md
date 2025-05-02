@@ -2703,7 +2703,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona mówił / mówiła, że jego / jej brat / siostra został / została okaleczony / okaleczona na wojnie. Ele / Ela disse que o / a irmão / irmã dele / dela foi aleijado / aleijada na guerra.
  - Jutro (my) nie dopuścimy, by ktokolwiek został / została okaleczony / okaleczona. Amanhã (nós) não permitiremos que ninguém seja aleijado / aleijada.
 
-- [] Dzień 539 - 
+- [x] Dzień 539 - Alleluja - Rzeczownik nijaki. (Aleluia. - Rzeczownik żeński)
+ - Wczoraj (ja) śpiewałem / śpiewałam głośno alleluja podczas mszy wielkanocnej. Ontem (eu) cantei alto a aleluia durante a missa de Páscoa.
+ - On / Ona zawsze mówi alleluja, kiedy coś dobrego się wydarzy. Ele / Ela sempre diz aleluia quando algo bom acontece.
+ - Jutro (wy) zaśpiewacie piękne alleluja na koncercie chóralnym. Amanhã vocês cantarão uma bela aleluia no concerto do coral.
+ - (My) słyszeliśmy / słyszałyśmy ciche alleluja w jej modlitwie. (Nós) ouvimos um silencioso aleluia na oração dela.
+ - Oni / One z radością krzyknęli / krzyknęły alleluja, gdy zobaczyli / zobaczyły wyniki. Eles / Elas gritaram aleluia com alegria quando viram os resultados.
 
 - [] Dzień 540 - 
 
