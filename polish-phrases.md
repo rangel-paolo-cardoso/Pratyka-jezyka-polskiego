@@ -2710,7 +2710,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) słyszeliśmy / słyszałyśmy ciche alleluja w jej modlitwie. (Nós) ouvimos um silencioso aleluia na oração dela.
  - Oni / One z radością krzyknęli / krzyknęły alleluja, gdy zobaczyli / zobaczyły wyniki. Eles / Elas gritaram aleluia com alegria quando viram os resultados.
 
-- [] Dzień 540 - 
+- [x] Dzień 540 - Poza - Przyimek, Dalej - Przysłówek. (Além. - Przysłówek)
+ - (Ja) wierzę, że po śmierci istnieje coś poza tym życiem. (Eu) acredito que depois da morte existe algo além desta vida.
+ - Poza tym, on / ona potrafi myśleć logicznie i szybko podejmuje decyzje. Além disso, ele / ela sabe pensar logicamente e toma decisões rapidamente.
+ - My jako zespół możemy zajść znacznie dalej, jeśli będziemy współpracować. Nós, como equipe, podemos ir muito além se colaborarmos.
+ - Oni / One patrzyli / patrzyły dalej niż tylko na własne potrzeby. Eles / Elas olharam além apenas de suas próprias necessidades.
+ - (Ty) przekroczyłeś / przekroczyłaś granice – poszedłeś / poszłaś o wiele dalej, niż się spodziewaliśmy. Você ultrapassou os limites – foi muito além do que esperávamos.
 
 - [] Dzień 541 - 
 
