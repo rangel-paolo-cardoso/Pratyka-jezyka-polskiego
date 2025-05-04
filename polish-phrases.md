@@ -2717,7 +2717,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One patrzyli / patrzyły dalej niż tylko na własne potrzeby. Eles / Elas olharam além apenas de suas próprias necessidades.
  - (Ty) przekroczyłeś / przekroczyłaś granice – poszedłeś / poszłaś o wiele dalej, niż się spodziewaliśmy. Você ultrapassou os limites – foi muito além do que esperávamos.
 
-- [] Dzień 541 - 
+- [x] Dzień 541 - Niemiec / Niemka - Rzeczowniki, Niemiecki, Niemiecka - Przymiotniki. (Alemão / Alemã. - Przymioniki, Rzeczowniki) 
+ - (Ja) jestem Niemcem / Niemką i dorastałem / dorastałam w Berlinie. (Eu) sou alemão / alemã e cresci em Berlim.
+ - On / Ona był / była Niemcem / Niemką, który / która uczył / uczyła nas niemieckiego w szkole. Ele / Ela era alemão / alemã que nos ensinou alemão na escola.
+ - Czy (wy) uczycie się niemieckiego razem z nami? (Vocês) estão aprendendo alemão junto conosco?
+ - (My) poznamy wielu Niemców / Niemek podczas podróży do Europy. (Nós) conheceremos muitos / muitas alemães / alemãs durante a viagem à Europa.
+ - On / Ona nie mówił / mówiła po niemiecku, chociaż mieszkał / mieszkała w Niemczech. Ele / Ela não falava alemão, embora morasse na Alemanha.
 
 - [] Dzień 542 - 
 
