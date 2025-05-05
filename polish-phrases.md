@@ -2724,7 +2724,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poznamy wielu Niemców / Niemek podczas podróży do Europy. (Nós) conheceremos muitos / muitas alemães / alemãs durante a viagem à Europa.
  - On / Ona nie mówił / mówiła po niemiecku, chociaż mieszkał / mieszkała w Niemczech. Ele / Ela não falava alemão, embora morasse na Alemanha.
 
-- [] Dzień 542 - 
+- [x] Dzień 542 - Alergia. (Alergia. - Rzeczowniki żeńskie)
+ - (Ja) mam alergię na kurz od dziecka. (Eu) tenho alergia a poeira desde criança.
+ - On / Ona ma alergię na orzechy, więc musi ich unikać. Ele / Ela tem alergia a nozes; por isso, deve evitá-las (evitar elas).
+ - Czy (wy) też macie alergię na sierść kota? Vocês também têm alergia a pelo de gato?
+ - On / Ona będzie musiał / musiała unikać mleka, bo ma alergię. Ele / Ela terá que evitar leite, porque tem alergia.
+ - (My) cierpieliśmy / cierpiałyśmy na alergię wiosną, ale teraz jest lepiej. (Nós) sofremos com alergia na primavera, mas agora está melhor.
 
 - [] Dzień 543 - 
 
