@@ -2731,7 +2731,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona będzie musiał / musiała unikać mleka, bo ma alergię. Ele / Ela terá que evitar leite, porque tem alergia.
  - (My) cierpieliśmy / cierpiałyśmy na alergię wiosną, ale teraz jest lepiej. (Nós) sofremos com alergia na primavera, mas agora está melhor.
 
-- [] Dzień 543 - 
+- [x] Dzień 543 - Uczulony / Uczulona. (Alérgico / Alérgica. - Przymiotniki)
+ - (Ja) jestem uczulony / uczulona na kurz. (Eu) sou alérgico / alérgica a poeira.
+ - On / Ona nie może nosić tej bransoletki, bo jest uczulony / uczulona na nikiel. Ele / Ela não pode usar esta pulseira, porque é alérgico / alérgica a níquel.
+ - (Czy) (ty) jesteś uczulony / uczulona na coś? Você é alérgico / alérgica a alguma coisa?
+ - (My) będziemy uczuleni / uczulone na ten lek, jeśli go weźmiemy. (Nós) seremos alérgicos / alérgicas a esse remédio se o tomarmos (ele).
+ - Oni / One nie byli / były uczuleni / uczulone na mleko, ale teraz są. Eles / Elas não eram alérgicos / alérgicas a leite, mas agora são.
 
 - [] Dzień 544 - 
 
