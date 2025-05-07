@@ -2738,7 +2738,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy uczuleni / uczulone na ten lek, jeśli go weźmiemy. (Nós) seremos alérgicos / alérgicas a esse remédio se o tomarmos (ele).
  - Oni / One nie byli / były uczuleni / uczulone na mleko, ale teraz są. Eles / Elas não eram alérgicos / alérgicas a leite, mas agora são.
 
-- [] Dzień 544 - 
+- [x] Dzień 544 - Alarm - Rzeczownik męski, Czujny / Czujna - Przymiotniki, Czujnie - Przysłówek. (Alerta. - Rzeczownik męski, Przymiotnik, Przysłówek)
+ - Zawsze jestem czujny / czujna, gdy wracam do domu późno w nocy. Sempre estou alerta quando volto para casa tarde da noite.
+ - Ty i twój / twoja brat / siostra byliście / byłyście wczoraj bardzo czujni / czujne podczas wycieczki. Você e seu / sua irmão / irmã estavam muito alertas ontem durante a excursão.
+ - On / Ona będzie musiał / musiała zachować się czujnie, jeśli chce zdać ten egzamin. Ele / Ela terá que se manter alerta se quiser passar nesta prova.
+ - (My) zareagowaliśmy / zareagowałyśmy natychmiast, gdy usłyszeliśmy / usłyszałyśmy alarm. (Nós) reagimos imediatamente quando ouvimos o alerta.
+ - Oni / One nie byli / były wystarczająco czujni / czujne i przegapili / przegapiły ważny szczegół. Eles / Elas não estavam suficientemente alertas e perderam um detalhe importante.
 
 - [] Dzień 545 - 
 
