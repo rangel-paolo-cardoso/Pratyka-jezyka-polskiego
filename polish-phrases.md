@@ -2745,7 +2745,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zareagowaliśmy / zareagowałyśmy natychmiast, gdy usłyszeliśmy / usłyszałyśmy alarm. (Nós) reagimos imediatamente quando ouvimos o alerta.
  - Oni / One nie byli / były wystarczająco czujni / czujne i przegapili / przegapiły ważny szczegół. Eles / Elas não estavam suficientemente alertas e perderam um detalhe importante.
 
-- [] Dzień 545 - 
+- [x] Dzień 545 - Alfabetyzacja. (Alfabetização. - Rzeczowniki żeńskie)
+ - Jako dziecko (ja) byłem / byłam zachwycony / zachwycona moją pierwszą lekcją alfabetyzacji. Quando criança, (eu) fiquei encantado / encantada com minha primeira aula de alfabetização.
+ - On / Ona uczestniczy teraz w programie alfabetyzacji dla dorosłych. Ele / Ela está participando agora de um programa de alfabetização para adultos.
+ - (Czy) (wy) ukończyliście / ukończyłyście już kurs alfabetyzacji? Vocês já concluíram o curso de alfabetização?
+ - (My) będziemy wspierać alfabetyzację w biednych regionach kraju. (Nós) apoiaremos a alfabetização nas regiões pobres do país.
+ - Oni / One zaniedbali / zaniedbały alfabetyzację w tamtej wiosce przez wiele lat. Eles / Elas negligenciaram a alfabetização naquela aldeia por muitos anos.
 
 - [] Dzień 546 - 
 
