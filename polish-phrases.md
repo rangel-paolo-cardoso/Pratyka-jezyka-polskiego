@@ -2752,7 +2752,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy wspierać alfabetyzację w biednych regionach kraju. (Nós) apoiaremos a alfabetização nas regiões pobres do país.
  - Oni / One zaniedbali / zaniedbały alfabetyzację w tamtej wiosce przez wiele lat. Eles / Elas negligenciaram a alfabetização naquela aldeia por muitos anos.
 
-- [] Dzień 546 - 
+- [x] Dzień 546 - Piśmienny / Piśmienna - Przymiotniki. (Alfabetizado / Alfabetizada. - Przymiotniki, Rzeczowniki)
+ - (Ja) byłem / byłam piśmienny / piśmienna już w wieku pięciu lat. Eu já era alfabetizado / alfabetizada aos cinco anos.
+ - (Czy) on / ona jest piśmienny / piśmienna, czy potrzebuje pomocy? Ele / Ela é alfabetizado / alfabetizada ou precisa de ajuda?
+ - (Wy) będziecie piśmienni / piśmienne po ukończeniu tego kursu. Vocês estarão alfabetizados / alfabetizadas após concluir este curso.
+ - (My) nie byliśmy / byłyśmy piśmienni / piśmienne, dopóki nie pojawił / pojawiła się nauczyciel / nauczycielka. (Nós) não éramos alfabetizados / alfabetizadas até que apareceu um / uma professor / professora.
+ - Oni / One są piśmienni / piśmienne i chętni / chętne do nauki dalej. Elas são alfabetizados / alfabetizadas e dispostos / dispostas a continuar aprendendo.
 
 - [] Dzień 547 - 
 
