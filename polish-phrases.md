@@ -2759,7 +2759,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) nie byliśmy / byłyśmy piśmienni / piśmienne, dopóki nie pojawił / pojawiła się nauczyciel / nauczycielka. (Nós) não éramos alfabetizados / alfabetizadas até que apareceu um / uma professor / professora.
  - Oni / One są piśmienni / piśmienne i chętni / chętne do nauki dalej. Elas são alfabetizados / alfabetizadas e dispostos / dispostas a continuar aprendendo.
 
-- [] Dzień 547 - 
+- [x] Dzień 547 - Alfabet. (Alfabeto. - Rzeczowniki męskie)
+ - (Ja) nauczyłem / nauczyłam się całego alfabetu w tydzień. (Eu) aprendi todo o alfabeto em uma semana.
+ - On / Ona właśnie uczy się alfabetu greckiego. Ele / Ela está apenas aprendendo o alfabeto grego.
+ - (Czy) (ty) znasz alfabet rosyjski? (Você) conhece o alfabeto russo?
+ - (My) będziemy uczyć dzieci nowego alfabetu fonetycznego. (Nós) ensinaremos às crianças o novo alfabeto fonético.
+ - Oni / One nie rozumieli / rozumiały alfabetu starożytnego Egiptu. Eles / Elas não entendiam o alfabeto do Egito Antigo.
 
 - [] Dzień 548 - 
 
