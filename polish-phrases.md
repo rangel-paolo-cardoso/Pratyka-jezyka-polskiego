@@ -2766,7 +2766,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy uczyć dzieci nowego alfabetu fonetycznego. (Nós) ensinaremos às crianças o novo alfabeto fonético.
  - Oni / One nie rozumieli / rozumiały alfabetu starożytnego Egiptu. Eles / Elas não entendiam o alfabeto do Egito Antigo.
 
-- [] Dzień 548 - 
+- [x] Dzień 548 - Sałata. (Alface. - Rzeczowniki żeńskie)
+ - (Ja) posadziłem / posadziłam sałatę w ogrodzie zeszłej wiosny. (Eu) plantei alface no jardim na primavera passada.
+ - (Czy) (ty) jesz sałatę każdego dnia? Você come alface todos os dias?
+ - On / Ona nie lubił / lubiła sałaty, gdy był / była dzieckiem. Ele / Ela não gostava de alface quando era criança.
+ - (My) przyniesiemy świeżą sałatę na kolację. (Nós) traremos alface fresca para o jantar.
+ - Oni / One kupili / kupiły dużo sałaty na piknik. Eles / Elas compraram muita alface para o piquenique.
 
 - [] Dzień 549 - 
 
