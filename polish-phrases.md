@@ -2773,7 +2773,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przyniesiemy świeżą sałatę na kolację. (Nós) traremos alface fresca para o jantar.
  - Oni / One kupili / kupiły dużo sałaty na piknik. Eles / Elas compraram muita alface para o piquenique.
 
-- [] Dzień 549 - 
+- [x] Dzień 549 - Urząd celny, Służba celna, Odprawa celna - Rzeczowniki złożone. (Alfândega. - Rzeczownik żeński)
+ - (Ja) musiałem / musiałam iść do urzędu celnego po paczkę z Brazylii. (Eu) precisei ir à alfândega buscar (retirar) um pacote do Brasil.
+ - (Czy) (ty) już przeszedłeś / przeszłaś przez odprawę celną? Você já passou pela alfândega?
+ - On / Ona pracował / pracowała w urzędzie celnym przez dziesięć lat. Ele / Ela trabalhou na alfândega por dez anos.
+ - (My) jutro zgłosimy ten towar do odprawy celnej. (Nós) declararemos essa mercadoria na alfândega amanhã.
+ - Oni / One zostali / zostały zatrzymani / zatrzymane przez służbę celną na lotnisku. Eles / Elas foram detidos / detidas pela alfândega no aeroporto.
 
 - [] Dzień 550 - 
 
