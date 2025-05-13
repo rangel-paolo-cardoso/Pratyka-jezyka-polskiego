@@ -2780,7 +2780,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jutro zgłosimy ten towar do odprawy celnej. (Nós) declararemos essa mercadoria na alfândega amanhã.
  - Oni / One zostali / zostały zatrzymani / zatrzymane przez służbę celną na lotnisku. Eles / Elas foram detidos / detidas pela alfândega no aeroporto.
 
-- [] Dzień 550 - 
+- [x] Dzień 550 - Alga - Rzeczownik żeński, Glon, Wodorost - Rzeczowniki męskie. (Alga. - Rzeczownik żeński)
+ - W dzieciństwie (ja) często widziałem / widziałam glony w jeziorze koło domu. Na infância, eu via frequentemente algas no lago perto de casa.
+ - (Czy) (ty) też nie lubisz zapachu wodorostów na plaży? Você também não gosta do cheiro das algas na praia?
+ - On / Ona zjadł / zjadła sałatkę z wodorostami i był była zachwycony / zachwycona. Ele / Ela comeu uma salada com algas e ficou encantado / encantada.
+ - (My) jutro posprzątamy akwarium, bo glony pokryły szyby. Amanhã (nós) vamos limpar o aquário porque as algas cobriram os vidros.
+ - Oni / One badali / badały algi w laboratorium przez cały tydzień. Eles / Elas estudaram algas no laboratório a semana inteira.
 
 - [] Dzień 551 - 
 
