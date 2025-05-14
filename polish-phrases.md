@@ -2787,7 +2787,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jutro posprzątamy akwarium, bo glony pokryły szyby. Amanhã (nós) vamos limpar o aquário porque as algas cobriram os vidros.
  - Oni / One badali / badały algi w laboratorium przez cały tydzień. Eles / Elas estudaram algas no laboratório a semana inteira.
 
-- [] Dzień 551 - 
+- [x] Dzień 551 - Cyfra - Rzeczownik żeński. (Algarismo. - Rzeczownik męski)
+ - (Ja) nauczyłem / nauczyłam się wszystkich cyfr, kiedy miałem / miałam pięć lat. (Eu) aprendi todos os algarismos quando tinha cinco anos.
+ - (Czy) (ty) potrafisz napisać tę cyfrę odręcznie? Você sabe escrever esse algarismo à mão?
+ - On / Ona zauważył / zauważyła brak jednej cyfry w numerze telefonu. Ele / Ela percebeu a ausência de um algarismo no número de telefone.
+ - (My) zawsze sprawdzamy każdą cyfrę w kodzie bezpieczeństwa. (Nós) sempre verificamos cada algarismo no código de segurança.
+ - Oni / One w przyszłości będą uczyć dzieci cyfr za pomocą gier. Eles / Elas, no futuro, ensinarão os algarismos às crianças por meio de jogos.
 
 - [] Dzień 552 - 
 
