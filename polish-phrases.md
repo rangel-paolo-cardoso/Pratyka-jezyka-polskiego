@@ -2794,7 +2794,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze sprawdzamy każdą cyfrę w kodzie bezpieczeństwa. (Nós) sempre verificamos cada algarismo no código de segurança.
  - Oni / One w przyszłości będą uczyć dzieci cyfr za pomocą gier. Eles / Elas, no futuro, ensinarão os algarismos às crianças por meio de jogos.
 
-- [] Dzień 552 - 
+- [x] Dzień 552 - Algebra. (Álgebra. - Rzeczowniki żeńskie)
+ - (Ja) zawsze miałem / miałam trudności z algebrą w szkole. (Eu) sempre tive dificuldades com álgebra na escola.
+ - (Czy) (ty) lubisz algebrę bardziej niż geometrię? Você gosta mais de álgebra do que de geometria?
+ - On / Ona uczył / uczyła się algebry przez całą noc przed egzaminem. Ele / Ela estudou álgebra a noite toda antes da prova.
+ - (My) będziemy rozwiązywać zadania z algebry na lekcji jutro. (Nós) resolveremos exercícios de álgebra na aula amanhã.
+ - Oni / One nigdy nie interesowali / interesowały się algebrą, wolą statystykę. Eles / Elas nunca se interessaram por álgebra, preferem estatística.
 
 - [] Dzień 553 - 
 
