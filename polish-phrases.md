@@ -2801,7 +2801,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy rozwiązywać zadania z algebry na lekcji jutro. (Nós) resolveremos exercícios de álgebra na aula amanhã.
  - Oni / One nigdy nie interesowali / interesowały się algebrą, wolą statystykę. Eles / Elas nunca se interessaram por álgebra, preferem estatística.
 
-- [] Dzień 553 - 
+- [x] Dzień 553 - Kajdanka, Kajdanki. (Algema, Algemas. - Rzeczowniki żeńskie)
+ - Policjant założył mi kajdanki, choć nic nie zrobiłem / zrobiłam. O policial colocou algemas em mim, mesmo eu não tendo feito nada.
+ - Wczoraj widzieliśmy, jak oni zakuwali ją w kajdanki na ulicy. Ontem vimos como eles algemaram ela (em/com algemas) na rua.
+ - (Czy) (ty) kiedykolwiek widziałeś / widziałaś prawdziwe kajdanki? Você já viu algemas de verdade alguma vez?
+ - Jutro podczas treningu my będziemy ćwiczyć zakładanie kajdanek. Amanhã durante o treinamento, nós vamos praticar o uso de algemas.
+ - Oni / One mieli / miały kajdanki jako część stroju na bal przebierańców. Eles / Elas tinham algemas como parte da fantasia no baile à fantasia.
 
 - [] Dzień 554 - 
 
