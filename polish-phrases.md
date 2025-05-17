@@ -2808,7 +2808,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro podczas treningu my będziemy ćwiczyć zakładanie kajdanek. Amanhã durante o treinamento, nós vamos praticar o uso de algemas.
  - Oni / One mieli / miały kajdanki jako część stroju na bal przebierańców. Eles / Elas tinham algemas como parte da fantasia no baile à fantasia.
 
-- [] Dzień 554 - 
+- [x] Dzień 554 - Coś - Zaimek nieokreślony. (Algo. - Przysłówek, Zaimek nieokreślony)
+ - Wczoraj (ja) czułem / czułam, że coś jest nie tak. Ontem (eu) senti que algo estava errado.
+ - (Czy) (ty) masz coś dla mnie? Você tem algo para mim?
+ - On / Ona zawsze chce coś zmienić w swoim życiu. Ele / Ela sempre quer mudar algo na sua vida.
+ - (My) już zaplanowaliśmy / zaplanowałyśmy coś na wakacje. (Nós) já planejamos algo para as férias.
+ - Jeśli oni / one zobaczą coś dziwnego, dadzą wam znać. Se eles / elas virem algo estranho, avisarão vocês.
 
 - [] Dzień 555 - 
 
