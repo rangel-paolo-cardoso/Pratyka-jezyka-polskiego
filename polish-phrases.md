@@ -2822,7 +2822,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze wybieraliśmy / wybierałyśmy bawełnę zamiast sztucznych materiałów. (Nós) sempre escolhemos algodão em vez de materiais sintéticos.
  - Jeśli oni / one dostaną bawełnę na czas, zaczną produkcję. Se eles / elas receberem o algodão a tempo, iniciarão a produção.
 
-- [] Dzień 556 - 
+- [x] Dzień 556 - Algorytm. (Algoritmo. - Rzeczowniki męskie)
+ - W zeszłym tygodniu (ja) napisałem / napisałam nowy algorytm do analizy danych. Na semana passada, (eu) escrevi um novo algoritmo para análise de dados.
+ - On / Ona zrozumiał / zrozumiała, jak działa algorytm rekomendacji w aplikacji. Ele / Ela entendeu como funciona o algoritmo de recomendação no aplicativo.
+ - (Czy) (ty) potrafisz wytłumaczyć ten algorytm krok po kroku? Você consegue explicar esse algoritmo passo a passo?
+ - (My) stworzymy lepszy algorytm, jeśli będziemy współpracować. (Nós) criaremos um algoritmo melhor se trabalharmos juntos.
+ - Oni / One analizowali / analizowały algorytm przez kilka godzin, ale nadal nie znaleźli / znalazły błędu. Eles / Elas analisaram o algoritmo por várias horas, mas ainda não encontraram o erro.
 
 - [] Dzień 557 - 
 
