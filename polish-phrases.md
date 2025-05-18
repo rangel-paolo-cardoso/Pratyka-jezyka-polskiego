@@ -2815,7 +2815,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) już zaplanowaliśmy / zaplanowałyśmy coś na wakacje. (Nós) já planejamos algo para as férias.
  - Jeśli oni / one zobaczą coś dziwnego, dadzą wam znać. Se eles / elas virem algo estranho, avisarão vocês.
 
-- [] Dzień 555 - 
+- [x] Dzień 555 - Bawełna - Rzeczownik żeński. (Algodão. - Rzeczownik męski)
+ - Wczoraj (ja) kupiłem / kupiłam koszulkę z czystej bawełny. Ontem (eu) comprei uma camiseta de algodão puro.
+ - On / Ona lubi nosić ubrania z bawełny latem. Ele / Ela gosta de usar roupas de algodão no verão.
+ - (Czy) (ty) planujesz kupić pościel z bawełny? Você planeja comprar lençóis de algodão?
+ - (My) zawsze wybieraliśmy / wybierałyśmy bawełnę zamiast sztucznych materiałów. (Nós) sempre escolhemos algodão em vez de materiais sintéticos.
+ - Jeśli oni / one dostaną bawełnę na czas, zaczną produkcję. Se eles / elas receberem o algodão a tempo, iniciarão a produção.
 
 - [] Dzień 556 - 
 
