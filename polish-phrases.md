@@ -2829,7 +2829,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) stworzymy lepszy algorytm, jeśli będziemy współpracować. (Nós) criaremos um algoritmo melhor se trabalharmos juntos.
  - Oni / One analizowali / analizowały algorytm przez kilka godzin, ale nadal nie znaleźli / znalazły błędu. Eles / Elas analisaram o algoritmo por várias horas, mas ainda não encontraram o erro.
 
-- [] Dzień 557 - 
+- [x] Dzień 557 - Ktoś, Kogoś - Zaimki Nieokreślone. (Alguém. - Rzeczownik męski, Zaimek nieokreślony)
+ - Wczoraj ktoś zadzwonił / zadzwoniła do mnie, ale nie zostawił / zostawiła wiadomości. Ontem alguém me ligou, mas não deixou mensagem.
+ - Jeśli ktoś zapyta, powiedz, że (ja) wyszedłem / wyszłam na chwilę. Se alguém perguntar, diga que (eu) saí por um momento.
+ - Ktoś musi to w końcu naprawić, nie możemy czekać wiecznie! Alguém precisa consertar isso, (afinal) não podemos esperar para (pra) sempre (eternamente)!
+ - (Czy) (wy) widzieliście / widziałyście kogoś dziwnego przed domem? Vocês viram alguém estranho na frente da casa?
+ - (Ja) mam nadzieję, że ktoś pomoże mu / jej z tym projektem. (Eu) espero que alguém o / a ajude (ele / ela) com esse projeto.
 
 - [] Dzień 558 - 
 
