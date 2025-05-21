@@ -2843,7 +2843,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (my) ugotujemy coś z czosnkiem, prawda? Amanhã (nós) vamos cozinhar algo com alho, certo?
  - (My) widzieliśmy / widziałyśmy, że oni / one kroili / kroiły czosnek bardzo drobno. (Nós) vimos que eles / elas picaram o alho bem fininho.
 
-- [] Dzień 559 - 
+- [x] Dzień 559 - Obrączka - Rzeczownik żeński, Sojusz - Rzeczownik męski. (Aliança. - Rzeczownik żeński)
+ - On / Ona zgubił / zgubiła swoją obrączkę na plaży i bardzo płakał / płakała. Ele / Ela perdeu sua (a) aliança (dele / dela) na praia e chorou muito.
+ - (My) Zawarliśmy / Zawarłyśmy sojusz z nowymi partnerami biznesowymi w zeszłym miesiącu. (Nós) formamos uma aliança com novos parceiros de negócios no mês passado.
+ - (Czy) (ty) nosisz swoją obrączkę codziennie, czy tylko na specjalne okazje? Você usa sua aliança todos os dias ou só em ocasiões especiais?
+ - W przyszłości oni / one będą potrzebować silniejszego sojuszu, żeby przetrwać kryzys. No futuro, eles / elas vão precisar de uma aliança mais forte para sobreviver à crise.
+ - (Ja) pamiętam, jak dziadek dał babci obrączkę — to był piękny moment. (Eu) lembro quando o vovô deu uma aliança à vovó — foi um momento lindo.
 
 - [] Dzień 560 - 
 
