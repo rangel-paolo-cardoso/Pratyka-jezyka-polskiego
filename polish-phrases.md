@@ -2836,7 +2836,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) widzieliście / widziałyście kogoś dziwnego przed domem? Vocês viram alguém estranho na frente da casa?
  - (Ja) mam nadzieję, że ktoś pomoże mu / jej z tym projektem. (Eu) espero que alguém o / a ajude (ele / ela) com esse projeto.
 
-- [] Dzień 558 - 
+- [x] Dzień 558 - Czosnek. (Alho. - Rzeczowniki męskie)
+ - Wczoraj (ja) ugotowałem / ugotowałam zupę z dużą ilością czosnku. Ontem (eu) cozinhei uma sopa com grande quantidade de alho.
+ - (Czy) (ty) dodajesz czosnek do sosu pomidorowego? Você coloca alho no molho de tomate?
+ - On / Ona nie lubił / lubiła czosnku, kiedy był / była dzieckiem. Ele / Ela não gostava de alho quando era criança.
+ - Jutro (my) ugotujemy coś z czosnkiem, prawda? Amanhã (nós) vamos cozinhar algo com alho, certo?
+ - (My) widzieliśmy / widziałyśmy, że oni / one kroili / kroiły czosnek bardzo drobno. (Nós) vimos que eles / elas picaram o alho bem fininho.
 
 - [] Dzień 559 - 
 
