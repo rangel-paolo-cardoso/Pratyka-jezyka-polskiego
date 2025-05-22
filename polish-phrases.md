@@ -2850,7 +2850,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W przyszłości oni / one będą potrzebować silniejszego sojuszu, żeby przetrwać kryzys. No futuro, eles / elas vão precisar de uma aliança mais forte para sobreviver à crise.
  - (Ja) pamiętam, jak dziadek dał babci obrączkę — to był piękny moment. (Eu) lembro quando o vovô deu uma aliança à vovó — foi um momento lindo.
 
-- [] Dzień 560 - 
+- [x] Dzień 560 - Szczypce, Kombinerki - mnogi. (Alicate. - Rzeczownik męski)
+ - (Ja) potrzebuję twoich szczypiec, żeby naprawić ten kabel. (Eu) preciso do seu alicate para consertar esse cabo.
+ - Wczoraj on / ona używał / używała kombinerek, żeby odkręcić zardzewiałą śrubę. Ontem ele / ela usou o alicate para soltar um parafuso enferrujado.
+ - (Czy) (ty) przyniosłeś / przyniosłaś szczypce z garażu, jak cię prosiłem / prosiłam? Você trouxe o alicate da garagem, como (eu) te pedi?
+ - (My) kupimy nowe kombinerki, bo tamte już się złamały. (Nós) vamos comprar um novo alicate, porque aquele já quebrou.
+ - Oni / One trzymali / trzymały szczypce zbyt mocno i uszkodzili / uszkodziły przewód. Eles / Elas seguraram o alicate com muita força e danificaram o fio.
 
 - [] Dzień 561 - 
 
