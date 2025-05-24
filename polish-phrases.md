@@ -2857,7 +2857,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupimy nowe kombinerki, bo tamte już się złamały. (Nós) vamos comprar um novo alicate, porque aquele já quebrou.
  - Oni / One trzymali / trzymały szczypce zbyt mocno i uszkodzili / uszkodziły przewód. Eles / Elas seguraram o alicate com muita força e danificaram o fio.
 
-- [] Dzień 561 - 
+- [x] Dzień 561 - Fundament - Rzeczowniki męskie, Podstawa - Rzeczownik żeński. (Alicerce. - Rzeczowniki męskie)
+ - (My) zbudowaliśmy / zbudowałyśmy fundament domu, zanim przyszła zima. (Nós) construímos o alicerce da casa antes que o inverno chegasse.
+ - On / Ona wierzy, że uczciwość to fundament każdej dobrej relacji. Ele / Ela acredita que a honestidade é o alicerce de toda boa relação.
+ - (Czy) (ty) przygotujesz fundament pod nowy garaż jutro? Você vai preparar o alicerce embaixo da nova garagem amanhã?
+ - (My) popełniliśmy / popełniłyśmy błąd przy wylewaniu fundamentu. (Nós) cometemos um erro ao concretar o alicerce.
+ - Oni / One nie wzmocnili / wzmocniły fundamentu, dlatego budynek się osunął. Eles / Elas não reforçaram o alicerce, por isso o prédio cedeu.
 
 - [] Dzień 562 - 
 
