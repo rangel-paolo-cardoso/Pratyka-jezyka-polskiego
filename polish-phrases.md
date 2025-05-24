@@ -2864,7 +2864,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) popełniliśmy / popełniłyśmy błąd przy wylewaniu fundamentu. (Nós) cometemos um erro ao concretar o alicerce.
  - Oni / One nie wzmocnili / wzmocniły fundamentu, dlatego budynek się osunął. Eles / Elas não reforçaram o alicerce, por isso o prédio cedeu.
 
-- [] Dzień 562 - 
+- [x] Dzień 562 - Nakłaniać, Zwerbować. (Aliciar. - Czasowniki)
+ - On / Ona próbował / próbowała mnie nakłonić do udziału w podejrzanym planie. Ele / Ela tentou me aliciar para participar de um plano suspeito.
+ - (My) zwerbowaliśmy / zwerbowałyśmy ich do naszej organizacji w zeszłym roku. (Nós) os aliciamos (eles / elas) para nossa organização no ano passado.
+ - Czy on / ona naprawdę myśli, że może cię zwerbować? Ele / Ela realmente acha que pode te aliciar?
+ - Jutro (ja) spróbuję zwerbować nową osobę do zespołu. Amanhã (eu) tentarei aliciar uma nova pessoa para o time.
+ - Oni / One nakłaniali / nakłaniały młodych do pracy bez umowy. Eles / Elas aliciavam jovens para trabalhar sem contrato.
 
 - [] Dzień 563 - 
 
