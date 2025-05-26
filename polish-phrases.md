@@ -2871,7 +2871,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (ja) spróbuję zwerbować nową osobę do zespołu. Amanhã (eu) tentarei aliciar uma nova pessoa para o time.
  - Oni / One nakłaniali / nakłaniały młodych do pracy bez umowy. Eles / Elas aliciavam jovens para trabalhar sem contrato.
 
-- [] Dzień 563 - 
+- [x] Dzień 563 - Obcy, Obca - Przymiotniki, Istota pozaziemska - Wyrażenie rzeczownikowe. (Alienígena. - Przymiotnik, Rzeczownik)
+ - W dzieciństwie (ja) wierzyłem / wierzyłam, że obcy odwiedzili Ziemię. Na infância, eu acreditava que alienígenas visitaram a Terra.
+ - (Czy) (ty) naprawdę myślisz, że on / ona jest istotą pozaziemską? Você realmente acha que ele / ela é um ser alienígena?
+ - (My) spotkaliśmy / spotkałyśmy ich w lesie, ale nie byli ludźmi – to byli obcy. (Nós) os encontramos (eles) na floresta, mas não eram humanos – eram alienígenas.
+ - Jutro (wy) zobaczycie film o dziewczynie, która zaprzyjaźniła się z obcym. Amanhã vocês verão um filme sobre uma garota que fez amizade com um alienígena.
+ - Oni / One zawsze bali / bały się wszystkiego, co obce i niezrozumiałe. Eles / Elas sempre tiveram medo de tudo que fosse alienígena e incompreensível.
 
 - [] Dzień 564 - 
 
