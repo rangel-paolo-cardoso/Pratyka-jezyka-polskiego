@@ -2878,7 +2878,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (wy) zobaczycie film o dziewczynie, która zaprzyjaźniła się z obcym. Amanhã vocês verão um filme sobre uma garota que fez amizade com um alienígena.
  - Oni / One zawsze bali / bały się wszystkiego, co obce i niezrozumiałe. Eles / Elas sempre tiveram medo de tudo que fosse alienígena e incompreensível.
 
-- [] Dzień 564 - 
+- [x] Dzień 564 - Karmić, Nakarmić, Żywić - Czasowniki, Pokarmowy - Przymiotnik. (Alimentar. - Czasownik, Przymiotnik)
+ - W dzieciństwie (ja) karmiłem / karmiłam mojego psa codziennie rano. Na infância, eu alimentava meu cachorro todas as manhãs.
+ - On / Ona nakarmił / nakarmiła swoje dzieci, zanim poszedł / poszła do pracy. Ele / Ela alimentou seus filhos antes de ir trabalhar.
+ - Jutro (wy) nakarmicie zwierzęta w schronisku, prawda? Amanhã vocês vão alimentar os animais no abrigo, certo?
+ - Układ pokarmowy człowieka jest bardzo złożony. O sistema alimentar (digestivo) do ser humano é muito complexo.
+ - (My) żywimy nadzieję, że wszystko się ułoży. (Nós) alimentamos a esperança de que tudo vai dar certo.
 
 - [] Dzień 565 - 
 
