@@ -2885,7 +2885,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Układ pokarmowy człowieka jest bardzo złożony. O sistema alimentar (digestivo) do ser humano é muito complexo.
  - (My) żywimy nadzieję, że wszystko się ułoży. (Nós) alimentamos a esperança de que tudo vai dar certo.
 
-- [] Dzień 565 - 
+- [x] Dzień 565 - Spożywczy, Żywnościowy. (Alimentício. - Przymiotniki)
+ - (Ja) kupiłem / kupiłam produkt spożywczy, który on / ona lubi. (Eu) comprei um produto alimentício que ele / ela gosta.
+ - On / Ona pracował / pracowała kiedyś w przemyśle żywnościowym. Ele / Ela trabalhou antigamente na indústria alimentícia.
+ - (Czy) (wy) znacie nowe przepisy dotyczące bezpieczeństwa żywnościowego? Vocês conhecem as novas regulamentações sobre segurança alimentícia?
+ - Jutro (my) pójdziemy do sklepu spożywczego razem. Amanhã (nós) vamos à loja de alimentícios juntos.
+ - On / Ona twierdził / twierdziła, że ten składnik nie nadaje się do użytku spożywczego. Ele / Ela afirmou que esse ingrediente não é adequado para uso alimentício.
 
 - [] Dzień 566 - 
 
