@@ -2892,7 +2892,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (my) pójdziemy do sklepu spożywczego razem. Amanhã (nós) vamos à loja de alimentícios juntos.
  - On / Ona twierdził / twierdziła, że ten składnik nie nadaje się do użytku spożywczego. Ele / Ela afirmou que esse ingrediente não é adequado para uso alimentício.
 
-- [] Dzień 566 - 
+- [x] Dzień 566 - Pokarm - Rzeczownik męski, Pożywienie, Jedzenie - Rzeczowniki nijakie. (Alimento. - Rzeczownik męski)
+ - Wczoraj (ja) przygotowałem / przygotowałam pokarm dla naszego psa. Ontem (eu) preparei alimento para o nosso cachorro.
+ - (Czy) on / ona już zjadł / zjadła jakieś pożywienie dzisiaj? Ele / Ela já comeu algum alimento hoje?
+ - Jutro (wy) dostaniecie ciepłe jedzenie od organizacji charytatywnej. Amanhã vocês receberão alimento quente da organização de caridade.
+ - (My) zawsze staramy się wybierać zdrowe pożywienie. (Nós) sempre tentamos escolher alimentos saudáveis.
+ - Oni / One przynieśli / przyniosły dużo pokarmu dla potrzebujących. Eles / Elas trouxeram muito alimento para os necessitados.
 
 - [] Dzień 567 - 
 
