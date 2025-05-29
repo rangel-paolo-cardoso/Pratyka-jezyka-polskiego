@@ -2899,7 +2899,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze staramy się wybierać zdrowe pożywienie. (Nós) sempre tentamos escolher alimentos saudáveis.
  - Oni / One przynieśli / przyniosły dużo pokarmu dla potrzebujących. Eles / Elas trouxeram muito alimento para os necessitados.
 
-- [] Dzień 567 - 
+- [x] Dzień 567 - Ustawienie, Zgranie, Wyrównanie, Dopasowanie - Rzeczowniki nijakie, Zgodność - Rzeczownik żeński. (Alinhamento. - Rzeczownik męski)
+ - Dzisiaj (ja) sprawdzam ustawienie kół w moim samochodzie. Hoje (eu) estou verificando o alinhamento das rodas do meu carro.
+ - On / Ona zauważył / zauważyła zgodność między danymi z raportu a wynikami eksperymentu. Ele / Ela percebeu um alinhamento entre os dados do relatório e os resultados do experimento.
+ - W przyszłym tygodniu (wy) przeanalizujecie zgranie strategii marketingowych. Na próxima semana, vocês vão analisar o alinhamento das estratégias de marketing.
+ - (My) osiągnęliśmy / osiągnęłyśmy pełne dopasowanie celów z naszą misją społeczną. (Nós) alcançamos um total alinhamento dos objetivos com nossa missão social.
+ - Oni / One wcześniej zignorowali / zignorowały potrzebę wyrównania poziomów w projekcie. Eles / Elas ignoraram antes a necessidade de alinhamento dos níveis no projeto.
 
 - [] Dzień 568 - 
 
