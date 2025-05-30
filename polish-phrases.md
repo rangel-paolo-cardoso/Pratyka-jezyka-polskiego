@@ -2906,7 +2906,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) osiągnęliśmy / osiągnęłyśmy pełne dopasowanie celów z naszą misją społeczną. (Nós) alcançamos um total alinhamento dos objetivos com nossa missão social.
  - Oni / One wcześniej zignorowali / zignorowały potrzebę wyrównania poziomów w projekcie. Eles / Elas ignoraram antes a necessidade de alinhamento dos níveis no projeto.
 
-- [] Dzień 568 - 
+- [x] Dzień 568 - Wyrównać, Ustawić w linii, Zsynchronizować, Dostosować się, Zharmonizować. (Alinhar. - Czasowniki)
+ - Wczoraj (ja) wyrównałem / wyrównałam ramki na ścianie. Ontem (eu) alinhei os quadros na parede.
+ - On / Ona ustawia teraz książki w jednej linii. Ele / Ela está alinhando agora os livros em uma linha.
+ - Jutro (ty) dostosujesz się do zasad zespołu, prawda? Amanhã você vai se alinhar às regras do time, certo?
+ - (My) zsynchronizowaliśmy / zsynchronizowałyśmy nasze działania, żeby osiągnąć cel. (Nós) alinhamos nossas ações para alcançar o objetivo.
+ - Oni / One zharmonizują swoje plany z potrzebami grupy. Eles / Elas vão alinhar seus planos com as necessidades do grupo.
 
 - [] Dzień 569 - 
 
