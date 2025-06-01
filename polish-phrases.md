@@ -2913,7 +2913,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zsynchronizowaliśmy / zsynchronizowałyśmy nasze działania, żeby osiągnąć cel. (Nós) alinhamos nossas ações para alcançar o objetivo.
  - Oni / One zharmonizują swoje plany z potrzebami grupy. Eles / Elas vão alinhar seus planos com as necessidades do grupo.
 
-- [] Dzień 569 - 
+- [x] Dzień 569 - Stawka podatkowa, Procent podatkowy, Stawka procentowa - Wyrażenia złożone. (Alíquota. - Rzeczownik żeński)
+ - W zeszłym roku (ja) płaciłem / płaciłam wyższą stawkę podatkową niż wcześniej. No ano passado, (eu) paguei uma alíquota de imposto mais alta do que antes.
+ - On / Ona zapytał / zapytała księgowego / księgową, dlaczego jego / jej stawka podatkowa się zmieniła. Ele / Ela perguntou ao / à contador / contadora por que a sua alíquota mudou.
+ - (Czy) (ty) wiesz, jaka będzie twoja stawka podatkowa w przyszłym roku? Você sabe qual será a sua alíquota no ano que vem?
+ - (My) sprawdzimy wspólnie stawkę procentową przed złożeniem deklaracji. (Nós) vamos verificar juntos a alíquota antes de enviar a declaração.
+ - Oni / One zawsze narzekali / narzekały na zbyt wysoką stawkę podatkową w ich branży. Eles / Elas sempre reclamavam da alíquota alta demais no setor deles.
 
 - [] Dzień 570 - 
 
