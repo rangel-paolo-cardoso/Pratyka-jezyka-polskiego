@@ -2920,7 +2920,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) sprawdzimy wspólnie stawkę procentową przed złożeniem deklaracji. (Nós) vamos verificar juntos a alíquota antes de enviar a declaração.
  - Oni / One zawsze narzekali / narzekały na zbyt wysoką stawkę podatkową w ich branży. Eles / Elas sempre reclamavam da alíquota alta demais no setor deles.
 
-- [] Dzień 570 - 
+- [x] Dzień 570 - Zaciągnąć się, Zarejestrować się, Zapisać się, Wciągnąć na listę, Zgłosić się. (Alistar. - Czasowniki)
+ - (Ja) zaciągnąłem / zaciągnęłam się do wojska w wieku osiemnastu lat. (Eu) me alistei no exército aos dezoito anos.
+ - On / Ona zamierza zapisać się na misję humanitarną w przyszłym miesiącu. Ele / Ela pretende se alistar em uma missão humanitária no próximo mês.
+ - (Czy) (wy) zgłosiliście / zgłosiłyście się już do programu ochotniczego? Vocês já se alistaram no programa voluntário?
+ - (My) zapiszemy się jutro na kurs pierwszej pomocy. (Nós) vamos nos alistar amanhã no curso de primeiros socorros.
+ - Oni / One nie chcieli / chciały zaciągnąć się do wojska, więc wybrali / wybrały alternatywną służbę. Eles / Elas não quiseram se alistar no exército, então escolheram um serviço alternativo.
 
 - [] Dzień 571 - 
 
