@@ -2927,7 +2927,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zapiszemy się jutro na kurs pierwszej pomocy. (Nós) vamos nos alistar amanhã no curso de primeiros socorros.
  - Oni / One nie chcieli / chciały zaciągnąć się do wojska, więc wybrali / wybrały alternatywną służbę. Eles / Elas não quiseram se alistar no exército, então escolheram um serviço alternativo.
 
-- [] Dzień 571 - 
+- [x] Dzień 571 - Dusza - Rzeczownik żeński, Duch - Rzeczownik męski. (Alma. - Rzeczownik żeński)
+ - On / Ona oddał / oddała swoją duszę dla dobra innych. Ele / Ela entregou sua alma pelo bem dos outros.
+ - (Ja) czuję, że (ty) masz piękną duszę. (Eu) sinto que você tem uma alma bonita.
+ - (My) odnajdziemy naszą duszę na nowo. (Nós) reencontraremos nossa alma novamente.
+ - On / Ona miał / miała spokojnego ducha nawet w trudnych czasach. Ele / Ela tinha uma alma calma (um espírito calmo) mesmo em tempos difíceis.
+ - (Wy) oczyścicie swoje dusze poprzez przebaczenie. Vocês purificarão suas almas através do perdão.
 
 - [] Dzień 572 - 
 
