@@ -2934,7 +2934,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona miał / miała spokojnego ducha nawet w trudnych czasach. Ele / Ela tinha uma alma calma (um espírito calmo) mesmo em tempos difíceis.
  - (Wy) oczyścicie swoje dusze poprzez przebaczenie. Vocês purificarão suas almas através do perdão.
 
-- [] Dzień 572 - 
+- [x] Dzień 572 - Jeść obiad, Zjeść obiad - Wyrażenia. (Almoçar. - Czasownik)
+ - Dzisiaj (ja) jem obiad z kolegą / koleżanką z pracy. Hoje (eu) estou almoçando com um / uma colega / colega de trabalho.
+ - On / Ona zjadł / zjadła obiad bardzo wcześnie. Ele / Ela almoçou bem cedo.
+ - Jutro (my) zjemy obiad u dziadków. Amanhã (nós) vamos almoçar na casa dos avós.
+ - (Czy) (wy) już jedliście / jadłyście obiad? Vocês já almoçaram?
+ - Oni / One będą jedli / jadły obiad w restauracji nad rzeką. Eles / Elas vão almoçar em um restaurante à beira do rio.
 
 - [] Dzień 573 - 
 
