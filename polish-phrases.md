@@ -2941,7 +2941,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) już jedliście / jadłyście obiad? Vocês já almoçaram?
  - Oni / One będą jedli / jadły obiad w restauracji nad rzeką. Eles / Elas vão almoçar em um restaurante à beira do rio.
 
-- [] Dzień 573 - 
+- [x] Dzień 573 - Obiad. (Almoço. - Rzeczowniki męskie)
+ - Wczoraj (ja) zjadłem / zjadłam pyszny obiad z tatą / mamą. Ontem (eu) comi um almoço delicioso com meu / minha pai / mãe.
+ - On / Ona przygotowuje obiad dla całej rodziny. Ele / Ela está preparando o almoço para toda a família.
+ - Jutro (my) zjemy obiad w nowej restauracji. Amanhã (nós) comeremos um almoço em um restaurante novo.
+ - (Czy) (wy) już mieliście / miałyście obiad? Vocês já tiveram o almoço (almoçaram)?
+ - Oni / One często jedzą obiad razem w pracy. Eles / Elas costumam comer o almoço (almoçar) juntos / juntas no trabalho.
 
 - [] Dzień 574 - 
 
