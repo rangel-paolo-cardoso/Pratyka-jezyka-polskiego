@@ -2948,7 +2948,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) już mieliście / miałyście obiad? Vocês já tiveram o almoço (almoçaram)?
  - Oni / One często jedzą obiad razem w pracy. Eles / Elas costumam comer o almoço (almoçar) juntos / juntas no trabalho.
 
-- [] Dzień 574 - 
+- [x] Dzień 574 - Poduszka. (Almofada. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) kupiłem / kupiłam nową poduszkę do kanapy. Ontem (eu) comprei uma almofada nova para o sofá.
+ - On / Ona zawsze śpi z miękką poduszką. Ele / Ela sempre dorme com uma almofada macia.
+ - Jutro (my) przyniesiemy swoje poduszki na piknik. Amanhã (nós) traremos nossas almofadas para o piquenique.
+ - (Czy) (ty) już wyprałeś / wyprałaś tę poduszkę? Você já lavou essa almofada?
+ - Oni / One rzucali / rzucały się poduszkami podczas imprezy. Eles / Elas estavam jogando almofadas um / uma no / na outro / outra durante a festa.
 
 - [] Dzień 575 - 
 
