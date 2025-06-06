@@ -2955,7 +2955,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (ty) już wyprałeś / wyprałaś tę poduszkę? Você já lavou essa almofada?
  - Oni / One rzucali / rzucały się poduszkami podczas imprezy. Eles / Elas estavam jogando almofadas um / uma no / na outro / outra durante a festa.
 
-- [] Dzień 575 - 
+- [x] Dzień 575 - Klops, Pulpet, Klopsik - Rzeczowniki męskie. (Almôndega. - Rzeczownik żeński)
+ - Wczoraj (ja) zjadłem / zjadłam pysznego pulpeta z sosem pomidorowym. Ontem (eu) comi uma almôndega deliciosa com molho de tomate.
+ - On / Ona nie lubi klopsów z cebulą. Ele / Ela não gosta de almôndegas com cebola.
+ - Jutro (my) ugotujemy pulpety na obiad. Amanhã (nós) vamos cozinhar almôndegas para o almoço.
+ - (Czy) (wy) kiedyś robiliście / robiłyście domowe klopsy? Vocês já fizeram almôndegas caseiras alguma vez?
+ - Oni / One zamówią klopsiki z ziemniakami i surówką. Eles / Elas vão pedir almôndegas com batatas e salada crua.
 
 - [] Dzień 576 - 
 
