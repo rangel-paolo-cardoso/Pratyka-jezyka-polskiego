@@ -2962,7 +2962,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) kiedyś robiliście / robiłyście domowe klopsy? Vocês já fizeram almôndegas caseiras alguma vez?
  - Oni / One zamówią klopsiki z ziemniakami i surówką. Eles / Elas vão pedir almôndegas com batatas e salada crua.
 
-- [] Dzień 576 - 
+- [x] Dzień 576 - Halo, Hej, Ej, Słucham. (Alô. - Wykrzyknienia)
+ - Halo, (ja) mówiłem / mówiłam do ciebie wczoraj, ale (ty) nie odpowiedziałeś / odpowiedziałaś. Alô, (eu) falei com você ontem, mas você não respondeu.
+ - On / Ona podniósł / podniosła słuchawkę i powiedział / powiedziała: "Halo?" Ele / Ela atendeu o telefone e disse: “Alô?”
+ - Ej! (Czy) (wy) mnie w ogóle słyszycie? Alô! Vocês estão conseguindo (conseguem) me ouvir?
+ - Słucham, kto dzwoni? Alô, quem está ligando?
+ - Jutro, gdy (ja) zadzwonię, powiedz po prostu "Halo" i poczekaj. Amanhã, quando eu ligar, diga apenas “Alô” e espere.
 
 - [] Dzień 577 - 
 
