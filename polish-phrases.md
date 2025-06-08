@@ -2969,7 +2969,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Słucham, kto dzwoni? Alô, quem está ligando?
  - Jutro, gdy (ja) zadzwonię, powiedz po prostu "Halo" i poczekaj. Amanhã, quando eu ligar, diga apenas “Alô” e espere.
 
-- [] Dzień 577 - 
+- [x] Dzień 577 - Rozciąganie - Rzeczownik nijaki. (Alongamento. - Rzeczownik męski)
+ - Codziennie rano (ja) robię rozciąganie, żeby się obudzić. Todas as manhãs (eu) faço alongamento para acordar.
+ - Wczoraj on / ona zapomniał / zapomniała o swoim rozciąganiu po treningu. Ontem ele / ela esqueceu de seu alongamento depois do treino.
+ - Jutro (wy) zrobicie rozciąganie razem z trenerem / trenerką. Amanhã vocês farão o alongamento junto com o / a treinador / treinadora.
+ - On / Ona nigdy nie lubił / lubiła rozciągania przed bieganiem. Ele / Ela nunca gostou de alongamento antes de correr.
+ - (My) zawsze zaczynamy zajęcia od lekkiego rozciągania. (Nós) sempre começamos as aulas com um leve alongamento.
 
 - [] Dzień 578 - 
 
@@ -3032,397 +3037,790 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - [] Dzień 607 - 
 
 - [] Dzień 608 - 
+
 - [] Dzień 609 - 
+
 - [] Dzień 610 - 
+
 - [] Dzień 611 - 
+
 - [] Dzień 612 - 
+
 - [] Dzień 613 - 
+
 - [] Dzień 614 - 
+
 - [] Dzień 615 - 
+
 - [] Dzień 616 - 
+
 - [] Dzień 617 - 
+
 - [] Dzień 618 - 
+
 - [] Dzień 619 - 
+
 - [] Dzień 620 - 
+
 - [] Dzień 621 - 
+
 - [] Dzień 622 - 
+
 - [] Dzień 623 - 
+
 - [] Dzień 624 - 
+
 - [] Dzień 625 - 
+
 - [] Dzień 626 - 
+
 - [] Dzień 627 - 
+
 - [] Dzień 628 - 
+
 - [] Dzień 629 - 
+
 - [] Dzień 630 - 
+
 - [] Dzień 631 - 
+
 - [] Dzień 632 - 
+
 - [] Dzień 633 - 
+
 - [] Dzień 634 - 
+
 - [] Dzień 635 - 
+
 - [] Dzień 636 - 
+
 - [] Dzień 637 - 
+
 - [] Dzień 638 - 
+
 - [] Dzień 639 - 
+
 - [] Dzień 640 - 
+
 - [] Dzień 641 - 
+
 - [] Dzień 642 - 
+
 - [] Dzień 643 - 
+
 - [] Dzień 644 - 
+
 - [] Dzień 645 - 
+
 - [] Dzień 646 - 
+
 - [] Dzień 647 - 
+
 - [] Dzień 648 - 
+
 - [] Dzień 649 - 
+
 - [] Dzień 650 - 
+
 - [] Dzień 651 - 
+
 - [] Dzień 652 - 
+
 - [] Dzień 653 - 
+
 - [] Dzień 654 - 
+
 - [] Dzień 655 - 
+
 - [] Dzień 656 - 
+
 - [] Dzień 657 - 
+
 - [] Dzień 658 - 
+
 - [] Dzień 659 - 
+
 - [] Dzień 660 - 
+
 - [] Dzień 661 - 
+
 - [] Dzień 662 - 
+
 - [] Dzień 663 - 
+
 - [] Dzień 664 - 
+
 - [] Dzień 665 - 
+
 - [] Dzień 666 - 
+
 - [] Dzień 667 - 
+
 - [] Dzień 668 - 
+
 - [] Dzień 669 - 
+
 - [] Dzień 670 - 
+
 - [] Dzień 671 - 
+
 - [] Dzień 672 - 
+
 - [] Dzień 673 - 
+
 - [] Dzień 674 - 
+
 - [] Dzień 675 - 
+
 - [] Dzień 676 - 
+
 - [] Dzień 677 - 
+
 - [] Dzień 678 - 
+
 - [] Dzień 679 - 
+
 - [] Dzień 680 - 
+
 - [] Dzień 681 - 
+
 - [] Dzień 682 - 
+
 - [] Dzień 683 - 
+
 - [] Dzień 684 - 
+
 - [] Dzień 685 - 
+
 - [] Dzień 686 - 
+
 - [] Dzień 687 - 
+
 - [] Dzień 688 - 
+
 - [] Dzień 689 - 
+
 - [] Dzień 690 - 
+
 - [] Dzień 691 - 
+
 - [] Dzień 692 - 
+
 - [] Dzień 693 - 
+
 - [] Dzień 694 - 
+
 - [] Dzień 695 - 
+
 - [] Dzień 696 - 
+
 - [] Dzień 697 - 
+
 - [] Dzień 698 - 
+
 - [] Dzień 699 - 
+
 - [] Dzień 700 - 
+
 - [] Dzień 701 - 
+
 - [] Dzień 702 - 
+
 - [] Dzień 703 - 
+
 - [] Dzień 704 - 
+
 - [] Dzień 705 - 
+
 - [] Dzień 706 - 
+
 - [] Dzień 707 - 
+
 - [] Dzień 708 - 
+
 - [] Dzień 709 - 
+
 - [] Dzień 710 - 
+
 - [] Dzień 711 - 
+
 - [] Dzień 712 - 
+
 - [] Dzień 713 - 
+
 - [] Dzień 714 - 
+
 - [] Dzień 715 - 
+
 - [] Dzień 716 - 
+
 - [] Dzień 717 - 
+
 - [] Dzień 718 - 
+
 - [] Dzień 719 - 
+
 - [] Dzień 720 - 
+
 - [] Dzień 721 - 
+
 - [] Dzień 722 - 
+
 - [] Dzień 723 - 
+
 - [] Dzień 724 - 
+
 - [] Dzień 725 - 
+
 - [] Dzień 726 - 
+
 - [] Dzień 727 - 
+
 - [] Dzień 728 - 
+
 - [] Dzień 729 - 
+
 - [] Dzień 730 - 
+
 - [] Dzień 731 - 
+
 - [] Dzień 732 - 
+
 - [] Dzień 733 - 
+
 - [] Dzień 734 - 
+
 - [] Dzień 735 - 
+
 - [] Dzień 736 - 
+
 - [] Dzień 737 - 
+
 - [] Dzień 738 - 
+
 - [] Dzień 739 - 
+
 - [] Dzień 740 - 
+
 - [] Dzień 741 - 
+
 - [] Dzień 742 - 
+
 - [] Dzień 743 - 
+
 - [] Dzień 744 - 
+
 - [] Dzień 745 - 
+
 - [] Dzień 746 - 
+
 - [] Dzień 747 - 
+
 - [] Dzień 748 - 
+
 - [] Dzień 749 - 
+
 - [] Dzień 750 - 
+
 - [] Dzień 751 - 
+
 - [] Dzień 752 - 
+
 - [] Dzień 753 - 
+
 - [] Dzień 754 - 
+
 - [] Dzień 755 - 
+
 - [] Dzień 756 - 
+
 - [] Dzień 757 - 
+
 - [] Dzień 758 - 
+
 - [] Dzień 759 - 
+
 - [] Dzień 760 - 
+
 - [] Dzień 761 - 
+
 - [] Dzień 762 - 
+
 - [] Dzień 763 - 
+
 - [] Dzień 764 - 
+
 - [] Dzień 765 - 
+
 - [] Dzień 766 - 
+
 - [] Dzień 767 - 
+
 - [] Dzień 768 - 
+
 - [] Dzień 769 - 
+
 - [] Dzień 770 - 
+
 - [] Dzień 771 - 
+
 - [] Dzień 772 - 
+
 - [] Dzień 773 - 
+
 - [] Dzień 774 - 
+
 - [] Dzień 775 - 
+
 - [] Dzień 776 - 
+
 - [] Dzień 777 - 
+
 - [] Dzień 778 - 
+
 - [] Dzień 779 - 
+
 - [] Dzień 780 - 
+
 - [] Dzień 781 - 
+
 - [] Dzień 782 - 
+
 - [] Dzień 783 - 
+
 - [] Dzień 784 - 
+
 - [] Dzień 785 - 
+
 - [] Dzień 786 - 
+
 - [] Dzień 787 - 
+
 - [] Dzień 788 - 
+
 - [] Dzień 789 - 
+
 - [] Dzień 790 - 
+
 - [] Dzień 791 - 
+
 - [] Dzień 792 - 
+
 - [] Dzień 793 - 
+
 - [] Dzień 794 - 
+
 - [] Dzień 795 - 
+
 - [] Dzień 796 - 
+
 - [] Dzień 797 - 
+
 - [] Dzień 798 - 
+
 - [] Dzień 799 - 
+
 - [] Dzień 800 - 
+
 - [] Dzień 801 - 
+
 - [] Dzień 802 - 
+
 - [] Dzień 803 - 
+
 - [] Dzień 804 - 
+
 - [] Dzień 805 - 
+
 - [] Dzień 806 - 
+
 - [] Dzień 807 - 
+
 - [] Dzień 808 - 
+
 - [] Dzień 809 - 
+
 - [] Dzień 810 - 
+
 - [] Dzień 811 - 
+
 - [] Dzień 812 - 
+
 - [] Dzień 813 - 
+
 - [] Dzień 814 - 
+
 - [] Dzień 815 - 
+
 - [] Dzień 816 - 
+
 - [] Dzień 817 - 
+
 - [] Dzień 818 - 
+
 - [] Dzień 819 - 
+
 - [] Dzień 820 - 
+
 - [] Dzień 821 - 
+
 - [] Dzień 822 - 
+
 - [] Dzień 823 - 
+
 - [] Dzień 824 - 
+
 - [] Dzień 825 - 
+
 - [] Dzień 826 - 
+
 - [] Dzień 827 - 
+
 - [] Dzień 828 - 
+
 - [] Dzień 829 - 
+
 - [] Dzień 830 - 
+
 - [] Dzień 831 - 
+
 - [] Dzień 832 - 
+
 - [] Dzień 833 - 
+
 - [] Dzień 834 - 
+
 - [] Dzień 835 - 
+
 - [] Dzień 836 - 
+
 - [] Dzień 837 - 
+
 - [] Dzień 838 - 
+
 - [] Dzień 839 - 
+
 - [] Dzień 840 - 
+
 - [] Dzień 841 - 
+
 - [] Dzień 842 - 
+
 - [] Dzień 843 - 
+
 - [] Dzień 844 - 
+
 - [] Dzień 845 - 
+
 - [] Dzień 846 - 
+
 - [] Dzień 847 - 
+
 - [] Dzień 848 - 
+
 - [] Dzień 849 - 
+
 - [] Dzień 850 - 
+
 - [] Dzień 851 - 
+
 - [] Dzień 852 - 
+
 - [] Dzień 853 - 
+
 - [] Dzień 854 - 
+
 - [] Dzień 855 - 
+
 - [] Dzień 856 - 
+
 - [] Dzień 857 - 
+
 - [] Dzień 858 - 
+
 - [] Dzień 859 - 
+
 - [] Dzień 860 - 
+
 - [] Dzień 861 - 
+
 - [] Dzień 862 - 
+
 - [] Dzień 863 - 
+
 - [] Dzień 864 - 
+
 - [] Dzień 865 - 
+
 - [] Dzień 866 - 
+
 - [] Dzień 867 - 
+
 - [] Dzień 868 - 
+
 - [] Dzień 869 - 
+
 - [] Dzień 870 - 
+
 - [] Dzień 871 - 
+
 - [] Dzień 872 - 
+
 - [] Dzień 873 - 
+
 - [] Dzień 874 - 
+
 - [] Dzień 875 - 
+
 - [] Dzień 876 - 
+
 - [] Dzień 877 - 
+
 - [] Dzień 878 - 
+
 - [] Dzień 879 - 
+
 - [] Dzień 880 - 
+
 - [] Dzień 881 - 
+
 - [] Dzień 882 - 
+
 - [] Dzień 883 - 
+
 - [] Dzień 884 - 
+
 - [] Dzień 885 - 
+
 - [] Dzień 886 - 
+
 - [] Dzień 887 - 
+
 - [] Dzień 888 - 
+
 - [] Dzień 889 - 
+
 - [] Dzień 890 - 
+
 - [] Dzień 891 - 
+
 - [] Dzień 892 - 
+
 - [] Dzień 893 - 
+
 - [] Dzień 894 - 
+
 - [] Dzień 895 - 
+
 - [] Dzień 896 - 
+
 - [] Dzień 897 - 
+
 - [] Dzień 898 - 
+
 - [] Dzień 899 - 
+
 - [] Dzień 900 - 
+
 - [] Dzień 901 - 
+
 - [] Dzień 902 - 
+
 - [] Dzień 903 - 
+
 - [] Dzień 904 - 
+
 - [] Dzień 905 - 
+
 - [] Dzień 906 - 
+
 - [] Dzień 907 - 
+
 - [] Dzień 908 - 
+
 - [] Dzień 909 - 
+
 - [] Dzień 910 - 
+
 - [] Dzień 911 - 
+
 - [] Dzień 912 - 
+
 - [] Dzień 913 - 
+
 - [] Dzień 914 - 
+
 - [] Dzień 915 - 
+
 - [] Dzień 916 - 
+
 - [] Dzień 917 - 
+
 - [] Dzień 918 - 
+
 - [] Dzień 919 - 
+
 - [] Dzień 920 - 
+
 - [] Dzień 921 - 
+
 - [] Dzień 922 - 
+
 - [] Dzień 923 - 
+
 - [] Dzień 924 - 
+
 - [] Dzień 925 - 
+
 - [] Dzień 926 - 
+
 - [] Dzień 927 - 
+
 - [] Dzień 928 - 
+
 - [] Dzień 929 - 
+
 - [] Dzień 930 - 
+
 - [] Dzień 931 - 
+
 - [] Dzień 932 - 
+
 - [] Dzień 933 - 
+
 - [] Dzień 934 - 
+
 - [] Dzień 935 - 
+
 - [] Dzień 936 - 
+
 - [] Dzień 937 - 
+
 - [] Dzień 938 - 
+
 - [] Dzień 939 - 
+
 - [] Dzień 940 - 
+
 - [] Dzień 941 - 
+
 - [] Dzień 942 - 
+
 - [] Dzień 943 - 
+
 - [] Dzień 944 - 
+
 - [] Dzień 945 - 
+
 - [] Dzień 946 - 
+
 - [] Dzień 947 - 
+
 - [] Dzień 948 - 
+
 - [] Dzień 949 - 
+
 - [] Dzień 950 - 
+
 - [] Dzień 951 - 
+
 - [] Dzień 952 - 
+
 - [] Dzień 953 - 
+
 - [] Dzień 954 - 
+
 - [] Dzień 955 - 
+
 - [] Dzień 956 - 
+
 - [] Dzień 957 - 
+
 - [] Dzień 958 - 
+
 - [] Dzień 959 - 
+
 - [] Dzień 960 - 
+
 - [] Dzień 961 - 
+
 - [] Dzień 962 - 
+
 - [] Dzień 963 - 
+
 - [] Dzień 964 - 
+
 - [] Dzień 965 - 
+
 - [] Dzień 966 - 
+
 - [] Dzień 967 - 
+
 - [] Dzień 968 - 
+
 - [] Dzień 969 - 
+
 - [] Dzień 970 - 
+
 - [] Dzień 971 - 
+
 - [] Dzień 972 - 
+
 - [] Dzień 973 - 
+
 - [] Dzień 974 - 
+
 - [] Dzień 975 - 
+
 - [] Dzień 976 - 
+
 - [] Dzień 977 - 
+
 - [] Dzień 978 - 
+
 - [] Dzień 979 - 
+
 - [] Dzień 980 - 
+
 - [] Dzień 981 - 
+
 - [] Dzień 982 - 
+
 - [] Dzień 983 - 
+
 - [] Dzień 984 - 
+
 - [] Dzień 985 - 
+
 - [] Dzień 986 - 
+
 - [] Dzień 987 - 
+
 - [] Dzień 988 - 
+
 - [] Dzień 989 - 
+
 - [] Dzień 990 - 
+
 - [] Dzień 991 - 
+
 - [] Dzień 992 - 
+
 - [] Dzień 993 - 
+
 - [] Dzień 994 - 
+
 - [] Dzień 995 - 
+
 - [] Dzień 996 - 
+
 - [] Dzień 997 - 
+
 - [] Dzień 998 - 
+
 - [] Dzień 999 - 
+
 - [] Dzień 1000 -
+
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
