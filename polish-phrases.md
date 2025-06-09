@@ -2976,7 +2976,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona nigdy nie lubił / lubiła rozciągania przed bieganiem. Ele / Ela nunca gostou de alongamento antes de correr.
  - (My) zawsze zaczynamy zajęcia od lekkiego rozciągania. (Nós) sempre começamos as aulas com um leve alongamento.
 
-- [] Dzień 578 - 
+- [x] Dzień 578 - Rozciągać, Rozciągnąć, Rozciągać się, rozciągnąć się. (Alongar(-se). - Czasowniki)
+ - Codziennie rano (ja) się rozciągam, zanim pójdę do pracy. (Eu) me alongo todas as manhãs antes de ir para o trabalho.
+ - Wczoraj on / ona się nie rozciągnął / rozciągnęła i ma teraz zakwasy. Ontem ele / ela não se alongou e agora tem dores musculares.
+ - Jutro (wy) się rozciągniecie przed meczem, prawda? Amanhã vocês vão se alongar antes do jogo, certo (né)?
+ - On / Ona zawsze rozciąga nogi po długim biegu. Ele / Ela sempre alonga as pernas depois de uma corrida longa.
+ - (My) rozciągaliśmy / rozciągałyśmy się razem z instruktorką jogi. (Nós) nos alongamos junto com o / a instrutor / instrutora de yoga.
 
 - [] Dzień 579 - 
 
