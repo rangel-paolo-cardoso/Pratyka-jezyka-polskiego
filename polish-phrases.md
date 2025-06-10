@@ -2983,7 +2983,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zawsze rozciąga nogi po długim biegu. Ele / Ela sempre alonga as pernas depois de uma corrida longa.
  - (My) rozciągaliśmy / rozciągałyśmy się razem z instruktorką jogi. (Nós) nos alongamos junto com o / a instrutor / instrutora de yoga.
 
-- [] Dzień 579 - 
+- [x] Dzień 579 - Zmieniać, Zmienić, Przekształcać / Przekształcić, Modyfikować / Zmodyfikowa. (Alterar. - Czasowniki)
+ - Dzisiaj (ja) zmieniam ustawienia w telefonie. Hoje (eu) estou alterando as configurações no celular.
+ - On / Ona zmienił / zmieniła zdanie po rozmowie z tobą. Ele / Ela alterou de opinião depois da conversa com você.
+ - Jutro (wy) zmodyfikujecie plan lekcji. Amanhã vocês vão alterar o plano de aulas.
+ - On / Ona nie chce przekształcać projektu bez zgody zespołu. Ele / Ela não quer alterar o projeto sem a aprovação da equipe.
+ - (My) zmieniliśmy / zmieniłyśmy termin spotkania na piątek. (Nós) alteramos a data da reunião para sexta-feira.
 
 - [] Dzień 580 - 
 
