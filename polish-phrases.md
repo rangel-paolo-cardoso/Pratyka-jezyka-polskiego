@@ -2990,7 +2990,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona nie chce przekształcać projektu bez zgody zespołu. Ele / Ela não quer alterar o projeto sem a aprovação da equipe.
  - (My) zmieniliśmy / zmieniłyśmy termin spotkania na piątek. (Nós) alteramos a data da reunião para sexta-feira.
 
-- [] Dzień 580 - 
+- [x] Dzień 580 - Zmiana, Modyfikacja, Korekta - Rzeczowniki żeńskie. Przekształcenie - Rzeczownik nijaki. (Alteração. - Rzeczownik żeński)
+ - (Ja) wprowadziłem / wprowadziłam ważną zmianę w projekcie wczoraj. (Eu) fiz uma alteração importante no projeto ontem.
+ - On / Ona zauważył / zauważyła modyfikację w systemie już dziś rano. Ele / Ela percebeu a alteração no sistema já hoje de manhã.
+ - (Czy) (wy) zaakceptujecie tę zmianę jutro? Vocês vão aceitar essa alteração amanhã?
+ - (My) pracujemy nad przekształceniem harmonogramu. (Nós) estamos trabalhando na alteração do cronograma.
+ - Oni / One nie zgodzili / zgodziły się na korektę dokumentów. Eles / Elas não concordaram com a alteração nos documentos.
 
 - [] Dzień 581 - 
 
