@@ -2997,7 +2997,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) pracujemy nad przekształceniem harmonogramu. (Nós) estamos trabalhando na alteração do cronograma.
  - Oni / One nie zgodzili / zgodziły się na korektę dokumentów. Eles / Elas não concordaram com a alteração nos documentos.
 
-- [] Dzień 581 - 
+- [x] Dzień 581 - Wysokość - Rzeczownik żeński, Pułap - Rzeczownik męski. (Altitude. - Rzeczownik żeński)
+ - Wczoraj (ja) osiągnąłem / osiągnęłam wysokość trzech tysięcy metrów. Ontem (eu) atingi a altitude de três mil metros.
+ - On / Ona boi się latać na dużej wysokości. Ele / Ela tem medo de voar em alta altitude.
+ - (Czy) (wy) zmierzycie wysokość tej góry jutro? Vocês vão medir a altitude desta montanha amanhã?
+ - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone pułapem lotu samolotu. (Nós) ficamos surpresos / surpresas com a altitude de voo do avião.
+ - Oni / One osiągają coraz większą wysokość nad poziomem morza. Eles / Elas estão atingindo uma altitude cada vez maior acima do nível do mar.
 
 - [] Dzień 582 - 
 
