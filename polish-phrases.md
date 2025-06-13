@@ -3004,7 +3004,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone pułapem lotu samolotu. (Nós) ficamos surpresos / surpresas com a altitude de voo do avião.
  - Oni / One osiągają coraz większą wysokość nad poziomem morza. Eles / Elas estão atingindo uma altitude cada vez maior acima do nível do mar.
 
-- [] Dzień 582 - 
+- [x] Dzień 582 - Wysoki / Wysoka / Wysokie, Głośny / Głośna. (Alto / Alta. -  Przymiotniki)
+ - (Ja) jestem wysoki / wysoka, ale mój / moja brat / siostra jest jeszcze wyższy / wyższa. (Eu) sou alto / alta, mas meu / minha irmão / irmã é ainda mais alto / alta.
+ - Wczoraj ona nosiła bardzo wysokie obcasy. Ontem ela usou (vestiu, calçou) saltos muito altos.
+ - Jutro (wy) będziecie wspinać się na wysoką górę. Amanhã vocês vão escalar uma montanha alta.
+ - (My) zawsze wybieramy wysokiej jakości produkty. (Nós) sempre escolhemos produtos de alta qualidade.
+ - Oni / One krzyczeli / krzyczały bardzo głośno podczas koncertu. Eles / Elas gritaram bem alto durante o show.
 
 - [] Dzień 583 - 
 
