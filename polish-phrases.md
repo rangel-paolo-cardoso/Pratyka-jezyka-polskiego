@@ -3011,7 +3011,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze wybieramy wysokiej jakości produkty. (Nós) sempre escolhemos produtos de alta qualidade.
  - Oni / One krzyczeli / krzyczały bardzo głośno podczas koncertu. Eles / Elas gritaram bem alto durante o show.
 
-- [] Dzień 583 - 
+- [x] Dzień 583 - Głośnik, Megafon. (Alto-falante. - Rzeczowniki męskie)
+ - Wczoraj (ja) kupiłem / kupiłam nowy głośnik do mojego pokoju. Ontem (eu) comprei um novo alto-falante para o meu quarto.
+ - (Czy) (ty) słyszysz ten dźwięk z głośnika? Você está ouvindo esse som do alto-falante?
+ - On / Ona będzie korzystać z megafonu podczas protestu. Ele / Ela vai usar um alto-falante (megafone) durante o protesto.
+ - (My) ustawiliśmy / ustawiłyśmy głośniki wokół sceny. (Nós) colocamos os alto-falantes ao redor do palco.
+ - Oni / One naprawiają głośnik, który przestał działać. Eles / Elas estão consertando o alto-falante que parou de funcionar.
 
 - [] Dzień 584 - 
 
