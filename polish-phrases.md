@@ -3018,7 +3018,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) ustawiliśmy / ustawiłyśmy głośniki wokół sceny. (Nós) colocamos os alto-falantes ao redor do palco.
  - Oni / One naprawiają głośnik, który przestał działać. Eles / Elas estão consertando o alto-falante que parou de funcionar.
 
-- [] Dzień 584 - 
+- [x] Dzień 584 - Wysokość - Rzeczownik, Wzrost, Pułap - Rzeczowniki męskie. (Altura. - Rzeczownik)
+ - (Ja) mam 1,80 m wzrostu, a mój / moja brat / siostra jest trochę niższy / niższa. (Eu) tenho 1,80 m de altura, e meu / minha irmão / irmã é um pouco mais baixo / baixa.
+ - Wczoraj (my) zmierzyliśmy / zmierzyłyśmy wysokość tego drzewa. Ontem (nós) medimos a altura desta árvore.
+ - On / Ona boi się przebywać na dużej wysokości. Ele / Ela tem medo de ficar em grande altura.
+ - Jutro (wy) ocenicie wzrost wszystkich dzieci w klasie. Amanhã vocês vão avaliar a altura de todas as crianças da turma.
+ - Oni / One byli / były zaskoczeni / zaskoczone wysokością tego budynku. Eles / Elas ficaram surpresos / surpresas com a altura deste edifício.
 
 - [] Dzień 585 - 
 
