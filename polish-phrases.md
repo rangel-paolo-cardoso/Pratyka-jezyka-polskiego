@@ -3025,7 +3025,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (wy) ocenicie wzrost wszystkich dzieci w klasie. Amanhã vocês vão avaliar a altura de todas as crianças da turma.
  - Oni / One byli / były zaskoczeni / zaskoczone wysokością tego budynku. Eles / Elas ficaram surpresos / surpresas com a altura deste edifício.
 
-- [] Dzień 585 - 
+- [x] Dzień 585 - Wynająć, Wynajmować. (Alugar. - Czasowniki)
+ - Wczoraj (ja) wynająłem / wynajęłam mieszkanie w centrum miasta. Ontem (eu) aluguei um apartamento no centro da cidade.
+ - On / Ona wynajmuje pokój studentowi / studentce od dwóch miesięcy. Ele / Ela está alugando um quarto para um / uma estudante há dois meses.
+ - (My) będziemy wynajmować dom nad jeziorem tego lata. (Nós) vamos alugar uma casa no lago neste verão.
+ - (Czy) (ty) wynająłeś / wynajęłaś już samochód na weekend? (Você) já alugou o carro para o fim de semana?
+ - Oni / One planują wynająć biuro w nowym budynku. Eles / Elas planejam alugar um escritório no novo prédio.
 
 - [] Dzień 586 - 
 
