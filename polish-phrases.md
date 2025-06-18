@@ -3032,7 +3032,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (ty) wynająłeś / wynajęłaś już samochód na weekend? (Você) já alugou o carro para o fim de semana?
  - Oni / One planują wynająć biuro w nowym budynku. Eles / Elas planejam alugar um escritório no novo prédio.
 
-- [] Dzień 586 - 
+- [x] Dzień 586 - Czynsz, Wynajem. (Aluguel. - Rzeczowniki męskie)
+ - (Ja) płacę wysoki czynsz za to mieszkanie, ale bardzo je lubię. (Eu) pago um aluguel alto por este apartamento, mas gosto muito dele.
+ - W zeszłym roku on / ona miał / miała problem z zapłatą czynszu na czas. No ano passado ela teve problema para pagar o aluguel em dia.
+ - (My) podpiszemy nową umowę wynajmu w przyszłym tygodniu. (Nós) assinaremos um novo contrato de aluguel na próxima semana.
+ - (Czy) (ty) znasz wysokość czynszu w tym budynku? (Você) sabe o valor do aluguel neste prédio?
+ - Oni / One musieli / musiały podnieść czynsz z powodu inflacji. Eles / Elas precisaram aumentar o aluguel por causa da inflação.
 
 - [] Dzień 587 - 
 
