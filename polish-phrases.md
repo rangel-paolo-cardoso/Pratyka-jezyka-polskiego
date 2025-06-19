@@ -3039,7 +3039,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (ty) znasz wysokość czynszu w tym budynku? (Você) sabe o valor do aluguel neste prédio?
  - Oni / One musieli / musiały podnieść czynsz z powodu inflacji. Eles / Elas precisaram aumentar o aluguel por causa da inflação.
 
-- [] Dzień 587 - 
+- [x] Dzień 587 - Cel - Rzeczownik męski, Tarcza - Rzeczownik żeński, Biały - Przymiotnik. (Alvo, Alva. - Rzeczowniki, Przymiotniki)
+ - Wczoraj (ja) trafiłem / trafiłam w cel za pierwszym razem. Ontem (eu) acertei o alvo na primeira tentativa.
+ - On / Ona był / była głównym celem ataku w mediach społecznościowych. Ele / Ela foi o principal alvo de ataques nas redes sociais.
+ - (My) zawsze staramy się osiągnąć nasz cel razem. (Nós) sempre tentamos atingir nosso alvo juntos.
+ - Jutro (wy) będziecie strzelać do tarczy na zajęciach z łucznictwa. Amanhã vocês vão atirar no alvo na aula de arco e flecha.
+ - Jego / Jej uśmiech był tak biały i czysty, że wyglądał jak śnieg. O sorriso dele / dela era tão alvo e puro que parecia neve.
 
 - [] Dzień 588 - 
 
