@@ -3046,7 +3046,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (wy) będziecie strzelać do tarczy na zajęciach z łucznictwa. Amanhã vocês vão atirar no alvo na aula de arco e flecha.
  - Jego / Jej uśmiech był tak biały i czysty, że wyglądał jak śnieg. O sorriso dele / dela era tão alvo e puro que parecia neve.
 
-- [] Dzień 588 - 
+- [x] Dzień 588 - Ukochany / Ukochana - Rzeczowniki, Kochany / Kochana - Przymiotniki.   Adjetivo (Amado / Amada. - Rzeczowniki, Przymiotniki)
+ - Wczoraj (ja) napisałem / napisałam list do mojego / mojej ukochanego / ukochanej. Ontem (eu) escrevi uma carta para meu / minha amado / amada.
+ - On / Ona czuje się naprawdę kochany / kochana, kiedy jesteś przy nim / niej. Ele / Ela se sente verdadeiramente amado / amada quando você está com ele / ela.
+ - (Czy) (ty) wiesz, że jesteś moim / moją ukochanym / ukochaną? Você sabe que é meu / minha amado / amada?
+ - Jutro (my) przedstawimy wam naszego / naszą ukochanego / ukochaną syna / córkę. Amanhã (nós) vamos apresentar a vocês nosso / nossa amado / amada filho / filha.
+ - Oni / One wspominali / wspominały swojego / swoją ukochanego / ukochaną, który / która zmarł / zmarła wiele lat temu. Eles / Elas lembravam de seu / sua amado / amada, que faleceu há muitos anos.
 
 - [] Dzień 589 - 
 
