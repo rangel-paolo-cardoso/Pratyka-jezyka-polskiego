@@ -3053,7 +3053,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (my) przedstawimy wam naszego / naszą ukochanego / ukochaną syna / córkę. Amanhã (nós) vamos apresentar a vocês nosso / nossa amado / amada filho / filha.
  - Oni / One wspominali / wspominały swojego / swoją ukochanego / ukochaną, który / która zmarł / zmarła wiele lat temu. Eles / Elas lembravam de seu / sua amado / amada, que faleceu há muitos anos.
 
-- [] Dzień 589 - 
+- [x] Dzień 589 - Amatorski / Amatorska / Amatorskie - Przymiotniki, Amator / Amatorka - Rzeczowniki. (Amador / Amadora. - Przymiotniki, Rzeczowniki)
+ - Kiedyś (ja) byłem / byłam tylko amatorskim / amatorską fotografem / fotografką, ale teraz to moja praca. Antigamente eu era apenas um / uma fotógrafo / fotógrafa amador / amadora, mas agora é meu trabalho.
+ - On / Ona jest amatorem / amatorką gotowania i codziennie próbuje nowych przepisów. Ele / Ela é um / uma amador / amadora na cozinha e testa receitas novas todos os dias.
+ - (My) wystąpimy na jutrzejszym festiwalu jako amatorska grupa teatralna. (Nós) vamos nos apresentar no festival de amanhã como um grupo teatral amador.
+ - (Czy) (wy) jesteście amatorami / amatorkami muzyki klasycznej, czy gracie zawodowo? Vocês são amadores / amadoras da música clássica ou tocam profissionalmente?
+ - Oni / One kiedyś tworzyli / tworzyły tylko amatorskie filmy, a teraz pracują w telewizji. Eles / Elas costumavam fazer apenas filmes amadores, e agora trabalham na TV.
 
 - [] Dzień 590 - 
 
