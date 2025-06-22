@@ -3060,7 +3060,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) jesteście amatorami / amatorkami muzyki klasycznej, czy gracie zawodowo? Vocês são amadores / amadoras da música clássica ou tocam profissionalmente?
  - Oni / One kiedyś tworzyli / tworzyły tylko amatorskie filmy, a teraz pracują w telewizji. Eles / Elas costumavam fazer apenas filmes amadores, e agora trabalham na TV.
 
-- [] Dzień 590 - 
+- [x] Dzień 590 - Dojrzewać, Dojrzeć - Czasowniki, Stać się dojrzalszym / dojrzalszą - Wyrażenia. (Amadurecer. - Czasownik)
+ - Z wiekiem (ja) stałem / stałam się dojrzalszy / dojrzalsza i bardziej cierpliwy / cierpliwa. Com o tempo (eu) amadureci e fiquei mais paciente.
+ - On / Ona dojrzewa szybciej niż jego / jej rówieśnicy / rówieśniczki. Ele / Ela está amadurecendo mais rápido do que seus / suas (os / as) colegas (dele / dela).
+ - Jutro (wy) zrozumiecie, że dojrzewanie to długi proces. Amanhã vocês entenderão que amadurecer é um processo longo.
+ - (My) dojrzewaliśmy / dojrzewałyśmy razem, ucząc się na własnych błędach. (Nós) amadurecemos juntos, aprendendo com nossos próprios erros.
+ - (Czy) ten banan już dojrzał, czy jeszcze musi poleżeć? Essa banana já amadureceu ou ainda precisa esperar mais um pouco?
 
 - [] Dzień 591 - 
 
