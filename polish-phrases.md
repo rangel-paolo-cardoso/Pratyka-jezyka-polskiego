@@ -3067,7 +3067,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) dojrzewaliśmy / dojrzewałyśmy razem, ucząc się na własnych błędach. (Nós) amadurecemos juntos, aprendendo com nossos próprios erros.
  - (Czy) ten banan już dojrzał, czy jeszcze musi poleżeć? Essa banana já amadureceu ou ainda precisa esperar mais um pouco?
 
-- [] Dzień 591 - 
+- [x] Dzień 591 - Świtać, Zaświtać - Czasowniki, Nastał świt, Wschód słońca - Wyrażenia. (Amanhecer. - Czasownik)
+ - Dziś rano, kiedy świtało, (ja) wyszedłem / wyszłam pobiegać. Hoje de manhã, quando amanhecia, (eu) saí para correr.
+ - On / Ona zawsze budzi się, gdy zaczyna świtać. Ele / Ela sempre acorda quando começa a amanhecer.
+ - Jutro zaświta nowy dzień pełen możliwości. Amanhã amanhecerá um novo dia cheio de possibilidades.
+ - (My) oglądaliśmy / oglądałyśmy wschód słońca z górskiego szczytu. (Nós) assistimos ao amanhecer (nascer do sol) do topo da montanha.
+ - (Czy) (wy) kiedykolwiek widzieliście / widziałyście, jak nastał świt nad morzem? Vocês alguma vez viram como é o amanhecer (a alvorada) sobre o mar?
 
 - [] Dzień 592 - 
 
