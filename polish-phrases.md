@@ -3074,7 +3074,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) oglądaliśmy / oglądałyśmy wschód słońca z górskiego szczytu. (Nós) assistimos ao amanhecer (nascer do sol) do topo da montanha.
  - (Czy) (wy) kiedykolwiek widzieliście / widziałyście, jak nastał świt nad morzem? Vocês alguma vez viram como é o amanhecer (a alvorada) sobre o mar?
 
-- [] Dzień 592 - 
+- [x] Dzień 592 - Kochać, Pokochać. (Amar. - Czasowniki)
+ - (Ja) kocham cię całym sercem. (Eu) te amo de todo o coração.
+ - On / Ona kiedyś bardzo kochał / kochała swojego / swoją dziadka / babcię. Ele / Ela amava muito o / a avô / avó dele / dela.
+ - Jutro (wy) pokochacie to miejsce tak samo jak my. Amanhã vocês vão amar este lugar tanto quanto nós.
+ - (My) kochaliśmy / kochałyśmy się mimo wszystkich przeszkód. (Nós) nos amávamos apesar de todos os obstáculos.
+ - (Czy) on / ona naprawdę potrafi kochać? Será que ele / ela realmente é capaz de amar?
 
 - [] Dzień 593 - 
 
