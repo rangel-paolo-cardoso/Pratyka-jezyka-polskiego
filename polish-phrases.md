@@ -3081,7 +3081,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kochaliśmy / kochałyśmy się mimo wszystkich przeszkód. (Nós) nos amávamos apesar de todos os obstáculos.
  - (Czy) on / ona naprawdę potrafi kochać? Será que ele / ela realmente é capaz de amar?
 
-- [] Dzień 593 - 
+- [x] Dzień 593 - Gorzki / Gorzka. (Amargo / Amarga. - Przymiotniki)
+ - Wczoraj (ja) wypiłem / wypiłam gorzką kawę bez cukru. Ontem (eu) bebi um café amargo, sem açúcar.
+ - (Czy) on / ona zawsze był / była taki / taka gorzki / gorzka i zamknięty / zamknięta w sobie? Ele / Ela sempre foi tão amargo / amarga e fechado / fechada em si mesmo / mesma?
+ - Jutro (wy) spróbujecie gorzkiej czekolady z Chile. Amanhã vocês vão experimentar um chocolate amargo do Chile.
+ - On / Ona był / była gorzki / gorzka po tej porażce i długo nie rozmawiał / rozmawiała z nikim. Ele / Ela ficou amargo / amarga depois daquela derrota e não falou com ninguém por muito tempo.
+ - (My) nie chcemy gorzkich wspomnień z tego wyjazdu. (Nós) não queremos lembranças amargas dessa viagem.
 
 - [] Dzień 594 - 
 
