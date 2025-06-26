@@ -3088,7 +3088,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona był / była gorzki / gorzka po tej porażce i długo nie rozmawiał / rozmawiała z nikim. Ele / Ela ficou amargo / amarga depois daquela derrota e não falou com ninguém por muito tempo.
  - (My) nie chcemy gorzkich wspomnień z tego wyjazdu. (Nós) não queremos lembranças amargas dessa viagem.
 
-- [] Dzień 594 - 
+- [x] Dzień 594 - Związywać, Związać, Przywiązywać, Przywiązać, Wiązać. (Amarrar. - Czasowniki)
+ - Wczoraj (ja) związałem / związałam pudełko sznurkiem i wysłałem / wysłałam je pocztą. Ontem (eu) amarrei a caixa com barbante e a enviei pelo correio.
+ - On / Ona zawsze starannie związuje włosy przed wyjściem z domu. Ele / Ela sempre amarra o cabelo com cuidado antes de sair de casa.
+ - Jutro (wy) przywiążecie łódkę do pomostu, żeby nie odpłynęła. Amanhã vocês vão amarrar o barco ao cais para que ele não se afaste.
+ - (My) związywaliśmy / związywałyśmy wszystkie balony na przyjęcie. (Nós) amarramos todos os balões para a festa.
+ - (Czy) on / ona umie wiązać krawat samodzielnie? Ele / Ela sabe amarrar a gravata sozinho / sozinha?
 
 - [] Dzień 595 - 
 
