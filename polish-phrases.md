@@ -3095,7 +3095,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) związywaliśmy / związywałyśmy wszystkie balony na przyjęcie. (Nós) amarramos todos os balões para a festa.
  - (Czy) on / ona umie wiązać krawat samodzielnie? Ele / Ela sabe amarrar a gravata sozinho / sozinha?
 
-- [] Dzień 595 - 
+- [x] Dzień 595 - Pognieciony / Pognieciona, Zgnieciony / Zgnieciona - Przymiotniki, Wgniecenie, Zagniecenie - Rzeczowniki. (Amassado / Amassada. - Przymiotniki, Rzeczowniki)
+ - Wczoraj (ja) założyłem / założyłam koszulę, która była całkiem pognieciona. Ontem (eu) vesti uma camisa que estava completamente amassada.
+ - Ona nienawidzi, gdy jej sukienka jest pognieciona. Ela odeia quando o vestido dela está amassado.
+ - Jutro (wy) naprawicie wgniecenie w drzwiach samochodu, prawda? Amanhã vocês vão consertar o amassado na porta do carro, certo?
+ - (My) dostaliśmy / dostałyśmy paczkę z pogniecionym opakowaniem. (Nós) recebemos um pacote com a embalagem amassada.
+ - (Czy) on / ona zauważył / zauważyła zgnieciony papier na stole? Ele / Ela notou o papel amassado na mesa?
 
 - [] Dzień 596 - 
 
