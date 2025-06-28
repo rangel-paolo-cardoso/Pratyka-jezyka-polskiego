@@ -3102,7 +3102,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) dostaliśmy / dostałyśmy paczkę z pogniecionym opakowaniem. (Nós) recebemos um pacote com a embalagem amassada.
  - (Czy) on / ona zauważył / zauważyła zgnieciony papier na stole? Ele / Ela notou o papel amassado na mesa?
 
-- [] Dzień 596 - 
+- [x] Dzień 596 - Amazonia - Rzeczownik żeński, Dżungla amazońska, Las Amazonii. (Amazônia. - Rzeczownik żeński)
+ - (Ja) zawsze marzyłem / marzyłam o podróży do Amazonii. (Eu) sempre sonhei em viajar para a Amazônia.
+ - On / Ona czyta teraz książkę o dzikich zwierzętach Amazonii. Ele / Ela está lendo agora um livro sobre os animais selvagens da Amazônia.
+ - Jutro (wy) obejrzycie dokument o zagrożeniach dla Amazonii. Amanhã vocês vão assistir a um documentário sobre as ameaças à Amazônia.
+ - (My) wierzymy, że Amazonia może być jeszcze uratowana. (Nós) acreditamos que a Amazônia ainda pode ser salva.
+ - (Czy) oni / one kiedykolwiek słyszeli / słyszały o problemach Amazonii? Eles / Elas já ouviram falar dos problemas da Amazônia?
 
 - [] Dzień 597 - 
 
