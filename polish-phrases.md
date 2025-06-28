@@ -3109,7 +3109,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wierzymy, że Amazonia może być jeszcze uratowana. (Nós) acreditamos que a Amazônia ainda pode ser salva.
  - (Czy) oni / one kiedykolwiek słyszeli / słyszały o problemach Amazonii? Eles / Elas já ouviram falar dos problemas da Amazônia?
 
-- [] Dzień 597 - 
+- [x] Dzień 597 - Bursztyn - Rzeczownik męski, Bursztynowy - Przymiotnik. (Âmbar. - Rzeczownik żeński)
+ - Wczoraj (ja) znalazłem / znalazłam bursztyn na plaży w Gdańsku. Ontem (eu) encontrei um âmbar na praia em Gdańsk.
+ - On / Ona ma naszyjnik z prawdziwego bursztynu. Ele / Ela tem um colar de âmbar verdadeiro.
+ - Jutro (wy) odwiedzicie muzeum bursztynu w Gdańsku. Amanhã vocês vão visitar o museu do âmbar em Sopot.
+ - (My) kupiliśmy / kupiłyśmy bursztynowe kolczyki dla mamy. (Nós) compramos brincos de âmbar para a mamãe.
+ - (Czy) on / ona wie, jak powstaje bursztyn? Ele / Ela sabe como se forma o âmbar?
 
 - [] Dzień 598 - 
 
