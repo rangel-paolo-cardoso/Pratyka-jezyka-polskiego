@@ -3116,7 +3116,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupiliśmy / kupiłyśmy bursztynowe kolczyki dla mamy. (Nós) compramos brincos de âmbar para a mamãe.
  - (Czy) on / ona wie, jak powstaje bursztyn? Ele / Ela sabe como se forma o âmbar?
 
-- [] Dzień 598 - 
+- [x] Dzień 598 - Ambicja. (Ambição. - Rzeczowniki żeńskie)
+ - (Ja) zawsze miałem / miałam wielką ambicję, żeby zostać lekarzem / lekarką. (Eu) sempre tive uma grande ambição de me tornar médico / médica.
+ - On / Ona pokazuje swoją ambicję w każdej rozmowie. Ele / Ela mostra sua ambição em cada conversa.
+ - Jutro (wy) zaprezentujecie swoją ambicję na spotkaniu z dyrekcją. Amanhã vocês vão demonstrar sua ambição na reunião com a diretoria.
+ - (My) straciliśmy / straciłyśmy ambicję po wielu niepowodzeniach. (Nós) perdemos a ambição após muitas derrotas.
+ - (Czy) on / ona naprawdę ma taką silną ambicję, żeby wygrać za wszelką cenę? Será que ele / ela realmente tem uma ambição tão forte para vencer (ganhar) a qualquer custo?
 
 - [] Dzień 599 - 
 
