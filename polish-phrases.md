@@ -3123,7 +3123,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) straciliśmy / straciłyśmy ambicję po wielu niepowodzeniach. (Nós) perdemos a ambição após muitas derrotas.
  - (Czy) on / ona naprawdę ma taką silną ambicję, żeby wygrać za wszelką cenę? Será que ele / ela realmente tem uma ambição tão forte para vencer (ganhar) a qualquer custo?
 
-- [] Dzień 599 - 
+- [x] Dzień 599 - Ambitny / Ambitna / Ambitne. (Ambicioso / Ambiciosa. - Przymiotniki)
+ - (Ja) zawsze byłem / byłam ambitny / ambitna i nigdy się nie poddawałem / poddawałam. (Eu) sempre fui ambicioso / ambiciosa e nunca desisti.
+ - On / Ona jest ambitny / ambitna i chce założyć własną firmę. Ele / Ela é ambicioso / ambiciosa e quer abrir a própria empresa (firma).
+ - Jutro (wy) pokażecie, jak bardzo jesteście ambitni / ambitne. Amanhã vocês vão mostrar o quanto são ambiciosos / ambiciosas.
+ - (My) byliśmy / byłyśmy ambitni / ambitne, ale brakowało nam wsparcia. (Nós) éramos ambiciosos / ambiciosas, mas nos faltava apoio.
+ - (Czy) on / ona zawsze (był / była) taki / taka ambitny / ambitna, czy to coś nowego? Ele / Ela sempre foi tão ambicioso / ambiciosa ou isso é algo novo?
 
 - [] Dzień 600 - 
 
