@@ -3130,7 +3130,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy ambitni / ambitne, ale brakowało nam wsparcia. (Nós) éramos ambiciosos / ambiciosas, mas nos faltava apoio.
  - (Czy) on / ona zawsze (był / była) taki / taka ambitny / ambitna, czy to coś nowego? Ele / Ela sempre foi tão ambicioso / ambiciosa ou isso é algo novo?
 
-- [] Dzień 600 - 
+- [x] Dzień 600 - Oburęczny / Oburęczna. (Ambidestro / Ambidestra. - Przymiotniki)
+ - (Ja) zawsze byłem / byłam oburęczny / oburęczna, odkąd pamiętam. (Eu) sempre fui ambidestro / ambidestra, desde que me lembro.
+ - On / Ona jest oburęczny / oburęczna i potrafi pisać obiema rękami jednocześnie. Ele / Ela é ambidestro / ambidestra e consegue escrever com (ambas) as duas mãos ao mesmo tempo.
+ - Jutro (wy) pokażecie, że jesteście oburęczni / oburęczne podczas testu sprawności. Amanhã vocês vão mostrar que são ambidestros / ambidestras durante o teste de habilidade.
+ - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone, że nasz / nasza syn / córka okazał / okazała się oburęczny / oburęczna. 🇵(Nós) ficamos surpresos / surpresas que nosso / nossa filho / filha se revelou ambidestro / ambidestra.
+ - (Czy) on / ona naprawdę jest oburęczny / oburęczna, czy tylko dobrze udaje? Ele / Ela é realmente ambidestro / ambidestra ou só finge bem?
 
 - [] Dzień 601 - 
 
