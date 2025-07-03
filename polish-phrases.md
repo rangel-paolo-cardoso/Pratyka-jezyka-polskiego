@@ -3137,7 +3137,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone, że nasz / nasza syn / córka okazał / okazała się oburęczny / oburęczna. 🇵(Nós) ficamos surpresos / surpresas que nosso / nossa filho / filha se revelou ambidestro / ambidestra.
  - (Czy) on / ona naprawdę jest oburęczny / oburęczna, czy tylko dobrze udaje? Ele / Ela é realmente ambidestro / ambidestra ou só finge bem?
 
-- [] Dzień 601 - 
+- [] Dzień 601 - Dwuznaczny / Dwuznaczna, Niejednoznaczny / Niejednoznaczna, Niejasny / Niejasna. (Ambíguo / Ambígua. - Przymiotniki)
+ - Jego / Jej wypowiedź była bardzo dwuznaczna i nikt nie wiedział, co naprawdę myśli. A declaração dele / dela foi muito ambígua e ninguém sabia o que ele / ela realmente pensava.
+ - On / Ona pisze niejednoznaczne wiadomości, które trudno zrozumieć. Ele / Ela escreve mensagens ambíguas que são difíceis de entender.
+ - Jutro (wy) dacie nam odpowiedź – mam nadzieję, że nie będzie dwuznaczna. Amanhã vocês nos darão uma resposta – espero que não seja ambígua.
+ - (My) kiedyś otrzymaliśmy / otrzymałyśmy niejasne instrukcje i wszystko poszło źle. (Nós) uma vez recebemos instruções ambíguas e tudo deu errado.
+ - (Czy) (ty) też uważasz, że ten tekst jest dwuznaczny? Você também acha que esse texto é ambíguo?
 
 - [] Dzień 602 - 
 
