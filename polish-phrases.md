@@ -3137,14 +3137,19 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone, że nasz / nasza syn / córka okazał / okazała się oburęczny / oburęczna. 🇵(Nós) ficamos surpresos / surpresas que nosso / nossa filho / filha se revelou ambidestro / ambidestra.
  - (Czy) on / ona naprawdę jest oburęczny / oburęczna, czy tylko dobrze udaje? Ele / Ela é realmente ambidestro / ambidestra ou só finge bem?
 
-- [] Dzień 601 - Dwuznaczny / Dwuznaczna, Niejednoznaczny / Niejednoznaczna, Niejasny / Niejasna. (Ambíguo / Ambígua. - Przymiotniki)
+- [x] Dzień 601 - Dwuznaczny / Dwuznaczna, Niejednoznaczny / Niejednoznaczna, Niejasny / Niejasna. (Ambíguo / Ambígua. - Przymiotniki)
  - Jego / Jej wypowiedź była bardzo dwuznaczna i nikt nie wiedział, co naprawdę myśli. A declaração dele / dela foi muito ambígua e ninguém sabia o que ele / ela realmente pensava.
  - On / Ona pisze niejednoznaczne wiadomości, które trudno zrozumieć. Ele / Ela escreve mensagens ambíguas que são difíceis de entender.
  - Jutro (wy) dacie nam odpowiedź – mam nadzieję, że nie będzie dwuznaczna. Amanhã vocês nos darão uma resposta – espero que não seja ambígua.
  - (My) kiedyś otrzymaliśmy / otrzymałyśmy niejasne instrukcje i wszystko poszło źle. (Nós) uma vez recebemos instruções ambíguas e tudo deu errado.
  - (Czy) (ty) też uważasz, że ten tekst jest dwuznaczny? Você também acha que esse texto é ambíguo?
 
-- [] Dzień 602 - 
+- [x] Dzień 602 - Obaj, Obie, Oboje, Oba. (Ambos / Ambas. - Zaimki)
+ - Obaj / Obie byliśmy / byłyśmy zmęczeni / zmęczone po długim dniu pracy. Ambos / Ambas estávamos cansados / cansadas depois de um longo dia de trabalho.
+ - Obaj / Obie są inteligentni / inteligentne i świetnie zdali / zdały egzamin. Ambos / Ambas são inteligentes e passaram brilhantemente no exame.
+ - Jutro oboje (neutro/misto) pojedziemy do Krakowa na konferencję. Amanhã, ambos vamos para Cracóvia para a conferência.
+ - (Czy) (ty) wiesz, że obaj / obie wasi / wasze synowie / córki zostali / zostały przyjęci / przyjęte do szkoły muzycznej? Você sabia que ambos / ambas os / as seus / suas filhos / filhas foram aceitos / aceitas na escola de música?
+ - Oni / One obaj / obie obiecali / obiecały, że pomogą nam w przeprowadzce. (Ambos / Ambas) Eles / Elas dois / duas prometeram que vão nos ajudar com a mudança.
 
 - [] Dzień 603 - 
 
