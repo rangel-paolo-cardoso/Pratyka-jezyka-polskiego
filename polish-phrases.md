@@ -3151,7 +3151,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (ty) wiesz, że obaj / obie wasi / wasze synowie / córki zostali / zostały przyjęci / przyjęte do szkoły muzycznej? Você sabia que ambos / ambas os / as seus / suas filhos / filhas foram aceitos / aceitas na escola de música?
  - Oni / One obaj / obie obiecali / obiecały, że pomogą nam w przeprowadzce. (Ambos / Ambas) Eles / Elas dois / duas prometeram que vão nos ajudar com a mudança.
 
-- [] Dzień 603 - 
+- [x] Dzień 603 - Karetka. (Ambulância. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) wezwałem / wezwałam karetkę, bo mój / moja tata / mama stracił / straciła przytomność. Ontem (eu) chamei uma ambulância porque meu / minha pai / mãe perdeu a consciência.
+ - On / Ona słyszy teraz syrenę karetki za oknem. Ele / Ela está ouvindo agora a sirene da ambulância pela janela.
+ - Jutro (wy) będziecie ćwiczyć udzielanie pomocy przed przyjazdem karetki. Amanhã vocês vão praticar prestar socorro antes da chegada da ambulância.
+ - (My) widzieliśmy / widziałyśmy karetkę stojącą przed szkołą. (Nós) vimos uma ambulância parada na frente da escola.
+ - (Czy) oni / one już zadzwonili / zadzwoniły po karetkę? Eles / Elas já chamaram (ligaram para) a ambulância?
 
 - [] Dzień 604 - 
 
