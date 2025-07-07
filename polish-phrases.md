@@ -3158,7 +3158,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzieliśmy / widziałyśmy karetkę stojącą przed szkołą. (Nós) vimos uma ambulância parada na frente da escola.
  - (Czy) oni / one już zadzwonili / zadzwoniły po karetkę? Eles / Elas já chamaram (ligaram para) a ambulância?
 
-- [] Dzień 604 - 
+- [x] Dzień 604 - Obwoźny / Obwoźna / Obwoźne. (Ambulante. - Przymiotniki)
+ - W dzieciństwie (ja) byłem / byłam obwoźnym / obwoźną sprzedawcą / sprzedawczynią lodów w wakacje. Na infância, (eu) fui vendedor / vendedora ambulante de sorvetes nas férias.
+ - On / Ona pracuje jako obwoźny / obwoźna kwiaciarz / kwiaciarka w małym miasteczku. Ele / Ela trabalha como florista ambulante em uma pequena cidadezinha.
+ - Jutro (wy) poznacie obwoźnego / obwoźną fryzjera / fryzjerkę, który / która przyjeżdża do domów. Amanhã vocês vão conhecer o / a cabeleireiro / cabeleireira ambulante que vai até as casas.
+ - (My) widzieliśmy / widziałyśmy obwoźne kino podczas festiwalu na wsi. (Nós) vimos um cinema ambulante durante o festival no interior.
+ - (Czy) oni / one wiedzą, że ten / ta lekarz / lekarka prowadzi obwoźną praktykę lekarską? Eles / Elas sabem que esse / essa médico / médica tem uma prática médica (medicinal) ambulante?
 
 - [] Dzień 605 - 
 
