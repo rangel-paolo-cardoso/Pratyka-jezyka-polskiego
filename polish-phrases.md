@@ -3165,7 +3165,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzieliśmy / widziałyśmy obwoźne kino podczas festiwalu na wsi. (Nós) vimos um cinema ambulante durante o festival no interior.
  - (Czy) oni / one wiedzą, że ten / ta lekarz / lekarka prowadzi obwoźną praktykę lekarską? Eles / Elas sabem que esse / essa médico / médica tem uma prática médica (medicinal) ambulante?
 
-- [] Dzień 605 - 
+- [x] Dzień 605 - Ambulatorium - Rzeczownik nijaki, Przychodnia - Rzeczownik żeński. (Ambulatório. - Rzeczownik męski)
+ - Wczoraj (ja) byłem / byłam w ambulatorium, bo bolało mnie kolano. Ontem (eu) estive no ambulatório porque meu joelho doía.
+ - On / Ona teraz czeka na badanie w ambulatorium. Ele / Ela está esperando agora por um exame no ambulatório.
+ - Jutro (wy) pójdziecie z dzieckiem do ambulatorium pediatrycznego. Amanhã vocês irão com a criança ao ambulatório pediátrico.
+ - (My) zawsze chodzimy do tej samej przychodni, bo znamy tam wszystkich / wszystkie lekarzy / lekarki. (Nós) sempre vamos ao mesmo ambulatório porque conhecemos todos / todas os / as médicos / médicas de lá.
+ - (Czy) oni / one już opuścili / opuściły ambulatorium po zabiegu? Eles / Elas já deixaram o ambulatório depois do procedimento?
 
 - [] Dzień 606 - 
 
