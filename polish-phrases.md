@@ -3172,7 +3172,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze chodzimy do tej samej przychodni, bo znamy tam wszystkich / wszystkie lekarzy / lekarki. (Nós) sempre vamos ao mesmo ambulatório porque conhecemos todos / todas os / as médicos / médicas de lá.
  - (Czy) oni / one już opuścili / opuściły ambulatorium po zabiegu? Eles / Elas já deixaram o ambulatório depois do procedimento?
 
-- [] Dzień 606 - 
+- [x] Dzień 606 - Groźba - Rzeczownik żeński, Zagrożenie - Rzeczownik nijaki. (Ameaça. - Rzeczownik żeński)
+ - Wczoraj (ja) otrzymałem / otrzymałam anonimową groźbę przez telefon. Ontem (eu) recebi uma ameaça anônima por telefone.
+ - On / Ona twierdzi, że to nie była prawdziwa groźba, tylko żart. Ele / Ela afirma que não foi uma ameaça real, apenas uma piada.
+ - Jutro (wy) zgłosicie groźbę na policję, jeśli on / ona znowu zadzwoni. Amanhã vocês denunciarão a ameaça à polícia, se ele / ela ligar de novo.
+ - (My) czuliśmy / czułyśmy poważne zagrożenie, kiedy usłyszeliśmy / usłyszałyśmy strzały. (Nós) sentimos uma ameaça séria quando ouvimos os tiros.
+ - (Czy) oni / one zdają sobie sprawę z groźby, którą stworzyli / stworzyły? Eles / Elas têm consciência (noção) da ameaça que criaram?
 
 - [] Dzień 607 - 
 
