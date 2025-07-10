@@ -3179,7 +3179,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) czuliśmy / czułyśmy poważne zagrożenie, kiedy usłyszeliśmy / usłyszałyśmy strzały. (Nós) sentimos uma ameaça séria quando ouvimos os tiros.
  - (Czy) oni / one zdają sobie sprawę z groźby, którą stworzyli / stworzyły? Eles / Elas têm consciência (noção) da ameaça que criaram?
 
-- [] Dzień 607 - 
+- [x] Dzień 607 - Groźny / Groźna, Zagrażający / Zagrażająca. (Ameaçador / Ameaçadora.. - Przymiotniki)
+ - Wczoraj (ja) spotkałem / spotkałam groźnego / groźną mężczyznę / kobietę na pustej ulicy. Ontem (eu) encontrei um / uma homem / mulher ameaçador / ameaçadora numa rua deserta.
+ - On / Ona unika wszystkiego, co wygląda groźnie. Ele / Ela evita tudo o que parece ameaçador.
+ - Jutro (wy) obejrzycie film z bardzo groźną postacią. Amanhã vocês vão assistir a um filme com uma personagem muito ameaçadora.
+ - (My) zauważyliśmy / zauważyłyśmy zagrażające chmury nad miastem. (Nós) notamos nuvens ameaçadoras sobre a cidade.
+ - (Czy) oni / one naprawdę myślą, że ten / ta pies / suczka jest groźny / groźna? Eles / Elas realmente acham que esse / essa cachorro / cachorra é ameaçador / ameaçadora?
 
 - [] Dzień 608 - 
 
