@@ -3186,7 +3186,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zauważyliśmy / zauważyłyśmy zagrażające chmury nad miastem. (Nós) notamos nuvens ameaçadoras sobre a cidade.
  - (Czy) oni / one naprawdę myślą, że ten / ta pies / suczka jest groźny / groźna? Eles / Elas realmente acham que esse / essa cachorro / cachorra é ameaçador / ameaçadora?
 
-- [] Dzień 608 - 
+- [x] Dzień 608 - Grozić, Zagrozić. (Ameaçar. - Czasowniki)
+ - Wczoraj (ja) groziłem / groziłam mu / jej, bo (on / ona) obraził / obraziła mojego / moją brata / siostrę. Ontem (eu) o / a ameacei porque ele / ela ofendeu meu / minha irmão / irmã.
+ - On / Ona nigdy nikomu nie grozi, nawet kiedy się złości. Ele / Ela nunca ameaça ninguém, mesmo quando está com raiva.
+ - Jutro (wy) zagrozicie dyrektorowi / dyrektorce strajkiem, jeśli nic się nie zmieni. Amanhã vocês ameaçarão o / a diretor / diretora com greve, se nada mudar.
+ - (My) nie chcieliśmy / chciałyśmy nikomu grozić, tylko wyjaśnić sytuację. (Nós) não queríamos ameaçar ninguém, só esclarecer a situação.
+ - (Czy) oni / one naprawdę zamierzają nam grozić, jeśli odmówimy? Eles / Elas realmente pretendem nos ameaçar se recusarmos?
 
 - [] Dzień 609 - 
 
