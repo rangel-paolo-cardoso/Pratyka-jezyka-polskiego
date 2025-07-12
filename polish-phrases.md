@@ -3193,7 +3193,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) nie chcieliśmy / chciałyśmy nikomu grozić, tylko wyjaśnić sytuację. (Nós) não queríamos ameaçar ninguém, só esclarecer a situação.
  - (Czy) oni / one naprawdę zamierzają nam grozić, jeśli odmówimy? Eles / Elas realmente pretendem nos ameaçar se recusarmos?
 
-- [] Dzień 609 - 
+- [x] Dzień 609 - Ameba. (Ameba. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) widziałem / widziałam amebę pod mikroskopem po raz pierwszy. Ontem (eu) vi uma ameba no microscópio pela primeira vez.
+ - On / Ona uczy się teraz o amebach na lekcji biologii. Ele / Ela está aprendendo agora sobre amebas na aula de biologia.
+ - Jutro (wy) zobaczycie, jak porusza się prawdziwa ameba. Amanhã vocês verão como uma ameba se movimenta.
+ - (My) zbadaliśmy / zbadałyśmy reakcję ameby na światło. (Nós) analisamos a reação da ameba à luz.
+ - (Czy) oni / one wiedzą, że niektóre ameby mogą wywoływać choroby? Eles / Elas sabem que algumas amebas podem causar doenças?
 
 - [] Dzień 610 - 
 
