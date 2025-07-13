@@ -3200,7 +3200,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zbadaliśmy / zbadałyśmy reakcję ameby na światło. (Nós) analisamos a reação da ameba à luz.
  - (Czy) oni / one wiedzą, że niektóre ameby mogą wywoływać choroby? Eles / Elas sabem que algumas amebas podem causar doenças?
 
-- [] Dzień 610 - 
+- [x] Dzień 610 - Amen. (Amém. - Wykrzyknik)
+ - Wczoraj wieczorem (ja) modliłem / modliłam się z moją rodziną i na końcu powiedzieliśmy: Amen. Ontem à noite (eu) rezei com minha família e no final dissemos: Amém.
+ - On / Ona zawsze mówi "Amen" z wielką wiarą po każdej modlitwie. Ele / Ela sempre diz "Amém" com muita fé após cada oração.
+ - Jutro (wy) razem z dziećmi zakończycie nabożeństwo słowem "Amen". Amanhã vocês, junto com as crianças, encerrarão o culto com a palavra "Amém".
+ - (My) odpowiedzieliśmy / odpowiedziałyśmy chórem "Amen", gdy ksiądz skończył modlitwę. (Nós) respondemos em coro "Amém" quando o padre terminou a oração.
+ - (Czy) oni / one zawsze kończą modlitwę słowem "Amen"? Eles / Elas sempre terminam a oração com a palavra "Amém"?
 
 - [] Dzień 611 - 
 
