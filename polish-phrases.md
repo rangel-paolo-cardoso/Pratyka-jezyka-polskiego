@@ -3207,7 +3207,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) odpowiedzieliśmy / odpowiedziałyśmy chórem "Amen", gdy ksiądz skończył modlitwę. (Nós) respondemos em coro "Amém" quando o padre terminou a oração.
  - (Czy) oni / one zawsze kończą modlitwę słowem "Amen"? Eles / Elas sempre terminam a oração com a palavra "Amém"?
 
-- [] Dzień 611 - 
+- [x] Dzień 611 - Migdał - Rzeczownik męski. (Amêndoa. - Rzeczownik żeński)
+ - Wczoraj (ja) zjadłem / zjadłam pysznego ciastka z migdałem w środku. Ontem (eu) comi um delicioso biscoito com uma amêndoa dentro.
+ - On / Ona zawsze dodaje migdały do swojej owsianki. Ele / Ela sempre adiciona amêndoas à sua aveia.
+ - Jutro (wy) przygotujecie ciasto migdałowe na urodziny babci. Amanhã vocês vão preparar um bolo de amêndoa para o aniversário da vovó.
+ - (My) kupiliśmy / kupiłyśmy dziś świeże migdały na targu. (Nós) compramos hoje amêndoas frescas na feira.
+ - (Czy) oni / one wiedzą, że niektóre osoby są uczulone na migdały? Eles / Elas sabem que algumas pessoas são alérgicas a amêndoas?
 
 - [] Dzień 612 - 
 
