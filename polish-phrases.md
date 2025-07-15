@@ -3214,7 +3214,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupiliśmy / kupiłyśmy dziś świeże migdały na targu. (Nós) compramos hoje amêndoas frescas na feira.
  - (Czy) oni / one wiedzą, że niektóre osoby są uczulone na migdały? Eles / Elas sabem que algumas pessoas são alérgicas a amêndoas?
 
-- [] Dzień 612 - 
+- [x] Dzień 612 - Łagodny / Łagodna, Przyjemny / Przyjemna, Miły / Miła. (Ameno / Amena. - Przymiotniki)
+ - Wczoraj (ja) spacerowałem / spacerowałam w łagodnym, jesiennym powietrzu. Ontem (eu) caminhei em ar ameno de outono.
+ - On / Ona lubi przyjemne i łagodne rozmowy przy kawie. Ele / Ela gosta de conversas agradáveis e amenas com café.
+ - Jutro (wy) spędzicie czas w miłej i łagodnej atmosferze. Amanhã vocês passarão o tempo em uma atmosfera agradável e amena.
+ - (My) wybraliśmy / wybrałyśmy to miejsce, bo pogoda była wyjątkowo łagodna. (Nós) escolhemos este lugar porque o tempo estava especialmente ameno.
+ - (Czy) oni / one naprawdę wierzą, że życie zawsze będzie takie przyjemne i łagodne? Eles / Elas realmente acreditam que a vida sempre será tão agradável e amena?
 
 - [] Dzień 613 - 
 
