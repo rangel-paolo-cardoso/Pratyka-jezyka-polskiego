@@ -3221,7 +3221,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wybraliśmy / wybrałyśmy to miejsce, bo pogoda była wyjątkowo łagodna. (Nós) escolhemos este lugar porque o tempo estava especialmente ameno.
  - (Czy) oni / one naprawdę wierzą, że życie zawsze będzie takie przyjemne i łagodne? Eles / Elas realmente acreditam que a vida sempre será tão agradável e amena?
 
-- [] Dzień 613 - 
+- [x] Dzień 613 - Amerykanin / Amerykanka - Rzeczowniki, Amerykański / Amerykańska - Przymiotniki. (Ameriano / Americana. - Rzeczowniki, Przymiotniki)
+ - Wczoraj (ja) poznałem / poznałam Amerykanina / Amerykankę, który / która mówił / mówiła świetnie po polsku. Ontem (eu) conheci um / uma americano / americana que falava polonês muito bem.
+ - On / Ona jest Amerykaninem / Amerykanką, ale mieszka teraz w Warszawie. Ele / Ela é americano / americana, mas mora atualmente em Varsóvia.
+ - Jutro (wy) spotkacie amerykańskich / amerykańskie studentów / studentki na uczelni. Amanhã vocês encontrarão estudantes americanos / americanas na universidade.
+ - (My) uwielbiamy amerykańskie filmy z lat 90 (dziewięćdziesiątych). (Nós) adoramos filmes americanos dos anos 90 (noventa).
+ - (Czy) oni / one wiedzieli / wiedziały, że on / ona był / była Amerykaninem /  Amerykanką? Eles / Elas sabiam que ele / ela era americano / americana?
 
 - [] Dzień 614 - 
 
