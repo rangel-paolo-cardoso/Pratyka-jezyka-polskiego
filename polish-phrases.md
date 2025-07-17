@@ -3228,7 +3228,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) uwielbiamy amerykańskie filmy z lat 90 (dziewięćdziesiątych). (Nós) adoramos filmes americanos dos anos 90 (noventa).
  - (Czy) oni / one wiedzieli / wiedziały, że on / ona był / była Amerykaninem /  Amerykanką? Eles / Elas sabiam que ele / ela era americano / americana?
 
-- [] Dzień 614 - 
+- [x] Dzień 614 - Ametyst - Rzeczownik męski, Ametystowy / Ametystowa - Przymiotniki. (Ametista. - Rzeczownik żeński)
+- (Ja) kupiłem / kupiłam piękny ametyst dla mojego / mojej brata / siostry. (Eu) comprei uma bela ametista para o / a meu / minha irmão / irmã.
+ - On / Ona zawsze nosi tę ametystową bransoletkę. Ele / Ela sempre usa essa pulseira (bracelete) de ametista.
+ - (Czy) (ty) dasz mi swój ametyst jutro? Você vai me dar a sua ametista amanhã?
+ - Oni / One sprzedali / sprzedały swoje ametysty w zeszłym roku. Eles / Elas venderam suas ametistas no ano passado.
+ - (My) wybierzemy się do sklepu z ametystami w przyszłym tygodniu. (Nós) iremos a uma loja de ametistas na próxima semana.
 
 - [] Dzień 615 - 
 
