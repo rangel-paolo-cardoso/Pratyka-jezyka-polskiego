@@ -3235,7 +3235,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One sprzedali / sprzedały swoje ametysty w zeszłym roku. Eles / Elas venderam suas ametistas no ano passado.
  - (My) wybierzemy się do sklepu z ametystami w przyszłym tygodniu. (Nós) iremos a uma loja de ametistas na próxima semana.
 
-- [] Dzień 615 - 
+- [x] Dzień 615 - Skrobia - Rzeczownik żeński. (Amido. - Rzeczownik męski)
+ - Wczoraj (ja) dodałem / dodałam trochę skrobi do sosu, żeby go zagęścić. Ontem (eu) adicionei um pouco de amido ao molho para engrossá-lo (engrossar ele).
+ - On / Ona używa skrobi kukurydzianej do pieczenia ciast. Ele / Ela usa amido de milho para assar bolos.
+ - Jutro (wy) musicie kupić skrobię ziemniaczaną do zupy. Amanhã vocês precisam comprar amido de batata para a sopa.
+ - (My) często dodajemy skrobię do sosów, żeby poprawić ich konsystencję. (Nós) frequentemente adicionamos amido aos molhos para melhorar a consistência deles.
+ - (Czy) oni / one wiedzieli / wiedziały, że nadmiar skrobi może być niezdrowy? Eles / Elas sabiam que o excesso de amido pode ser prejudicial à saúde (insalubre)?
 
 - [] Dzień 616 - 
 
