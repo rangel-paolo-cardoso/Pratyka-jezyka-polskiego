@@ -3242,7 +3242,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często dodajemy skrobię do sosów, żeby poprawić ich konsystencję. (Nós) frequentemente adicionamos amido aos molhos para melhorar a consistência deles.
  - (Czy) oni / one wiedzieli / wiedziały, że nadmiar skrobi może być niezdrowy? Eles / Elas sabiam que o excesso de amido pode ser prejudicial à saúde (insalubre)?
 
-- [] Dzień 616 - 
+- [x] Dzień 616 - Aminokwas. (Aminoácido. - Rzeczowniki męskie)
+ - Wczoraj (ja) przeczytałem / przeczytałam artykuł o aminokwasach niezbędnych dla organizmu. Ontem (eu) li um artigo sobre aminoácidos essenciais para o corpo.
+ - On / Ona wie, że aminokwasy są ważne dla budowy mięśni. Ele / Ela sabe que os aminoácidos são importantes para a construção muscular.
+ - Jutro (ty) dodasz suplement z aminokwasami do swojej diety. Amanhã você vai adicionar um suplemento com aminoácidos à sua dieta.
+ - (My) zawsze sprawdzamy skład aminokwasowy produktów białkowych. (Nós) sempre verificamos a composição de aminoácidos dos produtos proteicos.
+ - (Czy) oni / one zrozumieli / zrozumiały, jak działają aminokwasy w metabolizmie? Eles / Elas entenderam como os aminoácidos atuam no metabolismo?
 
 - [] Dzień 617 - 
 
