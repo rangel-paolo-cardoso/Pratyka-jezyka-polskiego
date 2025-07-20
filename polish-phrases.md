@@ -3249,7 +3249,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze sprawdzamy skład aminokwasowy produktów białkowych. (Nós) sempre verificamos a composição de aminoácidos dos produtos proteicos.
  - (Czy) oni / one zrozumieli / zrozumiały, jak działają aminokwasy w metabolizmie? Eles / Elas entenderam como os aminoácidos atuam no metabolismo?
 
-- [] Dzień 617 - 
+- [x] Dzień 617 - Przyjazny, Przyjazna / Życzliwy / Życzliwa. (Amistoso / Amistosa. - Przymiotniki)
+ - Wczoraj (ja) spotkałem / spotkałam przyjaznego / przyjazną mężczyznę / kobietę w bibliotece. Ontem (eu) encontrei um / uma homem / mulher amistoso / amistosa na biblioteca.
+ - On / Ona zawsze był / była życzliwy / życzliwa wobec mnie, nawet w trudnych chwilach. Ele / Ela sempre foi amistoso / amistosa comigo, mesmo nos momentos difíceis.
+ - Jutro (wy) będziecie musieli / musiały być bardziej przyjaźni / przyjazne wobec nowych kolegów / koleżanek. Amanhã vocês terão que ser mais amistosos / amistosas com os / as novos / novas colegas.
+ - On / Ona nie zawsze wydaje się przyjazny / przyjazna, ale ma dobre serce. Ele / Ela nem sempre parece amistoso / amistosa, mas tem um bom coração.
+ - (My) staramy się być przyjaznymi dla wszystkich gości. (Nós) tentamos ser amistosos / amistosas com todos / todas os / as convidados / convidadas.
 
 - [] Dzień 618 - 
 
