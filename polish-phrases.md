@@ -3263,7 +3263,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) pamiętacie waszą pierwszą przyjaźń ze szkoły? Vocês se lembram da sua primeira amizade da escola?
  - Oni / One nie chcieli / chciały zakończyć tej przyjaźni, mimo kłótni. Eles / Elas não quiseram terminar aquela amizade, apesar da briga.
 
-- [] Dzień 619 - 
+- [x] Dzień 619 - Amnezja. (Amnésia or Amnesia. - Rzeczowniki żeńskie)
+ - (Ja) doznałem / doznałam amnezji po wypadku samochodowym. (Eu) tive amnésia depois do acidente de carro.
+ - On / Ona cierpi na częściową amnezję i nie pamięta ostatnich dni. Ele / Ela sofre de amnésia parcial e não se lembra dos últimos dias.
+ - Jeśli (ty) nie będziesz uważać, możesz dostać amnezji po tym uderzeniu. Se você não tomar cuidado, pode ter amnésia depois dessa pancada.
+ - (My) podejrzewamy, że pacjent / pacjentka ma amnezję selektywną. (Nós) suspeitamos que o / a paciente tem amnésia seletiva.
+ - Oni / One twierdzili / twierdziły, że amnezja była tylko wymówką. Eles / Elas afirmaram que a amnésia era apenas uma desculpa.
 
 - [] Dzień 620 - 
 
