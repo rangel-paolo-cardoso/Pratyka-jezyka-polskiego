@@ -3256,7 +3256,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona nie zawsze wydaje się przyjazny / przyjazna, ale ma dobre serce. Ele / Ela nem sempre parece amistoso / amistosa, mas tem um bom coração.
  - (My) staramy się być przyjaznymi dla wszystkich gości. (Nós) tentamos ser amistosos / amistosas com todos / todas os / as convidados / convidadas.
 
-- [] Dzień 618 - 
+- [x] Dzień 618 - Przyjaźń. (Amizade. - Rzeczowniki żeńskie)
+ - (Ja) zawsze ceniłem / ceniłam naszą przyjaźń. (Eu) sempre valorizei a nossa amizade.
+ - On / Ona wierzy, że prawdziwa przyjaźń przetrwa wszystko. Ele / Ela acredita que uma verdadeira amizade supera tudo.
+ - (My) zbudujemy silną przyjaźń, jeśli będziemy szczerzy / szczere. (Nós) construiremos uma amizade forte, se formos sinceros / sinceras.
+ - (Czy) (wy) pamiętacie waszą pierwszą przyjaźń ze szkoły? Vocês se lembram da sua primeira amizade da escola?
+ - Oni / One nie chcieli / chciały zakończyć tej przyjaźni, mimo kłótni. Eles / Elas não quiseram terminar aquela amizade, apesar da briga.
 
 - [] Dzień 619 - 
 
