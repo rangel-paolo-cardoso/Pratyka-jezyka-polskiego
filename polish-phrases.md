@@ -3270,7 +3270,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) podejrzewamy, że pacjent / pacjentka ma amnezję selektywną. (Nós) suspeitamos que o / a paciente tem amnésia seletiva.
  - Oni / One twierdzili / twierdziły, że amnezja była tylko wymówką. Eles / Elas afirmaram que a amnésia era apenas uma desculpa.
 
-- [] Dzień 620 - 
+- [x] Dzień 620 - Amoniak - Rzeczownik męski. (Amônia. - Rzeczownik żeński)
+ - (Ja) zawsze sprawdzam poziom amoniaku przed rozpoczęciem eksperymentu. (Eu) sempre verifico o nível de amônia antes de iniciar o experimento.
+ - On / Ona wdychał / wdychała opary amoniaku i źle się poczuł / poczuła. Ele / Ela inalou vapores de amônia e passou mal.
+ - (Czy) (wy) będziecie używać amoniaku do czyszczenia podłóg? Vocês vão usar amônia para limpar os pisos?
+ - On / Ona nie wiedział / wiedziała, że amoniak może być tak niebezpieczny. Ele / Ela não sabia que a amônia podia ser tão perigosa.
+ - (My) przeanalizowaliśmy / przeanalizowałyśmy próbki i wykryliśmy obecność amoniaku. (Nós) analisamos as amostras e detectamos a presença de amônia.
 
 - [] Dzień 621 - 
 
