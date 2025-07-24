@@ -3277,7 +3277,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona nie wiedział / wiedziała, że amoniak może być tak niebezpieczny. Ele / Ela não sabia que a amônia podia ser tão perigosa.
  - (My) przeanalizowaliśmy / przeanalizowałyśmy próbki i wykryliśmy obecność amoniaku. (Nós) analisamos as amostras e detectamos a presença de amônia.
 
-- [] Dzień 621 - 
+- [x] Dzień 621 - Miłość - Rzeczownik żeński. (Amor. - Rzeczownik męski)
+ - (Ja) wierzę w prawdziwą miłość, nawet jeśli jeszcze jej nie znalazłem / znalazłam. (Eu) acredito no amor verdadeiro, mesmo que ainda não o tenha encontrado.
+ - On / Ona czuł / czuła wielką miłość do swojej rodziny. Ele / Ela sentia um grande amor pela sua família.
+ - (Czy) (wy) naprawdę myślicie, że miłość wszystko wybacza? Vocês realmente acham que o amor perdoa tudo?
+ - On / Ona pokaże ci swoją miłość, jeśli dasz mu / jej szansę. Ele / Ela vai te mostrar seu amor, se você der uma chance a ele / ela.
+ - (My) odkryliśmy / odkryłyśmy miłość na nowo po tylu latach małżeństwa. (Nós) redescobrimos o amor de novo depois de tantos anos de casamento.
 
 - [] Dzień 622 - 
 
