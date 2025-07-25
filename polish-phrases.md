@@ -3284,7 +3284,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona pokaże ci swoją miłość, jeśli dasz mu / jej szansę. Ele / Ela vai te mostrar seu amor, se você der uma chance a ele / ela.
  - (My) odkryliśmy / odkryłyśmy miłość na nowo po tylu latach małżeństwa. (Nós) redescobrimos o amor de novo depois de tantos anos de casamento.
 
-- [] Dzień 622 - 
+- [x] Dzień 622 - Amortyzator - Rzeczownik męski, Amortyzujący / Amortyzująca - Przymiotniki. (Amortecedor / Amortecedora. - Rzeczowniki, Przymiotniki)
+ - (Ja) wymieniłem / wymieniłam amortyzator w moim samochodzie w zeszłym tygodniu. (Eu) troquei o amortecedor do meu carro na semana passada.
+ - On / Ona zauważył / zauważyła, że amortyzatory są zużyte i trzeba je naprawić. Ele / Ela percebeu que os amortecedores estão gastos e precisam ser consertados.
+ - (Czy) (wy) sprawdziliście / sprawdziłyście amortyzatory przed podróżą? Vocês verificaram os amortecedores antes da viagem?
+ - (My) zamontujemy nowe amortyzatory jutro rano. (Nós) instalaremos novos amortecedores amanhã de manhã.
+ - Oni / One kupili / kupiły amortyzujące poduszki do krzeseł, żeby było wygodniej. Eles / Elas compraram almofadas amortecedoras para as cadeiras, para ficarem mais confortáveis.
 
 - [] Dzień 623 - 
 
