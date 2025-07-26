@@ -3291,7 +3291,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zamontujemy nowe amortyzatory jutro rano. (Nós) instalaremos novos amortecedores amanhã de manhã.
  - Oni / One kupili / kupiły amortyzujące poduszki do krzeseł, żeby było wygodniej. Eles / Elas compraram almofadas amortecedoras para as cadeiras, para ficarem mais confortáveis.
 
-- [] Dzień 623 - 
+- [x] Dzień 623 - Amortyzować. (Amortecer. - Czasowniki)
+ - (Ja) amortyzuję uderzenia podczas treningu dzięki specjalnym butom. (Eu) amorteço os impactos durante o treino graças a tênis especiais.
+ - On / Ona nie zdołał / zdołała w porę amortyzować upadku i się potłukł / potłukła. Ele / Ela não conseguiu amortecer a queda a tempo e se machucou.
+ - (Czy) (wy) potraficie amortyzować drgania w tej maszynie? Vocês conseguem amortecer as vibrações nesta máquina?
+ - (My) będziemy musieli / musiały amortyzować skutki tej decyzji. (Nós) teremos que amortecer as consequências dessa decisão.
+ - Oni / One dobrze amortyzowali / amortyzowały wstrząs po kolizji. Eles / Elas amorteceram bem o impacto após a colisão.
 
 - [] Dzień 624 - 
 
