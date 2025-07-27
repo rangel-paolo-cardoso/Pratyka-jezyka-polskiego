@@ -3298,7 +3298,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy musieli / musiały amortyzować skutki tej decyzji. (Nós) teremos que amortecer as consequências dessa decisão.
  - Oni / One dobrze amortyzowali / amortyzowały wstrząs po kolizji. Eles / Elas amorteceram bem o impacto após a colisão.
 
-- [] Dzień 624 - 
+- [x] Dzień 624 - Amortyzować. (Amortizar. - Czasowniki)
+ - (Ja) amortyzuję pożyczkę co miesiąc według planu. (Eu) amortizo o empréstimo todo mês conforme o plano.
+ - On / Ona amortyzował / amortyzowała kredyt szybciej, niż przewidywano. Ele / Ela amortizou o financiamento mais rápido do que o previsto.
+ - (Czy) (wy) już zaczęliście / zaczęłyście amortyzować ten dług? Vocês já começaram a amortizar essa dívida?
+ - (My) będziemy amortyzować te koszty przez pięć lat. (Nós) vamos amortizar esses custos ao longo de cinco anos.
+ - Oni / One jeszcze nie amortyzowali / amortyzowały wartości sprzętu w bilansie. Eles / Elas ainda não amortizaram o valor do equipamento no balanço.
 
 - [] Dzień 625 - 
 
