@@ -3305,7 +3305,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy amortyzować te koszty przez pięć lat. (Nós) vamos amortizar esses custos ao longo de cinco anos.
  - Oni / One jeszcze nie amortyzowali / amortyzowały wartości sprzętu w bilansie. Eles / Elas ainda não amortizaram o valor do equipamento no balanço.
 
-- [] Dzień 625 - 
+- [x] Dzień 625 - Próbka. (Amostra. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) pobrałem / pobrałam próbkę wody z rzeki. Ontem (eu) coletei uma amostra de água do rio.
+ - On / Ona przyniesie próbkę materiału na nasze spotkanie jutro. Ele / Ela trará uma amostra do tecido para a nossa reunião amanhã.
+ - (Czy) (wy) już widzieliście / widziałyście próbkę nowego produktu? Vocês já viram a amostra do novo produto?
+ - (My) analizujemy teraz próbkę krwi pacjenta / pacjentki. (Nós) estamos analisando agora a amostra de sangue do / da paciente.
+ - Oni / One nie zaakceptowali / zaakceptowały próbki, ponieważ była uszkodzona. Eles / Elas não aceitaram a amostra, porque (ela) estava danificada.
 
 - [] Dzień 626 - 
 
