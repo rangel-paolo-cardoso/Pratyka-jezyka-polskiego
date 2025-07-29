@@ -3312,7 +3312,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) analizujemy teraz próbkę krwi pacjenta / pacjentki. (Nós) estamos analisando agora a amostra de sangue do / da paciente.
  - Oni / One nie zaakceptowali / zaakceptowały próbki, ponieważ była uszkodzona. Eles / Elas não aceitaram a amostra, porque (ela) estava danificada.
 
-- [] Dzień 626 - 
+- [x] Dzień 626 - Amper. (Ampère or Ampere. - Rzeczowniki męskie)
+ - Wczoraj (ja) zmierzyłem / zmierzyłam prąd – wynosił trzy ampery. Ontem (eu) medi a corrente (corrente elétrica) – era de três ampères.
+ - (Czy) (ty) sprawdzisz, ile amperów płynie w tym obwodzie? Você vai verificar quantos ampères passam neste circuito?
+ - On / Ona nigdy nie rozumiał / rozumiała, czym dokładnie jest amper. Ele / Ela nunca entendeu exatamente o que é um ampère.
+ - (My) potrzebujemy co najmniej dziesięciu amperów, żeby uruchomić to urządzenie. (Nós) precisamos de pelo menos dez ampères para ligar este aparelho.
+ - Oni / One zmierzyli / zmierzyły natężenie prądu i zapisali / zapisały wynik w amperach. Eles / Elas mediram a intensidade da corrente e anotaram o resultado em ampères.
 
 - [] Dzień 627 - 
 
