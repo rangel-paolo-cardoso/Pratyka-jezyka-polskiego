@@ -3319,7 +3319,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) potrzebujemy co najmniej dziesięciu amperów, żeby uruchomić to urządzenie. (Nós) precisamos de pelo menos dez ampères para ligar este aparelho.
  - Oni / One zmierzyli / zmierzyły natężenie prądu i zapisali / zapisały wynik w amperach. Eles / Elas mediram a intensidade da corrente e anotaram o resultado em ampères.
 
-- [] Dzień 627 - 
+- [x] Dzień 627 - Rozszerzenie, Powiększenie - Rzeczowniki nijakie, Rozbudowa - Rzeczownik żeński. (Ampliação. - Rzeczownik żeński)
+ - W zeszłym roku (ja) przeprowadziłem / przeprowadziłam rozszerzenie zakresu usług naszej firmy. No ano passado (eu) realizei a ampliação do escopo dos serviços da nossa empresa.
+ - (Czy) (ty) planujesz powiększenie zdjęcia przed prezentacją? Você planeja a ampliação da foto antes da apresentação?
+ - On / Ona był / była odpowiedzialny / odpowiedzialna za rozbudowę biblioteki miejskiej. Ele / Ela foi responsável pela ampliação da biblioteca municipal.
+ - (My) wspólnie zaplanujemy rozszerzenie działalności na inne kraje. (Nós) vamos planejar juntos a ampliação das atividades para outros países.
+ - Oni / One zakończyli / zakończyły powiększenie hali produkcyjnej w zeszłym miesiącu. Eles / Elas terminaram a ampliação do galpão de produção no mês passado.
 
 - [] Dzień 628 - 
 
