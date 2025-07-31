@@ -3326,7 +3326,14 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wspólnie zaplanujemy rozszerzenie działalności na inne kraje. (Nós) vamos planejar juntos a ampliação das atividades para outros países.
  - Oni / One zakończyli / zakończyły powiększenie hali produkcyjnej w zeszłym miesiącu. Eles / Elas terminaram a ampliação do galpão de produção no mês passado.
 
-- [] Dzień 628 - 
+- [x] Dzień 628 - Rozszerzony / Rozszerzona / Rozszerzone,
+                  Powiększony / Powiększona / Powiększone,
+                  Rozbudowany / Rozbudowana / Rozbudowane. (Ampliado / Ampliada - Przymiotniki).
+ - (Ja) już korzystałem / korzystałam z rozszerzonej wersji programu. (Eu) já usei a versão ampliada do programa.
+ - (Czy) (ty) widziałeś / widziałaś powiększone zdjęcie na wystawie? Você viu a foto ampliada na exposição?
+ - On / Ona będzie pracować w rozbudowanej strukturze zespołu. Ele / Ela vai trabalhar em uma estrutura de equipe ampliada.
+ - (My) mamy dostęp do rozszerzonego planu zajęć od tego semestru. (Nós) temos acesso ao plano de aulas ampliado desde este semestre.
+ - Oni / One pokazali / pokazały powiększoną mapę miasta podczas prezentacji. Eles / Elas mostraram o mapa ampliado da cidade durante a apresentação.
 
 - [] Dzień 629 - 
 
