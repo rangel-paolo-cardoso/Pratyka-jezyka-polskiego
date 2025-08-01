@@ -3335,7 +3335,14 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) mamy dostęp do rozszerzonego planu zajęć od tego semestru. (Nós) temos acesso ao plano de aulas ampliado desde este semestre.
  - Oni / One pokazali / pokazały powiększoną mapę miasta podczas prezentacji. Eles / Elas mostraram o mapa ampliado da cidade durante a apresentação.
 
-- [] Dzień 629 - 
+- [x] Dzień 629 - Rozszerzać / Rozszerzyć,
+                  Powiększać / Powiększyć,
+                  Rozbudowywać / Rozbudować. (Ampliar. - Czasowniki)
+ - (Ja) rozszerzyłem / rozszerzyłam swoje umiejętności podczas tego kursu. (Eu) ampliei minhas habilidades durante esse curso.
+ - (Ty) powiększasz zdjęcie, żeby zobaczyć więcej szczegółów. Você está ampliando a foto para ver mais detalhes.
+ - On / Ona rozbuduje system informatyczny w przyszłym roku. Ele / Ela ampliará o sistema de informática no próximo ano.
+ - (My) rozszerzaliśmy / rozszerzałyśmy działalność naszej firmy krok po kroku. (Nós) ampliamos as atividades da nossa empresa passo a passo.
+ - Oni / One powiększyli / powiększyły dom po narodzinach drugiego dziecka. Eles / Elas ampliaram a casa após o nascimento do segundo filho.
 
 - [] Dzień 630 - 
 
