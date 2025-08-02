@@ -3344,7 +3344,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) rozszerzaliśmy / rozszerzałyśmy działalność naszej firmy krok po kroku. (Nós) ampliamos as atividades da nossa empresa passo a passo.
  - Oni / One powiększyli / powiększyły dom po narodzinach drugiego dziecka. Eles / Elas ampliaram a casa após o nascimento do segundo filho.
 
-- [] Dzień 630 - 
+- [x] Dzień 630 - Klepsydra. (Ampulheta. - Rzeczowniki żeńskie)
+ - (Ja) kiedyś dostałem / dostałam klepsydrę jako prezent od dziadka. (Eu) uma vez ganhei uma ampulheta de presente do meu avô.
+ - (Czy) (ty) widziałeś / widziałaś tę starą klepsydrę na półce? Você viu aquela ampulheta antiga na prateleira?
+ - On / Ona odwraca klepsydrę, gdy zaczyna medytować. Ele / Ela vira a ampulheta quando começa a meditar.
+ - (My) kupimy nową klepsydrę do eksperymentu. (Nós) compraremos uma nova ampulheta para o experimento.
+ - Oni / One używali / używały klepsydry w dawnych czasach do mierzenia czasu. Eles / Elas usavam a ampulheta antigamente para medir o tempo.
 
 - [] Dzień 631 - 
 
