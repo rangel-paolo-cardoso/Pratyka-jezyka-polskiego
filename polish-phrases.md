@@ -3351,7 +3351,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupimy nową klepsydrę do eksperymentu. (Nós) compraremos uma nova ampulheta para o experimento.
  - Oni / One używali / używały klepsydry w dawnych czasach do mierzenia czasu. Eles / Elas usavam a ampulheta antigamente para medir o tempo.
 
-- [] Dzień 631 - 
+- [x] Dzień 631 - Karzeł / Karlica. (Anão / Anã. - Rzeczowniki)
+ - (Ja) widziałem / widziałam karła / karlicę w starym filmie fantasy. (Eu) vi um / uma anão / anã em um filme de fantasia antigo.
+ - On / Ona spotkał / spotkała karła / karlicę na konferencji medycznej. Ele / Ela encontrou uma anão / anã na conferência médica.
+ - (Czy) (ty) znasz jakiegoś / jakąś karła / karlicę, który / która pracuje w teatrze? Você conhece algum / alguma anão / anã que trabalha no teatro?
+ - (My) rozmawialiśmy / rozmawiałyśmy z karłami / karlicami podczas wycieczki po zamku. (Nós) conversamos com anões / anãs durante o passeio pelo castelo.
+ - Oni / One zobaczą karła / karlicę w nowym przedstawieniu dla dzieci. Eles / Elas verão um / uma anão / anã na nova peça infantil.
 
 - [] Dzień 632 - 
 
