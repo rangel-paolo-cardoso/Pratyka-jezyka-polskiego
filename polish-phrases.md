@@ -3358,7 +3358,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) rozmawialiśmy / rozmawiałyśmy z karłami / karlicami podczas wycieczki po zamku. (Nós) conversamos com anões / anãs durante o passeio pelo castelo.
  - Oni / One zobaczą karła / karlicę w nowym przedstawieniu dla dzieci. Eles / Elas verão um / uma anão / anã na nova peça infantil.
 
-- [] Dzień 632 - 
+- [x] Dzień 632 - Anabolizm. (Anabolismo. - Rzeczowniki męskie)
+ - (Ja) zawsze interesowałem / interesowałam się anabolizmem i jego wpływem na mięśnie. (Eu) sempre me interessei por anabolismo e seu impacto nos músculos.
+ - On / Ona uczy się teraz o anabolizmie na zajęciach z biologii. Ele / Ela está estudando agora sobre o anabolismo nas aulas de biologia.
+ - (Czy) (ty) wiesz, jak działa anabolizm w ludzkim ciele? Você sabe como funciona o anabolismo no corpo humano?
+ - (My) zbadamy wpływ anabolizmu na regenerację organizmu. (Nós) vamos estudar o impacto do anabolismo na regeneração do corpo (organismo).
+ - Oni / One nie rozumieli / rozumiały różnicy między anabolizmem a katabolizmem. Eles / Elas não entenderam a diferença entre anabolismo e catabolismo.
 
 - [] Dzień 633 - 
 
