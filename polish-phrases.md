@@ -3365,7 +3365,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zbadamy wpływ anabolizmu na regenerację organizmu. (Nós) vamos estudar o impacto do anabolismo na regeneração do corpo (organismo).
  - Oni / One nie rozumieli / rozumiały różnicy między anabolizmem a katabolizmem. Eles / Elas não entenderam a diferença entre anabolismo e catabolismo.
 
-- [] Dzień 633 - 
+- [x] Dzień 633 - Środek anaboliczny - Rzeczownik męski + Przymiotnik, Anaboliczny - Przymiotnik. (Anabolizante. - Przymiotnik, Rzeczownik męski)
+ - (Ja) nigdy nie brałem / brałam żadnego środka anabolicznego. (Eu) nunca tomei nenhuma substância anabolizante.
+ - On / Ona twierdzi, że te sterydy anaboliczne są bardzo niebezpieczne. Ele / Ela afirma que esses esteroides anabolizantes são muito perigosos.
+ - (Czy) (ty) zamierzasz stosować środki anaboliczne w przyszłości? Você pretende usar esteroides anabolizantes no futuro?
+ - (My) wiemy, że niektóre środki anaboliczne są zakazane w sporcie. (Nós) sabemos que alguns esteroides anabolizantes são proibidos no esporte.
+ - Oni / One używali / używały anabolicznych substancji bez wiedzy trenera / trenerki. Eles / Elas usaram substâncias anabolizantes sem o conhecimento do / da treinador / treinadora.
 
 - [] Dzień 634 - 
 
