@@ -3372,7 +3372,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wiemy, że niektóre środki anaboliczne są zakazane w sporcie. (Nós) sabemos que alguns esteroides anabolizantes são proibidos no esporte.
  - Oni / One używali / używały anabolicznych substancji bez wiedzy trenera / trenerki. Eles / Elas usaram substâncias anabolizantes sem o conhecimento do / da treinador / treinadora.
 
-- [] Dzień 634 - 
+- [x] Dzień 634 - Analfabetyzm. (Analfabetismo. - Rzeczowniki męskie)
+ - (Ja) walczyłem / walczyłam z analfabetyzmem w mojej wiosce przez wiele lat. (Eu) lutei contra o analfabetismo na minha vila por muitos anos.
+ - On / Ona wierzy, że analfabetyzm można wyeliminować dzięki edukacji. Ele / Ela acredita que o analfabetismo pode ser eliminado por meio da educação infantil.
+ - (Czy) (ty) będziesz uczestniczyć w kampanii przeciwko analfabetyzmowi? Você vai participar da campanha contra o analfabetismo?
+ - (My) nie zdajemy sobie sprawy, jak poważnym problemem jest analfabetyzm. (Nós) não nos damos conta de quão grave é o problema do analfabetismo.
+ - Oni / One zredukowali / zredukowały analfabetyzm w regionie o połowę w ciągu dekady. Eles / Elas reduziram o analfabetismo na região pela metade em uma década.
 
 - [] Dzień 635 - 
 
