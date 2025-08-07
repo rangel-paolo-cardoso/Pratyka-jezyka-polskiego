@@ -3379,7 +3379,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) nie zdajemy sobie sprawy, jak poważnym problemem jest analfabetyzm. (Nós) não nos damos conta de quão grave é o problema do analfabetismo.
  - Oni / One zredukowali / zredukowały analfabetyzm w regionie o połowę w ciągu dekady. Eles / Elas reduziram o analfabetismo na região pela metade em uma década.
 
-- [] Dzień 635 - 
+- [x] Dzień 635 - Analfabeta / Analfabetka - Rzeczowniki, Niepiśmienny / Niepiśmienna - Przymiotniki. (Analfabeto / Analfabeta. - Rzeczowniki, Przymiotniki)
+ - (Ja) byłem / byłam analfabetą / analfabetką, dopóki nie nauczyłem / nauczyłam się czytać w wieku trzydziestu lat. (Eu) fui analfabeto / analfabeta até aprender a ler aos trinta anos.
+ - On / Ona nadal jest niepiśmienny / niepiśmienna, ponieważ nie miał / miała dostępu do szkoły. Ele / Ela ainda é analfabeto / analfabeta porque não teve acesso à escola.
+ - (Czy) (ty) byłeś / byłaś analfabetą / analfabetką w dzieciństwie? Você era analfabeto / analfabeta na infância?
+ - (My) nie będziemy już analfabetami / analfabetkami, bo zapisaliśmy / zapisałyśmy się na kurs czytania. (Nós) não seremos mais analfabetos / analfabetas, porque nos inscrevemos num curso de leitura.
+ - Oni / One kiedyś byli / były analfabetami / analfabetkami, ale teraz potrafią pisać listy do swoich rodzin. Eles / Elas um vez eram analfabetos / analfabetas, mas agora sabem escrever cartas para suas famílias.
 
 - [] Dzień 636 - 
 
