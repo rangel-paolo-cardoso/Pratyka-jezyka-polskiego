@@ -3386,7 +3386,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) nie będziemy już analfabetami / analfabetkami, bo zapisaliśmy / zapisałyśmy się na kurs czytania. (Nós) não seremos mais analfabetos / analfabetas, porque nos inscrevemos num curso de leitura.
  - Oni / One kiedyś byli / były analfabetami / analfabetkami, ale teraz potrafią pisać listy do swoich rodzin. Eles / Elas um vez eram analfabetos / analfabetas, mas agora sabem escrever cartas para suas famílias.
 
-- [] Dzień 636 - 
+- [x] Dzień 636 - Przeciwbólowy / Przeciwbólowa / Przeciwbólowe. (Analgésico / Analgésica. - Przymiotniki)
+ - (Ja) wziąłem / wzięłam lek przeciwbólowy, bo ból był nie do zniesienia. (Eu) tomei um remédio analgésico, porque a dor estava insuportável.
+ - On / Ona powiedział / powiedziała, że przeciwbólowa maść zaczęła działać po godzinie. Ele / Ela disse que a pomada analgésica começou a fazer efeito depois de uma hora.
+ - (Czy) (ty) potrzebujesz czegoś przeciwbólowego na głowę? Você precisa de algo analgésico para a cabeça?
+ - (My) zastosujemy przeciwbólowe środki przed zabiegiem. (Nós) aplicaremos medicamentos analgésicos antes do procedimento.
+ - Oni / One nie chcieli / chciały brać przeciwbólowych tabletek bez konsultacji z lekarzem / lekarką. Eles / Elas não quiseram tomar comprimidos analgésicos sem consultar o / a médico / médica.
 
 - [] Dzień 637 - 
 
