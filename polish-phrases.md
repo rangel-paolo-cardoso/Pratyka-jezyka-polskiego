@@ -3393,7 +3393,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zastosujemy przeciwbólowe środki przed zabiegiem. (Nós) aplicaremos medicamentos analgésicos antes do procedimento.
  - Oni / One nie chcieli / chciały brać przeciwbólowych tabletek bez konsultacji z lekarzem / lekarką. Eles / Elas não quiseram tomar comprimidos analgésicos sem consultar o / a médico / médica.
 
-- [] Dzień 637 - 
+- [x] Dzień 637 - Analizator / Analizatorka - Rzeczowniki. Analizujący / Analizująca - Przymiotniki. (Analisador / Analisadora. - Rzeczowniki, Przymiotniki)
+ - Wczoraj (ja) kupiłem / kupiłam nowy analizator do laboratorium. Ontem (eu) comprei um novo analisador para o laboratório.
+ - On / Ona jest świetnym / świetną analizującym / analizującą specjalistą / specjalistką w naszej firmie. Ele / Ela é um / uma excelente analisador / analisadora especialista na nossa empresa.
+ - (Czy) (ty) jutro uruchomisz analizator gazów? Você vai ligar o analisador de gases amanhã?
+ - (My) testowaliśmy / testowałyśmy analizujące urządzenia przez cały tydzień. (Nós) testamos dispositivos analisadores durante toda a semana.
+ - Oni / One kupią nowoczesne analizatory, aby poprawić wyniki badań. Eles / Elas comprarão analisadores modernos para melhorar os resultados das pesquisas.
 
 - [] Dzień 638 - 
 
