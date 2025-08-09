@@ -3400,7 +3400,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) testowaliśmy / testowałyśmy analizujące urządzenia przez cały tydzień. (Nós) testamos dispositivos analisadores durante toda a semana.
  - Oni / One kupią nowoczesne analizatory, aby poprawić wyniki badań. Eles / Elas comprarão analisadores modernos para melhorar os resultados das pesquisas.
 
-- [] Dzień 638 - 
+- [x] Dzień 638 - Analizować, Przeanalizować. (Analisar. - Czasowniki)
+ - Wczoraj (ja) przeanalizowałem / przeanalizowałam dane z ostatniego miesiąca. Ontem (eu) analisei os dados do último mês.
+ - On / Ona teraz analizuje wyniki eksperymentu. Ele / Ela está analisando agora os resultados do experimento.
+ - (Czy) (ty) jutro przeanalizujesz raport finansowy? Você vai analisar o relatório financeiro amanhã?
+ - (My) analizowaliśmy / analizowałyśmy próbki w laboratorium przez wiele godzin. (Nós) analisamos as amostras no laboratório por muitas horas.
+ - Oni / One będą analizować zachowanie klientów w internecie. Eles / Elas irão analisar o comportamento dos clientes na internet.
 
 - [] Dzień 639 - 
 
