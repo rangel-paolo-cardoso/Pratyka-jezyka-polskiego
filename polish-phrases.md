@@ -3407,7 +3407,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) analizowaliśmy / analizowałyśmy próbki w laboratorium przez wiele godzin. (Nós) analisamos as amostras no laboratório por muitas horas.
  - Oni / One będą analizować zachowanie klientów w internecie. Eles / Elas irão analisar o comportamento dos clientes na internet.
 
-- [] Dzień 639 - 
+- [x] Dzień 639 - Analiza. (Análise. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) zrobiłem / zrobiłam szczegółową analizę wyników sprzedaży. Ontem (eu) fiz uma análise detalhada dos resultados de vendas.
+ - On / Ona przygotowuje teraz analizę budżetu na przyszły rok. Ele / Ela está preparando agora a análise do orçamento para o próximo ano.
+ - (Czy) (ty) przeprowadzisz analizę tego przypadku jutro? Você vai realizar a análise deste caso amanhã?
+ - (My) wykonaliśmy / wykonałyśmy analizę próbek w laboratorium. (Nós) fizemos a análise das amostras no laboratório.
+ - Oni / One będą potrzebować analizy ryzyka przed podpisaniem umowy. Eles / Elas vão precisar de uma análise de risco antes de assinar o contrato.
 
 - [] Dzień 640 - 
 
