@@ -3414,7 +3414,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wykonaliśmy / wykonałyśmy analizę próbek w laboratorium. (Nós) fizemos a análise das amostras no laboratório.
  - Oni / One będą potrzebować analizy ryzyka przed podpisaniem umowy. Eles / Elas vão precisar de uma análise de risco antes de assinar o contrato.
 
-- [] Dzień 640 - 
+- [x] Dzień 640 - Analityk / Analityczka - Rzeczowniki rodzaju męskiego i żeńskiego. (Analista. - Rzeczownik)
+ - Wczoraj (ja) pracowałem / pracowałam jako analityk / analityczka finansowy / finansowa w dużej firmie. Ontem (eu) trabalhei como analista financeiro / financeira em uma grande empresa.
+ - On / Ona jest doświadczonym / doświadczoną analitykiem / analityczką danych. Ele / Ela é um / uma analista de dados experiente.
+ - (Czy) (ty) zostaniesz analitykiem / analityczką w tym projekcie w przyszłym roku? Você será o / a analista neste projeto no próximo ano?
+ - (My) współpracowaliśmy / współpracowałyśmy z kilkoma analitykami / analityczkami rynku. (Nós) colaboramos com vários / várias analistas de mercado.
+ - Oni / One będą potrzebować analityka / analityczki do przygotowania raportu. Eles / Elas vão precisar de um / uma analista para preparar o relatório.
 
 - [] Dzień 641 - 
 
