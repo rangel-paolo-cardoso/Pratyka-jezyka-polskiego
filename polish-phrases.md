@@ -3421,7 +3421,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) współpracowaliśmy / współpracowałyśmy z kilkoma analitykami / analityczkami rynku. (Nós) colaboramos com vários / várias analistas de mercado.
  - Oni / One będą potrzebować analityka / analityczki do przygotowania raportu. Eles / Elas vão precisar de um / uma analista para preparar o relatório.
 
-- [] Dzień 641 - 
+- [x] Dzień 641 - Analityczny / Analityczna. (Analítico / Analítica. - Przymiotniki)
+ - Wczoraj (ja) byłem / byłam bardzo analityczny / analityczna podczas rozwiązywania problemu. Ontem, (eu) fui muito analítico / analítica durante a resolução do problema.
+ - On / Ona jest analityczny / analityczna, kiedy planuje swoje projekty. Ele / Ela é analítico / analítica quando planeja seus projetos.
+ - (Czy) (ty) będziesz wystarczająco analityczny / analityczna, aby znaleźć rozwiązanie? Você será suficientemente analítico / analítica para encontrar a solução?
+ - (My) byliśmy / byłyśmy analityczni / analityczne podczas omawiania strategii zespołu. (Nós) fomos analíticos / analíticas ao discutir a estratégia da equipe.
+ - Oni / One będą bardzo analityczni / analityczne w swojej ocenie wyników. Eles / Elas serão muito analíticos / analíticas em sua avaliação dos resultados.
 
 - [] Dzień 642 - 
 
