@@ -3428,7 +3428,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy analityczni / analityczne podczas omawiania strategii zespołu. (Nós) fomos analíticos / analíticas ao discutir a estratégia da equipe.
  - Oni / One będą bardzo analityczni / analityczne w swojej ocenie wyników. Eles / Elas serão muito analíticos / analíticas em sua avaliação dos resultados.
 
-- [] Dzień 642 - 
+- [x] Dzień 642 - Analogowy / Analogowa / Analogowe. (Analógico / Analógica. - Przymiotniki)
+ - (Ja) kiedyś miałem / miałam zegarek analogowy, ale teraz używam cyfrowego. (Eu) já tive um relógio analógico, mas agora uso um digital.
+ - On / Ona zawsze wybierał / wybierała aparaty analogowe, bo lubił / lubiła klasyczne zdjęcia. Ele / Ela sempre escolheu câmeras analógicas porque gostava de fotos clássicas.
+ - (Czy) (ty) jutro kupisz gramofon analogowy, czy jednak zdecydujesz się na wersję cyfrową? (Você) Amanhã você vai comprar um toca-discos (fonógrafo, gramofone) analógico ou vai decidir pela versão digital?
+ - (My) byliśmy / byłyśmy zachwyceni / zachwycone dźwiękiem z tej analogowej płyty. (Nós) ficamos encantados / encantadas com o som desse disco analógico.
+ - Oni / One będą testować urządzenia analogowe, a oni / one skupią się na oprogramowaniu. Eles / Elas vão testar equipamentos analógicos, e eles / elas vão se concentrar no software.
 
 - [] Dzień 643 - 
 
