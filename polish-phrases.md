@@ -3435,7 +3435,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zachwyceni / zachwycone dźwiękiem z tej analogowej płyty. (Nós) ficamos encantados / encantadas com o som desse disco analógico.
  - Oni / One będą testować urządzenia analogowe, a oni / one skupią się na oprogramowaniu. Eles / Elas vão testar equipamentos analógicos, e eles / elas vão se concentrar no software.
 
-- [] Dzień 643 - 
+- [x] Dzień 643 - Ananas. (Ananás (Abacaxi). - Rzeczowniki męskie)
+ - Wczoraj (ja) jadłem / jadłam ananasa, bo był bardzo soczysty. Ontem (eu) comi um ananás, porque estava muito suculento.
+ - On / Ona teraz kroi ananasa na deser. Ele / Ela agora está cortando um ananás para a sobremesa.
+ - (Czy) (wy) kiedyś piliście / piłyście sok z ananasa? Vocês já beberam suco de ananás alguma vez?
+ - Jutro (my) kupimy świeżego ananasa na śniadanie. Amanhã (nós) compraremos um ananás fresco para o café da manhã.
+ - Oni / One przywieźli / przywiozły z podróży kilka dojrzałych ananasów. Eles / Elas trouxeram da viagem alguns ananases maduros.
 
 - [] Dzień 644 - 
 
