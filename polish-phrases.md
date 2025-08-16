@@ -3449,7 +3449,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy obserwować, jak nasza roślina ananasa rośnie. (Nós) vamos observar como o nosso ananaseiro cresce.
  - Oni / One hodowali / hodowały rośliny ananasa w cieplarni przez cały rok. Eles / Elas cultivaram ananaseiros na estufa durante o ano todo.
 
-- [] Dzień 645 - 
+- [x] Dzień 645 - Anatomia. (Anatomia. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) studiowałem / studiowałam anatomię przez kilka godzin. Ontem (eu) estudei anatomia por algumas horas.
+ - On / Ona dobrze rozumie anatomię człowieka. Ele / Ela entende bem a anatomia humana.
+ - (Czy) (ty) w przyszłości będziesz uczyć się anatomii? Você vai estudar anatomia no futuro?
+ - (My) zawsze omawiamy anatomię na zajęciach laboratoryjnych. (Nós) sempre discutimos anatomia nas aulas de laboratório.
+ - Oni / One poznawali / poznawały anatomię zwierząt na uniwersytecie. Eles / Elas estudaram a anatomia dos animais na universidade.
 
 - [] Dzień 646 - 
 
