@@ -3435,14 +3435,19 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zachwyceni / zachwycone dźwiękiem z tej analogowej płyty. (Nós) ficamos encantados / encantadas com o som desse disco analógico.
  - Oni / One będą testować urządzenia analogowe, a oni / one skupią się na oprogramowaniu. Eles / Elas vão testar equipamentos analógicos, e eles / elas vão se concentrar no software.
 
-- [x] Dzień 643 - Ananas. (Ananás (Abacaxi). - Rzeczowniki męskie)
+- [x] Dzień 643 - Ananas - Wyrażenie. (Ananás (Abacaxi). - Rzeczowniki męskie)
  - Wczoraj (ja) jadłem / jadłam ananasa, bo był bardzo soczysty. Ontem (eu) comi um ananás, porque estava muito suculento.
  - On / Ona teraz kroi ananasa na deser. Ele / Ela agora está cortando um ananás para a sobremesa.
  - (Czy) (wy) kiedyś piliście / piłyście sok z ananasa? Vocês já beberam suco de ananás alguma vez?
  - Jutro (my) kupimy świeżego ananasa na śniadanie. Amanhã (nós) compraremos um ananás fresco para o café da manhã.
  - Oni / One przywieźli / przywiozły z podróży kilka dojrzałych ananasów. Eles / Elas trouxeram da viagem alguns ananases maduros.
 
-- [] Dzień 644 - 
+- [x] Dzień 644 - Roślina ananasa. (Ananaseiro (Pé de ananás). - Rzeczownik męski)
+ - Wczoraj (ja) widziałem / widziałam roślinę ananasa w ogrodzie botanicznym. Ontem (eu) vi um ananaseiro no jardim botânico.
+ - On / Ona codziennie podlewa roślinę ananasa na tarasie. Ele / Ela rega o ananaseiro todos os dias na varanda.
+ - (Czy) (ty) już posadziłeś / posadziłaś roślinę ananasa w swoim ogrodzie? Você já plantou um ananaseiro no seu jardim?
+ - (My) będziemy obserwować, jak nasza roślina ananasa rośnie. (Nós) vamos observar como o nosso ananaseiro cresce.
+ - Oni / One hodowali / hodowały rośliny ananasa w cieplarni przez cały rok. Eles / Elas cultivaram ananaseiros na estufa durante o ano todo.
 
 - [] Dzień 645 - 
 
