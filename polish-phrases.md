@@ -3456,7 +3456,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze omawiamy anatomię na zajęciach laboratoryjnych. (Nós) sempre discutimos anatomia nas aulas de laboratório.
  - Oni / One poznawali / poznawały anatomię zwierząt na uniwersytecie. Eles / Elas estudaram a anatomia dos animais na universidade.
 
-- [] Dzień 646 - 
+- [x] Dzień 646 - Przodkowy / Przodkowa / Przodkowe. (Ancestral. - Przymiotniki)
+ - (Ja) studiowałem / studiowałam przodkową kulturę mojej rodziny. (Eu) estudei a cultura ancestral da minha família.
+ - On / Ona odziedziczył / odziedziczyła przodkowy dom na wsi. Ele / Ela herdou a casa ancestral no campo.
+ - (Ty) zachowasz przodkową tradycję w przyszłości. Você conservará a tradição ancestral no futuro.
+ - (My) szanowaliśmy / szanowałyśmy przodkowe wierzenia naszych dziadków. (Nós) respeitávamos as crenças ancestrais dos nossos avós.
+ - Oni / One będą badać przodkowe rytuały plemienia. Eles / Elas estudarão os rituais ancestrais da tribo.
 
 - [] Dzień 647 - 
 
