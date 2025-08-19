@@ -3463,7 +3463,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) szanowaliśmy / szanowałyśmy przodkowe wierzenia naszych dziadków. (Nós) respeitávamos as crenças ancestrais dos nossos avós.
  - Oni / One będą badać przodkowe rytuały plemienia. Eles / Elas estudarão os rituais ancestrais da tribo.
 
-- [] Dzień 647 - 
+- [x] Dzień 647 - Kotwica. (Âncora. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) widziałem / widziałam kotwicę opuszczoną przez statek. Ontem (eu) vi a âncora lançada pelo navio.
+ - On / Ona trzyma teraz kotwicę w magazynie portowym. Ele / Ela está guardando agora a âncora no depósito do porto.
+ - (Wy) jutro podniesiecie kotwicę, żeby wyruszyć w rejs. Vocês amanhã levantarão a âncora para partir na viagem.
+ - (My) zawsze sprawdzamy kotwicę przed wypłynięciem. (Nós) sempre verificamos a âncora antes de zarpar.
+ - Oni / One znaleźli / znalazły starą kotwicę na plaży w zeszłym tygodniu. Eles / Elas encontraram uma âncora antiga na praia na semana passada.
 
 - [] Dzień 648 - 
 
