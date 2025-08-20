@@ -3470,7 +3470,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze sprawdzamy kotwicę przed wypłynięciem. (Nós) sempre verificamos a âncora antes de zarpar.
  - Oni / One znaleźli / znalazły starą kotwicę na plaży w zeszłym tygodniu. Eles / Elas encontraram uma âncora antiga na praia na semana passada.
 
-- [] Dzień 648 - 
+- [x] Dzień 648 - Chodzić, Iść, Pójść. (Andar. - Czasowniki)
+ - (Ja) chodziłem / chodziłam po parku codziennie. Eu andava no parque todos os dias.
+ - On / Ona idzie teraz bardzo wolno. Ele / Ela está andando muito devagar agora.
+ - (Ty) pójdziesz jutro do szkoły pieszo. Você vai andar a pé até a escola amanhã.
+ - (My) chodziliśmy / chodziłyśmy po górach w zeszłym roku. (Nós) andávamos pelas montanhas no ano passado.
+ - Oni / One pójdą razem na spacer po obiedzie. Eles / Elas vão andar juntos / juntas para passear depois do almoço.
 
 - [] Dzień 649 - 
 
