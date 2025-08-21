@@ -3477,7 +3477,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) chodziliśmy / chodziłyśmy po górach w zeszłym roku. (Nós) andávamos pelas montanhas no ano passado.
  - Oni / One pójdą razem na spacer po obiedzie. Eles / Elas vão andar juntos / juntas para passear depois do almoço.
 
-- [] Dzień 649 - 
+- [x] Dzień 649 - Piętro - Rzeczownik nijaki, Kondygnacja - Rzeczownik żeński. (Andar. - Rzeczownik męski)
+ - (Ja) mieszkam na trzecim piętrze. (Eu) moro no terceiro andar.
+ - On / Ona odwiedził / odwiedziła mnie na piątym piętrze wczoraj. Ele / Ela me visitou no quinto andar ontem.
+ - On / Ona zobaczy, że na tym piętrze są nowe mieszkania. Ele / Ela verá que neste andar há novos apartamentos.
+ - (Wy) pójdziecie jutro na najwyższe piętro budynku. Vocês irão amanhã para o andar mais alto do prédio.
+ - (My) kiedyś pracowaliśmy / pracowałyśmy na innej kondygnacji. (Nós) costumávamos trabalhar em outro andar (outra planta do edifício).
 
 - [] Dzień 650 - 
 
