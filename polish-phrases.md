@@ -3484,7 +3484,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) pójdziecie jutro na najwyższe piętro budynku. Vocês irão amanhã para o andar mais alto do prédio.
  - (My) kiedyś pracowaliśmy / pracowałyśmy na innej kondygnacji. (Nós) costumávamos trabalhar em outro andar (outra planta do edifício).
 
-- [] Dzień 650 - 
+- [x] Dzień 650 - Jaskółka. (Andorinha. - Rzeczowniki żeńskie)
+ - (Ja) widziałem / widziałam jaskółkę nad rzeką wczoraj. (Eu) vi uma andorinha sobre o rio ontem.
+ - On / Ona zawsze cieszy się, kiedy jaskółka przylatuje na wiosnę. Ele / Ela sempre se alegra quando a andorinha chega na primavera.
+ - On / Ona powiedział / powiedziała, że jaskółki były w jego / jej ogrodzie zeszłego lata. Ele / Ela disse que andorinhas estavam no jardim dela no verão passado.
+ - (Ty) zobaczysz jutro jaskółkę lecącą nisko nad polem. Você verá amanhã uma andorinha voando baixo sobre o campo.
+ - (Wy) widzieliście / widziałyście jaskółki, kiedy wracaliście / wracałyście do domu. Vocês viram andorinhas quando estavam voltando para casa.
 
 - [] Dzień 651 - 
 
