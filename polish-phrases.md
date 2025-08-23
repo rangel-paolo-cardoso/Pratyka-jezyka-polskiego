@@ -3491,7 +3491,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zobaczysz jutro jaskółkę lecącą nisko nad polem. Você verá amanhã uma andorinha voando baixo sobre o campo.
  - (Wy) widzieliście / widziałyście jaskółki, kiedy wracaliście / wracałyście do domu. Vocês viram andorinhas quando estavam voltando para casa.
 
-- [] Dzień 651 - 
+- [x] Dzień 651 - Pierścień, Pierścionek. (Anel. - Rzeczowniki męskie)
+ - (Ja) dostałem / dostałam pierścień od mojego / mojej dziadka / babci. (Eu) recebi um anel do / da meu / minha avô / avó.
+ - On / Ona nosił / nosiła pierścionek na lewej dłoni. Ele / Ela usava um anel na mão esquerda.
+ - (Ty) kupisz piękny pierścionek jutro. Você comprará um belo anel amanhã.
+ - (My) znaleźliśmy / znalazłyśmy złoty pierścień na plaży. (Nós) encontramos um anel de ouro na praia.
+ - Oni / One zgubili / zgubiły swoje pierścionki wczoraj. Eles / Elas perderam seus anéis ontem.
 
 - [] Dzień 652 - 
 
