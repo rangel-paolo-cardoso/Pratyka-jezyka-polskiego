@@ -3498,7 +3498,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) znaleźliśmy / znalazłyśmy złoty pierścień na plaży. (Nós) encontramos um anel de ouro na praia.
  - Oni / One zgubili / zgubiły swoje pierścionki wczoraj. Eles / Elas perderam seus anéis ontem.
 
-- [] Dzień 652 - 
+- [x] Dzień 652 - Anemiczny / Anemiczna - Przymiotniki. (Anêmico / Anêmica. - Przymiotniki, Rzeczowniki)
+ - (Ja) byłem / byłam anemiczny / anemiczna w dzieciństwie. (Eu) fui anêmico / anêmica na infância.
+ - On / Ona jest teraz anemiczny / anemiczna, dlatego musi odpoczywać. Ele / Ela está anêmico / anêmica agora, por isso precisa descansar.
+ - (Ty) będziesz anemiczny / anemiczna, jeśli nie będziesz się dobrze odżywiać. Você será anêmico / anêmica se não se alimentar bem.
+ - (Wy) byliście / byłyście anemiczni / anemiczne po długiej chorobie. Vocês estavam anêmicos / anêmicas após uma longa doença.
+ - (My) będziemy anemiczni / anemiczne, jeśli nie dostaniemy wystarczająco żelaza. (Nós) ficaremos anêmicos / anêmicas se não recebermos ferro suficiente.
 
 - [] Dzień 653 - 
 
