@@ -3505,7 +3505,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) byliście / byłyście anemiczni / anemiczne po długiej chorobie. Vocês estavam anêmicos / anêmicas após uma longa doença.
  - (My) będziemy anemiczni / anemiczne, jeśli nie dostaniemy wystarczająco żelaza. (Nós) ficaremos anêmicos / anêmicas se não recebermos ferro suficiente.
 
-- [] Dzień 653 - 
+- [x] Dzień 653 - Znieczulenie - Rzeczownik nijaki, Anestezja - Rzeczownik żeński. (Rzeczownik żeńskiAnestesia. - )
+ - (Ja) dostałem / dostałam znieczulenie przed operacją. (Eu) recebi anestesia antes da cirurgia.
+ - On / Ona teraz potrzebuje anestezji do zabiegu. Ele / Ela agora precisa de anestesia para o procedimento.
+ - (Ty) jutro dostaniesz znieczulenie u dentysty. Você amanhã receberá anestesia no dentista.
+ - (My) mieliśmy / miałyśmy anestezję podczas poprzedniej operacji. (Nós) tivemos anestesia durante a cirurgia anterior.
+ - Oni / One będą rozmawiać o znieczuleniu z lekarzem / lekarką. Eles / Elas vão conversar sobre a anestesia com o / a médico / médica.
 
 - [] Dzień 654 - 
 
