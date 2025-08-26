@@ -3512,7 +3512,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) mieliśmy / miałyśmy anestezję podczas poprzedniej operacji. (Nós) tivemos anestesia durante a cirurgia anterior.
  - Oni / One będą rozmawiać o znieczuleniu z lekarzem / lekarką. Eles / Elas vão conversar sobre a anestesia com o / a médico / médica.
 
-- [] Dzień 654 - 
+- [x] Dzień 654 - Dołączyć, Załączyć, Przyłączyć. (Anexar. - Czasowniki)
+ - (Ja) dołączyłem / dołączyłam dokument do wiadomości. (Eu) anexei o documento à mensagem.
+ - On / Ona załączy teraz plik do e-maila, a on / ona też załączy swój. Ele / Ela anexará agora o arquivo ao e-mail, e ele / ela também anexará o dele / dela.
+ - (Ty) nie dołączyłeś / dołączyłaś zdjęcia wczoraj. Você não anexou a foto ontem.
+ - (My) przyłączymy ten obszar do naszego miasta w przyszłym roku. (Nós) anexaremos essa área à nossa cidade no próximo ano.
+ - Oni / One dołączyli / dołączyły już raport, ale oni / one jeszcze go nie załączyli / załączyły. Eles / Elas já anexaram o relatório, mas eles / elas ainda não o anexaram.
 
 - [] Dzień 655 - 
 
