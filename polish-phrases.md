@@ -3519,7 +3519,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przyłączymy ten obszar do naszego miasta w przyszłym roku. (Nós) anexaremos essa área à nossa cidade no próximo ano.
  - Oni / One dołączyli / dołączyły już raport, ale oni / one jeszcze go nie załączyli / załączyły. Eles / Elas já anexaram o relatório, mas eles / elas ainda não o anexaram.
 
-- [] Dzień 655 - 
+- [x] Dzień 655 - Płaz - Rzeczownik męski, Amfibijny - Przymiotnik. (Anfíbio. - Przymiotnik, Rzeczownik męski)
+ - Wczoraj (ja) widziałem / widziałam płaza nad rzeką. Ontem (eu) vi um anfíbio perto do rio.
+ - On / Ona kiedyś badał / badała życie płazów, a on / ona również się tym interesował / interesowała. Ele / Ela costumava pesquisar a vida dos anfíbios, e ele / ela também se interessava por isso.
+ - (My) będziemy obserwować amfibijne pojazdy na pokazie wojskowym. (Nós) vamos observar veículos anfíbios na demonstração militar.
+ - (Czy) (wy) teraz widzicie tego płaza w ogrodzie zoologicznym? Vocês estão vendo esse anfíbio no zoológico agora?
+ - Oni / One znaleźli / znalazły rzadkiego płaza w lesie, a oni / one zrobiły mu zdjęcia. Eles / Elas encontraram um anfíbio raro na floresta, e eles / elas tiraram fotos dele.
 
 - [] Dzień 656 - 
 
