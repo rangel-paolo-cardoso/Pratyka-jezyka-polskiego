@@ -3526,7 +3526,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) teraz widzicie tego płaza w ogrodzie zoologicznym? Vocês estão vendo esse anfíbio no zoológico agora?
  - Oni / One znaleźli / znalazły rzadkiego płaza w lesie, a oni / one zrobiły mu zdjęcia. Eles / Elas encontraram um anfíbio raro na floresta, e eles / elas tiraram fotos dele.
 
-- [] Dzień 656 - 
+- [x] Dzień 656 - Amfiteatr. (Anfiteatro. - Rzeczowniki męskie)
+ - (Ja) odwiedziłem / odwiedziłam amfiteatr w Rzymie. (Eu) visitei o anfiteatro em Roma.
+ - On / Ona teraz fotografuje amfiteatr podczas wakacji. Ele / Ela agora fotografa o anfiteatro durante as férias.
+ - (My) będziemy oglądać koncert w amfiteatrze jutro. (Nós) assistiremos a um show no anfiteatro amanhã.
+ - (Czy) (wy) już kiedyś byliście / byłyście w amfiteatrze? Vocês já estiveram alguma vez no anfiteatro?
+ - Oni / One odnaleźli / odnalazły stary amfiteatr w lesie. Eles / Elas encontraram um antigo anfiteatro na floresta.
 
 - [] Dzień 657 - 
 
