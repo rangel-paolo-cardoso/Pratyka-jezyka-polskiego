@@ -3533,7 +3533,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (wy) już kiedyś byliście / byłyście w amfiteatrze? Vocês já estiveram alguma vez no anfiteatro?
  - Oni / One odnaleźli / odnalazły stary amfiteatr w lesie. Eles / Elas encontraram um antigo anfiteatro na floresta.
 
-- [] Dzień 657 - 
+- [x] Dzień 657 - Gospodarz / Gospodyni. (Anfitrião / Anfitriã. - Rzeczowniki)
+ - (Ja) byłem / byłam gospodarzem / gospodynią wczorajszego spotkania. (Eu) fui o / a anfitrião / anfitriã da reunião de ontem.
+ - On / Ona jest teraz doskonałym / doskonałą gospodarzem / gospodynią tego przyjęcia. Ele / Ela é agora o / a excelente anfitrião / anfitriã desta festa.
+ - (Ty) będziesz gospodarzem / gospodynią konferencji w przyszłym tygodniu. Você será o / a anfitrião / anfitriã da conferência na próxima semana.
+ - (Wy) byliście / byłyście gospodarzami / gospodyniami uroczystości rodzinnej. Vocês foram os / as anfitriões / anfitriãs da celebração familiar.
+ - (My) będziemy gospodarzami / gospodyniami, kiedy przyjadą nasi goście. (Nós) seremos os / as anfitriões / anfitriãs quando os nossos convidados chegarem.
 
 - [] Dzień 658 - 
 
