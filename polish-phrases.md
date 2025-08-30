@@ -3540,7 +3540,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) byliście / byłyście gospodarzami / gospodyniami uroczystości rodzinnej. Vocês foram os / as anfitriões / anfitriãs da celebração familiar.
  - (My) będziemy gospodarzami / gospodyniami, kiedy przyjadą nasi goście. (Nós) seremos os / as anfitriões / anfitriãs quando os nossos convidados chegarem.
 
-- [] Dzień 658 - 
+- [x] Dzień 658 - Okrytonasienna - Przymiotnik, Roślina okrytonasienna - Rzeczownik żeński + Przymiotnik. (Angiosperma. - Rzeczownik żeński)
+ - (Ja) wczoraj widziałem / widziałam piękną roślinę okrytonasienną w ogrodzie. Ontem (eu) vi uma linda angiosperma no jardim.
+ - On / Ona teraz bada właściwości okrytonasiennej rośliny. Ele / Ela agora estuda as propriedades de uma angiosperma.
+ - (Ty) jutro posadzisz okrytonasienną w swojej szklarni. Você amanhã plantará uma angiosperma na sua estufa.
+ - (My) byliśmy / byłyśmy zachwyceni / zachwycone, kiedy zobaczyliśmy / zobaczyłyśmy tyle roślin okrytonasiennych w lesie. (Nós) ficamos maravilhados / maravilhadas quando vimos tantas angiospermas na floresta.
+ - Oni / One będą opiekować się każdą okrytonasienną, którą posadzimy w tym roku. Eles / Elas cuidarão de cada angiosperma que plantarmos este ano.
 
 - [] Dzień 659 - 
 
