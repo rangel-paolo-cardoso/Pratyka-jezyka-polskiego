@@ -3547,7 +3547,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zachwyceni / zachwycone, kiedy zobaczyliśmy / zobaczyłyśmy tyle roślin okrytonasiennych w lesie. (Nós) ficamos maravilhados / maravilhadas quando vimos tantas angiospermas na floresta.
  - Oni / One będą opiekować się każdą okrytonasienną, którą posadzimy w tym roku. Eles / Elas cuidarão de cada angiosperma que plantarmos este ano.
 
-- [] Dzień 659 - 
+- [x] Dzień 659 - Angolczyk / Angolka - Rzeczowniki, Angolski / Angolska - Przymiotniki. (Angolano / Angolana. - Rzeczowniki, Przymiotniki)
+ - (Ja) kiedyś spotkałem / spotkałam Angolczyka / Angolkę na uniwersytecie. (Eu) encontrei um / uma angolano / angolana na universidade uma vez.
+ - On / Ona jest Angolczykiem / Angolką i teraz mieszka w Warszawie. Ele / Ela é angolano / angolana e agora mora em Varsóvia.
+ - (Ty) jutro porozmawiasz z angolskim / angolską studentem / studentką o kulturze. Você amanhã conversará com um / uma estudante angolano / angolana sobre cultura.
+ - (My) byliśmy / byłyśmy zachwyceni / zachwycone, kiedy poznaliśmy / poznałyśmy angolskiego / angolską artystę / artystkę. (Nós) ficamos encantados / encantadas quando conhecemos um / uma artista angolano / angolana.
+ - Oni / One będą współpracować z Angolczykami / Angolkami przy tym projekcie. Eles / Elas irão colaborar com angolanos / angolanas neste projeto.
 
 - [] Dzień 660 - 
 
