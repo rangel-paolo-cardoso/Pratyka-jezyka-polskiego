@@ -3554,7 +3554,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zachwyceni / zachwycone, kiedy poznaliśmy / poznałyśmy angolskiego / angolską artystę / artystkę. (Nós) ficamos encantados / encantadas quando conhecemos um / uma artista angolano / angolana.
  - Oni / One będą współpracować z Angolczykami / Angolkami przy tym projekcie. Eles / Elas irão colaborar com angolanos / angolanas neste projeto.
 
-- [] Dzień 660 - 
+- [x] Dzień 660 - Kąt. (Ângulo. - Rzeczowniki męskie)
+ - (Ja) wczoraj obliczałem / obliczałam kąt w trójkącie. (Eu) ontem calculei o ângulo no triângulo.
+ - On / Ona teraz patrzy na kąt między dwiema ścianami. Ele / Ela agora olha para o ângulo entre duas paredes.
+ - (Ty) jutro zmierzysz kąt prosty w klasie. Você amanhã medirá o ângulo reto na sala de aula.
+ - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone, gdy kąt okazał się większy, niż oczekiwaliśmy / oczekiwałyśmy. (Nós) estávamos surpresos / surpresas quando o ângulo se mostrou maior do que esperávamos.
+ - (Wy) zobaczycie w przyszłości, że ten kąt jest kluczowy w architekturze. Vocês verão no futuro que esse ângulo é fundamental na arquitetura.
 
 - [] Dzień 661 - 
 
