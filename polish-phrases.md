@@ -3561,7 +3561,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone, gdy kąt okazał się większy, niż oczekiwaliśmy / oczekiwałyśmy. (Nós) estávamos surpresos / surpresas quando o ângulo se mostrou maior do que esperávamos.
  - (Wy) zobaczycie w przyszłości, że ten kąt jest kluczowy w architekturze. Vocês verão no futuro que esse ângulo é fundamental na arquitetura.
 
-- [] Dzień 661 - 
+- [x] Dzień 661 - Zwierzę - Rzeczownik nijaki, Zwierzak - Rzeczownik męski, Zwierzęcy - Przymiotnik. (Animal. - Rzeczownik męski, Przymiotnik)
+ - (Ja) wczoraj widziałem / widziałam zwierzę na polu. (Eu) ontem vi um animal no campo.
+ - On / Ona teraz czyta książkę o zwierzęcych instynktach. Ele / Ela agora está lendo um livro sobre instintos animais.
+ - (Ty) jutro spotkasz dzikiego zwierzaka w lesie. Você  amanhã encontrará um bicho selvagem na floresta.
+ - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone, gdy zwierzę podeszło tak blisko. (Nós) ficamos surpresos / surpresas quando o animal chegou tão perto.
+ - Oni / One będą badać zwierzęta na uniwersytecie. Eles / Elas estudarão os animais na universidade.
 
 - [] Dzień 662 - 
 
