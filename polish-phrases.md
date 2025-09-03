@@ -3568,7 +3568,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zaskoczeni / zaskoczone, gdy zwierzę podeszło tak blisko. (Nós) ficamos surpresos / surpresas quando o animal chegou tão perto.
  - Oni / One będą badać zwierzęta na uniwersytecie. Eles / Elas estudarão os animais na universidade.
 
-- [] Dzień 662 - 
+- [x] Dzień 662 - Solenizant / Solenizantka - Rzeczowniki, Urodzinowy / Urodzinowa - Przymiotniki. (Aniversariante. - Rzeczownik, Przymiotnik)
+ - Wczoraj (ja) spotkałem / spotkałam solenizanta / solenizantkę, a on / ona rozmawiał / rozmawiała z solenizantem / solenizantką. Ontem (eu) encontrei o / a aniversariante, e ele / ela conversava com o / a aniversariante.
+ - (Ty) dzisiaj jesteś solenizantem, a ona jest solenizantką. Você hoje é o aniversariante, e ela é a aniversariante.
+ - Jutro (my) będziemy świętować z solenizantem i z solenizantką. Amanhã (nós) vamos comemorar com o e com a aniversariante.
+ - Oni dali solenizantowi prezent, a one dały solenizantce kwiaty. Eles deram um presente ao aniversariante, e elas deram flores à aniversariante.
+ - (Ja) byłem urodzinowym gościem, a ty byłaś urodzinową gościnią obok solenizanta. (Eu) fui um convidado de aniversário, e você foi uma convidada de aniversário ao lado do aniversariante.
 
 - [] Dzień 663 - 
 
