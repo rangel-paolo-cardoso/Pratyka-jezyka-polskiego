@@ -3575,7 +3575,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni dali solenizantowi prezent, a one dały solenizantce kwiaty. Eles deram um presente ao aniversariante, e elas deram flores à aniversariante.
  - (Ja) byłem urodzinowym gościem, a ty byłaś urodzinową gościnią obok solenizanta. (Eu) fui um convidado de aniversário, e você foi uma convidada de aniversário ao lado do aniversariante.
 
-- [] Dzień 663 - 
+- [x] Dzień 663 - Urodziny - Pluralia tantum. (Aniversário. - Rzeczownik męski)
+ - Wczoraj (ja) obchodziłem / obchodziłam swoje urodziny. Ontem (eu) comemorei meu aniversário.
+ - On / Ona jutro będzie świętował / świętowała urodziny. Ele / Ela vai comemorar o aniversário amanhã.
+ - (Ty) dzisiaj masz urodziny, więc wszyscy ci składają życzenia. Você hoje faz aniversário, então todos lhe desejam felicidades.
+ - (My) w zeszłym roku obchodziliśmy / obchodziłyśmy jego / jej urodziny w restauracji. (Nós) no ano passado comemoramos o aniversário dele / dela em um restaurante.
+ - Oni / One pamiętali / pamiętały o moich urodzinach i dali / dały mi prezent. Eles / Elas se lembraram do meu aniversário e me deram um presente.
 
 - [] Dzień 664 - 
 
