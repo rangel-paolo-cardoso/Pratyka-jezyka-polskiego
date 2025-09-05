@@ -3582,7 +3582,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) w zeszłym roku obchodziliśmy / obchodziłyśmy jego / jej urodziny w restauracji. (Nós) no ano passado comemoramos o aniversário dele / dela em um restaurante.
  - Oni / One pamiętali / pamiętały o moich urodzinach i dali / dały mi prezent. Eles / Elas se lembraram do meu aniversário e me deram um presente.
 
-- [] Dzień 664 - 
+- [x] Dzień 664 - Anioł. (Anjo. - Rzeczowniki męskie)
+ - Wczoraj (ja) widziałem / widziałam anioła we śnie. Ontem (eu) vi um anjo em meu sonho.
+ - On / Ona zawsze wierzył / wierzyła, że anioł go / ją chroni. Ele / Ela sempre acreditou que um anjo o / a protege (ele / ela).
+ - (Ty) jutro zobaczysz anioła w kościele. Você amanhã verá um anjo na igreja.
+ - (My) spotkaliśmy / spotkałyśmy anioła, kiedy potrzebowaliśmy / potrzebowałyśmy pomocy. (Nós) encontramos um anjo quando precisávamos de ajuda.
+ - Oni / One powiedzieli / powiedziały, że anioł ich uratował. Eles / Elas disseram que um anjo os / as salvou (eles / elas).
 
 - [] Dzień 665 - 
 
