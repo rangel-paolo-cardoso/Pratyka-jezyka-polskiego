@@ -3589,7 +3589,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) spotkaliśmy / spotkałyśmy anioła, kiedy potrzebowaliśmy / potrzebowałyśmy pomocy. (Nós) encontramos um anjo quando precisávamos de ajuda.
  - Oni / One powiedzieli / powiedziały, że anioł ich uratował. Eles / Elas disseram que um anjo os / as salvou (eles / elas).
 
-- [] Dzień 665 - 
+- [x] Dzień 665 - Zmierzchać. (Anoitecer. - Czasowniki)
+ - Wczoraj, kiedy (ja) wracałem / wracałam do domu, szybko zmierzchło. Ontem, quando eu voltava para casa, anoiteceu rapidamente.
+ - On / Ona zauważył / zauważyła, że zaczyna zmierzchać, gdy jeszcze pracował / pracowała w ogrodzie. Ele / Ela percebeu que começava a anoitecer quando ainda trabalhava no jardim.
+ - (Ty) jutro wrócisz późno i zobaczysz, że już zmierzchło. Você amanhã voltará tarde e verá que já anoiteceu.
+ - (My) rozmawialiśmy / rozmawiałyśmy, kiedy nagle zmierzchło nad jeziorem. (Nós) estávamos conversando quando de repente anoiteceu sobre o lago.
+ - Oni / One mówili / mówiły, że zawsze boją się, gdy szybko zmierzcha. Eles / Elas diziam que sempre têm medo quando anoitece rápido.
 
 - [] Dzień 666 - 
 
