@@ -3596,7 +3596,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) rozmawialiśmy / rozmawiałyśmy, kiedy nagle zmierzchło nad jeziorem. (Nós) estávamos conversando quando de repente anoiteceu sobre o lago.
  - Oni / One mówili / mówiły, że zawsze boją się, gdy szybko zmierzcha. Eles / Elas diziam que sempre têm medo quando anoitece rápido.
 
-- [] Dzień 666 - 
+- [x] Dzień 666 - Rok świetlny - Rzeczownik męski + Przymiotnik. (Ano-luz. - Rzeczownik męski)
+ - Wczoraj (ja) powiedziałem / powiedziałam, że gwiazda jest oddalona o tysiąc lat świetlnych. Ontem eu disse que a estrela estava a mil anos-luz de distância.
+ - On / Ona zawsze wiedział / wiedziała, że galaktyka znajduje się milion lat świetlnych od Ziemi. Ele / Ela sempre soube que a galáxia fica a um milhão de anos-luz da Terra.
+ - (Ty) jutro powiesz swoim kolegom / koleżankom, że nowa planeta jest kilka lat świetlnych stąd. Você amanhã dirá aos / às seus / suas colegas que o novo planeta está a alguns anos-luz daqui.
+ - (My) byliśmy / byłyśmy zdziwieni / zdziwione, gdy naukowcy ogłosili, że odkryli gwiazdę oddaloną o miliard lat świetlnych. (Nós) ficamos surpresos / surpresas quando os cientistas anunciaram que descobriram uma estrela a um bilhão de anos-luz de distância.
+ - Oni / One powiedzieli / powiedziały, że podróż międzygalaktyczna zajmie tysiące lat świetlnych. Eles / Elas disseram que a viagem intergaláctica levará milhares de anos-luz.
 
 - [] Dzień 667 - 
 
