@@ -3603,7 +3603,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zdziwieni / zdziwione, gdy naukowcy ogłosili, że odkryli gwiazdę oddaloną o miliard lat świetlnych. (Nós) ficamos surpresos / surpresas quando os cientistas anunciaram que descobriram uma estrela a um bilhão de anos-luz de distância.
  - Oni / One powiedzieli / powiedziały, że podróż międzygalaktyczna zajmie tysiące lat świetlnych. Eles / Elas disseram que a viagem intergaláctica levará milhares de anos-luz.
 
-- [] Dzień 667 - 
+- [x] Dzień 667 - Anonimowy / Anonimowa - Przymiotniki, Anonim - Rzeczownik. (Anônimo / Anônima. - Przymiotniki, Rzeczowniki)
+ - Wczoraj (ja) otrzymałem / otrzymałam anonimowy list. Ontem (eu) recebi uma carta anônima.
+ - On / Ona był / była anonimowym / anonimową, którego / której nikt nie rozpoznał. Ele / Ela foi um / uma anônimo / anônima que ninguém reconheceu.
+ - (Ty) jutro napiszesz anonimowy komentarz w internecie. Você amanhã escreverá um comentário anônimo na internet.
+ - (My) byliśmy / byłyśmy anonimowymi w wielkim tłumie. (Nós) fomos anônimos / anônimas na grande multidão.
+ - Oni / One powiedzieli / powiedziały, że pozostaną anonimowi / anonimowe do końca. Eles / Elas disseram que permanecerão anônimos / anônimas até o fim.
 
 - [] Dzień 668 - 
 
