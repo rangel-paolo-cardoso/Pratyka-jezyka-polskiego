@@ -3610,7 +3610,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy anonimowymi w wielkim tłumie. (Nós) fomos anônimos / anônimas na grande multidão.
  - Oni / One powiedzieli / powiedziały, że pozostaną anonimowi / anonimowe do końca. Eles / Elas disseram que permanecerão anônimos / anônimas até o fim.
 
-- [] Dzień 668 - 
+- [x] Dzień 668 - Anoreksja. (Anorexia. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) dowiedziałem / dowiedziałam się, że on / ona cierpi na anoreksję. Ontem eu soube que ele / ela sofre de anorexia.
+ - On / Ona powiedział / powiedziała, że w młodości pokonał / pokonała anoreksję. Ele / Ela disse que na juventude superou a anorexia.
+ - (Ja) będę mówił / mówiła o problemie anoreksji na spotkaniu. (Eu) falarei sobre o problema da anorexia na reunião.
+ - (My) byliśmy / byłyśmy zszokowani / zszokowane, gdy usłyszeliśmy / usłyszałyśmy o jego / jej anoreksji. (Nós) ficamos chocados / chocadas quando soubemos da anorexia dele / dela.
+ - Oni / One mówili / mówiły, że anoreksja może zniszczyć życie. Eles / Elas disseram que a anorexia pode destruir a vida.
 
 - [] Dzień 669 - 
 
