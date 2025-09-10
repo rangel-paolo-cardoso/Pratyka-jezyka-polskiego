@@ -3617,7 +3617,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zszokowani / zszokowane, gdy usłyszeliśmy / usłyszałyśmy o jego / jej anoreksji. (Nós) ficamos chocados / chocadas quando soubemos da anorexia dele / dela.
  - Oni / One mówili / mówiły, że anoreksja może zniszczyć życie. Eles / Elas disseram que a anorexia pode destruir a vida.
 
-- [] Dzień 669 - 
+- [x] Dzień 669 - Nienormalny / Nienormalna. (Anormal. - Rzeczowniki, Przymiotniki)
+ - Wczoraj on / ona zachowywał / zachowywała się nienormalnie i wszyscy / wszystkie to zauważyli / zauważyły. Ontem ele / ela se comportou de forma anormal e todos / todas perceberam.
+ - (Ja) zawsze uważałem / uważałam, że on / ona jest nienormalny / nienormalna. (Eu) sempre achei que ele / ela é anormal.
+ - (My) byliśmy / byłyśmy pewni / pewne, że jego / jej reakcja była nienormalna. (Nós) estávamos certos / certas de que a reação dele / dela foi anormal.
+ - Oni / One powiedzieli / powiedziały, że nienormalny / nienormalna mężczyzna / kobieta nie zrozumie tej sytuacji. Eles / Elas disseram que um / uma homem / mulher anormal não entenderá essa situação.
+ - (Ty) jutro zobaczysz, że on / ona jest całkiem nienormalny / nienormalna. Você verá amanhã que ele / ela é totalmente anormal.
 
 - [] Dzień 670 - 
 
