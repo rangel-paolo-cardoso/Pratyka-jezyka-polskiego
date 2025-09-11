@@ -3624,7 +3624,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One powiedzieli / powiedziały, że nienormalny / nienormalna mężczyzna / kobieta nie zrozumie tej sytuacji. Eles / Elas disseram que um / uma homem / mulher anormal não entenderá essa situação.
  - (Ty) jutro zobaczysz, że on / ona jest całkiem nienormalny / nienormalna. Você verá amanhã que ele / ela é totalmente anormal.
 
-- [] Dzień 670 - 
+- [x] Dzień 670 - Zanotować / Notować. (Anotar. - Czasowniki)
+ - (Ja) zanotowałem / zanotowałam ważne informacje na kartce. (Eu) anotei informações importantes no papel.
+ - On / Ona notuje wszystkie szczegóły spotkania. Ele / Ela está anotando todos os detalhes da reunião.
+ - (Ty) zanotujesz adres, żeby go nie zapomnieć. Você vai anotar o endereço para não esquecê-lo (esquecer ele).
+ - (My) zanotowaliśmy / zanotowałyśmy wszystkie uwagi nauczyciela / nauczycielki. (Nós) anotamos todas as observações do / da professor / professora.
+ - Oni / One zanotowali / zanotowały datę egzaminu w kalendarzu. Eles / Elas anotaram a data do exame no calendário.
 
 - [] Dzień 671 - 
 
