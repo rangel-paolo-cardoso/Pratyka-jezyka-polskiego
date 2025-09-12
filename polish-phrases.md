@@ -3631,7 +3631,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zanotowaliśmy / zanotowałyśmy wszystkie uwagi nauczyciela / nauczycielki. (Nós) anotamos todas as observações do / da professor / professora.
  - Oni / One zanotowali / zanotowały datę egzaminu w kalendarzu. Eles / Elas anotaram a data do exame no calendário.
 
-- [] Dzień 671 - 
+- [x] Dzień 671 - Niepokój, Lęk - Rzeczowniki męskie, Trwoga - Rzeczownik żeński. (Ansiedade. - Rzeczownik żeński)
+ - (Ja) czułem / czułam wielki niepokój przed egzaminem. Eu sentia uma grande ansiedade antes do exame.
+ - On / Ona miał / miała lęk, kiedy musiał / musiała przemawiać publicznie. Ele / Ela teve ansiedade quando precisou falar em público.
+ - (Ty) odczuwasz niepokój każdego dnia w pracy. Você sente ansiedade todos os dias no trabalho.
+ - (My) będziemy mieli / miały trwogę, jeśli sytuacja się pogorszy. (Nós) teremos ansiedade se a situação piorar.
+ - Oni / One odczuwali / odczuwały lęk w czasie wojny. Eles / Elas sentiam ansiedade durante a guerra.
 
 - [] Dzień 672 - 
 
