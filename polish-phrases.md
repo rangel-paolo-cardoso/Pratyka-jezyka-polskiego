@@ -3638,7 +3638,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy mieli / miały trwogę, jeśli sytuacja się pogorszy. (Nós) teremos ansiedade se a situação piorar.
  - Oni / One odczuwali / odczuwały lęk w czasie wojny. Eles / Elas sentiam ansiedade durante a guerra.
 
-- [] Dzień 672 - 
+- [x] Dzień 672 - Tapir - Rzeczownik męski / Tapirka - Rzeczownik żeński. (Anta. - Rzeczownik żeński)
+ - (Ja) widziałem / widziałam tapira / tapirkę w zoo w zeszłym roku. (Eu) vi uma anta no zoológico no ano passado.
+ - On / Ona opiekował / opiekowała się tapirem / tapirką w rezerwacie. Ele / Ela cuidava de uma anta na reserva.
+ - (Ty) zobaczysz tapira / tapirkę podczas swojej podróży do Ameryki Południowej. Você verá uma anta durante sua viagem à América do Sul.
+ - (My) spotkaliśmy / spotkałyśmy tapira / tapirkę na ścieżce w dżungli. (Nós) encontramos uma anta no caminho da selva.
+ - Oni / One fotografowali / fotografowały tapira / tapirkę przez wiele godzin. Eles / Elas fotografaram uma anta por muitas horas.
 
 - [] Dzień 673 - 
 
