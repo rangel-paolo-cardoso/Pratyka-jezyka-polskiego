@@ -3645,7 +3645,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) spotkaliśmy / spotkałyśmy tapira / tapirkę na ścieżce w dżungli. (Nós) encontramos uma anta no caminho da selva.
  - Oni / One fotografowali / fotografowały tapira / tapirkę przez wiele godzin. Eles / Elas fotografaram uma anta por muitas horas.
 
-- [] Dzień 673 - 
+- [x] Dzień 673 - Przedramię - Rzeczownik nijaki. (Antebraço. - Rzeczownik męski)
+ - (Ja) uderzyłem / uderzyłam się w przedramię podczas pracy. (Eu) bati meu antebraço durante o trabalho.
+ - On / Ona narysował / narysowała tatuaż na swoim przedramieniu. Ele / Ela desenhou uma tatuagem em seu antebraço.
+ - (Ty) będziesz czuł / czuła ból w przedramieniu po ćwiczeniach. Você sentirá dor no antebraço após os exercícios.
+ - (My) zauważyliśmy / zauważyłyśmy siniak na jego / jej przedramieniu. (Nós) percebemos uma mancha roxa no antebraço dele / dela.
+ - Oni / One zranili / zraniły przedramię podczas wspinaczki. Eles / Elas machucaram o antebraço durante a escalada.
 
 - [] Dzień 674 - 
 
