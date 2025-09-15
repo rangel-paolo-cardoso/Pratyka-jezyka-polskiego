@@ -3652,7 +3652,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zauważyliśmy / zauważyłyśmy siniak na jego / jej przedramieniu. (Nós) percebemos uma mancha roxa no antebraço dele / dela.
  - Oni / One zranili / zraniły przedramię podczas wspinaczki. Eles / Elas machucaram o antebraço durante a escalada.
 
-- [] Dzień 674 - 
+- [x] Dzień 674 - Antena. (Antena. - Rzeczowniki żeńskie)
+ - (Ja) naprawiłem / naprawiłam antenę na dachu domu. (Eu) consertei a antena no telhado da casa.
+ - On / Ona ustawił / ustawiła antenę, żeby odbierać lepszy sygnał. Ele / Ela ajustou a antena para receber um sinal melhor.
+ - (Ty) zobaczysz nową antenę na naszym balkonie jutro. Você verá a nova antena na nossa varanda amanhã.
+ - (My) zamontowaliśmy / zamontowałyśmy antenę w ogrodzie. (Nós) instalamos a antena no jardim.
+ - Oni / One zauważyli / zauważyły starą antenę na ścianie budynku. Eles / Elas notaram a antena antiga na parede do prédio.
 
 - [] Dzień 675 - 
 
