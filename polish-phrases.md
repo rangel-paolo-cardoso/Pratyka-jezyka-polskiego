@@ -3659,7 +3659,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zamontowaliśmy / zamontowałyśmy antenę w ogrodzie. (Nós) instalamos a antena no jardim.
  - Oni / One zauważyli / zauważyły starą antenę na ścianie budynku. Eles / Elas notaram a antena antiga na parede do prédio.
 
-- [] Dzień 675 - 
+- [x] Dzień 675 - Wcześniej, Uprzednio. (Antes. - Przysłówki)
+ - (Ja) wcześniej skończyłem / skończyłam zadanie niż on / ona. (Eu) terminei a tarefa antes dele / dela.
+ - On / Ona wcześniej wróci do domu niż jego / jej brat / siostra. Ele / Ela voltará para casa antes (que o / a) do / da irmão / irmã dele / dela.
+ - (Ty) wcześniej zauważyłeś / zauważyłaś błąd niż nauczyciel / nauczycielka. Você percebeu o erro antes do / da professor / professora.
+ - (My) wcześniej widzieliśmy / widziałyśmy ten film niż oni / one. (Nós) assistimos a esse filme antes deles / delas.
+ - Oni / One wcześniej zrozumieli / zrozumiały problem, niż się spodziewaliśmy / spodziewałyśmy. Eles / Elas entenderam o problema antes do que esperávamos.
 
 - [] Dzień 676 - 
 
