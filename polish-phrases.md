@@ -3666,7 +3666,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wcześniej widzieliśmy / widziałyśmy ten film niż oni / one. (Nós) assistimos a esse filme antes deles / delas.
  - Oni / One wcześniej zrozumieli / zrozumiały problem, niż się spodziewaliśmy / spodziewałyśmy. Eles / Elas entenderam o problema antes do que esperávamos.
 
-- [] Dzień 676 - 
+- [x] Dzień 676 - Przeciwciało (liczba pojedyncza), Przeciwciała (liczba mnoga) - Rzeczownik nijaki. (Anticorpo, Anticorpos. - Rzeczownik męski)
+ - Wczoraj (ja) wytworzyłem / wytworzyłam silne przeciwciało po szczepieniu. Ontem (eu) produzi um anticorpo forte após a vacinação.
+ - On / Ona teraz bada przeciwciało w laboratorium. Ele / Ela está examinando o anticorpo no laboratório agora.
+ - (Ty) jutro odkryjesz nowe przeciwciało w organizmie. Você descobrirá amanhã um novo anticorpo no organismo.
+ - (My) znaleźliśmy / znalazłyśmy rzadkie przeciwciało w badaniach. (Nós) encontramos um anticorpo raro nas pesquisas.
+ - Oni / One wyprodukują przeciwciała szybciej, niż się spodziewaliśmy / spodziewałyśmy. Eles / Elas produzirão anticorpos mais rápido do que nós esperávamos.
 
 - [] Dzień 677 - 
 
