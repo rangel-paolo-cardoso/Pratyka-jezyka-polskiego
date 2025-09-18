@@ -3673,7 +3673,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) znaleźliśmy / znalazłyśmy rzadkie przeciwciało w badaniach. (Nós) encontramos um anticorpo raro nas pesquisas.
  - Oni / One wyprodukują przeciwciała szybciej, niż się spodziewaliśmy / spodziewałyśmy. Eles / Elas produzirão anticorpos mais rápido do que nós esperávamos.
 
-- [] Dzień 677 - 
+- [x] Dzień 677 - Antidotum - Rzeczownik nijaki. (Antídoto. - Rzeczownik męski)
+ - Wczoraj (ja) znalazłem / znalazłam antidotum na truciznę. Ontem eu encontrei um antídoto para o veneno.
+ - On / Ona teraz podaje antidotum pacjentowi / pacjentce. Ele / Ela está administrando o antídoto ao / à paciente agora.
+ - (Ty) jutro przygotujesz antidotum w laboratorium. Você preparará o antídoto no laboratório amanhã.
+ - (My) odkryliśmy / odkryłyśmy nowe antidotum w badaniach. (Nós) descobrimos um novo antídoto nas pesquisas.
+ - Oni / One wynajdą skuteczne antidotum szybciej, niż się spodziewaliśmy / spodziewałyśmy. Eles / Elas inventarão um antídoto eficaz mais rápido do que esperávamos.
 
 - [] Dzień 678 - 
 
