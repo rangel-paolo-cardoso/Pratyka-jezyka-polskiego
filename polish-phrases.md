@@ -3680,7 +3680,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) odkryliśmy / odkryłyśmy nowe antidotum w badaniach. (Nós) descobrimos um novo antídoto nas pesquisas.
  - Oni / One wynajdą skuteczne antidotum szybciej, niż się spodziewaliśmy / spodziewałyśmy. Eles / Elas inventarão um antídoto eficaz mais rápido do que esperávamos.
 
-- [] Dzień 678 - 
+- [x] Dzień 678 - Starożytność - Rzeczownik żeński, Antyk - Rzeczownik męski, Dawność - Rzeczownik żeński. (. - Rzeczownik żeński)
+ - (Ja) zawsze podziwiałem / podziwiałam starożytność i jej tajemnice. (Eu) sempre admirei a antiguidade e os seus mistérios.
+ - (Wy) odnajdziecie w tym muzeum wiele antyków, które świadczą o dawnej kulturze. Vocês encontrarão neste museu muitas antiguidades que testemunham uma cultura antiga.
+ - On / Ona wczoraj opowiadał / opowiadała mi o starożytności Egiptu. Ele / Ela ontem me contou sobre a antiguidade do Egito.
+ - (My) już wiele razy badaliśmy / badałyśmy dawność tych tradycji. (Nós) já pesquisamos muitas vezes a antiguidade dessas tradições.
+ - Oni / One w przyszłości docenią antyki odziedziczone po przodkach. Eles / Elas no futuro valorizarão as antiguidades herdadas dos antepassados.
 
 - [] Dzień 679 - 
 
