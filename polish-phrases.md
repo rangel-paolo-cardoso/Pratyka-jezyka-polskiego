@@ -3687,7 +3687,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) już wiele razy badaliśmy / badałyśmy dawność tych tradycji. (Nós) já pesquisamos muitas vezes a antiguidade dessas tradições.
  - Oni / One w przyszłości docenią antyki odziedziczone po przodkach. Eles / Elas no futuro valorizarão as antiguidades herdadas dos antepassados.
 
-- [] Dzień 679 - 
+- [x] Dzień 679 - Antylopa - Rzeczownik żeński. (Antílope. - Rzeczownik męski)
+ - (Ja) w dzieciństwie widziałem / widziałam antylopę na sawannie. (Eu) na infância vi um antílope na savana.
+ - On / Ona codziennie obserwuje antylopę w zoo. Ele / Ela observa todos os dias um antílope no zoológico.
+ - (Ty) jutro zobaczysz szybko biegającą antylopę. Você verá amanhã um antílope correndo rápido.
+ - (My) już kiedyś badaliśmy / badałyśmy zachowanie antylop. (Nós) já estudamos certa vez o comportamento dos antílopes.
+ - Oni / One w przyszłości ochronią antylopę przed wyginięciem. Eles / Elas no futuro protegerão o antílope da extinção.
 
 - [] Dzień 680 - 
 
