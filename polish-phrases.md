@@ -3694,7 +3694,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) już kiedyś badaliśmy / badałyśmy zachowanie antylop. (Nós) já estudamos certa vez o comportamento dos antílopes.
  - Oni / One w przyszłości ochronią antylopę przed wyginięciem. Eles / Elas no futuro protegerão o antílope da extinção.
 
-- [] Dzień 680 - 
+- [x] Dzień 680 - Roczny / Roczna / Roczne. (Anual. - Przymiotniki)
+ - (Ja) dostałem / dostałam roczny bilet na pociąg. (Eu) recebi um bilhete anual de trem.
+ - On / Ona kupił / kupiła roczny karnet na siłownię. Ele / Ela comprou um passe anual para a academia.
+ - (Ty) będziesz miał / miała roczny plan zajęć w szkole. Você terá um plano anual de aulas na escola.
+ - (My) przygotowaliśmy / przygotowałyśmy roczny raport finansowy. (Nós) preparamos um relatório anual financeiro.
+ - Oni / One zawsze przygotowują roczną wystawę sztuki. Eles / Elas sempre preparam uma exposição anual de arte.
 
 - [] Dzień 681 - 
 
