@@ -3701,7 +3701,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przygotowaliśmy / przygotowałyśmy roczny raport finansowy. (Nós) preparamos um relatório anual financeiro.
  - Oni / One zawsze przygotowują roczną wystawę sztuki. Eles / Elas sempre preparam uma exposição anual de arte.
 
-- [] Dzień 681 - 
+- [x] Dzień 681 - Roczna opłata, Roczna składka, Roczność - Przymiotnik + Rzeczownik żeński. (Anuidade. - Rzeczownik żeński)
+ - (Ja) zapłaciłem / zapłaciłam roczną opłatę za kartę sportową. (Eu) paguei a anuidade do cartão esportivo.
+ - On / Ona wczoraj uiścił / uiściła roczną opłatę za mieszkanie. Ele / Ela ontem quitou a anuidade do apartamento.
+ - (Ty) jutro zapłacisz roczną opłatę za dostęp online. Você amanhã pagará a anuidade do acesso online.
+ - (My) zawsze dzieliliśmy / dzieliłyśmy się roczną opłatą po równo. (Nós) sempre dividíamos a anuidade igualmente.
+ - Oni / One już uregulowali / uregulowały roczną opłatę za studia. Eles / Elas já regularizaram a anuidade da faculdade.
 
 - [] Dzień 682 - 
 
