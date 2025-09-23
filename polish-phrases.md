@@ -3708,7 +3708,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze dzieliliśmy / dzieliłyśmy się roczną opłatą po równo. (Nós) sempre dividíamos a anuidade igualmente.
  - Oni / One już uregulowali / uregulowały roczną opłatę za studia. Eles / Elas já regularizaram a anuidade da faculdade.
 
-- [] Dzień 682 - 
+- [x] Dzień 682 - Unieważnić, Anulować. (Anular. - Czasowniki)
+ - (Ja) wczoraj anulowałem / anulowałam rezerwację hotelową. Eu ontem anulei a reserva do hotel.
+ - On / Ona unieważnił / unieważniła kontrakt, bo znalazł / znalazła błąd. Ele / Ela anulou o contrato porque encontrou um erro.
+ - (Ty) jutro anulujesz zamówienie online. Você amanhã vai anular o pedido online.
+ - (My) właśnie anulowaliśmy / anulowałyśmy nasze bilety lotnicze. (Nós) acabamos de anular nossas passagens aéreas.
+ - Oni / One unieważnią wybory, jeśli pojawią się dowody oszustwa. Eles / Elas anularão as eleições se aparecerem provas de fraude.
 
 - [] Dzień 683 - 
 
