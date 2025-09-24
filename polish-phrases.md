@@ -3715,7 +3715,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) właśnie anulowaliśmy / anulowałyśmy nasze bilety lotnicze. (Nós) acabamos de anular nossas passagens aéreas.
  - Oni / One unieważnią wybory, jeśli pojawią się dowody oszustwa. Eles / Elas anularão as eleições se aparecerem provas de fraude.
 
-- [] Dzień 683 - 
+- [x] Dzień 683 - Ogłosić. (Anunciar. - Czasownik)
+ - Oni / One ogłosili / ogłosiły zwycięzcę konkursu w zeszłym tygodniu. Eles / Elas anunciaram o vencedor do concurso na semana passada.
+ - (Ty) jutro ogłosisz swoją decyzję przed całą klasą. Você amanhã anunciará sua decisão diante de toda a turma.
+ - (Ja) właśnie ogłosiłem / ogłosiłam ważną wiadomość współpracownikom. (Eu) acabei de anunciar uma notícia importante aos colegas de trabalho.
+ - On / Ona ogłosi dzisiaj swoje nowe stanowisko. Ele / Ela anunciará hoje seu novo cargo.
+ - (My) ogłaszaliśmy / ogłaszałyśmy tę decyzję wiele razy, ale nikt nie słuchał. (Nós) anunciamos essa decisão muitas vezes, mas ninguém ouviu.
 
 - [] Dzień 684 - 
 
