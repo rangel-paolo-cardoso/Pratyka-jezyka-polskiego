@@ -3722,7 +3722,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona ogłosi dzisiaj swoje nowe stanowisko. Ele / Ela anunciará hoje seu novo cargo.
  - (My) ogłaszaliśmy / ogłaszałyśmy tę decyzję wiele razy, ale nikt nie słuchał. (Nós) anunciamos essa decisão muitas vezes, mas ninguém ouviu.
 
-- [] Dzień 684 - 
+- [x] Dzień 684 - Hak, Haczy. (Anzol, Anzolzinho - Rzeczowniki męskie)
+ - (Ja) kupiłem / kupiłam nowy haczyk do łowienia ryb. (Eu) comprei um novo anzol (anzolzinho) para pescar.
+ - Oni / One jutro przyniosą swoje haki na wspólne wędkowanie. Eles / Elas amanhã trarão seus anzóis para a pescaria em grupo.
+ - (Ty) zawsze wybierasz najmocniejszy hak, gdy idziesz na ryby. Você sempre escolhe o anzol mais forte quando vai pescar.
+ - On / Ona zgubił / zgubiła swój haczyk nad rzeką w zeszłym miesiącu. Ele / Ela perdeu o seu anzol (anzolzinho) no rio no mês passado.
+ - (My) używaliśmy / używałyśmy starych haków, ale nadal udało nam się złowić ryby. (Nós) usávamos anzóis velhos, mas ainda assim conseguimos pegar peixes.
 
 - [] Dzień 685 - 
 
