@@ -3729,7 +3729,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zgubił / zgubiła swój haczyk nad rzeką w zeszłym miesiącu. Ele / Ela perdeu o seu anzol (anzolzinho) no rio no mês passado.
  - (My) używaliśmy / używałyśmy starych haków, ale nadal udało nam się złowić ryby. (Nós) usávamos anzóis velhos, mas ainda assim conseguimos pegar peixes.
 
-- [] Dzień 685 - 
+- [x] Dzień 685 - Aorta. (Aorta. - Rzeczowniki żeńskie)
+ - (Ja) badałem / badałam aortę podczas wizyty lekarskiej. (Eu) examinei a aorta durante a consulta médica.
+ - On / Ona obserwuje aortę na ekranie monitora. Ele / Ela observa a aorta na tela do monitor.
+ - (Wy) zrozumiecie, jak działa aorta w przyszłości. Vocês entenderão como a aorta funciona no futuro.
+ - (My) zauważyliśmy / zauważyłyśmy problem z aortą podczas badań. (Nós) percebemos um problema com a aorta durante os exames.
+ - Oni / One wczoraj nie zwrócili / zwróciły uwagi na aortę pacjenta. Eles / Elas ontem não prestaram atenção na aorta do paciente.
 
 - [] Dzień 686 - 
 
