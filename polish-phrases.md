@@ -3736,7 +3736,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zauważyliśmy / zauważyłyśmy problem z aortą podczas badań. (Nós) percebemos um problema com a aorta durante os exames.
  - Oni / One wczoraj nie zwrócili / zwróciły uwagi na aortę pacjenta. Eles / Elas ontem não prestaram atenção na aorta do paciente.
 
-- [] Dzień 686 - 
+- [x] Dzień 686 - Zgaszony / Zgaszona, Przygaszony / Przygaszona, Przytłumiony / Przytłumiona. (Apagado / Apagada. - Przymiotniki)
+ - (Ja) byłem / byłam zgaszony / zgaszona po ciężkim dniu pracy. Eu estava apagado / apagada depois de um dia difícil de trabalho.
+ - On / Ona wygląda teraz przytłumiony / przytłumiona i bez energii. Ele / Ela parece agora apagado / apagada e sem energia.
+ - (My) będziemy przygaszeni / przygaszone jutro po tej długiej podróży. (Nós) estaremos apagados / apagadas amanhã depois dessa longa viagem.
+ - (Wy) byliście / byłyście zgaszeni / zgaszone podczas całego spotkania. Vocês estavam apagados / apagadas durante toda a reunião.
+ - Oni / One zostali / zostały zgaszeni / zgaszone przez krytykę nauczyciela / nauczycielki. Eles / Elas ficaram apagados / apagadas pela crítica do / da professor / professor.
 
 - [] Dzień 687 - 
 
