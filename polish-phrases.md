@@ -3743,7 +3743,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) byliście / byłyście zgaszeni / zgaszone podczas całego spotkania. Vocês estavam apagados / apagadas durante toda a reunião.
  - Oni / One zostali / zostały zgaszeni / zgaszone przez krytykę nauczyciela / nauczycielki. Eles / Elas ficaram apagados / apagadas pela crítica do / da professor / professor.
 
-- [] Dzień 687 - 
+- [x] Dzień 687 - Gasić / Zgasić, Wyłączać / Wyłączyć, Kasować / Skasować. (Apagar. - Czasowniki)
+ - (Ja) zgasiłem / zgasiłam świecę przed snem. Eu apaguei a vela antes de dormir.
+ - On / Ona teraz kasuje pliki, bo skończył / skończyła pracę. Ele / Ela agora apaga os arquivos porque terminou o trabalho.
+ - (Wy) skasowaliście / skasowałyście wiadomość przez pomyłkę. Vocês apagaram a mensagem por engano.
+ - (My) zgasimy światło, kiedy pójdziemy spać. (Nós) apagaremos a luz quando formos dormir.
+ - Oni / One gasili / gasiły ogień przez całą noc. Eles / Elas apagaram o fogo durante toda a noite.
 
 - [] Dzień 688 - 
 
