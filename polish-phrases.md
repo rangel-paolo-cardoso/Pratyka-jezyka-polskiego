@@ -3750,7 +3750,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zgasimy światło, kiedy pójdziemy spać. (Nós) apagaremos a luz quando formos dormir.
  - Oni / One gasili / gasiły ogień przez całą noc. Eles / Elas apagaram o fogo durante toda a noite.
 
-- [] Dzień 688 - 
+- [x] Dzień 688 - Zakochany / Zakochana [liczba pojedyncza], Zakochani / Zakochane [liczba mnoga]. (Apaixonado(s) / Apaixonada(s). - Przymiotniki)
+ - (Ja) byłem / byłam zakochany / zakochana w nim / niej od dawna. (Eu) estive apaixonado / apaixonada por ele / ela há muito tempo.
+ - On / Ona jest zakochany / zakochana w swoim / swojej przyjacielu / przyjaciółce. Ele / Ela está apaixonado / apaixonada pelo / pela seu / sua amigo / amiga.
+ - (Wy) będziecie zakochani / zakochane w tej historii. Vocês estarão apaixonados / apaixonadas por essa história.
+ - (My) byliśmy / byłyśmy zakochani / zakochane w tym miejscu, kiedy tam mieszkaliśmy / mieszkałyśmy. (Nós) éramos apaixonados / apaixonadas por esse lugar quando morávamos lá.
+ - Oni / One pozostali / pozostały zakochani / zakochane mimo wszystkich trudności. Eles / Elas permaneceram apaixonados / apaixonadas apesar de todas as dificuldades.
 
 - [] Dzień 689 - 
 
