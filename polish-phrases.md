@@ -3757,7 +3757,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy zakochani / zakochane w tym miejscu, kiedy tam mieszkaliśmy / mieszkałyśmy. (Nós) éramos apaixonados / apaixonadas por esse lugar quando morávamos lá.
  - Oni / One pozostali / pozostały zakochani / zakochane mimo wszystkich trudności. Eles / Elas permaneceram apaixonados / apaixonadas apesar de todas as dificuldades.
 
-- [] Dzień 689 - 
+- [x] Dzień 689 - Pojawić się, Ukazać się. (Aparecer. - Czasowniki)
+ - On / Ona zawsze pojawia się w odpowiednim momencie. Ele / Ela sempre aparece no momento certo.
+ - Oni / One nagle pojawili / pojawiły się przed domem bez zapowiedzi. Eles / Elas apareceram de repente em frente à casa sem avisar.
+ - (Wy) pojawicie się na scenie jutro wieczorem. Vocês aparecerão no palco amanhã à noite.
+ - (My) ukazaliśmy / ukazałyśmy się w gazecie lokalnej po wywiadzie. (Nós) aparecemos no jornal local depois da entrevista.
+ - (Ja) pojawiłem / pojawiłam się na spotkaniu wcześniej, niż planowano. (Eu) apareci na reunião mais cedo do que o planejado.
 
 - [] Dzień 690 - 
 
