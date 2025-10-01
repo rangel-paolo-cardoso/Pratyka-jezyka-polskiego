@@ -3764,7 +3764,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) ukazaliśmy / ukazałyśmy się w gazecie lokalnej po wywiadzie. (Nós) aparecemos no jornal local depois da entrevista.
  - (Ja) pojawiłem / pojawiłam się na spotkaniu wcześniej, niż planowano. (Eu) apareci na reunião mais cedo do que o planejado.
 
-- [] Dzień 690 - 
+- [x] Dzień 690 - Aparat - Rzeczownik męski, Urządzenie - Rzeczownik nijaki, Sprzęt - Rzeczownik męski. (Aparelho. - Rzeczownik męski)
+ - On / Ona wczoraj zepsuł / zepsuła aparat, który dostał / dostała od ojca / matki. Ele / Ela ontem quebrou o aparelho que recebeu do / da pai / mãe.
+ - (Ja) naprawię jutro to urządzenie, bo jestem w tym dobry / dobra. (Eu) vou consertar amanhã esse aparelho, porque sou bom / boa nisso.
+ - (Wy) macie teraz nowy sprzęt i możecie go używać bez problemu. Vocês agora têm um novo aparelho e podem usá-lo (usar ele) sem problema.
+ - (My) sprawdzaliśmy / sprawdzałyśmy stare aparaty, żeby zobaczyć, czy jeszcze działają. (Nós) verificávamos os aparelhos antigos para ver se ainda funcionam.
+ - Oni / One widzieli / widziały, że nowe urządzenie działa lepiej, niż się spodziewali / spodziewały. Eles / Elas viram que o novo aparelho funciona melhor do que esperavam.
 
 - [] Dzień 691 - 
 
