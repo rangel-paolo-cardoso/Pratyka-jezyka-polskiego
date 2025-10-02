@@ -3771,7 +3771,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) sprawdzaliśmy / sprawdzałyśmy stare aparaty, żeby zobaczyć, czy jeszcze działają. (Nós) verificávamos os aparelhos antigos para ver se ainda funcionam.
  - Oni / One widzieli / widziały, że nowe urządzenie działa lepiej, niż się spodziewali / spodziewały. Eles / Elas viram que o novo aparelho funciona melhor do que esperavam.
 
-- [] Dzień 691 - 
+- [x] Dzień 691 - Wygląd, Pozór - Rzeczowniki męskie, Zewnętrzność - Rzeczownik żeński. (Aparência. - )Rzeczownik żeński
+ - (Ty) będziesz jutro oceniał / oceniała mój wygląd, prawda? Você vai avaliar amanhã a minha aparência, certo?
+ - (Ja) wczoraj nie zwróciłem / zwróciłam uwagi na jego / jej zewnętrzność. (Eu) ontem não prestei atenção na aparência dele / dela.
+ - Oni / One uważali / uważały, że pozory mogą być mylące. Eles / Elas achavam que a aparência pode ser enganosa.
+ - On / Ona teraz martwi się swoim wyglądem. Ele / Ela agora se preocupa com sua aparência.
+ - (My) zwracaliśmy / zwracałyśmy uwagę na wygląd ludzi w tamtym czasie. (Nós) prestávamos atenção à aparência das pessoas naquela época.
 
 - [] Dzień 692 - 
 
