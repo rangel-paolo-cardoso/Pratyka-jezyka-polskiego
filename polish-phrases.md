@@ -3778,7 +3778,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona teraz martwi się swoim wyglądem. Ele / Ela agora se preocupa com sua aparência.
  - (My) zwracaliśmy / zwracałyśmy uwagę na wygląd ludzi w tamtym czasie. (Nós) prestávamos atenção à aparência das pessoas naquela época.
 
-- [] Dzień 692 - 
+- [x] Dzień 692 - Przerażać, Przerazić, Nastraszyć. (Apavorar. - Czasowniki)
+- On / Ona przeraził / przeraziła mnie swoim krzykiem. Ele / Ela me apavorou com o seu grito.
+- (Ja) przeraziłem / przeraziłam się, kiedy zobaczyłem / zobaczyłam ten wypadek. (Eu) me apavorei quando vi esse acidente.
+- (Wy) przerazicie wszystkich swoją decyzją. Vocês apavorarão a todos com a sua decisão.
+- (My) przerażaliśmy / przerażałyśmy się w dzieciństwie ciemnością. (Nós) nos apavorávamos na infância com a escuridão.
+- Oni / One nastraszyli / nastraszyły kolegów / koleżanki w szkole. Eles / Elas apavoraram os / as colegas na escola.
 
 - [] Dzień 693 - 
 
