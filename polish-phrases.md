@@ -3785,7 +3785,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (My) przerażaliśmy / przerażałyśmy się w dzieciństwie ciemnością. (Nós) nos apavorávamos na infância com a escuridão.
 - Oni / One nastraszyli / nastraszyły kolegów / koleżanki w szkole. Eles / Elas apavoraram os / as colegas na escola.
 
-- [] Dzień 693 - 
+- [x] Dzień 693 - Tylko, Jedynie, Dopiero. (Apenas. - Przysłówki)
+ - (Ja) miałem / miałam tylko jeden dzień na przygotowanie. (Eu) tive apenas um dia para me preparar.
+ - On / Ona jedynie pomaga teraz swojemu / swojej bratu / siostrze. Ele / Ela apenas ajuda agora o / a seu / sua irmão / irmã.
+ - (Wy) będziecie mieli / miały dopiero jutro odpowiedź. Vocês terão apenas amanhã a resposta.
+ - (My) widzieliśmy / widziałyśmy tylko jeden film wczoraj. (Nós) vimos apenas um filme ontem.
+ - Oni / One mieli / miały jedynie małą szansę na wygraną. Eles / Elas tiveram apenas uma pequena chance de vencer.
 
 - [] Dzień 694 - 
 
