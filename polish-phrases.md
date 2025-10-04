@@ -3792,7 +3792,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzieliśmy / widziałyśmy tylko jeden film wczoraj. (Nós) vimos apenas um filme ontem.
  - Oni / One mieli / miały jedynie małą szansę na wygraną. Eles / Elas tiveram apenas uma pequena chance de vencer.
 
-- [] Dzień 694 - 
+- [x] Dzień 694 - Wyrostek robaczkowy - Rzeczownik + Przymiotnik, Dodatek, Aneks. (Apêndice. - Rzeczowniki męskie)
+ - (Ja) miałem / miałam usunięty wyrostek robaczkowy dwa lata temu. (Eu) tive o apêndice removido há dois anos.
+ - On / Ona teraz odczuwa ból w okolicy wyrostka robaczkowego. Ele / Ela agora sente dor na região do apêndice.
+ - (My) dodaliśmy / dodałyśmy aneks do naszego raportu w zeszłym tygodniu. (Nós) adicionamos um apêndice ao nosso relatório na semana passada.
+ - (Wy) będziecie mieli / miały dodatek z dodatkowymi informacjami. Vocês terão um apêndice com informações adicionais.
+ - Oni / One znaleźli / znalazły błąd w aneksie do umowy. Eles / Elas encontraram um erro no apêndice do contrato.
 
 - [] Dzień 695 - 
 
