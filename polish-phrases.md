@@ -3799,7 +3799,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) będziecie mieli / miały dodatek z dodatkowymi informacjami. Vocês terão um apêndice com informações adicionais.
  - Oni / One znaleźli / znalazły błąd w aneksie do umowy. Eles / Elas encontraram um erro no apêndice do contrato.
 
-- [] Dzień 695 - 
+- [x] Dzień 695 - Ciasny / Ciasna / Ciasne, Ściśnięty / Ściśnięta / Ściśnięte. (Apertado / Apertada. - Przymiotniki)
+ - (Ja) miałem / miałam na sobie bardzo ciasny sweter. Eu estava usando (vestindo, trajando) um suéter muito apertado.
+ - On / Ona kupił / kupiła zbyt ciasny płaszcz w sklepie. Ele / Ela comprou um casaco apertado demais na loja.
+ - (Wy) siedzieliście / siedziałyście w bardzo ciasnym pokoju przez godzinę. Vocês ficaram sentados / sentadas em um quarto muito apertado por uma hora.
+ - (My) będziemy mieli / miały ciasne miejsce w samochodzie podczas podróży. (Nós) teremos um espaço apertado no carro durante a viagem.
+ - Oni / One śpią ściśnięci / ściśnięte na jednej kanapie. Eles / Elas dormem apertados / apertadas em um só sofá.
 
 - [] Dzień 696 - 
 
