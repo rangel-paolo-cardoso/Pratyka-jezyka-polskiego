@@ -3806,7 +3806,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy mieli / miały ciasne miejsce w samochodzie podczas podróży. (Nós) teremos um espaço apertado no carro durante a viagem.
  - Oni / One śpią ściśnięci / ściśnięte na jednej kanapie. Eles / Elas dormem apertados / apertadas em um só sofá.
 
-- [] Dzień 696 - 
+- [x] Dzień 696 - Ucisk, Aprec. (Aperto. - Rzeczowniki męskie)
+ - (Ja) poczułem / poczułam silny ucisk w klatce piersiowej. (Eu) senti um forte aperto no peito.
+ - Oni / One byli / były w prawdziwym aprecie, gdy zepsuł się samochód. Eles / Elas estavam em um verdadeiro aperto quando o carro quebrou.
+ - (Ty) czułeś / czułaś ucisk, gdy musiałeś / musiałaś podjąć decyzję. Você sentiu um aperto quando precisou tomar uma decisão.
+ - (My) byliśmy / byłyśmy w wielkim aprecie przed egzaminem. (Nós) estávamos em um grande aperto antes do exame.
+ - On / Ona poczuje ucisk w dłoni, gdy ktoś mocno ją uściśnie. Ele / Ela sentirá um aperto na mão quando alguém a apertar com força.
 
 - [] Dzień 697 - 
 
