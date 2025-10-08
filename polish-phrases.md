@@ -3813,7 +3813,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy w wielkim aprecie przed egzaminem. (Nós) estávamos em um grande aperto antes do exame.
  - On / Ona poczuje ucisk w dłoni, gdy ktoś mocno ją uściśnie. Ele / Ela sentirá um aperto na mão quando alguém a apertar com força.
 
-- [] Dzień 697 - 
+- [x] Dzień 697 - Apetyt. (Apetite. - Rzeczowniki męskie)
+ - (Ja) miałem / miałam duży apetyt po treningu. (Eu) tive muito apetite depois do treino.
+ - On / Ona traci apetyt, gdy jest zestresowany / zestresowana. Ele / Ela perde o apetite quando está estressado / estressada.
+ - (Wy) odzyskacie apetyt, kiedy poczujecie zapach kolacji. Vocês vão recuperar o apetite quando sentirem o cheiro do jantar.
+ - (My) mieliśmy / miałyśmy ogromny apetyt po długim spacerze. (Nós) tivemos um apetite enorme depois de uma longa caminhada.
+ - Oni / One zawsze mają apetyt na słodycze. Eles / Elas sempre têm apetite por doces.
 
 - [] Dzień 698 - 
 
