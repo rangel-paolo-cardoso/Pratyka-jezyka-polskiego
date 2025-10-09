@@ -3820,7 +3820,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) mieliśmy / miałyśmy ogromny apetyt po długim spacerze. (Nós) tivemos um apetite enorme depois de uma longa caminhada.
  - Oni / One zawsze mają apetyt na słodycze. Eles / Elas sempre têm apetite por doces.
 
-- [] Dzień 698 - 
+- [x] Dzień 698 - Gwizdać, Zagwizdać, Świszczeć. (Apitar. - Czasowniki)
+ - (Ja) zagwizdałem /zagwizdałam, żeby zwrócić ich uwagę. (Eu) apitei para chamar a atenção deles / delas.
+ - On / Ona gwiżdże, kiedy idzie do pracy. Ele / Ela apita (assovia, assobia) enquanto vai para o trabalho.
+ - (Wy) zagwiżdżecie, gdy sędzia zacznie mecz. Vocês vão apitar quando o árbitro (juíz) começar o jogo.
+ - (My) gwizdaliśmy / gwizdałyśmy z radości po zwycięstwie. (Nós) apitamos (assobiamos, assoviamos) de alegria após a vitória.
+ - Oni / One świszczeli / świszczały na ulicy, kiedy przejeżdżał pociąg. Eles / Elas apitavam (assobiavam, assoviavam) na rua quando o trem passava.
 
 - [] Dzień 699 - 
 
