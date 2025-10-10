@@ -3827,7 +3827,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) gwizdaliśmy / gwizdałyśmy z radości po zwycięstwie. (Nós) apitamos (assobiamos, assoviamos) de alegria após a vitória.
  - Oni / One świszczeli / świszczały na ulicy, kiedy przejeżdżał pociąg. Eles / Elas apitavam (assobiavam, assoviavam) na rua quando o trem passava.
 
-- [] Dzień 699 - 
+- [x] Dzień 699 - Gwizdek, Sygnał. (Apito. - Rzeczowniki męskie)
+ - On / Ona ma nowy gwizdek. Ele / Ela tem um apito novo.
+ - (Ja) słyszałem / słyszałam sygnał pociągu. (Eu) ouvi o apito do trem.
+ - (Wy) znajdziecie mój gwizdek jutro. Vocês encontrarão meu apito amanhã.
+ - Oni / One reagują na każdy sygnał. Eles / Elas reagem a cada apito.
+ - (My) zgubiliśmy / zgubiłyśmy gwizdek na boisku. (Nós) perdemos o apito no campo.
 
 - [] Dzień 700 - 
 
