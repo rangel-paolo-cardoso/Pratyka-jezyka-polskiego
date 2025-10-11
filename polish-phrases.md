@@ -3834,7 +3834,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One reagują na każdy sygnał. Eles / Elas reagem a cada apito.
  - (My) zgubiliśmy / zgubiłyśmy gwizdek na boisku. (Nós) perdemos o apito no campo.
 
-- [] Dzień 700 - 
+- [x] Dzień 700 - Aplauz, Brawa - Pluralia Tantum. (Aplauso, Aplausos. - Rzeczowniki męskie)
+- On / Ona słyszy głośne brawa po występie. Ele / Ela ouve aplausos altos após a apresentação.
+- (Ja) otrzymałem / otrzymałam aplauz od publiczności. (Eu) recebi um aplauso do público.
+- (Wy) dacie brawa nowemu / nowej aktorowi / aktorce. Vocês darão aplausos ao / à novo / nova ator / atriz.
+- Oni / One zasługują na aplauz za swój wysiłek. Eles / Elas merecem um aplauso por seu esforço.
+- (My) biliśmy / biłyśmy brawa przez długą minutę. (Nós) aplaudimos por um longo minuto.
 
 - [] Dzień 701 - 
 
