@@ -3841,7 +3841,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - Oni / One zasługują na aplauz za swój wysiłek. Eles / Elas merecem um aplauso por seu esforço.
 - (My) biliśmy / biłyśmy brawa przez długą minutę. (Nós) aplaudimos por um longo minuto.
 
-- [] Dzień 701 - 
+- [x] Dzień 701 - Aplikacja - Rzeczownik żeński, Zastosowanie - Rzeczownik nijaki. (Aplicação. - Rzeczownik żeński)
+ - (Ja) używam nowej aplikacji do nauki języków. (Eu) uso uma nova aplicação para aprender idiomas.
+ - On / Ona znalazł / znalazła ciekawe zastosowanie tej technologii. Ele / Ela encontrou uma aplicação interessante para essa tecnologia.
+ - (My) stworzymy nową aplikację dla klientów / klientek. (Nós) criaremos uma nova aplicação para os / as clientes.
+ - (Wy) testujecie zastosowanie tego produktu w laboratorium. Vocês testam a aplicação deste produto no laboratório.
+ - Oni / One zainstalowali / zainstalowały aplikację wczoraj wieczorem. Eles / Elas instalaram a aplicação ontem à noite.
 
 - [] Dzień 702 - 
 
