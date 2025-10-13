@@ -3848,7 +3848,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) testujecie zastosowanie tego produktu w laboratorium. Vocês testam a aplicação deste produto no laboratório.
  - Oni / One zainstalowali / zainstalowały aplikację wczoraj wieczorem. Eles / Elas instalaram a aplicação ontem à noite.
 
-- [] Dzień 702 - 
+- [x] Dzień 702 - Zastosować, Nałożyć, Stosować, Aplikować. (Aplicar. - Czasowniki)
+ - (Ja) zastosowałem / zastosowałam nową metodę w pracy. (Eu) apliquei um (uma) novo (nova) método (metodologia) no trabalho.
+ - On / Ona nakłada krem na twarz każdego ranka. Ele / Ela aplica o creme no rosto todas as manhãs.
+ - (My) zaaplikujemy się do nowego programu. (Nós) nos aplicaremos para o novo programa.
+ - (Wy) stosujecie tę zasadę w waszej firmie. Vocês aplicam essa regra na empresa de vocês.
+ - Oni / One nałożyli / nałożyły farbę na ścianę bardzo starannie. Eles / Elas aplicaram a tinta na parede com muito cuidado.
 
 - [] Dzień 703 - 
 
