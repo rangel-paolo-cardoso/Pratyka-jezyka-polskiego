@@ -3855,7 +3855,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) stosujecie tę zasadę w waszej firmie. Vocês aplicam essa regra na empresa de vocês.
  - Oni / One nałożyli / nałożyły farbę na ścianę bardzo starannie. Eles / Elas aplicaram a tinta na parede com muito cuidado.
 
-- [] Dzień 703 - 
+- [x] Dzień 703 - Apokalipsa - Rzeczownik żeński, Koniec świata - Wyrażenie rzeczownikowe. (Apocalipse, Fim do mundo. - Rzeczownik męski, Wyrażenie rzeczownikowe)
+ - (Ja) wierzę, że apokalipsa może nadejść wkrótce. (Eu) acredito que o apocalipse pode chegar em breve.
+ - On / Ona widział / widziała znaki apokalipsy na niebie. Ele / Ela viu sinais do apocalipse no céu.
+ - (My) przetrwamy apokalipsę razem. (Nós) sobreviveremos ao apocalipse juntos / juntas.
+ - (Wy) mówicie, że koniec świata jest blisko. Vocês dizem que o fim do mundo está próximo.
+ - Oni / One bali / bały się apokalipsy, gdy zobaczyli / zobaczyły ogień na horyzoncie. Eles / Elas temeram o apocalipse quando viram fogo no horizonte.
 
 - [] Dzień 704 - 
 
