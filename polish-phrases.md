@@ -3862,7 +3862,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) mówicie, że koniec świata jest blisko. Vocês dizem que o fim do mundo está próximo.
  - Oni / One bali / bały się apokalipsy, gdy zobaczyli / zobaczyły ogień na horyzoncie. Eles / Elas temeram o apocalipse quando viram fogo no horizonte.
 
-- [] Dzień 704 - 
+- [x] Dzień 704 - Gnić, Zgnieć / Zgnić, Psuć się. (Apodrecer. - Czasowniki)
+ - On / Ona widzi, że chleb gnije w kuchni. Ele / Ela vê que o pão está apodrecendo na cozinha.
+ - (Ja) zgniłem / zgniłam jabłka, bo zapomniałem / zapomniałam o nich w torbie. (Eu) apodreci as maçãs, porque esqueci delas na sacola.
+ - (Wy) zrozumiecie, że ser zgnije, jeśli nie schowacie go do lodówki. Vocês entenderão que o queijo vai apodrecer se não o colocarem (ele) na geladeira.
+ - (My) widzimy, że truskawki psują się zbyt szybko. (Nós) vemos que os morangos estão apodrecendo rápido demais.
+ - Oni / One zauważyli / zauważyły, że pomidory zgniły po tygodniu. Eles / Elas notaram que os tomates apodreceram depois de uma semana.
 
 - [] Dzień 705 - 
 
