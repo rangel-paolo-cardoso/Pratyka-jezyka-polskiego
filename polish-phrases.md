@@ -3869,7 +3869,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzimy, że truskawki psują się zbyt szybko. (Nós) vemos que os morangos estão apodrecendo rápido demais.
  - Oni / One zauważyli / zauważyły, że pomidory zgniły po tygodniu. Eles / Elas notaram que os tomates apodreceram depois de uma semana.
 
-- [] Dzień 705 - 
+- [] Dzień 705 - Temperówka - Rzeczownik żeński. (Apontador. - Rzeczownik męski)
+ - (Ja) używałem / używałam temperówki, żeby naostrzyć mój ołówek. (Eu) usei o apontador para afiar (apontar) meu lápis.
+ - On / Ona trzyma temperówkę w piórniku. Ele / Ela guarda o apontador no estojo.
+ - (My) kupimy nowy temperówkę, bo stary się zepsuł. (Nós) compraremos um novo apontador, porque o velho quebrou.
+ - (Wy) macie bardzo ładną temperówkę. Vocês têm um apontador muito bonito.
+ - Oni / One zgubili / zgubiły swoją temperówkę w klasie. Eles / Elas perderam o apontador deles / delas na sala de aula.
 
 - [] Dzień 706 - 
 
