@@ -3876,7 +3876,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) macie bardzo ładną temperówkę. Vocês têm um apontador muito bonito.
  - Oni / One zgubili / zgubiły swoją temperówkę w klasie. Eles / Elas perderam o apontador deles / delas na sala de aula.
 
-- [] Dzień 706 - 
+- [x] Dzień 706 - Wskazywać, Wskazać, Temperować, Zaostrzyć. (Apontar (para). - Czasowniki)
+ - On / Ona wskazał / wskazała drzwi, kiedy (ja) wszedłem / weszłam do pokoju. Ele / Ela apontou para a porta quando (eu) entrei no quarto.
+ - (Ja) temperuję ołówek, bo chcę coś narysować. (Eu) aponto o lápis porque quero desenhar algo.
+ - (Czy) (wy) wskażecie mi drogę do biblioteki? Vocês me apontarão o caminho para a biblioteca?
+ - (My) zaostrzyliśmy / zaostrzyłyśmy nasze ołówki przed lekcją rysunku. (Nós) apontamos nossos lápis antes da aula de desenho.
+ - Oni / One wskazują winnego / winną od rana. Eles / Elas estão apontando o / a culpado / culpada desde manhã.
 
 - [] Dzień 707 - 
 
