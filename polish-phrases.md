@@ -3883,7 +3883,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zaostrzyliśmy / zaostrzyłyśmy nasze ołówki przed lekcją rysunku. (Nós) apontamos nossos lápis antes da aula de desenho.
  - Oni / One wskazują winnego / winną od rana. Eles / Elas estão apontando o / a culpado / culpada desde manhã.
 
-- [] Dzień 707 - 
+- [x] Dzień 707 - Emerytura - Rzeczownik żeński, Renta - Rzeczownik żeński, Stan spoczynku - Wyrażenie rzeczownikowe. (Aposentadoria. - Rzeczownik żeński)
+ - On / Ona cieszył / cieszyła się z emerytury po czterdziestu latach pracy. Ele / Ela se alegrou com a aposentadoria depois de quarenta anos de trabalho.
+ - (Ja) otrzymuję rentę co miesiąc od pięciu lat. (Eu) recebo a aposentadoria todos os meses há cinco anos.
+ - (Wy) pójdziecie na emeryturę za kilka lat. Vocês se aposentarão em alguns anos.
+ - (My) rozmawialiśmy / rozmawiałyśmy o planach po przejściu na emeryturę. (Nós) conversamos sobre os planos após a aposentadoria.
+ - Oni / One marzą o spokojnej emeryturze nad morzem. Eles / Elas sonham com uma aposentadoria tranquila à beira-mar.
 
 - [] Dzień 708 - 
 
