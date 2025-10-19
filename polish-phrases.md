@@ -3890,7 +3890,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) rozmawialiśmy / rozmawiałyśmy o planach po przejściu na emeryturę. (Nós) conversamos sobre os planos após a aposentadoria.
  - Oni / One marzą o spokojnej emeryturze nad morzem. Eles / Elas sonham com uma aposentadoria tranquila à beira-mar.
 
-- [] Dzień 708 - 
+- [x] Dzień 708 - Zakład - Rzeczownik męski, Obstawienie - Rzeczownik nijaki. (Aposta. - Rzeczownik żeński)
+- On / Ona przegrał / przegrała zakład z kolegą / koleżanką o nowy telefon. Ele / Ela perdeu a aposta com o / a amigo / amiga por um celular novo.
+- (Ja) zawarłem / zawarłam zakład, że jutro będzie padać. (Eu) fiz uma aposta de que amanhã vai chover.
+- (Czy) (wy) obstawicie wynik meczu w sobotę? Vocês vão fazer uma aposta (apostarão) sobre o resultado da partida no sábado?
+- (My) zawsze robiliśmy / robiłyśmy mały zakład, kto pierwszy skończy pracę. (Nós) sempre fazíamos uma pequena aposta para ver quem terminava o trabalho primeiro.
+- Oni / One mają teraz poważny zakład o dużą sumę pieniędzy. Eles / Elas têm agora uma aposta séria por uma grande quantia de dinheiro.
 
 - [] Dzień 709 - 
 
