@@ -3897,7 +3897,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (My) zawsze robiliśmy / robiłyśmy mały zakład, kto pierwszy skończy pracę. (Nós) sempre fazíamos uma pequena aposta para ver quem terminava o trabalho primeiro.
 - Oni / One mają teraz poważny zakład o dużą sumę pieniędzy. Eles / Elas têm agora uma aposta séria por uma grande quantia de dinheiro.
 
-- [] Dzień 709 - 
+- [x] Dzień 709 - Doceniać, Podziwiać, Smakować. (Apreciar. - Czasowniki)
+ - (Ja) naprawdę doceniam twoją cierpliwość. (Eu) realmente aprecio a sua paciência.
+ - On / Ona podziwiał / podziwiała zachód słońca nad jeziorem. Ele / Ela apreciou o pôr do sol sobre o lago.
+ - (My) docenimy waszą pomoc w przyszłości. (Nós) apreciaremos a ajuda de vocês no futuro.
+ - (Wy) podziwiacie jego / jej odwagę i determinację. Vocês apreciam a coragem e a determinação dele / dela.
+ - Oni / One docenili / doceniły szczerość, z jaką (ty) mówiłeś / mówiłaś. Eles / Elas apreciaram a sinceridade com que você falou.
 
 - [] Dzień 710 - 
 
