@@ -3904,7 +3904,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) podziwiacie jego / jej odwagę i determinację. Vocês apreciam a coragem e a determinação dele / dela.
  - Oni / One docenili / doceniły szczerość, z jaką (ty) mówiłeś / mówiłaś. Eles / Elas apreciaram a sinceridade com que você falou.
 
-- [] Dzień 710 - 
+- [x] Dzień 710 - Uczyć się, Nauczyć się. (Aprender. - Czasowniki)
+ - (Ja) uczę się języka polskiego każdego dnia. (Eu) aprendo o idioma polonês todos os dias.
+ - On / Ona nauczył / nauczyła się grać na gitarze w zeszłym roku. Ele / Ela aprendeu a tocar violão no ano passado.
+ - (My) nauczymy się nowych umiejętności w pracy. (Nós) aprenderemos novas habilidades no trabalho.
+ - (Wy) uczycie się bardzo szybko i z zaangażowaniem. Vocês aprendem muito rápido e com dedicação.
+ - Oni / One nauczyli / nauczyły się wiele o kulturze polskiej podczas podróży. Eles / Elas aprenderam muito sobre a cultura polonesa durante a viagem.
 
 - [] Dzień 711 - 
 
