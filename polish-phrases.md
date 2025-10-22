@@ -3911,7 +3911,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) uczycie się bardzo szybko i z zaangażowaniem. Vocês aprendem muito rápido e com dedicação.
  - Oni / One nauczyli / nauczyły się wiele o kulturze polskiej podczas podróży. Eles / Elas aprenderam muito sobre a cultura polonesa durante a viagem.
 
-- [] Dzień 711 - 
+- [x] Dzień 711 - Przedstawiać, Przedstawić. (Apresentar. - Czasowniki)
+- (Ja) przedstawiłem / przedstawiłam nowy projekt zespołowi. (Eu) apresentei o novo projeto à equipe.
+- On / Ona przedstawia swoich / swoje przyjaciół / przyjaciółki rodzicom. Ele / Ela apresenta os / as amigos / amigas aos pais.
+- (My) przedstawimy nasz plan podczas spotkania. (Nós) apresentaremos nosso plano durante a reunião.
+- (Wy) przedstawiliście / przedstawiłyście swoje pomysły bardzo jasno. Vocês apresentaram suas ideias de forma muito clara.
+- Oni / One przedstawiają nowy produkt klientom. Eles / Elas apresentam o novo produto aos clientes.
 
 - [] Dzień 712 - 
 
