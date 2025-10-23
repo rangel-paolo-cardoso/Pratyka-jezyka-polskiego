@@ -3918,7 +3918,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (Wy) przedstawiliście / przedstawiłyście swoje pomysły bardzo jasno. Vocês apresentaram suas ideias de forma muito clara.
 - Oni / One przedstawiają nowy produkt klientom. Eles / Elas apresentam o novo produto aos clientes.
 
-- [] Dzień 712 - 
+- [x] Dzień 712 - Śpieszyć się, Pospieszyć się, Przyspieszać, Przyspieszyć. (Apressar. - Czasowniki)
+- (Ja) śpieszę się, bo nie chcę się spóźnić na spotkanie. (Eu) me apresso, porque não quero me atrasar para a reunião.
+- On / Ona pospieszył / pospieszyła się, żeby zdążyć na pociąg. Ele / Ela se apressou para (conseguir) pegar o trem.
+- (My) przyspieszymy pracę, żeby skończyć wcześniej. (Nós) apressaremos o trabalho para terminar mais cedo.
+- (Wy) śpieszyliście / śpieszyłyście się, ale i tak nie przyszliście / przyszłyście na czas. Vocês se apressaram, mas ainda assim não chegaram na hora.
+- Oni / One śpieszą się każdego ranka do pracy. Eles / Elas se apressam todas as manhãs para o trabalho.
 
 - [] Dzień 713 - 
 
