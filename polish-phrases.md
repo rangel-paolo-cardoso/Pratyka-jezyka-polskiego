@@ -3925,7 +3925,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (Wy) śpieszyliście / śpieszyłyście się, ale i tak nie przyszliście / przyszłyście na czas. Vocês se apressaram, mas ainda assim não chegaram na hora.
 - Oni / One śpieszą się każdego ranka do pracy. Eles / Elas se apressam todas as manhãs para o trabalho.
 
-- [] Dzień 713 - 
+- [x] Dzień 713 - Udoskonalać, Udoskonalić, Doskonalić się. (Aprimorar. - Czasowniki)
+- (Ja) udoskonalam swoje umiejętności każdego dnia. (Eu) aprimoro minhas habilidades todos os dias.
+- On / Ona udoskonalił / udoskonaliła swój warsztat pracy przez lata. Ele / Ela aprimorou sua forma de trabalho ao longo dos anos.
+- (My) udoskonalimy nasz projekt w przyszłym miesiącu. (Nós) aprimoraremos nosso projeto no próximo mês.
+- (Wy) udoskonaliliście / udoskonaliłyście swoje techniki bardzo szybko. Vocês aprimoraram suas técnicas muito rapidamente (rápido).
+- Oni / One doskonalą się każdego dnia w tym, co robią. Eles / Elas se aprimoram todos os dias no que fazem.
 
 - [] Dzień 714 - 
 
