@@ -3932,7 +3932,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (Wy) udoskonaliliście / udoskonaliłyście swoje techniki bardzo szybko. Vocês aprimoraram suas técnicas muito rapidamente (rápido).
 - Oni / One doskonalą się każdego dnia w tym, co robią. Eles / Elas se aprimoram todos os dias no que fazem.
 
-- [] Dzień 714 - 
+- [x] Dzień 714 - Pogłębiać, Pogłębić. (Aprofundar. - Czasowniki)
+ - (Ja) pogłębiam swoją wiedzę o historii Polski. (Eu) aprofundo (estou aprofundando) meu conhecimento sobre a história da Polônia.
+ - On / Ona pogłębił / pogłębiła relacje ze swoimi przyjaciółmi / przyjaciółkami. Ele / Ela aprofundou os laços (as relações) com seus / suas amigos / amigas.
+ - (My) pogłębimy naszą współpracę w przyszłości. (Nós) aprofundaremos nossa cooperação no futuro.
+ - (Wy) pogłębiliście / pogłębiłyście analizę danych przed prezentacją. Vocês aprofundaram a análise dos dados antes da apresentação.
+ - Oni / One pogłębiają swoje zrozumienie kultury europejskiej. Eles / Elas aprofundam sua compreensão da cultura europeia.
 
 - [] Dzień 715 - 
 
