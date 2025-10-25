@@ -3939,7 +3939,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) pogłębiliście / pogłębiłyście analizę danych przed prezentacją. Vocês aprofundaram a análise dos dados antes da apresentação.
  - Oni / One pogłębiają swoje zrozumienie kultury europejskiej. Eles / Elas aprofundam sua compreensão da cultura europeia.
 
-- [] Dzień 715 - 
+- [x] Dzień 715 - Zatwierdzić, Zaakceptować. (Aprovar. - Czasowniki)
+ - On / Ona zatwierdził / zatwierdziła nowy plan projektu. Ele / Ela aprovou o novo plano do projeto.
+ - (My) zaakceptujemy twoją propozycję, jeśli będzie dobra. (Nós) aprovaremos a sua proposta, se ela for boa.
+ - (Ja) zatwierdzam wyniki testów bez wahania. (Eu) aprovo os resultados dos testes sem hesitação.
+ - (Wy) zaakceptowaliście / zaakceptowałyście decyzję kierownika / kierowniczki. Vocês aprovaram a decisão do / da gerente.
+ - Oni / One zatwierdzą raport jutro rano. Eles / Elas aprovarão o relatório amanhã de manhã.
 
 - [] Dzień 716 - 
 
