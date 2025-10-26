@@ -3946,7 +3946,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) zaakceptowaliście / zaakceptowałyście decyzję kierownika / kierowniczki. Vocês aprovaram a decisão do / da gerente.
  - Oni / One zatwierdzą raport jutro rano. Eles / Elas aprovarão o relatório amanhã de manhã.
 
-- [] Dzień 716 - 
+- [x] Dzień 716 - Wykorzystać, Skorzystać, Korzystać. (Aproveitar. - Czasowniki)
+ - (Ja) wykorzystałem / wykorzystałam każdą szansę, żeby się rozwinąć. (Eu) aproveitei cada oportunidade para me desenvolver.
+ - Oni / One skorzystają z tej wyjątkowej okazji. Eles / Elas aproveitarão essa oportunidade especial.
+ - (My) korzystamy z każdej chwili, żeby odpocząć. (Nós) aproveitamos cada momento para descansar.
+ - (Ty) wykorzystałeś / wykorzystałaś wakacje najlepiej, jak mogłeś / mogłaś. Você aproveitou as férias da melhor forma possível.
+ - On / Ona korzysta z wolnego dnia, żeby pobiegać w parku. Ele / Ela aproveita o dia livre para correr no parque.
 
 - [] Dzień 717 - 
 
