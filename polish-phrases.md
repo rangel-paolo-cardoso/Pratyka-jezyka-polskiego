@@ -3953,7 +3953,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) wykorzystałeś / wykorzystałaś wakacje najlepiej, jak mogłeś / mogłaś. Você aproveitou as férias da melhor forma possível.
  - On / Ona korzysta z wolnego dnia, żeby pobiegać w parku. Ele / Ela aproveita o dia livre para correr no parque.
 
-- [] Dzień 717 - 
+- [x] Dzień 717 - Zbliżać się, Zbliżyć się, Podejść, Podchodzić. (Aproximar. Czasowniki)
+ - (Ty) podejdziesz do nas, jeśli będziesz miał / miała czas? Você se aproximará de nós, se tiver tempo?
+ - Oni / One zbliżą się do brzegu, gdy słońce zajdzie. Eles / Elas se aproximarão da margem quando o sol se pôr.
+ - (Ja) zbliżyłem / zbliżyłam się do ciebie, kiedy tego potrzebowałaś / potrzebowałeś. (Eu) me aproximei de você, quando você precisou disso.
+ - On / Ona podchodzi do stołu, aby wziąć książkę. Ele / Ela se aproxima da mesa para pegar um livro.
+ - (My) zbliżyliśmy / zbliżyłyśmy się do siebie, mimo różnic zdań. (Nós) nos aproximamos, apesar das diferenças de opinião.
 
 - [] Dzień 718 - 
 
