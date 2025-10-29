@@ -3960,7 +3960,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona podchodzi do stołu, aby wziąć książkę. Ele / Ela se aproxima da mesa para pegar um livro.
  - (My) zbliżyliśmy / zbliżyłyśmy się do siebie, mimo różnic zdań. (Nós) nos aproximamos, apesar das diferenças de opinião.
 
-- [] Dzień 718 - 
+- [x] Dzień 718 - Akwarium - Rzeczownik nijaki, Wodnik - Rzeczownik męski. (Aquário. - Rzeczownik męski)
+ - (Ja) wczoraj kupiłem / kupiłam nowe akwarium dla ryb. (Eu) comprei um novo aquário para os peixes ontem.
+ - On / Ona czyści akwarium raz w tygodniu. To bardzo ważne. Ele / Ela limpa o aquário uma vez por semana. Isso é muito importante.
+ - (Czy) (ty) postawisz akwarium na tym stole? Você colocará (vai colocar) o aquário nesta mesa?
+ - (My) zbudowaliśmy / zbudowałyśmy duże akwarium w salonie. (Nós) construímos um grande aquário na sala de estar.
+ - Oni / One będą mieli / miały akwarium w nowym biurze. Eles / Elas terão um aquário no novo escritório.
 
 - [] Dzień 719 - 
 
