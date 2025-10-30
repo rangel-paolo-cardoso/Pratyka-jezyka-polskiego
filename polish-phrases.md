@@ -3967,7 +3967,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zbudowaliśmy / zbudowałyśmy duże akwarium w salonie. (Nós) construímos um grande aquário na sala de estar.
  - Oni / One będą mieli / miały akwarium w nowym biurze. Eles / Elas terão um aquário no novo escritório.
 
-- [] Dzień 719 - 
+- [] Dzień 719 - Wodny, Wodna, Wodne. (Aquático / Aquática. - Przymiotniki)
+ - On / Ona bada życie wodne w oceanie Atlantyckim. Ele / Ela estuda a vida aquática no Oceano Atlântico.
+ - (My) odkryliśmy / odkryłyśmy wodne stworzenia na dnie. (Nós) descobrimos criaturas aquáticas no fundo.
+ - (Ja) widziałem / widziałam wodne rośliny w jeziorze. (Eu) vi plantas aquáticas no lago.
+ - (Czy) (ty) znajdziesz wodną ścieżkę do wyspy? (Você) encontrará o caminho aquático para a ilha?
+ - Oni / One będą chronić wodne środowisko w rezerwacie. Eles / Elas protegerão o ambiente aquático na reserva.
 
 - [] Dzień 720 - 
 
