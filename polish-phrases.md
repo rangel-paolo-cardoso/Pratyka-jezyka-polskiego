@@ -3974,7 +3974,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Czy) (ty) znajdziesz wodną ścieżkę do wyspy? (Você) encontrará o caminho aquático para a ilha?
  - Oni / One będą chronić wodne środowisko w rezerwacie. Eles / Elas protegerão o ambiente aquático na reserva.
 
-- [] Dzień 720 - 
+- [x] Dzień 720 - Ogrzewać, Ogrzać, Rozgrzewać, Rozgrzać. (Aquecer. - Czasowniki)
+ - (My) ogrzaliśmy / ogrzałyśmy cały dom, zanim przyszła zima. (Nós) aquecemos toda a casa antes da chegada do inverno.
+ - On / Ona rozgrzewa się przed treningiem, żeby uniknąć kontuzji. Ele / Ela se aquece antes do treino para evitar lesões (contusões).
+ - (Ja) ogrzewam mleko, żeby było ciepłe dla dziecka. (Eu) aqueço o leite para que fique morno para o bebê (criança).
+ - (Wy) rozgrzaliście / rozgrzałyście atmosferę swoją muzyką na imprezie. Vocês aqueceram o clima (a atmosfera) com a (sua) música na festa.
+ - Oni / One ogrzewali / ogrzewały siebie nawzajem, kiedy było bardzo zimno. Eles / Elas se aqueciam mutuamente quando estava muito frio.
 
 - [] Dzień 721 - 
 
