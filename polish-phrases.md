@@ -3988,7 +3988,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) pamiętacie tamten koncert. Vocês se lembram daquele concerto (show).
  - Oni / One pomagali / pomagały tamtym ludziom. Eles / Elas ajudaram aquelas pessoas.
 
-- [] Dzień 722 - 
+- [x] Dzień 722 - Tutaj, Tu. (Aqui. - Przysłówki)
+ - (⁠Ja⁠) jestem tutaj od rana, czekając na twoją odpowiedź. (Eu) estou aqui desde cedo (manhã), esperando pela sua resposta.
+ - Oni / One byli / były tu wczoraj, żeby naprawić drzwi w biurze. Eles / Elas estiveram aqui ontem para consertar a porta do escritório.
+ - (⁠Ty⁠) wrócisz tutaj jutro, żeby dokończyć projekt, prawda? Você voltará aqui amanhã para terminar o projeto, certo (né)?
+ - (⁠My⁠) zostaniemy tu jeszcze chwilę, żeby odpocząć po pracy. (Nós) ficaremos aqui mais um pouco para descansar depois do trabalho.
+ - On / Ona usiadł / usiadła tutaj, bo chciał / chciała być bliżej okna. Ele / Ela se sentou aqui porque queria ficar mais perto da janela.
 
 - [] Dzień 723 - 
 
