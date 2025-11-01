@@ -3981,7 +3981,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) rozgrzaliście / rozgrzałyście atmosferę swoją muzyką na imprezie. Vocês aqueceram o clima (a atmosfera) com a (sua) música na festa.
  - Oni / One ogrzewali / ogrzewały siebie nawzajem, kiedy było bardzo zimno. Eles / Elas se aqueciam mutuamente quando estava muito frio.
 
-- [] Dzień 721 - 
+- [x] Dzień 721 - Tamten, Tamta, Tamci, Tamte. (Aquele / Aquela. - Zaimki Wskazujące)
+ - (Ja) pamiętam tamtego / tamtą nauczyciela / nauczycielkę, był / była bardzo surowy / surowa, ale sprawiedliwy / sprawiedliwa. (Eu) me lembro daquele / daquela professor / professora, era muito rígido / rígida, mas justo / justa.
+ - (My) spotkamy tamtych / tamte przyjaciół / przyjaciółki jutro na dworcu. (Nós) encontraremos aqueles / aquelas amigos / amigas na estação amanhã.
+ - On / Ona rozpoznał / rozpoznała tamten dom. Ele / Ela reconheceu aquela casa.
+ - (Wy) pamiętacie tamten koncert. Vocês se lembram daquele concerto (show).
+ - Oni / One pomagali / pomagały tamtym ludziom. Eles / Elas ajudaram aquelas pessoas.
 
 - [] Dzień 722 - 
 
