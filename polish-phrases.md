@@ -3995,7 +3995,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (⁠My⁠) zostaniemy tu jeszcze chwilę, żeby odpocząć po pracy. (Nós) ficaremos aqui mais um pouco para descansar depois do trabalho.
  - On / Ona usiadł / usiadła tutaj, bo chciał / chciała być bliżej okna. Ele / Ela se sentou aqui porque queria ficar mais perto da janela.
 
-- [] Dzień 723 - 
+- [x] Dzień 723 - Powietrze - Rzeczownik nijaki. (Ar. - Rzeczownik męski)
+ - On / Ona poczuł / poczuła świeże powietrze, gdy otworzył / otworzyła okno po deszczu. Ele / Ela sentiu o ar fresco quando abriu a janela depois da chuva.
+ - (My) oddychamy czystym powietrzem, kiedy spacerujemy po lesie. (Nós) respiramos ar puro quando caminhamos pela floresta.
+ - (Ty) potrzebujesz świeżego powietrza, żeby się uspokoić. Você precisa de ar fresco para se acalmar.
+ - Oni / One poczuli / poczuły w powietrzu zapach nadchodzącej burzy. Eles / Elas sentiram no ar o cheiro da tempestade que se aproximava.
+ - (Ja) będę cieszył / cieszyła się powietrzem górskim podczas wakacji. (Eu) aproveitarei o ar das montanhas durante as férias.
 
 - [] Dzień 724 - 
 
