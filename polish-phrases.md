@@ -4002,7 +4002,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One poczuli / poczuły w powietrzu zapach nadchodzącej burzy. Eles / Elas sentiram no ar o cheiro da tempestade que se aproximava.
  - (Ja) będę cieszył / cieszyła się powietrzem górskim podczas wakacji. (Eu) aproveitarei o ar das montanhas durante as férias.
 
-- [] Dzień 724 - 
+- [x] Dzień 724 - Pająk - Rzeczownik męski. (Aranha. - Rzeczownik żeński)
+ - On / Ona zobaczył / zobaczyła pająka na ścianie i krzyknął / krzyknęła z przerażenia. Ele / Ela viu uma aranha na parede e gritou de medo.
+ - (My) znaleźliśmy / znalazłyśmy pająka w kącie naszego pokoju. (Nós) encontramos uma aranha no canto do nosso quarto.
+ - (Ty) bałeś / bałaś się pająka, który zszedł z sufitu. Você teve medo da aranha que desceu do teto.
+ - Oni / One obserwowali / obserwowały pająka, który budował sieć w ogrodzie. Eles / Elas observaram a aranha que construía sua teia no jardim.
+ - (Ja) będę chronił / chroniła pająka, bo nie chcę, żeby ktoś go zabił. (Eu) vou proteger a aranha, porque não quero que ninguém (alguém) a mate (ela).
 
 - [] Dzień 725 - 
 
