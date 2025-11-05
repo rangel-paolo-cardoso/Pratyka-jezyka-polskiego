@@ -4009,7 +4009,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One obserwowali / obserwowały pająka, który budował sieć w ogrodzie. Eles / Elas observaram a aranha que construía sua teia no jardim.
  - (Ja) będę chronił / chroniła pająka, bo nie chcę, żeby ktoś go zabił. (Eu) vou proteger a aranha, porque não quero que ninguém (alguém) a mate (ela).
 
-- [] Dzień 725 - 
+- [x] Dzień 725 - Ara. (Arara. - Rzeczowniki żeńskie)
+ - On / Ona widział / widziała arę, kiedy byliśmy w dżungli, i był / była zachwycony / zachwycona jej kolorami. Ele / Ela viu a arara quando estávamos na selva e ficou encantado / encantada com suas cores.
+ - (Ja) narysuję arę jutro, bo zawsze marzyłem / marzyłam o tak barwnym ptaku. (Eu) vou desenhar uma arara amanhã, porque sempre sonhei com um pássaro tão colorido.
+ - (Wy) widzieliście / widziałyście arę w zoo, ale nie zwróciliście / zwróciłyście uwagi, jak głośno krzyczała. Vocês viram a arara no zoológico, mas não perceberam como ela gritava alto.
+ - Oni / One karmili / karmiły arę świeżymi owocami każdego ranka, aby zachować jej energię. Eles / Elas alimentavam a arara com frutas frescas todas as manhãs para manter sua energia.
+ - (My) usłyszeliśmy / usłyszałyśmy arę w lesie, ale nie mogliśmy / mogłyśmy jej znaleźć między drzewami. (Nós) ouvimos a arara na floresta, mas não conseguimos encontrá-la entre as árvores.
 
 - [] Dzień 726 - 
 
