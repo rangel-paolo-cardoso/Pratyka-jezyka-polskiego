@@ -4016,7 +4016,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One karmili / karmiły arę świeżymi owocami każdego ranka, aby zachować jej energię. Eles / Elas alimentavam a arara com frutas frescas todas as manhãs para manter sua energia.
  - (My) usłyszeliśmy / usłyszałyśmy arę w lesie, ale nie mogliśmy / mogłyśmy jej znaleźć między drzewami. (Nós) ouvimos a arara na floresta, mas não conseguimos encontrá-la entre as árvores.
 
-- [] Dzień 726 - 
+- [x] Dzień 726 - Tęcza - Rzeczownik żeński. (Arco-íris. - Rzeczownik męski)
+ - On / Ona widział / widziała tęczę po deszczu i pomyślał / pomyślała, że to znak szczęścia. Ele / Ela viu o arco-íris depois da chuva e pensou que era um sinal de sorte.
+ - (Ja) narysuję tęczę na kartce, żeby przypominała mi o letnich dniach. (Eu) vou desenhar um arco-íris no papel para me lembrar dos dias de verão.
+ - (Wy) widzieliście / widziałyście tęczę nad morzem, ale nie zdążyliście / zdążyłyście zrobić zdjęcia. Vocês viram o arco-íris sobre o mar, mas não tiveram tempo para tirar uma foto.
+ - (My) zobaczymy tęczę jutro po burzy, jeśli słońce znowu zaświeci. (Nós) veremos o arco-íris amanhã depois da tempestade, se o sol voltar a brilhar.
+ - Oni / One patrzyli / patrzyły na tęczę długo, bo kolory wydawały się magiczne. Eles / Elas observaram o arco-íris por muito tempo, porque as cores pareciam mágicas.
 
 - [] Dzień 727 - 
 
