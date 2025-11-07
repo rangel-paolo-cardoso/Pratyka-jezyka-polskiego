@@ -4023,7 +4023,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zobaczymy tęczę jutro po burzy, jeśli słońce znowu zaświeci. (Nós) veremos o arco-íris amanhã depois da tempestade, se o sol voltar a brilhar.
  - Oni / One patrzyli / patrzyły na tęczę długo, bo kolory wydawały się magiczne. Eles / Elas observaram o arco-íris por muito tempo, porque as cores pareciam mágicas.
 
-- [] Dzień 727 - 
+- [x] Dzień 727 - Obszar, Teren - Rzeczowniki męskie, Powierzchnia - Rzeczownik żeński. (Área. - Rzeczownik żeński)
+ - On / Ona badał / badała obszar wokół rzeki, żeby znaleźć miejsce na most. Ele / Ela examinou a área ao redor do rio para encontrar um lugar para a ponte.
+ - (Ja) zmierzę powierzchnię pola, gdy tylko skończy się deszcz. (Eu) medirei a área do campo assim que a chuva terminar.
+ - (Wy) widzieliście / widziałyście teren szkoły po remoncie? Teraz wygląda naprawdę pięknie. Vocês viram a área da escola após a reforma? Agora está realmente bonita.
+ - Oni / One zajmowali / zajmowały się ochroną obszaru, w którym rosły rzadkie rośliny. Eles / Elas cuidavam da proteção da área onde cresciam plantas raras.
+ - (My) planujemy powiększyć powierzchnię ogrodu w przyszłym roku. (Nós) planejamos ampliar a área do jardim no próximo ano.
 
 - [] Dzień 728 - 
 
