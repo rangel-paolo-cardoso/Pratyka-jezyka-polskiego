@@ -4030,7 +4030,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zajmowali / zajmowały się ochroną obszaru, w którym rosły rzadkie rośliny. Eles / Elas cuidavam da proteção da área onde cresciam plantas raras.
  - (My) planujemy powiększyć powierzchnię ogrodu w przyszłym roku. (Nós) planejamos ampliar a área do jardim no próximo ano.
 
-- [] Dzień 728 - 
+- [x] Dzień 728 - Piasek - Rzeczownik męski. (Areia. - Rzeczownik żeński)
+ - (Ja) budowałem / budowałam zamek z piasku, kiedy byłem / byłam dzieckiem nad morzem. (Eu) construía um castelo de areia quando era criança à beira-mar.
+ - On / Ona poczuł / poczuła gorący piasek pod stopami i uśmiechnął / uśmiechnęła się z radości. Ele / Ela sentiu a areia quente sob os pés e sorriu de alegria.
+ - (My) usiedliśmy / usiadłyśmy na piasku, żeby odpocząć po długim spacerze brzegiem morza. (Nós) nos sentamos na areia para descansar após uma longa caminhada à beira-mar.
+ - (Wy) znajdziecie muszle zakopane w piasku, jeśli dobrze poszukacie. Vocês encontrarão conchas enterradas na areia se procurarem bem.
+ - Oni / One będą chodzić boso po piasku, ciesząc się ciepłem letniego słońca. Eles / Elas caminharão descalços / descalças pela areia, aproveitando o calor do sol de verão.
 
 - [] Dzień 729 - 
 
