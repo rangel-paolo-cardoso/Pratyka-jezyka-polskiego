@@ -4037,7 +4037,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) znajdziecie muszle zakopane w piasku, jeśli dobrze poszukacie. Vocês encontrarão conchas enterradas na areia se procurarem bem.
  - Oni / One będą chodzić boso po piasku, ciesząc się ciepłem letniego słońca. Eles / Elas caminharão descalços / descalças pela areia, aproveitando o calor do sol de verão.
 
-- [] Dzień 729 - 
+- [x] Dzień 729 - Arena. (Arena. - Rzeczowniki żeńskie)
+ - (Ja) widziałem / widziałam arenę, na której odbywały się wielkie zawody sportowe. (Eu) vi a arena onde aconteciam grandes competições esportivas.
+ - On / Ona wystąpi jutro na arenie przed tysiącami ludzi z całego kraju. Ele / Ela se apresentará amanhã na arena diante de milhares de pessoas de todo o país.
+ - (My) siedzieliśmy / siedziałyśmy na arenie, obserwując emocjonujący finał turnieju. (Nós) estávamos sentados / sentadas na arena, observando a emocionante final do torneio.
+ - (Wy) byliście / byłyście na arenie, kiedy ogłoszono zwycięzcę konkursu muzycznego. Vocês estavam na arena quando o vencedor do concurso musical foi anunciado.
+ - Oni / One będą trenować na nowej arenie, aby przygotować się do mistrzostwa. Eles / Elas treinarão na nova arena para se prepararem para o campeonato.
 
 - [] Dzień 730 - 
 
