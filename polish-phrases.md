@@ -4044,7 +4044,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) byliście / byłyście na arenie, kiedy ogłoszono zwycięzcę konkursu muzycznego. Vocês estavam na arena quando o vencedor do concurso musical foi anunciado.
  - Oni / One będą trenować na nowej arenie, aby przygotować się do mistrzostwa. Eles / Elas treinarão na nova arena para se prepararem para o campeonato.
 
-- [] Dzień 730 - 
+- [x] Dzień 730 - Argument. (Argumento. - Rzeczowniki męskie)
+ - (Ja) przedstawiłem / przedstawiłam mocny argument, żeby przekonać wszystkich do mojego pomysłu. (Eu) apresentei um argumento forte para convencer todos da minha ideia.
+ - On / Ona nie zaakceptował / zaakceptowała jego / jej argumentu, mimo że był bardzo logiczny i dobrze przemyślany. Ele / Ela não aceitou o argumento dele / dela, embora fosse muito lógico e bem pensado.
+ - (My) użyliśmy / użyłyśmy kilku silnych argumentów, aby obronić nasze stanowisko w debacie. (Nós) usamos vários argumentos fortes para defender nossa posição no debate.
+ - (Wy) będziecie musieli / musiały przygotować argumenty, zanim zacznie się dyskusja. Vocês terão que preparar seus argumentos antes que a discussão comece.
+ - Oni / One spierali / spierały się przez godzinę, ale żaden argument nie zakończył sporu. Eles / Elas discutiram por uma hora, mas nenhum argumento encerrou a disputa.
 
 - [] Dzień 731 - 
 
