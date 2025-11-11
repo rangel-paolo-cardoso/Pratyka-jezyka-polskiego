@@ -4051,7 +4051,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) będziecie musieli / musiały przygotować argumenty, zanim zacznie się dyskusja. Vocês terão que preparar seus argumentos antes que a discussão comece.
  - Oni / One spierali / spierały się przez godzinę, ale żaden argument nie zakończył sporu. Eles / Elas discutiram por uma hora, mas nenhum argumento encerrou a disputa.
 
-- [] Dzień 731 - 
+- [x] Dzień 731 - Broń. (Arma. - Rzeczowniki żeńskie)
+ - (Ja) nigdy nie noszę broni, bo uważam, że przemoc niczego nie rozwiązuje. (Eu) nunca carrego uma arma, porque acho que a violência não resolve nada.
+ - On / Ona schował / schowała broń do szuflady, żeby nikt jej nie znalazła. Ele / Ela escondeu a arma na gaveta para que ninguém a encontrasse.
+ - (My) użyjemy tej broni tylko w sytuacji absolutnej konieczności. (Nós) usaremos esta arma apenas em uma situação de absoluta necessidade.
+ - (Wy) trzymacie broń w sejfie, prawda? To bardzo rozsądne. Vocês guardam a arma no cofre, certo? Isso é muito sensato.
+ - Oni / One znaleźli / znalazły broń pod starym mostem i zgłosili / zgłosiły to na policję. Eles / Elas encontraram uma arma debaixo da velha ponte e reportaram à polícia.
 
 - [] Dzień 732 - 
 
