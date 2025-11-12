@@ -4058,7 +4058,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) trzymacie broń w sejfie, prawda? To bardzo rozsądne. Vocês guardam a arma no cofre, certo? Isso é muito sensato.
  - Oni / One znaleźli / znalazły broń pod starym mostem i zgłosili / zgłosiły to na policję. Eles / Elas encontraram uma arma debaixo da velha ponte e reportaram à polícia.
 
-- [] Dzień 732 - 
+- [x] Dzień 732 - Pułapka. (Armadilha. - Rzeczowniki żeńskie)
+ - (Ja) wiem, że to wygląda jak prezent, ale to oczywista pułapka. (Eu) sei que isso parece um presente, mas é uma armadilha óbvia.
+ - On / Ona wpadł / wpadła w pułapkę, którą sam / sama wcześniej przygotował / przygotowała na innych. Ele / Ela caiu na armadilha que ele / ela mesmo / mesma havia preparado para os outros.
+ - (My) ustawimy pułapkę, żeby złapać złodzieja, który kradnie jabłka. (Nós) colocaremos uma armadilha para pegar o ladrão que rouba maçãs.
+ - (Wy) widzicie tę pułapkę na drodze? Lepiej jej nie dotykajcie. Vocês veem essa armadilha no caminho? É melhor não tocarem nela.
+ - Oni / One znaleźli / znalazły pułapkę w lesie i ostrzegli / ostrzegły wszystkich przed niebezpieczeństwem. Eles / Elas encontraram uma armadilha na floresta e alertaram todos sobre o perigo.
 
 - [] Dzień 733 - 
 
