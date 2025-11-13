@@ -4065,7 +4065,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) widzicie tę pułapkę na drodze? Lepiej jej nie dotykajcie. Vocês veem essa armadilha no caminho? É melhor não tocarem nela.
  - Oni / One znaleźli / znalazły pułapkę w lesie i ostrzegli / ostrzegły wszystkich przed niebezpieczeństwem. Eles / Elas encontraram uma armadilha na floresta e alertaram todos sobre o perigo.
 
-- [] Dzień 733 - 
+- [x] Dzień 733 - Szafek, Regał. (Armário. - Rzeczowniki męskie)
+ - (Ja) trzymam swoje książki w dużej szafie obok biurka. (Eu) guardo meus livros no grande armário ao lado da escrivaninha.
+ - On / Ona schował / schowała prezent do szafki, żeby nikt go nie znalazł. Ele / Ela escondeu o presente no armário para que ninguém o encontrasse.
+ - (My) naprawimy stary regał, który stoi w rogu pokoju. (Nós) consertaremos o velho armário que está no canto do quarto.
+ - (Ty) zawsze zostawiasz ubrania poza szafą, a nie w środku. Você sempre deixa as roupas fora do armário, e não dentro.
+ - Oni / One znaleźli / znalazły w starym szafy list, który miał wiele lat. Eles / Elas encontraram em um velho armário uma carta que tinha muitos anos.
 
 - [] Dzień 734 - 
 
