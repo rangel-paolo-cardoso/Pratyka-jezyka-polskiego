@@ -4072,7 +4072,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze zostawiasz ubrania poza szafą, a nie w środku. Você sempre deixa as roupas fora do armário, e não dentro.
  - Oni / One znaleźli / znalazły w starym szafy list, który miał wiele lat. Eles / Elas encontraram em um velho armário uma carta que tinha muitos anos.
 
-- [] Dzień 734 - 
+- [x] Dzień 734 - Przechowywać, Magazynować. (Armazenar. - Czasowniki)
+ - (Ja) przechowuję swoje dokumenty w bezpiecznym miejscu w domu. (Eu) armazeno meus documentos em um lugar seguro da casa.
+ - On / Ona magazynował / magazynowała żywność w piwnicy, gdy był / była młodszy / młodsza. Ele / Ela armazenava alimentos no porão quando era mais jovem.
+ - (My) będziemy przechowywać zdjęcia w chmurze, żeby ich nie zgubić. (Nós) armazenaremos as fotos na nuvem para não perdê-las (perder elas).
+ - Oni / One przechowywali / przechowywały dane na serwerze przez kilka lat. Eles / Elas armazenaram os dados no servidor por vários anos.
+ - (Ty) magazynujesz zbyt wiele rzeczy, które już nie są potrzebne. Você armazena coisas demais que já não são necessárias.
 
 - [] Dzień 735 - 
 
