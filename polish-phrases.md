@@ -4079,7 +4079,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One przechowywali / przechowywały dane na serwerze przez kilka lat. Eles / Elas armazenaram os dados no servidor por vários anos.
  - (Ty) magazynujesz zbyt wiele rzeczy, które już nie są potrzebne. Você armazena coisas demais que já não são necessárias.
 
-- [] Dzień 735 - 
+- [x] Dzień 735 - Archeologia. (Arqueologia. - Rzeczowniki żeńskie)
+- (Ja) studiuję archeologię, bo zawsze fascynowały mnie dawne kultury. (Eu) estudo arqueologia porque sempre me fascinaram as culturas antigas.
+- On / Ona badał / badała archeologię, aby lepiej zrozumieć historię regionu. Ele / Ela estudou arqueologia para compreender melhor a história da região.
+- (Wy) będziecie zgłębiać archeologię podczas wyprawy do Grecji. Vocês estudarão arqueologia durante a viagem à Grécia.
+- (My) zajmowałyśmy / zajmowaliśmy się archeologią, gdy odkryto ruiny starej świątyni. (Nós) estudávamos arqueologia quando as ruínas do antigo templo foram descobertas.
+- Oni / One interesują się archeologią, bo chcą badać zapomniane cywilizacje. Eles / Elas se interessam por arqueologia porque querem estudar civilizações esquecidas.
 
 - [] Dzień 736 - 
 
