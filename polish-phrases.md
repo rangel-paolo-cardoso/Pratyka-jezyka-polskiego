@@ -4093,7 +4093,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) konsultujemy się z architektem / architektką, gdy projektujemy wnętrza naszego biura. (Nós) consultamos um / uma arquiteto / arquiteta ao projetarmos o interior do nosso escritório.
  - Oni / One spotkali / spotkały architekta / architektkę, który / która pomagał / pomagała im odnowić stary budynek rodzinny. Eles / Elas encontraram um / uma arquiteto / arquiteta que os ajudou a renovar o velho prédio da família.
 
-- [] Dzień 737 - 
+- [x] Dzień 737 - Archiwum - Rzeczownik nijaki,  Plik - Rzeczownik męski. (Arquivo. - Rzeczownik męski)
+ - (Ja) otwieram dziś ważny plik, aby sprawdzić dane sprzed kilku miesięcy. (Eu) abro hoje um arquivo importante para verificar dados de alguns meses atrás.
+ - On / Ona przeglądał / przeglądała archiwum, w którym znalazł / znalazła dokumenty dotyczące historii rodziny. Ele / Ela consultou o arquivo onde encontrou documentos relacionados a história da família.
+ - (Wy) jutro pobierzecie ten plik, aby ukończyć projekt na czas. Vocês amanhã baixarão esse arquivo para terminar o projeto a tempo.
+ - (My) regularnie porządkujemy nasze archiwum, żeby łatwiej znaleźć stare materiały. (Nós) organizamos nosso arquivo regularmente para encontrar materiais antigos mais facilmente.
+ - Oni / One skopiowali / skopiowały plik, aby udostępnić go wszystkim członkom zespołu. Eles / Elas copiaram o arquivo para compartilhá-lo (compartilhar ele) com todos os membros do time.
 
 - [] Dzień 738 - 
 
