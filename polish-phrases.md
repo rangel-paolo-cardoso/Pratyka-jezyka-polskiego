@@ -4086,7 +4086,21 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (My) zajmowałyśmy / zajmowaliśmy się archeologią, gdy odkryto ruiny starej świątyni. (Nós) estudávamos arqueologia quando as ruínas do antigo templo foram descobertas.
 - Oni / One interesują się archeologią, bo chcą badać zapomniane cywilizacje. Eles / Elas se interessam por arqueologia porque querem estudar civilizações esquecidas.
 
-- [] Dzień 736 - 
+- [x] Dzień 736 - Architekt, Architektka. (Arquiteto / Arquiteta. - Rzeczowniki męskie, Rzeczowniki żeńskie)
+(Ja) pracuję jako architekt / architektka i projektuję nowoczesne domy nad jeziorem. 🇵🇱
+(Eu) trabalho como arquiteto / arquiteta e projeto casas modernas à beira do lago. 🇧🇷
+
+On / Ona był / była świetnym / świetną architektem / architektką, który / która tworzył / tworzyła funkcjonalne budynki miejskie. 🇵🇱
+Ele / Ela era um / uma excelente arquiteto / arquiteta que criava edifícios urbanos funcionais. 🇧🇷
+
+(Wy) będziecie współpracować z architektem / architektką, aby zaplanować nową szkołę. 🇵🇱
+Vocês trabalharão com um / uma arquiteto / arquiteta para planejar a nova escola. 🇧🇷
+
+(My) konsultujemy się z architektem / architektką, gdy projektujemy wnętrza naszego biura. 🇵🇱
+(Nós) consultamos um / uma arquiteto / arquiteta ao projetarmos o interior do nosso escritório. 🇧🇷
+
+Oni / One spotkali / spotkały architekta / architektkę, który / która pomagał / pomagała im odnowić stary budynek rodzinny. 🇵🇱
+Eles / Elas encontraram um / uma arquiteto / arquiteta que os ajudou a renovar o velho prédio da família. 🇧🇷
 
 - [] Dzień 737 - 
 
