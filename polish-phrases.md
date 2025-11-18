@@ -4100,7 +4100,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) regularnie porządkujemy nasze archiwum, żeby łatwiej znaleźć stare materiały. (Nós) organizamos nosso arquivo regularmente para encontrar materiais antigos mais facilmente.
  - Oni / One skopiowali / skopiowały plik, aby udostępnić go wszystkim członkom zespołu. Eles / Elas copiaram o arquivo para compartilhá-lo (compartilhar ele) com todos os membros do time.
 
-- [] Dzień 738 - 
+- [x] Dzień 738 - Drapać, Zadrapać. (Arranhar. - Czasowniki)
+ - On / Ona przypadkowo zadrapał / zadrapała stół, gdy przesuwał / przesuwała ciężką torbę. Ele / Ela arranhou a mesa sem querer ao mover a bolsa pesada.
+ - Kot / kotka drapie drzwi, bo znowu chce wyjść i robi hałas. O gato / a gata arranha a porta porque quer sair de novo e está fazendo barulho.
+ - (Wy) jutro nie zadrapiecie ściany,  jeśli będziecie uważać przy przenoszeniu mebli. Vocês amanhã não arranharão a parede se tiverem cuidado ao mover os móveis.
+ - (My) drapiemy starą farbę z okna, żeby przygotować je do malowania. (Nós) arranhamos a tinta velha da janela para prepará-la para pintura.
+ - Oni / One zadrapali / zadrapały metalową powierzchnię, kiedy testowali / testowały nowe narzędzie. Eles / Elas arranharam a superfície de metal quando testavam a nova ferramenta.
 
 - [] Dzień 739 - 
 
