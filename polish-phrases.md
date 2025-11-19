@@ -4107,7 +4107,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) drapiemy starą farbę z okna, żeby przygotować je do malowania. (Nós) arranhamos a tinta velha da janela para prepará-la para pintura.
  - Oni / One zadrapali / zadrapały metalową powierzchnię, kiedy testowali / testowały nowe narzędzie. Eles / Elas arranharam a superfície de metal quando testavam a nova ferramenta.
 
-- [] Dzień 739 - 
+- [x] Dzień 739 - Ciągnąć, Przeciągnąć, Wlec, Włóczyć, Zaciągnąć. (Arrastar. - Czasowniki)
+ - On / Ona ciągnie ciężką walizkę po chodniku, bo nie działa jej kółko. Ele / Ela arrasta a mala pesada pela calçada porque a rodinha dela não funciona.
+ - (Ja) wlokłem / wlokłam torbę po schodach, bo byłem / byłam zbyt zmęczony / zmęczona, aby ją podnieść. (Eu) arrastei a bolsa escada acima porque estava cansado / cansada demais para levantá-la (levantar ela).
+ - (Wy) będziecie przeciągać skrzynię przez magazyn, jeśli nikt wam nie pomoże. Vocês arrastarão a caixa pelo depósito se ninguém ajudar vocês.
+ - (My) wleczemy za sobą sprzęt, dopóki nie znajdziemy lepszego miejsca na biwak. (Nós) arrastamos o equipamento (atrás de nós) até encontrarmos um lugar melhor para acampar.
+ - Oni / One zaciągnęli / zaciągnęły samochód pod dach, zanim burza zaczęła się na dobre. Eles / Elas arrastaram o carro para baixo da cobertura antes que a tempestade começasse (para valer, de verdade, de vez).
 
 - [] Dzień 740 - 
 
