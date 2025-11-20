@@ -4114,7 +4114,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wleczemy za sobą sprzęt, dopóki nie znajdziemy lepszego miejsca na biwak. (Nós) arrastamos o equipamento (atrás de nós) até encontrarmos um lugar melhor para acampar.
  - Oni / One zaciągnęli / zaciągnęły samochód pod dach, zanim burza zaczęła się na dobre. Eles / Elas arrastaram o carro para baixo da cobertura antes que a tempestade começasse (para valer, de verdade, de vez).
 
-- [] Dzień 740 - 
+- [x] Dzień 740 - Zaokrąglać, Zaokrąglić. (Arredondar. - CZasowniki)
+ - (Ja) zaokrągliłem / zaokrągliłam wszystkie liczby, żeby raport był bardziej przejrzysty. (Eu) arredondei todos os números para que o relatório ficasse mais claro.
+ - On / Ona zaokrągla wartości codziennie, aby dane wyglądały równo. Ele / Ela arredonda os valores todos os dias para que os dados fiquem (pareçam) alinhados.
+ - (Wy) zaokrągliliście / zaokrągliłyście wynik, bo tak wymagało zadanie. Vocês arredondaram o resultado porque a tarefa exigia isso.
+ - (My) zaokrąglimy kwotę jutro, jeśli pojawią się nowe dane. (Nós) arredondaremos a quantia amanhã, se surgirem novos dados.
+ - Oni / One zaokrąglili / zaokrągliły sumę na końcu obliczeń, żeby uniknąć błędów. Eles / Elas arredondaram o total no fim dos cálculos para evitar erros.
 
 - [] Dzień 741 - 
 
