@@ -4121,7 +4121,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zaokrąglimy kwotę jutro, jeśli pojawią się nowe dane. (Nós) arredondaremos a quantia amanhã, se surgirem novos dados.
  - Oni / One zaokrąglili / zaokrągliły sumę na końcu obliczeń, żeby uniknąć błędów. Eles / Elas arredondaram o total no fim dos cálculos para evitar erros.
 
-- [] Dzień 741 - 
+- [x] Dzień 741 - Rzucać, Rzucić. (Arremessar. - Czaowniki)
+ - (Ja) rzuciłem / rzuciłam piłkę tak mocno, że poleciała dalej niż zwykle. (Eu) arremessei a bola tão forte que ela foi mais longe que o normal.
+ - On / Ona rzuca kamieniem do wody, żeby robić fale. Ele / Ela arremessa uma pedra na água para fazer ondas.
+ - (Wy) rzuciliście / rzuciłyście worek na ciężarówkę, bo był zbyt ciężki, żeby go nieść. Vocês arremessaram o saco para o caminhão porque estava pesado demais para carregar ele (carregá-lo).
+ - (My) rzucimy piłkami jutro podczas treningu. (Nós) arremessaremos as bolas amanhã durante o treino.
+ - Oni / One rzucili / rzuciły narzędzia na stół, bo byli / były już zmęczeni / zmęczone. Eles / Elas arremessaram as ferramentas sobre a mesa porque já estavam cansados / cansadas.
 
 - [] Dzień 742 - 
 
