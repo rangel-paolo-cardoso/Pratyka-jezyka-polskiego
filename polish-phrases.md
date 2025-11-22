@@ -4128,7 +4128,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) rzucimy piłkami jutro podczas treningu. (Nós) arremessaremos as bolas amanhã durante o treino.
  - Oni / One rzucili / rzuciły narzędzia na stół, bo byli / były już zmęczeni / zmęczone. Eles / Elas arremessaram as ferramentas sobre a mesa porque já estavam cansados / cansadas.
 
-- [] Dzień 742 - 
+- [x] Dzień 742 - Żałować, Pożałować. (Arrepender. - Czasowniki)
+ - On / Ona pożałuje swojej decyzji, jeśli nie zmieni planów. Ele / Ela vai se arrepender da decisão dele / dela se não mudar os planos.
+ - (Ja) żałowałem / żałowałam, że nie poszedłem / poszłam wcześniej na spotkanie. (Eu) me arrependi de não ter ido mais cedo ao encontro.
+ - (Wy) pożałujecie tych słów, jeśli nie przeprosicie. Vocês vão se arrepender dessas palavras se não pedirem desculpas.
+ - Oni / One żałowali / żałowały, że nie pomogli / pomogły wcześniej. Eles / Elas se arrependeram de não ter ajudado antes.
+ - (My) będziemy żałować, jeśli nie wykorzystamy tej szansy. (Nós) vamos nos arrepender se não aproveitarmos essa chance.
 
 - [] Dzień 743 - 
 
