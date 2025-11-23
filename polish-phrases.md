@@ -4142,7 +4142,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One jeżyli / jeżyły się z zimna, bo wiatr był naprawdę lodowaty. Eles / Elas se arrepiaram de frio porque o vento estava realmente gelado.
  - (My) dostajemy gęsiej skórki, kiedy ta historia wraca w rozmowie. (Nós) nos arrepiamos quando essa história volta à conversa.
 
-- [] Dzień 744 - 
+- [x] Dzień 744 - Ryzykowny / Ryzykowna. (Arriscado / Arriscada. - Przymiotniki)
+ - On / Ona uznał / uznała, że ten ryzykowny krok mógł zmienić jego / jej życie. Ele / Ela achou que esse passo arriscado podia mudar a vida dele / dela.
+ - (Ja) wiem, że ta ryzykowna propozycja może przynieść wielkie korzyści. (Eu) sei que essa proposta arriscada pode trazer grandes benefícios.
+ - (My) podejmiemy tę ryzykowną misję, jeśli wszystko dobrze się ułoży. (Nós) assumiremos essa missão arriscada se tudo der certo.
+ - (Wy) zakończyliście / zakończyłyście tę ryzykowną próbę mimo trudności. Vocês terminaram aquela tentativa arriscada apesar das dificuldades.
+ - Oni / One uważają, że ten ryzykowny pomysł może naprawdę się udać. Eles / Elas acham que essa ideia arriscada pode realmente dar certo.
 
 - [] Dzień 745 - 
 
