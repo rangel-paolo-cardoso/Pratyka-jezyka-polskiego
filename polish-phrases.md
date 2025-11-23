@@ -4135,7 +4135,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One żałowali / żałowały, że nie pomogli / pomogły wcześniej. Eles / Elas se arrependeram de não ter ajudado antes.
  - (My) będziemy żałować, jeśli nie wykorzystamy tej szansy. (Nós) vamos nos arrepender se não aproveitarmos essa chance.
 
-- [] Dzień 743 - 
+- [x] Dzień 743 - Jeżyć się, Dostawać gęsiej skórki - Wyrażenie. (Arrepiar. - Czasowniki)
+ - (Ja) dostałem / dostałam gęsiej skórki, gdy usłyszałem / usłyszałam ten krzyk. (Eu) me arrepiei quando ouvi aquele grito.
+ - On / Ona jeży się ze strachu, gdy ktoś nagle puka do drzwi. Ele / Ela se arrepia de medo quando alguém bate de repente na porta.
+ - (Wy) dostaniecie gęsiej skórki, jeśli ta muzyka znów się zacznie. Vocês vão se arrepiar se aquela música começar de novo.
+ - Oni / One jeżyli / jeżyły się z zimna, bo wiatr był naprawdę lodowaty. Eles / Elas se arrepiaram de frio porque o vento estava realmente gelado.
+ - (My) dostajemy gęsiej skórki, kiedy ta historia wraca w rozmowie. (Nós) nos arrepiamos quando essa história volta à conversa.
 
 - [] Dzień 744 - 
 
