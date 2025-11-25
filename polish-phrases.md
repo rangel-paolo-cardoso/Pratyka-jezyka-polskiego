@@ -4149,7 +4149,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) zakończyliście / zakończyłyście tę ryzykowną próbę mimo trudności. Vocês terminaram aquela tentativa arriscada apesar das dificuldades.
  - Oni / One uważają, że ten ryzykowny pomysł może naprawdę się udać. Eles / Elas acham que essa ideia arriscada pode realmente dar certo.
 
-- [] Dzień 745 - 
+- [x] Dzień 745 - Ryzykować, Zaryzykować. (Arriscar. - Czasowniki)
+ - (Ja) zaryzykowałem / zaryzykowałam wejście tam, choć wszyscy mnie ostrzegali. (Eu) arrisquei entrar lá, embora todos tivessem me alertado.
+ - On / Ona ryzykuje wiele, gdy podejmuje takie kroki codziennie. Ele / Ela arrisca muito quando dá esses passos todos os dias.
+ - (My) zaryzykujemy jutro, jeśli pojawi się naprawdę dobra okazja. (Nós) arriscaremos amanhã se surgir uma oportunidade realmente boa.
+ - (Wy) zaryzykowaliście / zaryzykowałyście zmianę planów, chociaż było to niepewne. Vocês arriscaram mudar os planos, mesmo isso sendo incerto.
+ - Oni / One ryzykują swoim czasem, próbując stworzyć coś wyjątkowego. Eles / Elas arriscam seu tempo tentando criar algo especial.
 
 - [] Dzień 746 - 
 
