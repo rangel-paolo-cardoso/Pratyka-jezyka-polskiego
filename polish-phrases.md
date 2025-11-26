@@ -4156,7 +4156,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) zaryzykowaliście / zaryzykowałyście zmianę planów, chociaż było to niepewne. Vocês arriscaram mudar os planos, mesmo isso sendo incerto.
  - Oni / One ryzykują swoim czasem, próbując stworzyć coś wyjątkowego. Eles / Elas arriscam seu tempo tentando criar algo especial.
 
-- [] Dzień 746 - 
+- [x] Dzień 746 - Arytmia, Zaburzenia rytmu serca - Wyrażenie. (Arritmia. - Rzeczowniki żeńskie)
+ - (Ja) zauważyłem / zauważyłam arytmię, gdy nagle zaczęło mi szybciej bić serce. (Eu) percebi a arritmia quando de repente meu coração começou a bater mais rápido.
+ - On / Ona ma obecnie łagodną arytmię, choć czuje się całkiem dobrze. Ele / Ela tem uma arritmia leve no momento, embora se sinta muito bem.
+ - (My) sprawdzimy arytmię jutro, jeśli lekarz zaleci dodatkowe badania. (Nós) verificaremos a arritmia amanhã se o médico recomendar exames extras.
+ - (Wy) zauważyliście / zauważyłyście arytmię u pacjenta / pacjentki, zanim on / ona zwrócił / zwróciła uwagę na objawy. Vocês perceberam a arritmia no / na paciente antes de ele / ela (dele / dela) notar os sintomas.
+ - Oni / One monitorują arytmię, bo obawiają się nagłych zmian rytmu serca. Eles / Elas monitoram a arritmia porque temem mudanças repentinas no ritmo cardíaco (do coração).
 
 - [] Dzień 747 - 
 
