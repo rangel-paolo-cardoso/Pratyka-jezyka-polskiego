@@ -4163,7 +4163,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) zauważyliście / zauważyłyście arytmię u pacjenta / pacjentki, zanim on / ona zwrócił / zwróciła uwagę na objawy. Vocês perceberam a arritmia no / na paciente antes de ele / ela (dele / dela) notar os sintomas.
  - Oni / One monitorują arytmię, bo obawiają się nagłych zmian rytmu serca. Eles / Elas monitoram a arritmia porque temem mudanças repentinas no ritmo cardíaco (do coração).
 
-- [] Dzień 747 - 
+- [x] Dzień 747 - Arogancki, Arogancka. (Arrogante. - Przymiotniki)
+ - (Ja) byłem / byłam arogancki / arogancka, kiedy rozmawiałem / rozmawiałam z zespołem, ale później tego żałowałem / żałowałam. (Eu) fui arrogante quando conversei com a equipe, mas depois me arrependi disso.
+ - Oni / One są dziś wyjątkowo aroganccy / aroganckie, dlatego trudno z nimi współpracować. Eles / Elas estão especialmente arrogantes hoje, por isso é difícil trabalhar com eles / elas.
+ - (Ty) będziesz arogancki / arogancka, jeśli znowu zignorujesz nasze sugestie. Você será arrogante se ignorar nossas sugestões novamente.
+ - (My) jesteśmy aroganccy / aroganckie, bo uważamy, że cały czas mamy rację. (Nós) somos arrogantes porque achamos que estamos certos / certas o tempo todo.
+ - On / Ona był / była bardzo arogancki / arogancka, gdy odmówił / odmówiła pomocy wszystkim. Ele / Ela foi muito arrogante quando recusou ajudar a todos.
 
 - [] Dzień 748 - 
 
