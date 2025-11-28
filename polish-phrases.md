@@ -4170,7 +4170,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jesteśmy aroganccy / aroganckie, bo uważamy, że cały czas mamy rację. (Nós) somos arrogantes porque achamos que estamos certos / certas o tempo todo.
  - On / Ona był / była bardzo arogancki / arogancka, gdy odmówił / odmówiła pomocy wszystkim. Ele / Ela foi muito arrogante quando recusou ajudar a todos.
 
-- [] Dzień 748 - 
+- [x] Dzień 748 - Bek - Rzeczownik męski, Odbicie - Rzeczownik nijaki. (Arroto. - Rzeczownik męski)
+ - On / Ona zawsze ukrywa bek, bo uważa to za niekulturalne. Ele / Ela sempre esconde o arroto, porque acha isso falta de educação.
+ - Oni / One słyszeli / słyszały głośne odbicie, kiedy ktoś obok nich skończył jeść. Eles / Elas ouviram um arroto alto quando alguém ao lado deles / delas terminou de comer.
+ - (My) będziemy żartować z beku, jeśli sytuacja nie będzie poważna. (Nós) vamos brincar com o arroto se a situação não for séria.
+ - (Ja) słyszałem / słyszałam bek, który przerwał całe spotkanie. (Eu) ouvi um arroto que interrompeu toda a reunião.
+ - (Wy) reagujecie śmiechem na każde odbicie, które słyszycie przy stole. Vocês reagem com risos a cada arroto que ouvem à mesa.
 
 - [] Dzień 749 - 
 
