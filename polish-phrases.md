@@ -4177,7 +4177,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) słyszałem / słyszałam bek, który przerwał całe spotkanie. (Eu) ouvi um arroto que interrompeu toda a reunião.
  - (Wy) reagujecie śmiechem na każde odbicie, które słyszycie przy stole. Vocês reagem com risos a cada arroto que ouvem à mesa.
 
-- [] Dzień 749 - 
+- [x] Dzień 749 - Ryż. (Arroz. - Rzeczowniki męskie)
+ - On / Ona gotuje dziś ryż, bo chce przygotować lekkie danie na kolację. Ele / Ela cozinha arroz hoje porque quer preparar um prato leve para o jantar.
+ - Oni / One kupili / kupiły świeży ryż, aby zrobić większy obiad dla rodziny. Eles / Elas compraram arroz fresco para fazer um almoço maior para a família.
+ - (My) będziemy mieszać ryż z warzywami, żeby stworzyć zdrowszy posiłek. (Nós) vamos misturar arroz com legumes para criar uma refeição mais saudável.
+ - (Ja) znalazłem / znalazłam ryż w szafce, choć myślałem / myślałam, że już się skończył. (Eu) encontrei arroz no armário, embora eu achasse que já tivesse acabado.
+ - (Wy) dodajecie ryż do tej zupy, bo lubicie ją bardziej kremową. Vocês adicionam arroz a essa sopa porque gostam dela mais cremosa.
 
 - [] Dzień 750 - 
 
