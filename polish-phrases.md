@@ -4184,7 +4184,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) znalazłem / znalazłam ryż w szafce, choć myślałem / myślałam, że już się skończył. (Eu) encontrei arroz no armário, embora eu achasse que já tivesse acabado.
  - (Wy) dodajecie ryż do tej zupy, bo lubicie ją bardziej kremową. Vocês adicionam arroz a essa sopa porque gostam dela mais cremosa.
 
-- [] Dzień 750 - 
+- [x] Dzień 750 - Zrujnować, Popsuć, Zniszczyć. (Arruinar. - Czasowniki)
+ - On / Ona zrujnuje cały plan, jeśli znów podejmie tę ryzykowną decyzję. Ele / Ela vai arruinar todo o plano se tomar essa decisão arriscada de novo.
+ - (Ja) popsułem / popsułam wszystko, gdy powiedziałem / powiedziałam coś bez zastanowienia podczas spotkania. (Eu) arruinei tudo quando falei algo sem pensar durante a reunião.
+ - (My) niszczymy nasze postępy, jeśli zignorujemy te instrukcje ponownie. (Nós) arruinamos nosso progresso quando ignoramos essas instruções novamente.
+ - Oni / One zrujnowali / zrujnowały projekt, ponieważ nie wysłuchali / wysłuchały sugestii zespołu. Eles / Elas arruinaram o projeto porque não ouviram as sugestões da equipe.
+ - (Wy) popsujecie atmosferę, jeśli zaczniecie kłócić się o drobiazgi. Vocês vão arruinar a atmosfera se começarem a discutir por coisas pequenas.
 
 - [] Dzień 751 - 
 
