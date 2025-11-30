@@ -4191,7 +4191,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One zrujnowali / zrujnowały projekt, ponieważ nie wysłuchali / wysłuchały sugestii zespołu. Eles / Elas arruinaram o projeto porque não ouviram as sugestões da equipe.
  - (Wy) popsujecie atmosferę, jeśli zaczniecie kłócić się o drobiazgi. Vocês vão arruinar a atmosfera se começarem a discutir por coisas pequenas.
 
-- [] Dzień 751 - 
+- [x] Dzień 751 - Schludny / Schludna, Uporządkowany / Uporządkowana. (Arrumado / Arrumada. - Przymiotniki)
+ - (Ja) byłem / byłam schludny / schludna, gdy kończyłem / kończyłam przygotowania do wyjścia. Eu estava arrumado / arrumada quando terminei os preparativos para sair.
+ - On / Ona jest uporządkowany / uporządkowana, bo zawsze trzyma wszystkie rzeczy na swoim miejscu. Ele / Ela é arrumado / arrumada porque sempre mantém todas as coisas em seu lugar.
+ - (Wy) będziecie schludni / schludne, jeśli dobrze przygotujecie się na spotkanie. Vocês estarão arrumados / arrumadas se se prepararem bem para a reunião.
+ - (My) jesteśmy uporządkowani / uporządkowane, ponieważ codziennie dbamy o porządek w biurze. (Nós) somos arrumados / arrumadas porque cuidamos da ordem (organização) no escritório todos os dias.
+ - Oni / One byli / były schludni / schludne, gdy przyjechali / przyjechały na ważne wydarzenie. Eles / Elas estavam arrumados / arrumadas quando chegaram ao evento importante.
 
 - [] Dzień 752 - 
 
