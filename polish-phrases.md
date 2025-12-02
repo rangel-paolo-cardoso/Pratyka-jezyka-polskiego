@@ -4198,7 +4198,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jesteśmy uporządkowani / uporządkowane, ponieważ codziennie dbamy o porządek w biurze. (Nós) somos arrumados / arrumadas porque cuidamos da ordem (organização) no escritório todos os dias.
  - Oni / One byli / były schludni / schludne, gdy przyjechali / przyjechały na ważne wydarzenie. Eles / Elas estavam arrumados / arrumadas quando chegaram ao evento importante.
 
-- [] Dzień 752 - 
+- [x] Dzień 752 - Sprzątać, Uporządkować, Posprzątać, Przygotować. (Arrumar. - Czasowniki)
+ - (Ja) posprzątam pokój później, jeśli skończę tę pracę na czas. (Eu) vou arrumar o quarto mais tarde se terminar este trabalho a tempo.
+ - On / Ona sprząta biuro codziennie, bo lubi mieć wszystko w porządku. Ele / Ela arruma o escritório todos os dias porque gosta de ter tudo em ordem.
+ - (Wy) uporządkowaliście / uporządkowałyście dokumenty, zanim szef / szefowa wrócił / wróciła do firmy. Vocês arrumaram os documentos antes que o / a chefe voltasse para a empresa.
+ - (My) przygotujemy wszystko na spotkanie, jeśli dostaniemy listę zadań. (Nós) vamos arrumar tudo para a reunião se recebermos a lista de tarefas.
+ - Oni / One posprzątali / posprzątały mieszkanie, bo goście mieli przyjść wcześniej. Eles / Elas arrumaram o apartamento porque os convidados iam chegar mais cedo.
 
 - [] Dzień 753 - 
 
