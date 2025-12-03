@@ -4205,7 +4205,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przygotujemy wszystko na spotkanie, jeśli dostaniemy listę zadań. (Nós) vamos arrumar tudo para a reunião se recebermos a lista de tarefas.
  - Oni / One posprzątali / posprzątały mieszkanie, bo goście mieli przyjść wcześniej. Eles / Elas arrumaram o apartamento porque os convidados iam chegar mais cedo.
 
-- [] Dzień 753 - 
+- [x] Dzień 753 - Sztuka. (Arte. - Rzeczowniki żeńskie)
+ - (Ja) zawsze podziwiałem / podziwiałam sztukę, bo pomagała mi zrozumieć różne emocje. (Eu) sempre admirei a arte porque ela me ajudava a entender várias emoções.
+ - On / Ona uczył / uczyła się sztuki, aby w przyszłości tworzyć naprawdę wyjątkowe obrazy. Ele / Ela estudou arte para no futuro criar pinturas realmente especiais.
+ - (Wy) odkrywacie nowe style sztuki, gdy odwiedzacie różne galerie w mieście. Vocês descobrem novos estilos de arte quando visitam várias galerias na cidade.
+ - (My) ceniliśmy / ceniłyśmy sztukę bardziej, gdy poznaliśmy / poznałyśmy historię jej powstania. (Nós) valorizamos mais a arte quando conhecemos a história de sua criação.
+ - Oni / One będą wspierać lokalną sztukę, jeśli miasto otworzy nową pracownię. Eles / Elas vão apoiar a arte local se a cidade abrir um novo ateliê.
 
 - [] Dzień 754 - 
 
