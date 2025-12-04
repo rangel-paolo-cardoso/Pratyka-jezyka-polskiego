@@ -4212,7 +4212,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) ceniliśmy / ceniłyśmy sztukę bardziej, gdy poznaliśmy / poznałyśmy historię jej powstania. (Nós) valorizamos mais a arte quando conhecemos a história de sua criação.
  - Oni / One będą wspierać lokalną sztukę, jeśli miasto otworzy nową pracownię. Eles / Elas vão apoiar a arte local se a cidade abrir um novo ateliê.
 
-- [] Dzień 754 - 
+- [x] Dzień 754 - Artykulacja. (Articulação. - Rzeczowniki żeńskie)
+ - (Ja) odkryłem / odkryłam, że artykulacja dźwięków w tym języku jest naprawdę złożona. (Eu) descobri que a articulação dos sons nessa língua é realmente complexa.
+ - (Ty) zrozumiesz lepiej mowę, jeśli poświęcisz czas na poprawną artykulację. Você entenderá melhor a fala se dedicar tempo à articulação correta.
+ - On / Ona zauważył / zauważyła, że artykulacja w tym utworze muzycznym dodaje mu / jej głębi emocji. Ele / Ela percebeu que a articulação nessa peça musical lhe dá profundidade de emoção.
+ - (My) będziemy ćwiczyć artykulację, żeby nasza wymowa była czysta i zrozumiała. (Nós) vamos praticar a articulação para que nossa pronúncia seja clara e compreensível.
+ - Oni / One zawsze dbają o dobrą artykulację podczas prezentacji, aby dobrze przekazać treść. Eles / Elas sempre cuidam de uma boa articulação durante apresentações para transmitir bem o conteúdo.
 
 - [] Dzień 755 - 
 
