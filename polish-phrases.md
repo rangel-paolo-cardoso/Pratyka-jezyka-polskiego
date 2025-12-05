@@ -4219,7 +4219,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy ćwiczyć artykulację, żeby nasza wymowa była czysta i zrozumiała. (Nós) vamos praticar a articulação para que nossa pronúncia seja clara e compreensível.
  - Oni / One zawsze dbają o dobrą artykulację podczas prezentacji, aby dobrze przekazać treść. Eles / Elas sempre cuidam de uma boa articulação durante apresentações para transmitir bem o conteúdo.
 
-- [] Dzień 755 - 
+- [x] Dzień 755 - Sztuczny, Sztuczna. (Artificial. - Przymiotniki)
+ - (Ja) byłem / byłam przekonany / przekonana, że ten sztuczny smak deseru zepsuł cały mój dzień. (Eu) fiquei convencido / convencida de que o sabor artificial da sobremesa estragou todo o meu dia.
+ - On / Ona unika niektórych potraw, bo uważa, że ich sztuczny zapach psuje cały apetyt. Ele / Ela evita certos pratos porque acha que o cheiro artificial deles arruina todo o apetite.
+ - (Wy) rozpoznacie ten sztuczny kolor, gdy zobaczycie produkt z bliska. Vocês reconhecerão essa cor artificial quando virem o produto de perto.
+ - (My) często odrzucamy dekoracje, bo wydają nam się zbyt sztuczne i zimne. (Nós) frequentemente rejeitamos as decorações porque (nos) parecem artificiais demais e frias.
+ - Oni / One ocenili / oceniły, że ten sztuczny uśmiech sprzedawcy wydawał się bardzo wymuszony. Eles / Elas acharam que o sorriso artificial do vendedor parecia muito forçado.
 
 - [] Dzień 756 - 
 
