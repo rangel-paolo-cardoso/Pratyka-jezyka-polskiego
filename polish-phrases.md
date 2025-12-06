@@ -4226,7 +4226,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często odrzucamy dekoracje, bo wydają nam się zbyt sztuczne i zimne. (Nós) frequentemente rejeitamos as decorações porque (nos) parecem artificiais demais e frias.
  - Oni / One ocenili / oceniły, że ten sztuczny uśmiech sprzedawcy wydawał się bardzo wymuszony. Eles / Elas acharam que o sorriso artificial do vendedor parecia muito forçado.
 
-- [] Dzień 756 - 
+- [x] Dzień 756 - Artysta / Artystka. (Artista. - Rzeczowniki, Przymiotniki)
+ - (Ja) byłem / byłam artystą / artystką, gdy tworzyłem / tworzyłam szkice przez całą noc w swoim pokoju. (Eu) fui artista quando fiz esboços a noite inteira no meu quarto.
+ - On / Ona jest artystą / artystką, bo codziennie maluje obrazy inspirowane naturą. Ele / Ela é artista porque pinta quadros inspirados na natureza todos os dias.
+ - (Wy) będziecie artystami / artystkami, jeśli zaprezentujecie swoje prace na wystawie. Vocês serão artistas se apresentarem seus trabalhos na exposição.
+ - (My) wspieraliśmy / wspierałyśmy młodego / młodą artystę / artystkę, gdy przygotowywał / przygotowywała swój pierwszy koncert. (Nós) apoiamos o / a jovem artista enquanto ele / ela preparava seu primeiro concerto.
+ - Oni / One podziwiają artystę / artystkę, który / która stworzył / stworzyła rzeźbę stojącą na rynku. Eles / Elas admiram o / a artista que criou a escultura que fica na praça.
 
 - [] Dzień 757 - 
 
