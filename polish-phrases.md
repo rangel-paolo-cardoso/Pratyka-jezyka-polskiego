@@ -4233,7 +4233,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wspieraliśmy / wspierałyśmy młodego / młodą artystę / artystkę, gdy przygotowywał / przygotowywała swój pierwszy koncert. (Nós) apoiamos o / a jovem artista enquanto ele / ela preparava seu primeiro concerto.
  - Oni / One podziwiają artystę / artystkę, który / która stworzył / stworzyła rzeźbę stojącą na rynku. Eles / Elas admiram o / a artista que criou a escultura que fica na praça.
 
-- [] Dzień 757 - 
+- [x] Dzień 757 - Drzewo - Rzeczownik nijaki, Drzewa - Liczba mnoga. (Árvore - Rzeczownik żeński, Árvores. - Liczba mnoga)
+ - (Ja) podziwiałem / podziwiałam stare drzewo, gdy wracałem / wracałam samotnie do domu o zmierzchu. (Eu) admirei a velha árvore quando voltava sozinho / sozinha para casa ao entardecer.
+ - On / Ona codziennie obserwuje to drzewo, bo przypomina mu / jej ważne chwile z dzieciństwa. Ele / Ela observa essa árvore todos os dias porque ela o / a lembra de momentos importantes da infância.
+ - (My) posadzimy nowe drzewo, jeśli jutro pogoda będzie odpowiednio łagodna. (Nós) plantaremos uma nova árvore se o clima estiver suficientemente agradável amanhã.
+ - (Wy) znaleźliście / znalazłyście rzadkie drzewo, kiedy szukaliście / szukałyście spokojnego miejsca na odpoczynek. Vocês encontraram uma árvore rara quando procuravam um lugar tranquilo para descansar.
+ - Oni / One pielęgnują to drzewo, bo wierzą, że przynosi im spokój i dobrą energię. Eles / Elas cuidam dessa árvore porque acreditam que ela traz (a eles / elas) paz e boa energia.
 
 - [] Dzień 758 - 
 
