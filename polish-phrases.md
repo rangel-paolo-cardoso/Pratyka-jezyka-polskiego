@@ -4240,7 +4240,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) znaleźliście / znalazłyście rzadkie drzewo, kiedy szukaliście / szukałyście spokojnego miejsca na odpoczynek. Vocês encontraram uma árvore rara quando procuravam um lugar tranquilo para descansar.
  - Oni / One pielęgnują to drzewo, bo wierzą, że przynosi im spokój i dobrą energię. Eles / Elas cuidam dessa árvore porque acreditam que ela traz (a eles / elas) paz e boa energia.
 
-- [] Dzień 758 - 
+- [x] Dzień 758 - Skrzydło (asa – substantivo neutro), Skrzydła (asas – plural)
+ - (Ja) dotknąłem / dotknęłam skrzydła ptaka, gdy próbowałem / próbowałam mu pomóc po burzy. (Eu) toquei a asa do pássaro quando tentei ajudá-lo após a tempestade.
+ - On / Ona obserwuje skrzydło samolotu, bo zawsze interesowały go / ją loty. Ele / Ela observa a asa do avião porque sempre (ele / ela) se interessou por voos.
+ - (My) naprawimy uszkodzone skrzydło drona, jeśli jutro znajdziemy czas. (Nós) vamos consertar a asa danificada do drone se encontrarmos tempo amanhã.
+ - (Wy) odkryliście / odkryłyście uszkodzone skrzydło samolotu, gdy spacerowaliście / spacerowałyście po lesie. Vocês encontraram a asa danificada do avião enquanto caminhavam pela floresta.
+ - Oni / One podnoszą skrzydła latawca, bo chcą, żeby poleciał wyżej. Eles / Elas levantam as asas do pipa porque querem que ele voe mais alto.
 
 - [] Dzień 759 - 
 
