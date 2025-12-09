@@ -4247,7 +4247,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) odkryliście / odkryłyście uszkodzone skrzydło samolotu, gdy spacerowaliście / spacerowałyście po lesie. Vocês encontraram a asa danificada do avião enquanto caminhavam pela floresta.
  - Oni / One podnoszą skrzydła latawca, bo chcą, żeby poleciał wyżej. Eles / Elas levantam as asas do pipa porque querem que ele voe mais alto.
 
-- [] Dzień 759 - 
+- [x] Dzień 759 - Asfalt. (Asfalto. - Rzeczowniki męskie)
+ - (Ja) widziałem / widziałam popękany asfalt, kiedy rano jechałem / jechałam do pracy. (Eu) vi o asfalto rachado quando eu ia para o trabalho de manhã.
+ - On / Ona zawsze omija śliski asfalt, gdy jedzie rowerem. Ele / Ela sempre desvia do asfalto escorregadio quando anda de bicicleta.
+ - (Wy) będziecie naprawiali / naprawiały stary asfalt, jeśli jutro pogoda dopisze. Vocês irão consertar o asfalto velho se o tempo ajudar (cooperar) amanhã.
+ - Oni / One położyli / położyły nowy asfalt przed szkołą w zeszłym tygodniu. Eles / Elas colocaram asfalto novo em frente à escola na semana passada.
+ - (My) badamy jakość asfaltu, zanim rozpoczniemy budowę drogi. (Nós) analisamos a qualidade do asfalto antes de iniciarmos a construção da estrada.
 
 - [] Dzień 760 - 
 
