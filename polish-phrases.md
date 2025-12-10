@@ -4254,7 +4254,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One położyli / położyły nowy asfalt przed szkołą w zeszłym tygodniu. Eles / Elas colocaram asfalto novo em frente à escola na semana passada.
  - (My) badamy jakość asfaltu, zanim rozpoczniemy budowę drogi. (Nós) analisamos a qualidade do asfalto antes de iniciarmos a construção da estrada.
 
-- [] Dzień 760 - 
+- [x] Dzień 760 - Pieczony / Pieczona. (Assado / Assada. - Przymiotniki)
+ - On / Ona wczoraj zjadł / zjadła pieczony obiad, który / którą przygotował / przygotowała jego / jej brat / siostra. Ele / Ela ontem comeu um almoço assado, que foi preparado pelo / pela irmão / irmã dele / dela.
+ - (Ja) wolę pieczoną rybę, bo jest zdrowsza niż smażona. (Eu) prefiro peixe assado porque é mais saudável que o frito.
+ - (Wy) będziecie przygotowywali / przygotowywały pieczony chleb, jeśli nauczycie się nowego przepisu. Vocês vão preparar pão assado se aprenderem a nova receita.
+ - Oni / One często kupują pieczony ser na lokalnym targu. Eles / Elas frequentemente compram queijo assado no mercado local.
+ - (My) próbowaliśmy / próbowałyśmy pieczony ziemniak, kiedy byliśmy / byłyśmy na wsi. (Nós) experimentamos batata assada quando estávamos no campo.
 
 - [] Dzień 761 - 
 
