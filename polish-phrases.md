@@ -4261,7 +4261,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One często kupują pieczony ser na lokalnym targu. Eles / Elas frequentemente compram queijo assado no mercado local.
  - (My) próbowaliśmy / próbowałyśmy pieczony ziemniak, kiedy byliśmy / byłyśmy na wsi. (Nós) experimentamos batata assada quando estávamos no campo.
 
-- [] Dzień 761 - 
+- [x] Dzień 761 - Piekć, Upiec. (Assar. - Czasowniki)
+ - On / Ona upiekł / upiekła świeży chleb, gdy wrócił / wróciła późnym popołudniem. Ele / Ela assou pão fresco quando voltou tarde de tarde.
+ - (Ja) często piekę ciasto, bo lubię spokojne poranki w kuchni. (Eu) frequentemente asso bolo porque gosto de manhãs tranquilas na cozinha.
+ - (Wy) będziecie piekli / piekły mięso, jeśli spotkanie potrwa dłużej. Vocês vão assar carne se a reunião durar mais.
+ - Oni / One piekli / piekły warzywa na ognisku, gdy zapadł zmrok. Eles / Elas assaram legumes na fogueira quando anoiteceu (a noite caiu).
+ - (My) upieczemy jabłka z cynamonem, jeśli jutro będzie chłodno. (Nós) vamos assar maçãs com canela se amanhã estiver frio (fresco).
 
 - [] Dzień 762 - 
 
