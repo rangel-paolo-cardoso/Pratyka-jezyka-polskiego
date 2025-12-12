@@ -4268,7 +4268,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One piekli / piekły warzywa na ognisku, gdy zapadł zmrok. Eles / Elas assaram legumes na fogueira quando anoiteceu (a noite caiu).
  - (My) upieczemy jabłka z cynamonem, jeśli jutro będzie chłodno. (Nós) vamos assar maçãs com canela se amanhã estiver frio (fresco).
 
-- [] Dzień 762 - 
+- [x] Dzień 762 - Podpis - Rzeczownik męski. (Assinatura. - Rzeczownik żeński)
+ - On / Ona sprawdził / sprawdziła podpis na dokumencie, zanim go zaakceptował / zaakceptowała. Ele / Ela verificou a assinatura no documento antes de aprová-lo.
+ - (Ja) zawsze dbam, aby mój podpis był czytelny na wszystkich umowach. (Eu) sempre cuido para que minha assinatura seja legível em todos os contratos.
+ - (Wy) złożycie podpis pod formularzem, jeśli system poprosi o potwierdzenie. Vocês colocarão a assinatura no formulário quando o sistema pedir confirmação.
+ - Oni / One czekają, aż podpis prawnika / prawniczki pojawi się na ostatniej stronie. Eles / Elas esperam até que a assinatura do / da advogado / advogada apareça na última página.
+ - (My) dodaliśmy / dodałyśmy brakujący podpis, gdy zauważyliśmy / zauważyłyśmy błąd w umowie. (Nós) colocamos a assinatura faltante quando percebemos o erro no contrato.
 
 - [] Dzień 763 - 
 
