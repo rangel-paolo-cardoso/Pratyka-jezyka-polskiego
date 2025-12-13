@@ -4275,7 +4275,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One czekają, aż podpis prawnika / prawniczki pojawi się na ostatniej stronie. Eles / Elas esperam até que a assinatura do / da advogado / advogada apareça na última página.
  - (My) dodaliśmy / dodałyśmy brakujący podpis, gdy zauważyliśmy / zauważyłyśmy błąd w umowie. (Nós) colocamos a assinatura faltante quando percebemos o erro no contrato.
 
-- [] Dzień 763 - 
+- [x] Dzień 763 - Oglądać, Obejrzeć. (Assistir. - Czasowniki)
+ - (Ja) obejrzałem / obejrzałam cały film, mimo że był bardzo długi. (Eu) assisti o filme inteiro, mesmo sendo muito longo.
+ - On / Ona ogląda wiadomości codziennie, gdy wraca z pracy. Ele / Ela assiste ao noticiário todos os dias quando volta do trabalho.
+ - (My) będziemy oglądać mecz jutro wieczorem, jeśli wszystko się uda. (Nós) vamos assistir ao jogo (a partidado) amanhã à noite, se tudo der certo.
+ - (Wy) oglądaliście / oglądałyście koncert na placu, bo był bardzo żywiołowy. Vocês assistiram ao show na praça porque estava muito animado.
+ - Oni / One często oglądają seriale razem, gdy mają wolny czas. Eles / Elas (frequentemente, com frequência) assistem séries juntos / juntas quando têm tempo livre.
 
 - [] Dzień 764 - 
 
