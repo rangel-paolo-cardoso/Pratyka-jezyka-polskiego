@@ -4282,7 +4282,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) oglądaliście / oglądałyście koncert na placu, bo był bardzo żywiołowy. Vocês assistiram ao show na praça porque estava muito animado.
  - Oni / One często oglądają seriale razem, gdy mają wolny czas. Eles / Elas (frequentemente, com frequência) assistem séries juntos / juntas quando têm tempo livre.
 
-- [] Dzień 764 - 
+- [x] Dzień 764 - Straszyć, Przestraszyć. (Assustar. - Czasowniki)
+ - (Ja) przestraszyłem / przestraszyłam dziecko głośnym krzykiem w ciemnym pokoju. (Eu) assustei a criança com um grito alto no quarto escuro.
+ - On / Ona straszę sąsiadów dziwnymi dźwiękami, które słychać nocą. Ele / Ela assusta os vizinhos com sons estranhos que se ouvem à noite.
+ - (Ty) przestraszysz mnie, jeśli podejdziesz tak cicho od tyłu. Você vai me assustar se chegar tão silenciosamente por trás.
+ - (My) przestraszyliśmy / przestraszyłyśmy turystów nagłym światłem w starej piwnicy. (Nós) assustamos os turistas com uma luz repentina no porão antigo.
+ - Oni / One straszą dzieci opowieściami o duchach podczas nocnego biwaku. Eles / Elas assustam as crianças com histórias de fantasmas durante o  acampamento noturno.
 
 - [] Dzień 765 - 
 
