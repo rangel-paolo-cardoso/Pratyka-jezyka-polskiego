@@ -4289,7 +4289,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przestraszyliśmy / przestraszyłyśmy turystów nagłym światłem w starej piwnicy. (Nós) assustamos os turistas com uma luz repentina no porão antigo.
  - Oni / One straszą dzieci opowieściami o duchach podczas nocnego biwaku. Eles / Elas assustam as crianças com histórias de fantasmas durante o  acampamento noturno.
 
-- [] Dzień 765 - 
+- [x] Dzień 765 - Astronauta / Astronautka. (Astronauta. - Rzczowniki)
+ - (Ja) marzyłem / marzyłam o tym, aby zostać astronautą / astronautką już jako dziecko. Eu sonhava em me tornar (um / uma) astronauta desde criança.
+ - On / Ona pracuje jako astronauta / astronautka i przygotowuje się do nowej misji. Ele / Ela trabalha como astronauta e se prepara para uma nova missão.
+ - (Ty) zostaniesz astronautą / astronautką, jeśli przejdziesz wszystkie testy. Você se tornará (um / uma) astronauta se passar em todos os testes.
+ - (My) spotkaliśmy / spotkałyśmy astronautę / astronautkę podczas konferencji naukowej. (Nós) encontramos um / uma astronauta durante uma conferência científica.
+ - Oni / One będą astronautami / astronautkami i polecą na długą misję kosmiczną. Eles / Elas serão astronautas e viajarão para uma longa missão espacial (cósmica).
 
 - [] Dzień 766 - 
 
