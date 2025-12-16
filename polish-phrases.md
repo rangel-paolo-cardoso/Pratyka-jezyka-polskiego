@@ -4296,7 +4296,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) spotkaliśmy / spotkałyśmy astronautę / astronautkę podczas konferencji naukowej. (Nós) encontramos um / uma astronauta durante uma conferência científica.
  - Oni / One będą astronautami / astronautkami i polecą na długą misję kosmiczną. Eles / Elas serão astronautas e viajarão para uma longa missão espacial (cósmica).
 
-- [] Dzień 766 - 
+- [x] Dzień 766 - Astronomia. (Astronomia. - Rzeczowniki żeńskie)
+ - On / Ona jest bardzo zainteresowany / zainteresowana astronomią i codziennie obserwuje gwiazdy. Ele / Ela é muito interessado / interessada em astronomia e observa as estrelas todos os dias.
+ - (Ja) studiowałem / studiowałam astronomię na uniwersytecie, bo fascynował mnie kosmos. (Eu) estudei astronomia na universidade porque o espaço me fascinava.
+ - (Ty) będziesz uczył / uczyła się astronomii, jeśli wybierzesz tę ścieżkę naukową. Você estudará astronomia se escolher esse caminho científico.
+ - (My) uczymy się astronomii razem, ponieważ interesują nas planety. (Nós) estudamos astronomia juntos / juntas porque nos interessam os planetas.
+ - Oni / One poznali / poznały astronomię w szkole i później rozwijali / rozwijały tę pasję. Eles / Elas conheceram a astronomia na escola e depois desenvolveram essa paixão.
 
 - [] Dzień 767 - 
 
