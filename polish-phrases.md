@@ -4303,7 +4303,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) uczymy się astronomii razem, ponieważ interesują nas planety. (Nós) estudamos astronomia juntos / juntas porque nos interessam os planetas.
  - Oni / One poznali / poznały astronomię w szkole i później rozwijali / rozwijały tę pasję. Eles / Elas conheceram a astronomia na escola e depois desenvolveram essa paixão.
 
-- [] Dzień 767 - 
+- [x] Dzień 767 - Atakować, Zaatakować. (Atacar. - Czasowniki)
+ - (Ja) zaatakowałem / zaatakowałam problem od razu, bo nie chciałem / chciałam tracić czasu. (Eu) ataquei o problema imediatamente porque não queria perder tempo.
+ - On / Ona atakuje przeciwnika słowami, zamiast spokojnie rozwiązać konflikt. Ele / Ela ataca o adversário com palavras, em vez de resolver o conflito com calma.
+ - (Ty) zaatakujesz temat jutro, jeśli będziesz miał / miała więcej energii. Você atacará o assunto amanhã se tiver mais energia.
+ - (My) zaatakowaliśmy / zaatakowałyśmy ten projekt wspólnie, mimo dużego ryzyka. (Nós) atacamos esse projeto juntos / juntas (em conjunto), apesar do grande risco.
+ - (Wy) zaatakujecie problem inaczej, gdy poznacie wszystkie fakty. Vocês atacarão o problema de outra forma quando conhecerem todos os fatos.
 
 - [] Dzień 768 - 
 
