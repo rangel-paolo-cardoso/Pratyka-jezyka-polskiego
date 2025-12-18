@@ -4310,7 +4310,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zaatakowaliśmy / zaatakowałyśmy ten projekt wspólnie, mimo dużego ryzyka. (Nós) atacamos esse projeto juntos / juntas (em conjunto), apesar do grande risco.
  - (Wy) zaatakujecie problem inaczej, gdy poznacie wszystkie fakty. Vocês atacarão o problema de outra forma quando conhecerem todos os fatos.
 
-- [] Dzień 768 - 
+- [x] Dzień 768 - Skrót. (Atalho. - Rzeczowniki męskie)
+ - (Ja) wybrałem / wybrałam skrót, bo chciałem / chciałam szybciej dotrzeć do domu. (Eu) escolhi um atalho porque queria chegar mais rápido em casa.
+ - On / Ona zawsze idzie przez skrót, gdy spieszy się do pracy. Ele / Ela sempre vai pelo atalho quando está com pressa para o trabalho.
+ - (Ty) wybierzesz skrót jutro, jeśli droga główna będzie zamknięta. Você escolherá um atalho amanhã se a estrada principal estiver fechada.
+ - (My) korzystamy ze skrótu codziennie, aby oszczędzać czas. (Nós) usamos um atalho todos os dias para economizar tempo.
+ - Oni / One znaleźli / znalazły skrót, który znacznie skrócił całą podróż. Eles / Elas encontraram um atalho que encurtou bastante toda a viagem.
 
 - [] Dzień 769 - 
 
