@@ -4317,7 +4317,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) korzystamy ze skrótu codziennie, aby oszczędzać czas. (Nós) usamos um atalho todos os dias para economizar tempo.
  - Oni / One znaleźli / znalazły skrót, który znacznie skrócił całą podróż. Eles / Elas encontraram um atalho que encurtou bastante toda a viagem.
 
-- [] Dzień 769 - 
+- [x] Dzień 769 - Uwaga - Rzeczownik żeński, Skupienie - Rzeczownik nijaki. (Atenção. - Rzeczownik żeński)
+ - (Ja) zwróciłem / zwróciłam szczególną uwagę na instrukcje przed egzaminem. (Eu) prestei atenção especial às instruções antes do exame.
+ - On / Ona poświęca dziś pełną uwagę klientowi podczas rozmowy. Ele / Ela dedica hoje total atenção ao cliente durante a conversa.
+ - (Ty) zachowasz większą uwagę jutro, gdy sytuacja stanie się trudniejsza. Você manterá mais atenção amanhã, quando a situação ficar mais difícil.
+ - (My) zachowaliśmy / zachowałyśmy uwagę na drodze, mimo złej pogody. (Nós) mantivemos a atenção na estrada, apesar do mau tempo.
+ - (Wy) stracicie uwagę, jeśli będziecie korzystać z telefonów na spotkaniu. Vocês perderão a atenção se usarem celulares na reunião.
 
 - [] Dzień 770 - 
 
