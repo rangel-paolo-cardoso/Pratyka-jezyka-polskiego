@@ -4324,7 +4324,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zachowaliśmy / zachowałyśmy uwagę na drodze, mimo złej pogody. (Nós) mantivemos a atenção na estrada, apesar do mau tempo.
  - (Wy) stracicie uwagę, jeśli będziecie korzystać z telefonów na spotkaniu. Vocês perderão a atenção se usarem celulares na reunião.
 
-- [] Dzień 770 - 
+- [x] Dzień 770 - Obsługiwać, Odebrać, Zająć się. (Atender. - Czasowniki)
+ - (Ja) obsłużyłem / obsłużyłam klienta szybko, mimo dużej kolejki. (Eu) atendi o cliente rapidamente, apesar da fila grande.
+ - On / Ona odbiera teraz telefon i cierpliwie odpowiada na pytania. Ele / Ela atende o telefone agora e responde pacientemente às perguntas.
+ - (Ty) odbierzesz telefon jutro rano, jeśli dziś nikt już nie zadzwoni. Você atenderá o telofone amanhã de manhã, se hoje ninguém mais ligar.
+ - (My) obsługiwaliśmy / obsługiwałyśmy wszystkich gości podczas wydarzenia. (Nós) atendemos todos os convidados durante o evento.
+ - (Wy) obsłużycie klientów później, gdy system zacznie działać. Vocês atenderão os clientes mais tarde, quando o sistema começar a funcionar.
 
 - [] Dzień 771 - 
 
