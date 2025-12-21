@@ -4338,7 +4338,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) osiągniemy porozumienie, gdy wszyscy zgodzą się na warunki. (Nós) atingiremos um acordo quando todos concordarem com os termos.
  - Oni / One dotknęli / dotknęły granicy wytrzymałości po długim marszu. Eles / Elas atingiram o limite de resistência após a longa caminhada.
 
-- [] Dzień 772 - 
+- [x] Dzień 772 - Atleta, Sportowiec. (Atleta. - Rzeczowniki)
+ - (Ja) byłem / byłam atletą / atletką od młodości i trenowałem / trenowałam codziennie. (Eu) fui atleta desde a juventude e treinava todos os dias.
+ - On / Ona jest dziś znanym atletą / atletką w swojej dyscyplinie sportowej. Ele / Ela é hoje um atleta conhecido na sua modalidade esportiva.
+ - (Ty) będziesz jutro atletą / atletką reprezentującym / reprezentującą swój klub. Você será amanhã um atleta representando seu clube.
+ - (My) byliśmy / byłyśmy sportowcami na poziomie amatorskim przez wiele lat. (Nós) fomos atletas em nível amador por muitos anos.
+ - (Wy) jesteście obecnie sportowcami przygotowującymi się do zawodów. Vocês são atualmente atletas se preparando para competições.
 
 - [] Dzień 773 - 
 
