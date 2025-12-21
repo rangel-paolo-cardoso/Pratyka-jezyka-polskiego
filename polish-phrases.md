@@ -4331,7 +4331,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) obsługiwaliśmy / obsługiwałyśmy wszystkich gości podczas wydarzenia. (Nós) atendemos todos os convidados durante o evento.
  - (Wy) obsłużycie klientów później, gdy system zacznie działać. Vocês atenderão os clientes mais tarde, quando o sistema começar a funcionar.
 
-- [] Dzień 771 - 
+- [] Dzień 771 - Osiągnąć, Trafić, Dotknąć. (Atingir. - Czasowniki)
+ - (Ja) osiągnąłem / osiągnęłam ważny cel po wielu latach ciężkiej pracy. (Eu) atingi um objetivo importante após muitos anos de trabalho duro.
+ - On / Ona trafił / trafiła w sam środek tarczy podczas zawodów sportowych. Ele / Ela atingiu bem o centro do alvo durante a competição esportiva.
+ - (Ty) dotkniesz limitu prędkości, jeśli nie zwolnisz na tej drodze. Você atingirá o limite de velocidade se não diminuir nessa estrada.
+ - (My) osiągniemy porozumienie, gdy wszyscy zgodzą się na warunki. (Nós) atingiremos um acordo quando todos concordarem com os termos.
+ - Oni / One dotknęli / dotknęły granicy wytrzymałości po długim marszu. Eles / Elas atingiram o limite de resistência após a longa caminhada.
 
 - [] Dzień 772 - 
 
