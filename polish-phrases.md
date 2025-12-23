@@ -4345,7 +4345,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy sportowcami na poziomie amatorskim przez wiele lat. (Nós) fomos atletas em nível amador por muitos anos.
  - (Wy) jesteście obecnie sportowcami przygotowującymi się do zawodów. Vocês são atualmente atletas se preparando para competições.
 
-- [] Dzień 773 - 
+- [x] Dzień 773 - Atom. (Átomo. - Rzeczowniki męskie)
+ - (Ja) badałem / badałam atom w laboratorium, gdy studiowałem / studiowałam fizykę. (Eu) estudei o átomo no laboratório, quando estudava física.
+ - On / Ona wyjaśnił / wyjaśniła, że atom jest podstawą całej materii. Ele / Ela explicou que o átomo é a base de toda a matéria.
+ - (Ty) osiągniesz jutro lepsze wyniki, jeśli zrozumiesz budowę atomu. Você terá amanhã melhores resultados, se entender a estrutura do átomo.
+ - (My) obserwowaliśmy / obserwowałyśmy atom pod mikroskopem podczas eksperymentu. (Nós) observamos o átomo ao microscópio durante o experimento.
+ - (Wy) będziecie dyskutowali / dyskutowały o atomie na zajęciach z chemii. Vocês irão discutir sobre o átomo nas aulas de química.
 
 - [] Dzień 774 - 
 
