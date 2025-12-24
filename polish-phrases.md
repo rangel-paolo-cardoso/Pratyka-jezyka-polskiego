@@ -4352,7 +4352,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) obserwowaliśmy / obserwowałyśmy atom pod mikroskopem podczas eksperymentu. (Nós) observamos o átomo ao microscópio durante o experimento.
  - (Wy) będziecie dyskutowali / dyskutowały o atomie na zajęciach z chemii. Vocês irão discutir sobre o átomo nas aulas de química.
 
-- [] Dzień 774 - 
+- [x] Dzień 774 - Aktor, Aktorka. (Ator / Atriz. - Rzeczowniki)
+ - (Ja) byłem / byłam aktorem / aktorką w teatrze, gdy uczyłem / uczyłam się nowych ról. (Eu) fui ator / atriz no teatro, quando aprendia novos papéis.
+ - On / Ona jest dziś znanym aktorem / aktorką i często występuje w filmach. Ele / Ela é hoje um / uma ator / atriz famoso / famosa e atua frequentemente em filmes.
+ - (Ty) zostaniesz aktorem / aktorką, jeśli jutro zdasz ten ważny egzamin. Você se tornará ator / atriz, se amanhã passar nesse exame importante.
+ - (My) poznaliśmy / poznałyśmy aktora / aktorkę podczas festiwalu filmowego w zeszłym roku. (Nós) conhecemos um / uma ator / atriz durante o festival de cinema no ano passado.
+ - (Wy) będziecie pracowali / pracowały z aktorem / aktorką przy nowym serialu. Vocês irão trabalhar com um / uma ator / atriz em uma nova série.
 
 - [] Dzień 775 - 
 
