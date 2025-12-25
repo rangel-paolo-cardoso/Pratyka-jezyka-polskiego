@@ -4359,7 +4359,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poznaliśmy / poznałyśmy aktora / aktorkę podczas festiwalu filmowego w zeszłym roku. (Nós) conhecemos um / uma ator / atriz durante o festival de cinema no ano passado.
  - (Wy) będziecie pracowali / pracowały z aktorem / aktorką przy nowym serialu. Vocês irão trabalhar com um / uma ator / atriz em uma nova série.
 
-- [] Dzień 775 - 
+- [x] Dzień 775 - Atrakcja, Atrakcyjność. (Atração. - Rzeczowniki żeńskie)
+ - (Ja) uważałem / uważałam tę wystawę za główną atrakcję miasta w zeszłym roku. (Eu) considerei essa exposição a principal atração da cidade no ano passado.
+ - On / Ona dziś widzi w tym parku największą atrakcję dla turystów. Ele / Ela hoje vê nesse parque a maior atração para os turistas.
+ - (Ty) jutro odkryjesz nową atrakcję, jeśli odwiedzisz to muzeum z przewodnikiem. Você amanhã descobrirá uma nova atração, se visitar esse museu com guia.
+ - (My) pamiętaliśmy / pamiętałyśmy, że ta atrakcja była bardzo popularna kilka lat temu. (Nós) lembrávamos que essa atração era muito popular alguns anos atrás.
+ - (Wy) zauważycie dużą atrakcyjność tego miejsca podczas wakacji. Vocês notarão a grande atração desse lugar durante as férias.
 
 - [] Dzień 776 - 
 
