@@ -4366,7 +4366,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) pamiętaliśmy / pamiętałyśmy, że ta atrakcja była bardzo popularna kilka lat temu. (Nós) lembrávamos que essa atração era muito popular alguns anos atrás.
  - (Wy) zauważycie dużą atrakcyjność tego miejsca podczas wakacji. Vocês notarão a grande atração desse lugar durante as férias.
 
-- [] Dzień 776 - 
+- [x] Dzień 776 - Atrakcyjny / Atrakcyjna. (Atraente. - Przymiotniki)
+ - (Ja) uważałem / uważałam ten projekt za bardzo atrakcyjny już na początku. (Eu) considerei esse projeto muito atraente já no começo.
+ - On / Ona jest dziś wyjątkowo atrakcyjny / atrakcyjna dla nowych klientów firmy. Ele / Ela é hoje excepcionalmente atraente para novos clientes da empresa.
+ - (Ty) wczoraj uznałeś / uznałaś tę ofertę za mało atrakcyjną. Você ontem considerou essa oferta pouco atraente.
+ - (My) będziemy uważać ten plan za atrakcyjny w przyszłym roku. (Nós) consideraremos esse plano atraente no próximo ano.
+ - (Wy) oceniliście / oceniłyście ten pomysł jako naprawdę atrakcyjny podczas spotkania. Vocês avaliaram essa ideia como realmente atraente durante a reunião.
 
 - [] Dzień 777 - 
 
