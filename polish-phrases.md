@@ -4373,7 +4373,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy uważać ten plan za atrakcyjny w przyszłym roku. (Nós) consideraremos esse plano atraente no próximo ano.
  - (Wy) oceniliście / oceniłyście ten pomysł jako naprawdę atrakcyjny podczas spotkania. Vocês avaliaram essa ideia como realmente atraente durante a reunião.
 
-- [] Dzień 777 - 
+- [x] Dzień 777 - Przeszkadzać, Utrudniać. (Atrapalhar (Dificultar). - Czasowniki)
+ - (Ja) przeszkadzałem / przeszkadzałam w pracy zespołu, gdy mówiłem / mówiłam za głośno. (Eu) atrapalhei o trabalho da equipe quando falei alto demais.
+ - On / Ona wczoraj utrudniał / utrudniała realizację planu przez brak informacji. Ele / Ela ontem atrapalhou a execução do plano por falta de informação.
+ - (Ty) teraz przeszkadzasz w rozmowie, ponieważ ciągle przerywasz. Você agora atrapalha a conversa, porque interrompe o tempo todo.
+ - (My) jutro nie będziemy przeszkadzać w spotkaniu, obiecaliśmy / obiecałyśmy to. (Nós) amanhã não atrapalharemos a reunião, nós prometemos isso.
+ - (Wy) utrudnialiście / utrudniałyście projekt, zmieniając decyzje w ostatniej chwili. Vocês atrapalharam o projeto ao mudar decisões na última hora.
 
 - [] Dzień 778 - 
 
