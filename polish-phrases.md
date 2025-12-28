@@ -4380,7 +4380,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jutro nie będziemy przeszkadzać w spotkaniu, obiecaliśmy / obiecałyśmy to. (Nós) amanhã não atrapalharemos a reunião, nós prometemos isso.
  - (Wy) utrudnialiście / utrudniałyście projekt, zmieniając decyzje w ostatniej chwili. Vocês atrapalharam o projeto ao mudar decisões na última hora.
 
-- [] Dzień 778 - 
+- [x] Dzień 778 - Z tyłu, Z tyłu za, Za. (Atrás. - Przysłówki)
+ - (Ja) zostałem / zostałam z tyłu w kolejce, bo przyszedłem / przyszłam zbyt późno. (Eu) fiquei atrás na fila, porque cheguei tarde demais.
+ - On / Ona stał / stała z tyłu sceny podczas próby i uważnie słuchał / słuchała. Ele / Ela ficou atrás do palco durante o ensaio e ouviu com atenção.
+ - (Ty) będziesz siedział / siedziała z tyłu sali jutro, jeśli przyjdziesz spóźniony / spóźniona. Você se sentará atrás na sala amanhã, se chegar atrasado / atrasada.
+ - (My) szliśmy / szłyśmy z tyłu grupy wczoraj, ponieważ tempo było zbyt szybkie. (Nós) fomos atrás do grupo ontem, porque o ritmo estava rápido demais.
+ - (Wy) zostaniecie z tyłu po spotkaniu, aby dokończyć rozmowę z nauczycielem / nauczycielką. Vocês ficarão atrás após a reunião para concluir a conversa com o / a professor / professora.
 
 - [] Dzień 779 - 
 
