@@ -4387,7 +4387,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) szliśmy / szłyśmy z tyłu grupy wczoraj, ponieważ tempo było zbyt szybkie. (Nós) fomos atrás do grupo ontem, porque o ritmo estava rápido demais.
  - (Wy) zostaniecie z tyłu po spotkaniu, aby dokończyć rozmowę z nauczycielem / nauczycielką. Vocês ficarão atrás após a reunião para concluir a conversa com o / a professor / professora.
 
-- [] Dzień 779 - 
+- [x] Dzień 779 - Spóźnić się, Opóźnić. (Atrasar. - Czasownii)
+ - (Ja) spóźniłem / spóźniłam się wczoraj do pracy, ponieważ autobus miał awarię. (Eu) me atrasei ontem para o trabalho, porque o ônibus teve uma pane.
+ - On / Ona opóźnił / opóźniła projekt w zeszłym tygodniu przez brak ważnych dokumentów. Ele / Ela atrasou o projeto na semana passada por falta de documentos importantes.
+ - (Ty) spóźnisz się jutro na spotkanie, jeśli nie wyjdziesz z domu wcześniej. Você se atrasará amanhã para a reunião, se não sair de casa mais cedo.
+ - (My) opóźniliśmy / opóźniłyśmy decyzję wtedy, bo potrzebowaliśmy / potrzebowałyśmy więcej danych. (Nós) atrasamos a decisão naquela época, pois precisávamos de mais dados.
+ - (Wy) spóźniliście / spóźniłyście się już kilka razy, mimo wcześniejszych ustaleń. Vocês se atrasaram várias vezes, apesar dos acordos anteriores.
 
 - [] Dzień 780 - 
 
