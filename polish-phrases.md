@@ -4394,7 +4394,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) opóźniliśmy / opóźniłyśmy decyzję wtedy, bo potrzebowaliśmy / potrzebowałyśmy więcej danych. (Nós) atrasamos a decisão naquela época, pois precisávamos de mais dados.
  - (Wy) spóźniliście / spóźniłyście się już kilka razy, mimo wcześniejszych ustaleń. Vocês se atrasaram várias vezes, apesar dos acordos anteriores.
 
-- [] Dzień 780 - 
+- [x] Dzień 780 - Przez, Poprzez. (Através. - Przysłówki)
+ - (Ja) nauczyłem / nauczyłam się języka polskiego przez codzienną praktykę online. (Eu) aprendi a língua polonesa através da prática diária online.
+ - On / Ona przeszedł / przeszła przez park wczoraj, skracając drogę do domu. Ele / Ela passou através do parque ontem, encurtando o caminho para casa.
+ - (Ty) osiągniesz sukces poprzez cierpliwą pracę i stałe doskonalenie umiejętności. Você alcançará o sucesso através de trabalho paciente e aperfeiçoamento constante de habilidades.
+ - (My) poznaliśmy / poznałyśmy prawdę przez długie rozmowy i wspólne doświadczenia. (Nós) conhecemos a verdade através de longas conversas e experiências em conjunto.
+ - (Wy) będziecie się komunikowali / komunikowały poprzez bezpieczną platformę w przyszłości. Vocês irão se comunicar através de uma plataforma segura no futuro.
 
 - [] Dzień 781 - 
 
