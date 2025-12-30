@@ -4401,7 +4401,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poznaliśmy / poznałyśmy prawdę przez długie rozmowy i wspólne doświadczenia. (Nós) conhecemos a verdade através de longas conversas e experiências em conjunto.
  - (Wy) będziecie się komunikowali / komunikowały poprzez bezpieczną platformę w przyszłości. Vocês irão se comunicar através de uma plataforma segura no futuro.
 
-- [] Dzień 781 - 
+- [x] Dzień 781 - Odważyć się, Ośmielić się, Śmieć. (Atrever. - Czasowniki)
+ - (Ja) odważyłem / odważyłam się powiedzieć prawdę wczoraj mimo silnego strachu. (Eu) me atrevi a dizer a verdade ontem apesar do forte medo.
+ - On / Ona ośmielił / ośmieliła się zapytać szefa o podwyżkę podczas spotkania. Ele / Ela se atreveu a perguntar ao chefe sobre um aumento durante a reunião.
+ - (Ty) odważysz się jutro zmienić swoje życie i podjąć trudną decyzję. Você se atreverá amanhã a mudar sua vida e tomar uma decisão difícil.
+ - (My) śmieliśmy / śmiałyśmy sprzeciwić się zasadom, gdy sytuacja była naprawdę niesprawiedliwa. (Nós) nos atrevemos a desafiar as regras quando a situação era realmente injusta.
+ - (Wy) nie ośmieliliście / ośmieliłyście się wejść tam sami w tamtym czasie. Vocês não se atreveram a entrar lá sozinhos / sozinhas naquela época.
 
 - [] Dzień 782 - 
 
