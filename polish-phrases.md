@@ -4415,7 +4415,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przypisaliśmy / przypisałyśmy odpowiedzialność kierownikowi podczas spotkania. (Nós) atribuímos a responsabilidade ao gerente durante a reunião.
  - Oni / One przyznali / przyznały sukces całemu zespołowi po trudnym sezonie. Eles / Elas atribuíram o sucesso a toda a equipe após uma temporada difícil.
 
-- [] Dzień 783 - 
+- [x] Dzień 783 - Tarcie - Rzeczownik nijaki. (Atrito. - Rzeczownik męski)
+ - (Ja) zauważyłem / zauważyłam, że tarcie między częściami było zbyt duże wczoraj. (Eu) notei que o atrito entre as peças foi grande demais ontem.
+ - On / Ona wyjaśnia teraz, że tarcie w zespole wynika z braku komunikacji. Ele / Ela explica agora que o atrito na equipe resulta da falta de comunicação.
+ - (Ty) zmniejszysz jutro tarcie w silniku, jeśli użyjesz odpowiedniego smaru. Você reduzirá amanhã o atrito no motor, se usar o lubrificante adequado.
+ - (My) odczuliśmy / odczułyśmy tarcie z przełożonym po trudnej decyzji. (Nós) sentimos atrito com o superior após uma decisão difícil.
+ - Oni / One będą analizować tarcie między grupami, aby uniknąć konfliktów. Eles / Elas vão analisar o atrito entre os grupos para evitar conflitos.
 
 - [] Dzień 784 - 
 
