@@ -4408,7 +4408,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) śmieliśmy / śmiałyśmy sprzeciwić się zasadom, gdy sytuacja była naprawdę niesprawiedliwa. (Nós) nos atrevemos a desafiar as regras quando a situação era realmente injusta.
  - (Wy) nie ośmieliliście / ośmieliłyście się wejść tam sami w tamtym czasie. Vocês não se atreveram a entrar lá sozinhos / sozinhas naquela época.
 
-- [] Dzień 782 - 
+- [x] Dzień 782 - Przypisać, Przyznać. (Atribuir. - Czasowniki)
+ - (Ja) przypisałem / przypisałam ten błąd systemowi po dokładnej analizie raportu. (Eu) atribuí esse erro ao sistema após uma análise detalhada do relatório.
+ - On / Ona przyznał / przyznała nagrodę najlepszemu zespołowi po zakończeniu projektu. Ele / Ela atribuiu o prêmio à melhor equipe após o fim do projeto.
+ - (Ty) przypiszesz jutro nowe zadania pracownikom zgodnie z planem. Você atribuirá amanhã novas tarefas aos funcionários conforme o plano.
+ - (My) przypisaliśmy / przypisałyśmy odpowiedzialność kierownikowi podczas spotkania. (Nós) atribuímos a responsabilidade ao gerente durante a reunião.
+ - Oni / One przyznali / przyznały sukces całemu zespołowi po trudnym sezonie. Eles / Elas atribuíram o sucesso a toda a equipe após uma temporada difícil.
 
 - [] Dzień 783 - 
 
