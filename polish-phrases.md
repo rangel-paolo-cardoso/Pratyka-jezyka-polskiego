@@ -4422,7 +4422,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) odczuliśmy / odczułyśmy tarcie z przełożonym po trudnej decyzji. (Nós) sentimos atrito com o superior após uma decisão difícil.
  - Oni / One będą analizować tarcie między grupami, aby uniknąć konfliktów. Eles / Elas vão analisar o atrito entre os grupos para evitar conflitos.
 
-- [] Dzień 784 - 
+- [x] Dzień 784 - Autor, Autorka. (Autor / Autora. - Rzeczowniki)
+ - (Ja) byłem / byłam autorem / autorką tego artykułu w zeszłym roku. (Eu) fui o / a autor / autora desse artigo no ano passado.
+ - On / Ona jest dziś autorem / autorką znanej książki historycznej. Ele / Ela é hoje o / a autor / autora de um livro histórico conhecido.
+ - (Ty) zostaniesz autorem / autorką nowego projektu jutro. Você se tornará o / a autor / autora de um novo projeto amanhã.
+ - (My) byliśmy / byłyśmy autorami / autorkami raportu, który został opublikowany. (Nós) fomos os / as autores / autoras do relatório que foi publicado.
+ - (Wy) będziecie autorami / autorkami tej inicjatywy w przyszłym roku. Vocês serão os / as autores / autoras dessa iniciativa no próximo ano.
 
 - [] Dzień 785 - 
 
