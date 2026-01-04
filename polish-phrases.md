@@ -4429,7 +4429,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy autorami / autorkami raportu, który został opublikowany. (Nós) fomos os / as autores / autoras do relatório que foi publicado.
  - (Wy) będziecie autorami / autorkami tej inicjatywy w przyszłym roku. Vocês serão os / as autores / autoras dessa iniciativa no próximo ano.
 
-- [] Dzień 785 - 
+- [x] Dzień 785 - Autorytet - Rzeczownik męski. (Autoridade. - Rzeczownik żeński)
+ - On / Ona jest autorytetem w tej dziedzinie od wielu lat. Ele / Ela é uma autoridade nessa área há muitos anos.
+ - (Ty) zostaniesz autorytetem w swojej branży. Você se tornará uma autoridade na sua área profissional.
+ - (My) jesteśmy autorytetami dla studentów. (Nós) somos autoridades para os estudantes.
+ - (Wy) byliście / byłyście autorytetami, gdy projekt się rozpoczął. Vocês foram autoridades quando o projeto começou.
+ - (Ja) byłem / byłam autorytetem dla młodszych pracowników. (Eu) fui uma autoridade para os funcionários mais jovens.
 
 - [] Dzień 786 - 
 
