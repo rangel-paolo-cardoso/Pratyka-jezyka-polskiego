@@ -4436,7 +4436,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) byliście / byłyście autorytetami, gdy projekt się rozpoczął. Vocês foram autoridades quando o projeto começou.
  - (Ja) byłem / byłam autorytetem dla młodszych pracowników. (Eu) fui uma autoridade para os funcionários mais jovens.
 
-- [] Dzień 786 - 
+- [x] Dzień 786 - Pomoc - Rzeczownik żeński, Wsparcie - Rzeczownik nijaki. (Auxílio. - Rzeczownik męski)
+ - On / Ona oferuje pomoc każdemu, kto jej potrzebuje. Ele / Ela oferece auxílio a todos que precisam (dele).
+ - (Ja) otrzymałem / otrzymałam wsparcie podczas trudnego okresu. (Eu) recebi auxílio durante um período difícil.
+ - (Ty) dostaniesz pomoc, jeśli poprosisz. Você receberá auxílio se pedir.
+ - (My) dajemy pomoc sąsiadom każdego dnia. (Nós) damos auxílio aos vizinhos todos os dias.
+ - (Wy) udzieliliście / udzieliłyście wsparcia, gdy sytuacja była poważna. Vocês prestaram auxílio quando a situação era grave.
 
 - [] Dzień 787 - 
 
