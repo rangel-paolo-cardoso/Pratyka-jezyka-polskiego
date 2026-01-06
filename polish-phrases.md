@@ -4443,7 +4443,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) dajemy pomoc sąsiadom każdego dnia. (Nós) damos auxílio aos vizinhos todos os dias.
  - (Wy) udzieliliście / udzieliłyście wsparcia, gdy sytuacja była poważna. Vocês prestaram auxílio quando a situação era grave.
 
-- [] Dzień 787 - 
+- [x] Dzień 787 - Zaawansowany / Zaawansowana. (Avançado / Avançada. - Przymiotniki)
+ - On / Ona jest zaawansowany / zaawansowana w tej technologii. Ele / Ela é avançado / avançada nessa tecnologia.
+ - (Ja) byłem / byłam zaawansowany / zaawansowana w nauce języka w zeszłym roku. Eu era avançado / avançada no aprendizado do idioma no ano passado.
+ - (Ty) będziesz zaawansowany / zaawansowana po tym kursie. Você será avançado / avançada depois desse curso.
+ - (My) jesteśmy zaawansowani / zaawansowane w tym projekcie. (Nós) somos avançados / avançadas nesse projeto.
+ - (Wy) byliście / byłyście zaawansowani / zaawansowane w negocjacjach. Vocês eram avançados / avançadas nas negociações.
 
 - [] Dzień 788 - 
 
