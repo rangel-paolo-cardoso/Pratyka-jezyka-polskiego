@@ -4450,7 +4450,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jesteśmy zaawansowani / zaawansowane w tym projekcie. (Nós) somos avançados / avançadas nesse projeto.
  - (Wy) byliście / byłyście zaawansowani / zaawansowane w negocjacjach. Vocês eram avançados / avançadas nas negociações.
 
-- [] Dzień 788 - 
+- [x] Dzień 788 - Ptak - Rzeczownik męski, Ptaszyna. (Ave. - Rzeczowniki żeńskie)
+ - On / Ona obserwuje ptaka na drzewie. Ele / Ela observa a ave na árvore.
+ - (Ja) widziałem / widziałam ptaka nad rzeką wczoraj. (Eu) vi a ave à beira do rio ontem.
+ - (Ty) zobaczysz ptaka, gdy nadejdzie wiosna. Você verá a ave quando a primavera chegar.
+ - (My) chronimy ptaki w tym rezerwacie. (Nós) protegemos as aves nessa reserva.
+ - Oni / One fotografowali ptaki o świcie. Eles / Elas fotografaram as aves ao amanhecer.
 
 - [] Dzień 789 - 
 
