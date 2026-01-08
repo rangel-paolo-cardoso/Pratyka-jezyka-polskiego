@@ -4457,7 +4457,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) chronimy ptaki w tym rezerwacie. (Nós) protegemos as aves nessa reserva.
  - Oni / One fotografowali ptaki o świcie. Eles / Elas fotografaram as aves ao amanhecer.
 
-- [] Dzień 789 - 
+- [x] Dzień 789 - Przygoda, Przygody. (Aventura, Aventuras. - Rzeczowniki żeńskie)
+ - On / Ona ogląda „Przygody Tintina” i bardzo lubi tę przygodę. Ele / Ela assiste “As Aventuras de Tintin” e gosta muito dessa aventura.
+ - (Ja) przeżyłem / przeżyłam niesamowitą przygodę w górach. (Eu) vivi uma aventura incrível nas montanhas.
+ - (Ty) przeżyjesz wielką przygodę podczas tej podróży. Você viverá uma grande aventura durante essa viagem.
+ - (My) planujemy nowe przygody na przyszły rok. (Nós) planejamos novas aventuras para o próximo ano.
+ - Oni / One wspominali / wspominały swoje dawne przygody z dzieciństwa. Eles / Elas lembravam de suas antigas aventuras da infância.
 
 - [] Dzień 790 - 
 
