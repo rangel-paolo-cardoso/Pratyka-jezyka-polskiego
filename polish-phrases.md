@@ -4464,7 +4464,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) planujemy nowe przygody na przyszły rok. (Nós) planejamos novas aventuras para o próximo ano.
  - Oni / One wspominali / wspominały swoje dawne przygody z dzieciństwa. Eles / Elas lembravam de suas antigas aventuras da infância.
 
-- [] Dzień 790 - 
+- [x] Dzień 790 - Samolot. (Avião. - Rzeczowniki męskie)
+ - On / Ona widzi samolot nad miastem. Ele / Ela vê um avião sobre a cidade.
+ - (Ja) leciałem / leciałam samolotem do Warszawy. (Eu) viajei de avião para Varsóvia.
+ - (Ty) polecisz samolotem jutro rano. Você viajará de avião amanhã cedo.
+ - (My) czekamy na samolot na lotnisku. (Nós) esperamos o avião no aeroporto.
+ - (Wy) widzieliście / widziałyście samolot startujący o świcie. Vocês viram o avião decolando ao amanhecer.
 
 - [] Dzień 791 - 
 
