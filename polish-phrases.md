@@ -4471,7 +4471,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) czekamy na samolot na lotnisku. (Nós) esperamos o avião no aeroporto.
  - (Wy) widzieliście / widziałyście samolot startujący o świcie. Vocês viram o avião decolando ao amanhecer.
 
-- [] Dzień 791 - 
+- [x] Dzień 791 - Ostrzeżenie, Zawiadomienie, Powiadomienie - Rzeczowniki nijakie, Komunikat - Rzeczownik męski. (Aviso (Comunicado). - Rzeczownik męski)
+ - On / Ona czyta ostrzeżenie na drzwiach. Ele / Ela lê o aviso na porta.
+ - (Ja) dostałem / dostałam zawiadomienie wczoraj. (Eu) recebi o aviso ontem.
+ - (Ty) otrzymasz powiadomienie jutro rano. Você receberá o aviso amanhã de manhã.
+ - (My) ignorujemy komunikat o zmianach. (Nós) ignoramos o aviso sobre as mudanças.
+ - Oni / One zobaczyli / zobaczyły komunikat przed wejściem. Eles / Elas viram o aviso antes da entrada.
 
 - [] Dzień 792 - 
 
