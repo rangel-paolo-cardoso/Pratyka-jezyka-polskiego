@@ -4478,7 +4478,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) ignorujemy komunikat o zmianach. (Nós) ignoramos o aviso sobre as mudanças.
  - Oni / One zobaczyli / zobaczyły komunikat przed wejściem. Eles / Elas viram o aviso antes da entrada.
 
-- [] Dzień 792 - 
+- [x] Dzień 792 - Zauważyć, Dostrzec, Ujrzeć. (Avistar. - Czasowniki)
+ - (Ja) zauważyłem / zauważyłam coś dziwnego na horyzoncie. (Eu) avistei algo estranho no horizonte.
+ - On / Ona dostrzega światło w oddali. Ele / Ela avista uma luz ao longe.
+ - (Ty) ujrzysz samolot nad miastem. Você avistará um avião sobre a cidade.
+ - (My) zauważyliśmy / zauważyłyśmy ruch w lesie. (Nós) avistamos movimento na floresta.
+ - Oni / One dostrzegą statek na morzu. Eles / Elas avistarão um navio no mar.
 
 - [] Dzień 793 - 
 
