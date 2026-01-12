@@ -4485,7 +4485,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zauważyliśmy / zauważyłyśmy ruch w lesie. (Nós) avistamos movimento na floresta.
  - Oni / One dostrzegą statek na morzu. Eles / Elas avistarão um navio no mar.
 
-- [] Dzień 793 - 
+- [x] Dzień 793 - Dziadek / Babcia. (Avô / Avó. - Rzeczowniki)
+ - (Ja) pamiętałem / pamiętałam, jak mój / moja dziadek / babcia opowiadał / opowiadała historie z młodości. (Eu) me lembrava de como meu / minha avô / avó contava histórias da juventude.
+ - On / Ona często odwiedza swojego / swoją dziadka / babcię w weekendy. Ele / Ela visita frequentemente o / a seu / sua avô / avó nos fins de semana.
+ - (My) jutro zadzwonimy do naszego / naszej dziadka / babci. (Nós) amanhã ligaremos para o / a nosso / nossa avô / avó.
+ - (Ty) bardzo kochałeś / kochałaś swojego / swoją dziadka / babcię. Você amava muito o / a seu / sua avô / avó.
+ - (Wy) słuchacie rad waszego / waszej dziadka / babci z uwagą. Vocês escutam os conselhos do avô / da avó de vocês com atenção.
 
 - [] Dzień 794 - 
 
