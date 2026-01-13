@@ -4492,7 +4492,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) bardzo kochałeś / kochałaś swojego / swoją dziadka / babcię. Você amava muito o / a seu / sua avô / avó.
  - (Wy) słuchacie rad waszego / waszej dziadka / babci z uwagą. Vocês escutam os conselhos do avô / da avó de vocês com atenção.
 
-- [] Dzień 794 - 
+- [x] Dzień 794 - Oliwka. (Azeitona. - Rzeczowniki żeńskie)
+ - (Ja) lubiłem / lubiłam oliwki do sałatki. Eu gostava de azeitonas na salada.
+ - On / Ona wczoraj kupił / kupiła oliwki na kolację. Ele / Ela ontem comprou azeitonas para o jantar.
+ - (My) jutro dodamy oliwki do pizzy. (Nós) amanhã vamos adicionar azeitonas à pizza.
+ - (Ty) często wybierasz oliwki bez pestek. Você costuma escolher azeitonas sem caroço.
+ - (Wy) jedliście / jadłyście oliwki podczas spotkania. Vocês comeram azeitonas durante o encontro.
 
 - [] Dzień 795 - 
 
