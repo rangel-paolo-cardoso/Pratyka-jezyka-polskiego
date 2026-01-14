@@ -4506,7 +4506,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) często masz zgagę po kawie. Você frequentemente tem azia depois do café.
  - (Wy) mieliście / miałyście zgagę po kolacji. Vocês tiveram azia depois do jantar.
 
-- [] Dzień 796 - 
+- [x] Dzień 796 - Niebieski / Niebieska / Niebieskie, Błękitny / Błękitna / Błękitne - Przymiotniki. (Azul. - Przymiotnik, Rzeczownik)
+ - On / Ona mówi, że niebieski kolor jest spokojny. Ele / Ela diz que a cor azul é tranquila.
+ - (Ja) wczoraj wybrałem / wybrałam błękitną koszulę. (Eu) ontem escolhi uma camisa azul.
+ - (My) jutro pomalujemy pokój na niebieską barwę. (Nós) amanhã vamos pintar o quarto de um tom azul.
+ - (Ty) uważasz, że błękitny odcień jest elegancki. Você acha que o tom azul é elegante.
+ - (Wy) kupiliście / kupiłyście niebieską sukienkę w zeszłym roku. Vocês compraram um vestido azul no ano passado.
 
 - [] Dzień 797 - 
 
