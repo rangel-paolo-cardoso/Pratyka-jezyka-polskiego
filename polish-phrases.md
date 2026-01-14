@@ -4499,7 +4499,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) często wybierasz oliwki bez pestek. Você costuma escolher azeitonas sem caroço.
  - (Wy) jedliście / jadłyście oliwki podczas spotkania. Vocês comeram azeitonas durante o encontro.
 
-- [] Dzień 795 - 
+- [x] Dzień 795 - Zgaga. (Azia. - Rzeczowniki żeńskie)
+ - (Ja) mam zgagę po ciężkim obiedzie. (Eu) tenho azia depois de um almoço pesado.
+ - On / Ona wczoraj miał / miała silną zgagę w nocy. Ele / Ela ontem teve azia forte durante à noite.
+ - (My) jutro będziemy mieć zgagę, jeśli zjemy za późno. (Nós) amanhã teremos azia se comermos muito tarde.
+ - (Ty) często masz zgagę po kawie. Você frequentemente tem azia depois do café.
+ - (Wy) mieliście / miałyście zgagę po kolacji. Vocês tiveram azia depois do jantar.
 
 - [] Dzień 796 - 
 
