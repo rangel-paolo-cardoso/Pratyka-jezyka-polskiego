@@ -4513,7 +4513,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) uważasz, że błękitny odcień jest elegancki. Você acha que o tom azul é elegante.
  - (Wy) kupiliście / kupiłyście niebieską sukienkę w zeszłym roku. Vocês compraram um vestido azul no ano passado.
 
-- [] Dzień 797 - 
+- [x] Dzień 797 - Kafelek, Kafel. (Azulejo. - Rzeczowniki męskie)
+ - On / Ona wczoraj kupił / kupiła niebieski kafelek do kuchni. Ele / Ela ontem comprou azulejos azuis para a cozinha.
+ - (Ja) dziś czyszczę stary kafelek w łazience. (Eu) hoje estou limpando os azulejos antigos no banheiro.
+ - (Ty) jutro zamontujesz nowy kafelek na ścianie. Você amanhã vai instalar um azulejo novo na parede.
+ - (My) w zeszłym roku wymieniliśmy / wymieniłyśmy kafelek w przedpokoju. (Nós) no ano passado trocamos o azulejo no corredor.
+ - (Wy) teraz porównujecie kafelek z innym wzorem. Vocês agora comparam um azulejo com outro padrão.
 
 - [] Dzień 798 - 
 
