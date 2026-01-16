@@ -4520,7 +4520,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) w zeszłym roku wymieniliśmy / wymieniłyśmy kafelek w przedpokoju. (Nós) no ano passado trocamos o azulejo no corredor.
  - (Wy) teraz porównujecie kafelek z innym wzorem. Vocês agora comparam um azulejo com outro padrão.
 
-- [] Dzień 798 - 
+- [x] Dzień 798 - Niania. (Babá. - Rzeczowniki żeńskie)
+ - (Ja) teraz rozmawiam z nianią o grafiku. (Eu) agora converso com a babá sobre o horário.
+ - (Ty) jutro zatrudnisz nianię do opieki nad dzieckiem. Você amanhã vai contratar uma babá para cuidar da criança.
+ - Oni / One teraz szukają doświadczonej niani. Eles / Elas agora procuram uma babá experiente.
+ - Ona jutro zacznie pracę jako niania. Ela amanhã começará a trabalhar como babá.
+ - Oni / One niedawno podziękowali / podziękowały niani za pomoc. Eles / Elas recentemente agradeceram à babá pela ajuda.
 
 - [] Dzień 799 - 
 
