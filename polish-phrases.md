@@ -4527,7 +4527,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Ona jutro zacznie pracę jako niania. Ela amanhã começará a trabalhar como babá.
  - Oni / One niedawno podziękowali / podziękowały niani za pomoc. Eles / Elas recentemente agradeceram à babá pela ajuda.
 
-- [] Dzień 799 - 
+- [x] Dzień 799 - Dorsz. (Bacalhau. - Rzeczowniki męskie)
+ - On / Ona wczoraj przygotował / przygotowała dorsza na kolację. Ele / Ela ontem preparou bacalhau para o jantar.
+ - (Ja) teraz kupuję dorsza solonego na święta. (Eu) agora compro bacalhau salgado para as festas.
+ - (Ty) jutro spróbujesz dorsza suszonego po portugalsku. Você amanhã vai experimentar bacalhau seco à portuguesa.
+ - (My) w zeszłym miesiącu jedliśmy / jadłyśmy dorsza w restauracji. (Nós) no mês passado comemos bacalhau no restaurante.
+ - Oni / One w przyszłym tygodniu ugotują dorsza dla rodziny. Eles / Elas na próxima semana vão cozinhar bacalhau para a família.
 
 - [] Dzień 800 - 
 
