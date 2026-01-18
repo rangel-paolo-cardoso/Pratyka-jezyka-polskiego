@@ -4534,7 +4534,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) w zeszłym miesiącu jedliśmy / jadłyśmy dorsza w restauracji. (Nós) no mês passado comemos bacalhau no restaurante.
  - Oni / One w przyszłym tygodniu ugotują dorsza dla rodziny. Eles / Elas na próxima semana vão cozinhar bacalhau para a família.
 
-- [] Dzień 800 - 
+- [x] Dzień 800 - Balia, Miednica. (Bacia. - Rzeczowniki żeńskie)
+ - On / Ona wczoraj umył / umyła ubrania w dużej balii. Ele / Ela ontem lavou as roupas em uma bacia grande.
+ - (Ja) dzisiaj napełniłem / napełniłam miednicę wodą do sprzątania. (Eu) hoje enchi a bacia com água para limpar.
+ - (Ty) jutro włożysz balię do łazienki przed remontem. Você amanhã colocará a bacia no banheiro antes da reforma.
+ - (My) zawsze używaliśmy / używałyśmy miednicy do prania ręcznego. (Nós) sempre usamos a bacia para lavar roupa à mão.
+ - (Wy) znaleźliście / znalazłyście starą balię na strychu domu. Vocês encontraram uma bacia antiga no sótão da casa.
 
 - [] Dzień 801 - 
 
