@@ -4541,7 +4541,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zawsze używaliśmy / używałyśmy miednicy do prania ręcznego. (Nós) sempre usamos a bacia para lavar roupa à mão.
  - (Wy) znaleźliście / znalazłyście starą balię na strychu domu. Vocês encontraram uma bacia antiga no sótão da casa.
 
-- [] Dzień 801 - 
+- [x] Dzień 801 - Boczek. (Bacon. - Rzeczowniki męskie)
+ - (Ja) wczoraj usmażyłem / usmażyłam boczek na śniadanie. (Eu) ontem fritei bacon no café da manhã.
+ - On / Ona dziś kupuje boczek w sklepie mięsnym. Ele / Ela hoje compra bacon no açougue.
+ - (Ty) jutro dodasz boczek do zupy według przepisu. Você amanhã adicionará bacon à sopa conforme a receita.
+ - (My) wcześniej jedliśmy / jadłyśmy boczek tylko w weekendy. (Nós) antes comíamos bacon apenas nos fins de semana.
+ - (Wy) przygotujecie boczek na kolację dla gości. Vocês prepararão bacon para o jantar dos convidados.
 
 - [] Dzień 802 - 
 
