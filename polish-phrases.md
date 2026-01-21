@@ -4548,7 +4548,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wcześniej jedliśmy / jadłyśmy boczek tylko w weekendy. (Nós) antes comíamos bacon apenas nos fins de semana.
  - (Wy) przygotujecie boczek na kolację dla gości. Vocês prepararão bacon para o jantar dos convidados.
 
-- [] Dzień 802 - 
+- [x] Dzień 802 - Bakteria. (Bactéria. - Rzeczowniki żeńskie)
+ - (Ja) wczoraj odkryłem / odkryłam nową bakterię w laboratorium. (Eu) ontem descobri uma nova bactéria no laboratório.
+ - On / Ona teraz bada bakterię pod mikroskopem. Ele / Ela agora analisa a bactéria no microscópio.
+ - (Ty) jutro usuniesz bakterię z tej próbki. Você amanhã removerá a bactéria dessa amostra.
+ - (My) wcześniej zwalczaliśmy / zwalczałyśmy tę bakterię bardzo skutecznie. (Nós) antes combatíamos essa bactéria de forma muito eficaz.
+ - (Wy) w przyszłym tygodniu opiszecie bakterię w raporcie naukowym. Vocês na próxima semana descreverão a bactéria no relatório científico.
 
 - [] Dzień 803 - 
 
