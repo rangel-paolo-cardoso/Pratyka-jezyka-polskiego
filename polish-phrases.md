@@ -4555,7 +4555,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wcześniej zwalczaliśmy / zwalczałyśmy tę bakterię bardzo skutecznie. (Nós) antes combatíamos essa bactéria de forma muito eficaz.
  - (Wy) w przyszłym tygodniu opiszecie bakterię w raporcie naukowym. Vocês na próxima semana descreverão a bactéria no relatório científico.
 
-- [] Dzień 803 - 
+- [x] Dzień 803 - Nieświeży oddech, Brzydki zapach z ust - Wyrażenia. (Bafo. - Rzeczownik męski)
+ - (Ja) wczoraj poczułem / poczułam u niego / niej nieświeży oddech. (Eu) ontem senti bafo nele / nela.
+ - On / Ona teraz próbuje ukryć brzydki zapach z ust. Ele / Ela agora tenta esconder o bafo.
+ - (Ty) jutro zauważysz nieświeży oddech po tej potrawie. Você amanhã vai perceber o bafo depois dessa comida.
+ - (My) wcześniej rozmawialiśmy / rozmawiałyśmy o jego / jej nieświeżym oddechu. (Nós) antes conversávamos sobre o bafo dele / dela.
+ - (Wy) w przyszłości zwrócicie uwagę na brzydki zapach z ust u kolegów. Vocês no futuro prestarão atenção no bafo dos colegas.
 
 - [] Dzień 804 - 
 
