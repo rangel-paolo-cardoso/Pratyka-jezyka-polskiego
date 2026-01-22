@@ -4562,7 +4562,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wcześniej rozmawialiśmy / rozmawiałyśmy o jego / jej nieświeżym oddechu. (Nós) antes conversávamos sobre o bafo dele / dela.
  - (Wy) w przyszłości zwrócicie uwagę na brzydki zapach z ust u kolegów. Vocês no futuro prestarão atenção no bafo dos colegas.
 
-- [] Dzień 804 - 
+- [x] Dzień 804 - Bagaż - Rzeczownik męski. (Bagagem. - Rzeczownik żeński)
+ - (Ja) wczoraj spakowałem / spakowałam cały bagaż przed podróżą. (Eu) ontem arrumei toda a bagagem antes da viagem.
+ - On / Ona teraz pilnuje swojego / swojej bagażu na lotnisku. Ele / Ela agora cuida da sua bagagem no aeroporto.
+ - (Ty) jutro odbierzesz bagaż po przylocie. Você amanhã vai retirar a bagagem após a chegada.
+ - (My) wcześniej sprawdziliśmy / sprawdziłyśmy, czy bagaż był kompletny. (Nós) antes verificamos se a bagagem estava completa.
+ - (Wy) w przyszłości zapomnicie o bagażu w hotelu. Vocês no futuro esquecerão a bagagem no hotel.
 
 - [] Dzień 805 - 
 
