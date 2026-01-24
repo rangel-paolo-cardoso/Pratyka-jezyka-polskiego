@@ -4569,7 +4569,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wcześniej sprawdziliśmy / sprawdziłyśmy, czy bagaż był kompletny. (Nós) antes verificamos se a bagagem estava completa.
  - (Wy) w przyszłości zapomnicie o bagażu w hotelu. Vocês no futuro esquecerão a bagagem no hotel.
 
-- [] Dzień 805 - 
+- [x] Dzień 805 - Bagietka. (Baguete. - Rzeczowniki żeńskie)
+ - On / Ona wczoraj kupił / kupiła świeżą bagietkę w piekarni. Ele / Ela ontem comprou uma baguete fresca na padaria.
+ - (Ja) teraz jem bagietkę z masłem na śniadanie. (Eu) agora como baguete com manteiga no café da manhã.
+ - (Ty) jutro przyniesiesz bagietkę francuską na kolację. Você amanhã vai trazer baguete francesa para o jantar.
+ - (My) wcześniej podzieliliśmy / podzieliłyśmy bagietkę między sobą. (Nós) antes dividimos a baguete entre nós.
+ - (Wy) w przyszłości zjecie bagietkę razem w domu. Vocês no futuro vão comer baguete juntos em casa.
 
 - [] Dzień 806 - 
 
