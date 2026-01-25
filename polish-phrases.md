@@ -4576,7 +4576,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wcześniej podzieliliśmy / podzieliłyśmy bagietkę między sobą. (Nós) antes dividimos a baguete entre nós.
  - (Wy) w przyszłości zjecie bagietkę razem w domu. Vocês no futuro vão comer baguete juntos em casa.
 
-- [] Dzień 806 - 
+- [x] Dzień 806 - Bałagan, Nieporządek, Rozgardiasz - Rzeczowniki męskie. (Bagunça. - Rzeczownik żeński)
+ - On / Ona wczoraj zrobił / zrobiła bałagan w swoim pokoju. Ele / Ela ontem fez bagunça no próprio quarto.
+ - (Ja) teraz widzę nieporządek na biurku. (Eu) agora vejo bagunça na (minha) mesa.
+ - (Ty) jutro posprzątasz ten bałagan w domu. Você amanhã vai arrumar essa bagunça em casa.
+ - (My) wcześniej sprzątaliśmy / sprzątałyśmy rozgardiasz po spotkaniu. (Nós) antes arrumamos a bagunça depois do encontro.
+ - (Oni / One) w przyszłości zostawią nieporządek po imprezie. (Eles / Elas) no futuro vão deixar bagunça depois da festa.
 
 - [] Dzień 807 - 
 
