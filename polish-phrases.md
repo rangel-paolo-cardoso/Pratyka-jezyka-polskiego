@@ -4583,7 +4583,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wcześniej sprzątaliśmy / sprzątałyśmy rozgardiasz po spotkaniu. (Nós) antes arrumamos a bagunça depois do encontro.
  - (Oni / One) w przyszłości zostawią nieporządek po imprezie. (Eles / Elas) no futuro vão deixar bagunça depois da festa.
 
-- [] Dzień 807 - 
+- [x] Dzień 807 - Baletnik / Baletnica. (Bailarino / Bailarina. - Rzeczowniki)
+ - (Ja) byłem / byłam baletnikiem / baletnicą w tej operze pięć lat temu. (Eu) fui bailarino / bailarina nessa ópera há cinco anos (atrás).
+ - On / Ona jest teraz profesjonalnym / profesjonalną baletnikiem / baletnicą klasycznym / klasyczną. Ele / Ela é agora um / uma bailarino / bailarina clássico / clássica profissional.
+ - (Ty) zostaniesz baletnikiem / baletnicą, jeśli będziesz ćwiczyć balet codziennie. Você vai se tornar bailarino / bailarina se praticar balé todos os dias.
+ - (My) byliśmy / byłyśmy baletnikami / baletnicami w młodym wieku. (Nós) fomos bailarinos / bailarinas quando éramos jovens.
+ - (Wy) będziecie baletnikami / baletnicami na tej scenie w przyszłym roku. Vocês serão bailarinos / bailarinas nesse palco no próximo ano.
 
 - [] Dzień 808 - 
 
