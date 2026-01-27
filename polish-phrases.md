@@ -4590,7 +4590,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy baletnikami / baletnicami w młodym wieku. (Nós) fomos bailarinos / bailarinas quando éramos jovens.
  - (Wy) będziecie baletnikami / baletnicami na tej scenie w przyszłym roku. Vocês serão bailarinos / bailarinas nesse palco no próximo ano.
 
-- [] Dzień 808 - 
+- [x] Dzień 808 - Bal. (Baile. - Rzeczowniki męskie)
+ - (Ja) byłem / byłam na balu wczoraj wieczorem. (Eu) fui ao baile ontem à noite.
+ - On / Ona organizuje dziś elegancki bal w sali. Ele / Ela organiza hoje um baile elegante no salão.
+ - (Ty) pójdziesz jutro na bal z przyjaciółmi / przyjaciółkami. Você irá amanhã ao baile com amigos.
+ - (My) tańczyliśmy / tańczyłyśmy na balu do rana. (Nós) dançamos no baile até de manhã.
+ - (Wy) będziecie wspominać ten bal przez długi czas. Vocês vão lembrar desse baile por muito tempo.
 
 - [] Dzień 809 - 
 
