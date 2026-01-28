@@ -4597,7 +4597,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) tańczyliśmy / tańczyłyśmy na balu do rana. (Nós) dançamos no baile até de manhã.
  - (Wy) będziecie wspominać ten bal przez długi czas. Vocês vão lembrar desse baile por muito tempo.
 
-- [] Dzień 809 - 
+- [x] Dzień 809 - Dzielnica - Rzeczownik żeński, Osiedle - Rzeczownik nijaki. Bairro - Rzeczownik męski.
+ - (On / Ona) mieszkał / mieszkała w tej dzielnicy przez wiele lat. Ele / Ela morou nesse bairro por muitos anos.
+ - (Ty) znasz to osiedle bardzo dobrze. Você conhece muito bem esse bairro.
+ - (My) planujemy jutro odwiedzić nowe osiedle. (Nós) planejamos visitar um bairro novo amanhã.
+ - (Wy) mieszkaliście / mieszkałyście kiedyś w spokojnej dzielnicy. Vocês moraram antigamente em um bairro tranquilo.
+ - (Oni / One) będą inwestować w rozwój swojej dzielnicy. (Eles / Elas) vão investir no desenvolvimento do bairro deles / delas.
 
 - [] Dzień 810 - 
 
