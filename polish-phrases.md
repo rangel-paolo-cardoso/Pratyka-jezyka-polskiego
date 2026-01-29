@@ -4604,7 +4604,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) mieszkaliście / mieszkałyście kiedyś w spokojnej dzielnicy. Vocês moraram antigamente em um bairro tranquilo.
  - (Oni / One) będą inwestować w rozwój swojej dzielnicy. (Eles / Elas) vão investir no desenvolvimento do bairro deles / delas.
 
-- [] Dzień 810 - 
+- [x] Dzień 810 - Niski / Niska - Przymiotniki, Dół / Dolina - Rzeczowniki. (Baixo / Baixa. - Przymiotniki, Rzeczowniki)
+ - (Ja) byłem / byłam niski / niska jako dziecko. Eu era baixo / baixa quando criança.
+ - On / Ona mieszka teraz w dole niedaleko rzeki. Ele / Ela mora agora em um lugar baixo perto do rio.
+ - (Ty) będziesz jutro niski / niska w rankingu po egzaminie. Você ficará baixo / baixa no ranking amanhã após a prova.
+ - (My) czuliśmy / czułyśmy się nisko ocenieni / ocenione wczoraj. (Nós) nos sentimos desvalorizados / desvalorizadas ontem.
+ - Oni / One mieli / miały niski poziom energii w zeszłym tygodniu. Eles / Elas tiveram nível baixo de energia na semana passada.
 
 - [] Dzień 811 - 
 
