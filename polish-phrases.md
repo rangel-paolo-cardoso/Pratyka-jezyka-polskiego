@@ -4611,7 +4611,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) czuliśmy / czułyśmy się nisko ocenieni / ocenione wczoraj. (Nós) nos sentimos desvalorizados / desvalorizadas ontem.
  - Oni / One mieli / miały niski poziom energii w zeszłym tygodniu. Eles / Elas tiveram nível baixo de energia na semana passada.
 
-- [] Dzień 811 - 
+- [x] Dzień 811 - Obniżyć, Opuścić, Pobrać, Ściągnąć. (Baixar. - Czasowniki)
+ - (Ja) obniżyłem / obniżyłam cenę wczoraj wieczorem. (Eu) baixei o preço ontem à noite.
+ - On / Ona teraz opuszcza zasłonę powoli. Ele / Ela está baixando a cortina agora, devagar.
+ - (Ty) pobrałeś / pobrałaś ten plik z internetu w zeszłym tygodniu. Você baixou esse arquivo da internet na semana passada.
+ - (My) ściągniemy ten program jutro rano. (Nós) baixaremos esse programa amanhã de manhã.
+ - (Wy) obniżyliście / obniżyłyście głos podczas spotkania. Vocês baixaram (o tom de) a voz durante a reunião.
 
 - [] Dzień 812 - 
 
