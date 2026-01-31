@@ -4618,7 +4618,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) ściągniemy ten program jutro rano. (Nós) baixaremos esse programa amanhã de manhã.
  - (Wy) obniżyliście / obniżyłyście głos podczas spotkania. Vocês baixaram (o tom de) a voz durante a reunião.
 
-- [] Dzień 812 - 
+- [x] Dzień 812 - Niski / Niska. (Baixo / Baixa. - Przymiotniki)
+ - On / Ona był / była niski / niska w dzieciństwie. Ele / Ela foi baixo / baixa na infância.
+ - (Ja) jestem teraz niski / niska jak na mój wiek. (Eu) sou baixo / baixa agora para a minha idade.
+ - (Ty) będziesz mieć niski poziom energii po tej diecie. Você terá nível baixo de energia depois dessa dieta.
+ - (My) mieliśmy / miałyśmy niską temperaturę ciała po chorobie. (Nós) tivemos temperatura corporal baixa depois da doença.
+ - (Wy) jesteście niscy / niskie, ale bardzo szybcy / szybkie. Vocês são baixos / baixas, mas muito rápidos / rápidas.
 
 - [] Dzień 813 - 
 
