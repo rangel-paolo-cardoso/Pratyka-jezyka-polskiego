@@ -4625,7 +4625,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) mieliśmy / miałyśmy niską temperaturę ciała po chorobie. (Nós) tivemos temperatura corporal baixa depois da doença.
  - (Wy) jesteście niscy / niskie, ale bardzo szybcy / szybkie. Vocês são baixos / baixas, mas muito rápidos / rápidas.
 
-- [] Dzień 813 - 
+- [x] Dzień 813 - Cukierek - Rzeczownik męski, Landrynka - Rzeczownik żeński. (Bala. - Rzeczownik żeński)
+ - (Ja) zjadłem / zjadłam słodką landrynkę wczoraj po obiedzie. (Eu) comi uma bala doce ontem depois do almoço.
+ - (Ty) jesz cukierka teraz, mimo że obiecałeś / obiecałaś dietę. Você come uma bala agora, mesmo tendo prometido fazer dieta.
+ - On / Ona kupił / kupiła cukierki dla dzieci w sklepie. Ele / Ela comprou balas para as crianças na loja.
+ - (My) będziemy jeść landrynki podczas filmu wieczorem. (Nós) vamos comer balas durante o filme à noite.
+ - (Wy) zjedliście / zjadłyście wszystkie cukierki z miski. Vocês comeram todas as balas da tigela.
 
 - [] Dzień 814 - 
 
