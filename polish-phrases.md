@@ -4632,7 +4632,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy jeść landrynki podczas filmu wieczorem. (Nós) vamos comer balas durante o filme à noite.
  - (Wy) zjedliście / zjadłyście wszystkie cukierki z miski. Vocês comeram todas as balas da tigela.
 
-- [] Dzień 814 - 
+- [x] Dzień 814 - Impreza. (Balada. - Rzeczowniki żeńskie)
+ - (Ja) byłem / byłam na imprezie w klubie wczoraj wieczorem. (Eu) estive na balada no clube ontem à noite.
+ - On / Ona chodzi teraz często na imprezy w centrum miasta. Ele / Ela vai agora com frequência a baladas no centro da cidade.
+ - (Ty) pójdziesz jutro na imprezę z przyjaciółmi / przyjaciółkami. Você vai amanhã à balada com amigos / amigas.
+ - (My) wróciliśmy / wróciłyśmy późno po długiej imprezie. (Nós) voltamos tarde depois de uma balada longa.
+ - (Wy) byliście / byłyście na tej samej imprezie co oni / one. Vocês estiveram na mesma balada que eles / elas.
 
 - [] Dzień 815 - 
 
