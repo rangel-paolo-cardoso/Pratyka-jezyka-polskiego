@@ -4639,7 +4639,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wróciliśmy / wróciłyśmy późno po długiej imprezie. (Nós) voltamos tarde depois de uma balada longa.
  - (Wy) byliście / byłyście na tej samej imprezie co oni / one. Vocês estiveram na mesma balada que eles / elas.
 
-- [] Dzień 815 - 
+- [x] Dzień 815 - Waga, Szala, Równowaga. (Balança. - Rzeczowniki żeńskie)
+ - (On / Ona) używał / używała wagi wczoraj w laboratorium, bo musiał / musiała sprawdzić dokładność pomiaru. Ele / Ela usou a balança ontem no laboratório, porque precisou verificar a precisão da medição.
+ - (Ja) ważę produkty na wadze teraz i widzę, że szala jest idealnie równa. (Eu) peso os produtos na balança agora e vejo que o prato está perfeitamente equilibrado.
+ - (Ty) sprawdzisz jutro wagę, czy pokazuje dobrą równowagę? Você vai verificar amanhã a balança para ver se ela mostra um bom equilíbrio?
+ - (My) naprawialiśmy / naprawiałyśmy wagę w zeszłym tygodniu, ponieważ potrzebowaliśmy / potrzebowałyśmy dokładnych wyników. (Nós) consertamos a balança na semana passada, porque precisávamos de resultados precisos.
+ - (Wy) będziecie używali / używały wagi podczas eksperymentu, a ocenią równowagę później. Vocês vão usar a balança durante o experimento, e vão avaliar o equilíbrio depois.
 
 - [] Dzień 816 - 
 
