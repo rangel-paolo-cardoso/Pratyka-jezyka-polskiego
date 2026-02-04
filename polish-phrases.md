@@ -4646,7 +4646,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) naprawialiśmy / naprawiałyśmy wagę w zeszłym tygodniu, ponieważ potrzebowaliśmy / potrzebowałyśmy dokładnych wyników. (Nós) consertamos a balança na semana passada, porque precisávamos de resultados precisos.
  - (Wy) będziecie używali / używały wagi podczas eksperymentu, a ocenią równowagę później. Vocês vão usar a balança durante o experimento, e vão avaliar o equilíbrio depois.
 
-- [] Dzień 816 - 
+- [x] Dzień 816 - Kołysać się, Huśtać się, Chwiać się. (Balançar(-se). - Czasowniki)
+ - (On / Ona) kołysał / kołysała się na łodzi wczoraj, gdy fale były bardzo silne. Ele / Ela balançou no barco ontem, quando as ondas estavam muito fortes.
+ - (Ja) huśtam się teraz na krześle i próbuję się zrelaksować. (Eu) me balanço agora na cadeira e tento relaxar.
+ - (Ty) będziesz się huśtał / huśtała na hamaku jutro po południu. Você vai se balançar na rede amanhã à tarde.
+ - (My) chwialiśmy / chwiałyśmy się podczas spaceru, bo most był bardzo wąski. (Nós) balançávamos durante a caminhada, porque a ponte era muito estreita.
+ - (Wy) kołysaliście / kołysałyście się rytmicznie, a oni / one patrzyli / patrzyły na was z daleka. Vocês se balançavam de forma rítmica, e eles / elas observavam vocês de longe.
 
 - [] Dzień 817 - 
 
