@@ -4653,7 +4653,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) chwialiśmy / chwiałyśmy się podczas spaceru, bo most był bardzo wąski. (Nós) balançávamos durante a caminhada, porque a ponte era muito estreita.
  - (Wy) kołysaliście / kołysałyście się rytmicznie, a oni / one patrzyli / patrzyły na was z daleka. Vocês se balançavam de forma rítmica, e eles / elas observavam vocês de longe.
 
-- [] Dzień 817 - 
+- [x] Dzień 817 - Balon, Aerostat. (Balão. - Rzeczowniki męskie)
+ - (On / Ona) kupił / kupiła balon wczoraj dla dziecka i niósł / niosła go przez park. Ele / Ela comprou um balão ontem para a criança e levou ele pelo parque.
+ - (Ja) trzymam balon teraz i boję się, że zaraz pęknie. (Eu) seguro o balão agora e tenho medo de que ele estoure a qualquer momento.
+ - (Ty) zobaczysz jutro ogromny aerostat nad miastem. Você vai ver amanhã um enorme balão sobre a cidade.
+ - (My) wypuściliśmy / wypuściłyśmy balon w zeszłym tygodniu, bo chcieliśmy / chciałyśmy sprawdzić kierunek wiatru. (Nós) soltamos o balão na semana passada, porque queríamos verificar a direção do vento.
+ - (Wy) będziecie puszczali / puszczały balon podczas festynu, a oni / one zrobią zdjęcia. Vocês vão soltar o balão durante a festa, e eles / elas vão tirar fotos.
 
 - [] Dzień 818 - 
 
