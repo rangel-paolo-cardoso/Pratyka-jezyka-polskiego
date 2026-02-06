@@ -4660,7 +4660,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wypuściliśmy / wypuściłyśmy balon w zeszłym tygodniu, bo chcieliśmy / chciałyśmy sprawdzić kierunek wiatru. (Nós) soltamos o balão na semana passada, porque queríamos verificar a direção do vento.
  - (Wy) będziecie puszczali / puszczały balon podczas festynu, a oni / one zrobią zdjęcia. Vocês vão soltar o balão durante a festa, e eles / elas vão tirar fotos.
 
-- [] Dzień 818 - 
+- [x] Dzień 818 - Lad, Kontuar. (Balcão. - Rzeczowniki męskie)
+ - (On / Ona) stał / stała przy ladzie wczoraj i cierpliwie czekał / czekała na obsługę. Ele / Ela ficou no balcão ontem e esperou pacientemente pelo atendimento.
+ - (Ja) zamawiam kawę przy kontuarze teraz i uważnie obserwuję ruch w kawiarni. (Eu) peço café no balcão agora e observo atentamente o movimento da cafeteria.
+ - (Ty) podejdziesz jutro do kontuaru, aby spokojnie zapytać o rezerwację stolika. Você vai se aproximar do balcão amanhã para perguntar com calma sobre a reserva da mesa.
+ - (My) naprawialiśmy / naprawiałyśmy lad w sklepie w zeszłym miesiącu, bo była bardzo stara. (Nós) consertamos o balcão da loja no mês passado, porque ele estava muito antigo.
+ - (Wy) będziecie płacili / płaciły przy kontuarze, a oni / one odbiorą zamówienie później. Vocês vão pagar no balcão, e eles / elas vão retirar o pedido mais tarde.
 
 - [] Dzień 819 - 
 
