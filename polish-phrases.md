@@ -4667,7 +4667,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) naprawialiśmy / naprawiałyśmy lad w sklepie w zeszłym miesiącu, bo była bardzo stara. (Nós) consertamos o balcão da loja no mês passado, porque ele estava muito antigo.
  - (Wy) będziecie płacili / płaciły przy kontuarze, a oni / one odbiorą zamówienie później. Vocês vão pagar no balcão, e eles / elas vão retirar o pedido mais tarde.
 
-- [] Dzień 819 - 
+- [x] Dzień 819 - Sprzedawca / Sprzedawczyni, Ekspedient / Ekspedientka, Kasjer / Kasjerka. (Balconista. - Rzeczowniki)
+ - (On / Ona) był / była sprzedawcą / sprzedawczynią i obsługiwał / obsługiwała klientów przy ladzie. Ele / Ela foi balconista e atendeu clientes no balcão.
+ - (Ja) pytam teraz ekspedienta / ekspedientkę o szczegóły produktu w sklepie. (Eu) pergunto agora ao / à balconista sobre detalhes do produto na loja.
+ - (Ty) zapytasz jutro kasjera / kasjerkę o cenę przy kontuarze. Você vai perguntar amanhã ao / à balconista o preço no balcão.
+ - (My) chwaliliśmy / chwaliłyśmy sprzedawcę / sprzedawczynię za dobrą obsługę. (Nós) elogiamos o / a balconista pelo bom atendimento.
+ - (Wy) spotkacie ekspedienta / ekspedientkę jutro, a oni / one poczekają. Vocês vão encontrar o / a balconista amanhã, e eles / elas vão esperar.
 
 - [] Dzień 820 - 
 
