@@ -4674,7 +4674,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) chwaliliśmy / chwaliłyśmy sprzedawcę / sprzedawczynię za dobrą obsługę. (Nós) elogiamos o / a balconista pelo bom atendimento.
  - (Wy) spotkacie ekspedienta / ekspedientkę jutro, a oni / one poczekają. Vocês vão encontrar o / a balconista amanhã, e eles / elas vão esperar.
 
-- [] Dzień 820 - 
+- [x] Dzień 820 - Wiadro - Rzeczownik nijaki, Kubeł - Rzeczownik męski. (Balde. - Rzeczownik męski)
+ - (On / Ona) niósł / niosła wczoraj ciężkie wiadro z wodą przez cały ogród. Ele / Ela carregou ontem um balde pesado com água por todo o jardim.
+ - (Ja) myję teraz wiadro po sprzątaniu i odkładam je spokojnie do garażu. (Eu) lavo agora o balde depois da limpeza e o guardo calmamente na garagem.
+ - (Ty) weźmiesz jutro kubeł, aby nalać wody przed pracą w domu. Você vai pegar amanhã o balde para encher de água antes do trabalho em casa.
+ - (My) używaliśmy / używałyśmy wiadra rano, bo sprzątaliśmy / sprzątałyśmy podwórko. (Nós) usamos o balde de manhã, porque limpamos o quintal.
+ - (Wy) przyniesiecie kubeł później, a oni / one wyleją wodę po pracy. Vocês vão trazer o balde mais tarde, e eles / elas vão jogar a água fora depois do trabalho.
 
 - [] Dzień 821 - 
 
