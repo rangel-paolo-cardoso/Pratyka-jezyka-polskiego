@@ -4681,7 +4681,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) używaliśmy / używałyśmy wiadra rano, bo sprzątaliśmy / sprzątałyśmy podwórko. (Nós) usamos o balde de manhã, porque limpamos o quintal.
  - (Wy) przyniesiecie kubeł później, a oni / one wyleją wodę po pracy. Vocês vão trazer o balde mais tarde, e eles / elas vão jogar a água fora depois do trabalho.
 
-- [] Dzień 821 - 
+- [x] Dzień 821 - Balet. (Balé. - Rzeczowniki męskie)
+ - (Ja) oglądałem / oglądałam balet wczoraj i byłem / byłam pod wielkim wrażeniem. (Eu) assisti ao balé ontem e fiquei muito impressionado / impressionada.
+ - (On / Ona) trenuje balet teraz codziennie, bo marzy o występie na scenie. Ele / Ela treina balé agora todos os dias, porque sonha em se apresentar no palco.
+ - (Ty) zobaczysz jutro balet w teatrze i poznasz nowych artystów zespołu. Você vai ver balé amanhã no teatro e conhecer novos artistas do grupo.
+ - (Wy) oglądaliście / oglądałyście balet w telewizji, a oni / one byli / były w teatrze. Vocês assistiram ao balé na televisão, e eles / elas estavam no teatro.
+ - (My) będziemy ćwiczyli / ćwiczyły balet razem, jeśli dostaniemy czas. (Nós) vamos praticar balé juntos, se tivermos tempo.
 
 - [] Dzień 822 - 
 
