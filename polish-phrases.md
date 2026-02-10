@@ -4688,7 +4688,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) oglądaliście / oglądałyście balet w telewizji, a oni / one byli / były w teatrze. Vocês assistiram ao balé na televisão, e eles / elas estavam no teatro.
  - (My) będziemy ćwiczyli / ćwiczyły balet razem, jeśli dostaniemy czas. (Nós) vamos praticar balé juntos, se tivermos tempo.
 
-- [] Dzień 822 - 
+- [x] Dzień 822 - Wieloryb, Waleń - Rzeczowniki męskie. (Baleia. - Rzeczownik żeński)
+ - (Wy) zobaczyliście / zobaczyłyście wieloryba wczoraj i byliście / byłyście zachwyceni / zachwycone. Vocês viram a baleia ontem e ficaram encantados / encantadas.
+ - (On / Ona) obserwuje teraz wieloryba z pokładu statku na otwartym morzu. Ele / Ela observa agora a baleia do convés do navio em alto-mar (mar aberto).
+ - (Ja) czytałem / czytałam o waleniach i uczyłem / uczyłam się ich zwyczajów. (Eu) li sobre baleias e aprendi sobre os hábitos delas.
+ - (Ty) spotkasz jutro wieloryba, jeśli dopłyniesz bliżej wybrzeża. Você vai encontrar uma baleia amanhã, se navegar mais perto da costa.
+ - (My) będziemy chronili / chroniły wieloryby, bo dbamy o przyszłość oceanów. (Nós) vamos proteger as baleias, porque cuidamos do futuro dos oceanos.
 
 - [] Dzień 823 - 
 
