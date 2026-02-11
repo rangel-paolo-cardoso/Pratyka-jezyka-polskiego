@@ -4695,7 +4695,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) spotkasz jutro wieloryba, jeśli dopłyniesz bliżej wybrzeża. Você vai encontrar uma baleia amanhã, se navegar mais perto da costa.
  - (My) będziemy chronili / chroniły wieloryby, bo dbamy o przyszłość oceanów. (Nós) vamos proteger as baleias, porque cuidamos do futuro dos oceanos.
 
-- [] Dzień 823 - 
+- [x] Dzień 823 - Banan - Rzeczownik męski. (Banana. - Rzeczownik żeński)
+ - (Oni / One) jedli / jadły wczoraj banany na plaży i śmiali / śmiały się bardzo głośno. Eles / Elas comeram bananas ontem na praia e riram muito alto.
+ - (Ty) kupisz jutro banana na targu, jeśli owoc będzie naprawdę dojrzały. Você vai comprar banana amanhã na feira, se a fruta estiver realmente madura.
+ - (Ja) jem teraz banana po treningu i czuję wyraźny przypływ energii. (Eu) como banana agora depois do treino e sinto um claro aumento de energia.
+ - (Wy) przynieśliście / przyniosłyście banany na piknik w miejskim parku. Vocês trouxeram bananas para o piquenique no parque da cidade.
+ - (My) będziemy kroili / kroiły banany do deseru po wspólnej kolacji. (Nós) vamos cortar bananas para a sobremesa depois do jantar juntos.
 
 - [] Dzień 824 - 
 
