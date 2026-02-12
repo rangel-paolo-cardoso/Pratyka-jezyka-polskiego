@@ -4702,7 +4702,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) przynieśliście / przyniosłyście banany na piknik w miejskim parku. Vocês trouxeram bananas para o piquenique no parque da cidade.
  - (My) będziemy kroili / kroiły banany do deseru po wspólnej kolacji. (Nós) vamos cortar bananas para a sobremesa depois do jantar juntos.
 
-- [] Dzień 824 - 
+- [x] Dzień 824 - Bananowiec - Rzeczownik męski, Palma bananowa - Wyrażenie. (Bananeira (Pé de banana). - Rzeczownik żeński)
+ - (Ty) zobaczysz jutro bananowiec w ogrodzie botanicznym nad jeziorem. Você vai ver a bananeira amanhã no jardim botânico perto do lago.
+ - (Oni / One) podziwiali / podziwiały wczoraj palmę bananową podczas wycieczki. Eles / Elas admiraram a bananeira ontem durante a excursão.
+ - (Ja) podlewałem / podlewałam bananowiec rano, gdy było bardzo ciepło. (Eu) reguei a bananeira de manhã, quando estava muito quente.
+ - (My) będziemy sadzili / sadziły bananowce na naszej działce latem. (Nós) vamos plantar bananeiras no nosso terreno no verão.
+ - On / Ona obserwuje teraz bananowiec i robi zdjęcia liści. Ele / Ela observa agora a bananeira e tira fotos das folhas.
 
 - [] Dzień 825 - 
 
