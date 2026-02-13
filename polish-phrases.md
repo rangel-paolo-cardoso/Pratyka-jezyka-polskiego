@@ -4709,7 +4709,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy sadzili / sadziły bananowce na naszej działce latem. (Nós) vamos plantar bananeiras no nosso terreno no verão.
  - On / Ona obserwuje teraz bananowiec i robi zdjęcia liści. Ele / Ela observa agora a bananeira e tira fotos das folhas.
 
-- [] Dzień 825 - 
+- [x] Dzień 825 - Ławka - Rzeczownik żeński, Bank - Rzeczownik męski. (Banco. - Rzeczownik męski)
+ - (Oni / One) siedzieli / siedziały wczoraj na ławce w parku mimo chłodnego wiatru. (Eles / Elas) sentaram ontem no banco do parque apesar do vento frio.
+ - (Ty) otworzysz jutro konto w banku, jeśli oferta będzie korzystna. Você vai abrir conta no banco amanhã, se a oferta for boa.
+ - (My) czekaliśmy / czekałyśmy na ławce przed szkołą po zajęciach. (Nós) esperamos no banco em frente à escola depois das aulas.
+ - (On / Ona) pracuje teraz w banku i analizuje dane klientów. Ele / Ela trabalha agora no banco e analisa dados de clientes.
+ - (Ja) usiadłem / usiadłam na ławce, gdy potrzebowałem / potrzebowałam odpoczynku. (Eu) sentei no banco quando precisei descansar.
 
 - [] Dzień 826 - 
 
