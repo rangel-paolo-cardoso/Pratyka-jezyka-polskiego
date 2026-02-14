@@ -4716,7 +4716,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (On / Ona) pracuje teraz w banku i analizuje dane klientów. Ele / Ela trabalha agora no banco e analisa dados de clientes.
  - (Ja) usiadłem / usiadłam na ławce, gdy potrzebowałem / potrzebowałam odpoczynku. (Eu) sentei no banco quando precisei descansar.
 
-- [] Dzień 826 - 
+- [x] Dzień 826 - Zespół - Rzeczownik męski, Kapela - Rzeczownik żeński. (Banda. - Rzeczownik żeński)
+ - (Wy) słuchaliście / słuchałyście wczoraj nowego zespołu w klubie. Vocês ouviram ontem a banda nova no clube.
+ - (On / Ona) założy jutro kapelę razem ze swoimi przyjaciółmi / przyjaciółkami. Ele / Ela vai fundar uma banda amanhã com seus / suas amigos / amigas.
+ - (Ja) grałem / grałam kiedyś w zespole rockowym przez trzy lata. (Eu) toquei em uma banda de rock por três anos.
+ - (Oni / One) prowadzą teraz kapelę folkową w swoim mieście. (Eles / Elas) lideram agora uma banda folclórica na sua cidade.
+ - (My) będziemy promowali / promowały nasz zespół w internecie. (Nós) vamos promover nossa banda na internet.
 
 - [] Dzień 827 - 
 
