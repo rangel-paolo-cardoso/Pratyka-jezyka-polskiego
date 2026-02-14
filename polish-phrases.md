@@ -4723,7 +4723,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Oni / One) prowadzą teraz kapelę folkową w swoim mieście. (Eles / Elas) lideram agora uma banda folclórica na sua cidade.
  - (My) będziemy promowali / promowały nasz zespół w internecie. (Nós) vamos promover nossa banda na internet.
 
-- [] Dzień 827 - 
+- [x] Dzień 827 - Plaster - Rzeczownik męski, Plaster opatrunkowy - Wyrażenie nominalne. (Bandeide. - Rzeczownik męski)
+ - (Ty) kupiłeś / kupiłaś wczoraj plaster w aptece po skaleczeniu. Você comprou um bandeide ontem na farmácia depois do corte.
+ - (Oni / One) przyniosą jutro plaster dla kolegi / koleżanki z klasy. (Eles / Elas) trarão um bandeide amanhã para o / a colega da classe.
+ - (Ja) nosiłem / nosiłam plaster opatrunkowy przez cały dzień pracy. (Eu) usei um bandeide o dia inteiro no trabalho.
+ - (On / Ona) zakłada teraz plaster na palec po małym wypadku. Ele / Ela agora está colocando um bandeide no dedo após um pequeno acidente.
+ - (My) będziemy mieli / miały plaster w plecaku na wszelki wypadek. (Nós) teremos um bandeide na mochila por precaução.
 
 - [] Dzień 828 - 
 
