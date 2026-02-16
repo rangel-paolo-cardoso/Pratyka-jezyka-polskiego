@@ -4730,7 +4730,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (On / Ona) zakłada teraz plaster na palec po małym wypadku. Ele / Ela agora está colocando um bandeide no dedo após um pequeno acidente.
  - (My) będziemy mieli / miały plaster w plecaku na wszelki wypadek. (Nós) teremos um bandeide na mochila por precaução.
 
-- [] Dzień 828 - 
+- [x] Dzień 828 - Flaga - Rzeczownik żeński, Sztandar - Rzeczownik męski. (Bandeira.  - Rzeczownik żeński)
+ - (Oni / One) nieśli / niosły wczoraj flagę podczas uroczystości szkolnej. (Eles / Elas) carregaram a bandeira ontem durante a cerimônia escolar.
+ - (Ty) podniesiesz jutro sztandar na placu przed ratuszem. Você erguerá a bandeira amanhã na praça em frente à prefeitura.
+ - (Ja) widziałem / widziałam flagę na szczycie góry o świcie. (Eu) vi a bandeira no topo da montanha ao amanhecer.
+ - (My) wieszaliśmy / wieszałyśmy flagę przed naszym domem co roku. (Nós) pendurávamos a bandeira em frente à nossa casa todos os anos.
+ - (On / Ona) trzyma teraz sztandar z dumą w rękach. Ele / Ela segura agora a bandeira com orgulho nas mãos.
 
 - [] Dzień 829 - 
 
