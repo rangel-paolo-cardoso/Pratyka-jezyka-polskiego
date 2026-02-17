@@ -4737,7 +4737,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wieszaliśmy / wieszałyśmy flagę przed naszym domem co roku. (Nós) pendurávamos a bandeira em frente à nossa casa todos os anos.
  - (On / Ona) trzyma teraz sztandar z dumą w rękach. Ele / Ela segura agora a bandeira com orgulho nas mãos.
 
-- [] Dzień 829 - 
+- [x] Dzień 829 - Taca, Patera. (Bandeja. - Rzeczowniki żeńskie)
+ - (On / Ona) położył / położyła filiżanki na tacy przed kolacją. Ele / Ela colocou as xícaras na bandeja antes do jantar.
+ - (My) przyniesiemy jutro paterę z owocami na spotkanie. (Nós) traremos amanhã a bandeja com frutas para o encontro.
+ - (Ty) trzymałeś / trzymałaś tacę bardzo ostrożnie w kawiarni. Você segurou a bandeja com muito cuidado no café.
+ - (Oni / One) niosą teraz tacę z napojami przez salę. (Eles / Elas) estão levando agora a bandeja com bebidas pelo salão.
+ - (Ja) upuściłem / upuściłam tacę, gdy spieszyłem / spieszyłam się do pracy. (Eu) deixei cair a bandeja quando (eu) estava com pressa para o trabalho.
 
 - [] Dzień 830 - 
 
