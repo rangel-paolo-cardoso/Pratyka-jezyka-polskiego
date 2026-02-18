@@ -4744,7 +4744,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Oni / One) niosą teraz tacę z napojami przez salę. (Eles / Elas) estão levando agora a bandeja com bebidas pelo salão.
  - (Ja) upuściłem / upuściłam tacę, gdy spieszyłem / spieszyłam się do pracy. (Eu) deixei cair a bandeja quando (eu) estava com pressa para o trabalho.
 
-- [] Dzień 830 - 
+- [x] Dzień 830 - Bandyta / Bandytka, Przestępca. (Bandido / Bandida. - Rzeczowniki)
+ - (Wy) widzieliście / widziałyście bandytę / bandytkę wczoraj w parku. Vocês viram o / a bandido / bandida ontem no parque.
+ - (On / Ona) będzie ścigał / ścigała przestępcę jutro o świcie. Ele / Ela perseguirá o / a bandido / bandida amanhã ao amanhecer.
+ - (Ja) spotkałem / spotkałam kiedyś bandytę / bandytkę na ulicy. (Eu) encontrei um / uma bandido / bandida certa vez na rua.
+ - (Oni / One) złapali / złapały wczoraj groźnego / groźną bandytę / bandytkę. (Eles / Elas) capturaram ontem um / uma bandido / bandida perigoso / perigosa.
+ - (My) będziemy przesłuchiwali / przesłuchiwały przestępcę jutro rano. (Nós) interrogaremos o / a bandido / bandida amanhã de manhã.
 
 - [] Dzień 831 - 
 
