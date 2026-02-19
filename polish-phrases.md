@@ -4751,7 +4751,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Oni / One) złapali / złapały wczoraj groźnego / groźną bandytę / bandytkę. (Eles / Elas) capturaram ontem um / uma bandido / bandida perigoso / perigosa.
  - (My) będziemy przesłuchiwali / przesłuchiwały przestępcę jutro rano. (Nós) interrogaremos o / a bandido / bandida amanhã de manhã.
 
-- [] Dzień 831 - 
+- [x] Dzień 831 - Smalec, Tłuszcz - Rzeczowniki męskie. (Banha. - Rzeczownik żeński)
+ - (Oni / One) smażyli / smażyły wczoraj ziemniaki na smalcu w starej kuchni. (Eles / Elas) fritaram ontem batatas na banha na cozinha antiga.
+ - (Ja) kupiłem / kupiłam świeży smalec na targu rano. (Eu) comprei banha fresca no mercado pela manhã.
+ - (Ty) dodasz jutro tłuszcz do zupy według przepisu babci. Você adicionará banha à sopa amanhã segundo a receita da avó.
+ - (On / Ona) używa teraz smalcu zamiast oleju w kuchni. Ele / Ela usa agora banha em vez de óleo na cozinha.
+ - (My) będziemy topili / topiły tłuszcz przed świętami zimą. (Nós) derreteremos banha antes das festas de inverno.
 
 - [] Dzień 832 - 
 
