@@ -4758,7 +4758,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (On / Ona) używa teraz smalcu zamiast oleju w kuchni. Ele / Ela usa agora banha em vez de óleo na cozinha.
  - (My) będziemy topili / topiły tłuszcz przed świętami zimą. (Nós) derreteremos banha antes das festas de inverno.
 
-- [] Dzień 832 - 
+- [x] Dzień 832 - Wanna. (Banheira. - Rzeczowniki żeńskie)
+ - Wczoraj (ja) czyściłem / czyściłam wannę po długiej kąpieli. Ontem (eu) limpei a banheira depois de um banho demorado.
+ - (On / Ona) napełni teraz wannę ciepłą wodą z pianą. Ele / Ela enche agora a banheira com água quente e espuma.
+ - (My) kupimy jutro nową wannę do łazienki. (Nós) compraremos amanhã uma nova banheira para o banheiro.
+ - (Ty) zostawiłeś / zostawiłaś ręcznik obok wanny rano. Você deixou a toalha ao lado da banheira pela manhã.
+ - (Oni / One) będą naprawiali / naprawiały wannę przez weekend. (Eles / Elas) estarão consertando a banheira durante o fim de semana.
 
 - [] Dzień 833 - 
 
