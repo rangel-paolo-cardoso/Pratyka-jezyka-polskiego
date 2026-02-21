@@ -4765,7 +4765,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zostawiłeś / zostawiłaś ręcznik obok wanny rano. Você deixou a toalha ao lado da banheira pela manhã.
  - (Oni / One) będą naprawiali / naprawiały wannę przez weekend. (Eles / Elas) estarão consertando a banheira durante o fim de semana.
 
-- [] Dzień 833 - 
+- [x] Dzień 833 - Łazienka, Toaleta - Rzeczowniki żeńskie. (Banheiro.  - Rzeczownik męski)
+ - Rano (ty) sprzątałeś / sprzątałaś łazienkę przed wizytą gości. De manhã você limpou o banheiro antes da visita dos convidados.
+ - (Oni / One) będą remontowali / remontowały łazienkę w przyszłym miesiącu. (Eles / Elas) vão reformar o banheiro no próximo mês.
+ - (On / Ona) teraz maluje ściany w toalecie na biało. Ele / Ela está pintando agora as paredes do banheiro de branco.
+ - (My) odwiedziliśmy / odwiedziłyśmy nową łazienkę w hotelu wczoraj. (Nós) visitamos o novo banheiro no hotel ontem.
+ - (Ja) znajdę jutro toaletę w centrum handlowym. (Eu) encontrarei o banheiro amanhã no shopping.
 
 - [] Dzień 834 - 
 
