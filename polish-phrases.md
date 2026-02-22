@@ -4772,7 +4772,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) odwiedziliśmy / odwiedziłyśmy nową łazienkę w hotelu wczoraj. (Nós) visitamos o novo banheiro no hotel ontem.
  - (Ja) znajdę jutro toaletę w centrum handlowym. (Eu) encontrarei o banheiro amanhã no shopping.
 
-- [] Dzień 834 - 
+- [x] Dzień 834 - Kąpiel - Rzeczownik żeński, Prysznic - Rzeczownik męski. (Banho. - Rzeczownik męski)
+ - Po pracy (ja) wziąłem / wzięłam długą kąpiel dla relaksu. Depois do trabalho (eu) tomei um banho demorado para relaxar.
+ - (On / Ona) bierze teraz szybki prysznic przed wyjściem. Ele / Ela agora está tomando um banho (uma ducha) rápido (rápida) antes de sair.
+ - (My) będziemy brali / brały gorącą kąpiel zimą wieczorem. (Nós) tomaremos um banho quente no inverno à noite.
+ - (Ty) wziąłeś / wzięłaś prysznic bardzo wcześnie rano. Você tomou banho muito cedo pela manhã.
+ - (Oni / One) przygotowali / przygotowały kąpiel dla dziecka wczoraj. (Eles / Elas) prepararam o banho para a criança ontem.
 
 - [] Dzień 835 - 
 
