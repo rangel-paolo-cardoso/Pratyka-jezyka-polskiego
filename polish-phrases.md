@@ -4779,7 +4779,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) wziąłeś / wzięłaś prysznic bardzo wcześnie rano. Você tomou banho muito cedo pela manhã.
  - (Oni / One) przygotowali / przygotowały kąpiel dla dziecka wczoraj. (Eles / Elas) prepararam o banho para a criança ontem.
 
-- [] Dzień 835 - 
+- [x] Dzień 835 - Kąpiel wodna - Wyrażenie rzeczownikowe. (Banho-maria. - Rzeczownik męski)
+ - Wczoraj (oni / one) podgrzewali / podgrzewały czekoladę w kąpieli wodnej. Ontem (eles / elas) aqueceram chocolate em banho-maria.
+ - (Ja) przygotowałem / przygotowałam sos w kąpieli wodnej bez pośpiechu. (Eu) preparei o molho em banho-maria sem pressa.
+ - (Ty) będziesz rozpuszczał / rozpuszczała masło w kąpieli wodnej jutro. Você derreterá manteiga em banho-maria amanhã.
+ - (On / Ona) miesza teraz krem w kąpieli wodnej bardzo ostrożnie. (Ele / Ela) está mexendo agora o creme em banho-maria com muito cuidado.
+ - (My) będziemy topili / topiły cukier w kąpieli wodnej zimą. (Nós) derreteremos açúcar em banho-maria no inverno.
 
 - [] Dzień 836 - 
 
