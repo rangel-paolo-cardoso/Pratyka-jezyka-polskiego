@@ -4786,7 +4786,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (On / Ona) miesza teraz krem w kąpieli wodnej bardzo ostrożnie. (Ele / Ela) está mexendo agora o creme em banho-maria com muito cuidado.
  - (My) będziemy topili / topiły cukier w kąpieli wodnej zimą. (Nós) derreteremos açúcar em banho-maria no inverno.
 
-- [] Dzień 836 - 
+- [x] Dzień 836 - Wygnany / Wygnana, Zbanowany / Zbanowana. (Banido / Banida. - Przymiotniki)
+ - Wczoraj (on / ona) został / została wygnany / wygnana z miasta. Ontem (ele / ela) foi banido / banida da cidade.
+ - (Ja) byłem / byłam zbanowany / zbanowana na forum przez rok. (Eu) fui banido / banida do fórum por um ano.
+ - (Ty) będziesz zbanowany / zbanowana za łamanie zasad. Você será banido / banida por violar as regras.
+ - (My) byliśmy / byłyśmy wygnani / wygnane z kraju wiele lat temu. (Nós) fomos banidos / banidas do país muitos anos atrás.
+ - (Oni / One) są teraz zbanowani / zbanowane w tej grze. (Eles / Elas) estão agora banidos / banidas nesse jogo.
 
 - [] Dzień 837 - 
 
