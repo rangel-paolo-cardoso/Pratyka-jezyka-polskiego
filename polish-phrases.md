@@ -4793,7 +4793,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy wygnani / wygnane z kraju wiele lat temu. (Nós) fomos banidos / banidas do país muitos anos atrás.
  - (Oni / One) są teraz zbanowani / zbanowane w tej grze. (Eles / Elas) estão agora banidos / banidas nesse jogo.
 
-- [] Dzień 837 - 
+- [x] Dzień 837 - Wygnać, Zbanować. (Banir. - Czasowniki)
+ - Wczoraj (oni / one) wygnali / wygnały zdrajcę / zdrajczynię z miasta bez ostrzeżenia. Ontem (eles / elas) baniram o / a traidor / traidora da cidade sem aviso.
+ - (Ty) zbanowałeś / zbanowałaś użytkownika za obraźliwe słowa. Você baniu o usuário por palavras ofensivas.
+ - (Ja) wygnałem / wygnałam go / ją z drużyny po konflikcie. (Eu) bani ele / ela da equipe após o conflito.
+ - (My) wygnamy jutro winnego / winną z organizacji decyzją rady. (Nós) amanhã baniremos o / a culpado / culpada da organização por decisão do conselho.
+ - (On / Ona) teraz banuje graczy za łamanie zasad gry. Ele / Ela bane agora jogadores por violar as regras do jogo.
 
 - [] Dzień 838 - 
 
