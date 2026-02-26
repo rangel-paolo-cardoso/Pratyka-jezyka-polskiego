@@ -4800,7 +4800,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wygnamy jutro winnego / winną z organizacji decyzją rady. (Nós) amanhã baniremos o / a culpado / culpada da organização por decisão do conselho.
  - (On / Ona) teraz banuje graczy za łamanie zasad gry. Ele / Ela bane agora jogadores por violar as regras do jogo.
 
-- [] Dzień 838 - 
+- [x] Dzień 838 - Bankiet, Uczta - Rzeczownik żeński. (Banquete. - Rzeczowniki męskie)
+ - Wczoraj (oni / one) zorganizowali / zorganizowały wielki bankiet w pałacu. Ontem (eles / elas) organizaram um grande banquete no palácio.
+ - (Ja) przygotowałem / przygotowałam ucztę dla gości wieczorem. (Eu) preparei um banquete para os convidados à noite.
+ - (Ty) będziesz prowadził / prowadziła bankiet jutro w hotelu. Você conduzirá o banquete amanhã no hotel.
+ - (On / Ona) otworzył / otworzyła ucztę uroczystym przemówieniem. Ele / Ela abriu o banquete com um discurso solene.
+ - (My) będziemy świętowali / świętowały bankiet do późnej nocy. (Nós) celebraremos o banquete até tarde da noite.
 
 - [] Dzień 839 - 
 
