@@ -4807,7 +4807,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (On / Ona) otworzył / otworzyła ucztę uroczystym przemówieniem. Ele / Ela abriu o banquete com um discurso solene.
  - (My) będziemy świętowali / świętowały bankiet do późnej nocy. (Nós) celebraremos o banquete até tarde da noite.
 
-- [] Dzień 839 - 
+- [x] Dzień 839 - Bar, Pub, Lokal. (Bar. - Rzeczowniki męskie)
+ - Wieczorem (on / ona) odwiedził / odwiedziła nowy bar w centrum miasta. À noite (ele / ela) visitou um bar novo no centro da cidade.
+ - (Ja) pracowałem / pracowałam w małym pubie przez całe lato. (Eu) trabalhei em um pequeno bar durante todo o verão.
+ - Jutro (wy) otworzycie bar przy plaży razem z przyjaciółmi. Amanhã vocês abrirão um bar na praia junto com amigos.
+ - (My) często spotykaliśmy / spotykałyśmy się w tym lokalu po pracy. (Nós) frequentemente (muitas vezes, com frequência...) nos encontrávamos nesse bar depois do trabalho.
+ - W zeszłym roku (oni / one) zamknęli / zamknęły stary bar nad rzeką. No ano passado (eles / elas) fecharam o antigo bar à beira do rio.
 
 - [] Dzień 840 - 
 
