@@ -4821,7 +4821,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy używali / używały talii kart podczas turnieju. (Nós) usaremos o baralho (de cartas) durante o torneio.
  - W przyszłym roku (oni / one) przyniosą talię do klubu szachowego. No próximo ano (eles / elas) levarão o baralho ao clube de xadrez.
 
-- [] Dzień 841 - 
+- [x] Dzień 841 - Karaluch, Prusak - Rzeczowniki męskie. (Barata. - Rzeczownik żeński)
+ - W kuchni (on / ona) zobaczył / zobaczyła dużego karalucha pod stołem. Na cozinha ele / ela viu uma barata grande debaixo da mesa.
+ - (Ja) próbowałem / próbowałam złapać prusaka w łazience. (Eu) tentei pegar a barata no banheiro.
+ - Jutro (wy) usuniecie karaluchy z piwnicy starego domu. Amanhã vocês removerão as baratas do porão da casa antiga.
+ - (My) baliśmy / bałyśmy się karalucha w hotelowym pokoju. (Nós) tivemos medo da barata no quarto do hotel.
+ - W zeszłym tygodniu (oni / one) znaleźli / znalazły prusaka za lodówką. Na semana passada (eles / elas) encontraram uma barata atrás da geladeira.
 
 - [] Dzień 842 - 
 
