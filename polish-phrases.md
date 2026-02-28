@@ -4814,7 +4814,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często spotykaliśmy / spotykałyśmy się w tym lokalu po pracy. (Nós) frequentemente (muitas vezes, com frequência...) nos encontrávamos nesse bar depois do trabalho.
  - W zeszłym roku (oni / one) zamknęli / zamknęły stary bar nad rzeką. No ano passado (eles / elas) fecharam o antigo bar à beira do rio.
 
-- [] Dzień 840 - 
+- [x] Dzień 840 - Talia - Rzeczownik żeński, Talia kart - Wyrażenie rzeczownikowe. (Baralho [de cartas]. - Rzeczownik męski)
+ - Wczoraj (on / ona) tasował / tasowała talię kart przed grą. Ontem ele / ela embaralhou o baralho de cartas antes do jogo.
+ - (Ja) znalazłem / znalazłam stary talię na strychu domu. (Eu) encontrei um baralho antigo no sótão da casa.
+ - (Ty) kupiłeś / kupiłaś nową talię kart na wakacjach. Você comprou um baralho (de cartas) novo nas férias.
+ - (My) będziemy używali / używały talii kart podczas turnieju. (Nós) usaremos o baralho (de cartas) durante o torneio.
+ - W przyszłym roku (oni / one) przyniosą talię do klubu szachowego. No próximo ano (eles / elas) levarão o baralho ao clube de xadrez.
 
 - [] Dzień 841 - 
 
