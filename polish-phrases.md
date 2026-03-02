@@ -4828,7 +4828,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) baliśmy / bałyśmy się karalucha w hotelowym pokoju. (Nós) tivemos medo da barata no quarto do hotel.
  - W zeszłym tygodniu (oni / one) znaleźli / znalazły prusaka za lodówką. Na semana passada (eles / elas) encontraram uma barata atrás da geladeira.
 
-- [] Dzień 842 - 
+- [x] Dzień 842 - Tani / Tania, Niedrogi / Niedroga. (Barato / Barata. - Przymiotniki)
+ - W zeszłym roku (on / ona) kupił / kupiła tani samochód. No ano passado ele / ela comprou um carro barato.
+ - (Ty) znajdziesz niedrogą ofertę w centrum. Você encontrará uma oferta barata no centro.
+ - (Ja) wybrałem / wybrałam tani kurs online wczoraj. (Eu) escolhi um curso barato online ontem.
+ - (My) będziemy szukali / szukały taniego mieszkania. (Nós) procuraremos um apartamento barato.
+ - Teraz (oni / one) sprzedają niedrogi sprzęt. Agora (eles / elas) vendem equipamento barato.
 
 - [] Dzień 843 - 
 
