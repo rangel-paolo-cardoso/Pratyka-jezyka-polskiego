@@ -4835,7 +4835,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy szukali / szukały taniego mieszkania. (Nós) procuraremos um apartamento barato.
  - Teraz (oni / one) sprzedają niedrogi sprzęt. Agora (eles / elas) vendem equipamento barato.
 
-- [] Dzień 843 - 
+- [x] Dzień 843 - Broda. (Barba. - Rzeczowniki żeńskie)
+ - Wczoraj (on) ogolił brodę przed ważnym spotkaniem. Ontem ele raspou a barba antes da reunião importante.
+ - Teraz (ja) zapuszczam brodę na zimę. Agora (eu) deixo a barba crescer para o inverno.
+ - (My) podziwialiśmy / podziwiałyśmy długą brodę artysty na scenie. (Nós) admiramos a barba longa do artista no palco.
+ - Jutro (ty) przytniesz brodę przed wyjazdem służbowym. Amanhã você aparará a barba antes da viagem de trabalho.
+ - W zeszłym miesiącu (oni) farbowali brodę na czarno. No mês passado (eles) tingiram a barba de preto.
 
 - [] Dzień 844 - 
 
