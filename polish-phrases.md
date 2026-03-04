@@ -4842,7 +4842,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Jutro (ty) przytniesz brodę przed wyjazdem służbowym. Amanhã você aparará a barba antes da viagem de trabalho.
  - W zeszłym miesiącu (oni) farbowali brodę na czarno. No mês passado (eles) tingiram a barba de preto.
 
-- [] Dzień 844 - 
+- [x] Dzień 844 - Fryzjer. (Barbeiro. - Rzeczowniki)
+ - Wczoraj (on / ona) został / została fryzjerem po długiej nauce. Ontem ele / ela (se) tornou-se barbeiro / barbeira após longo estudo.
+ - Teraz (ja) pracuję jako fryzjer w małym salonie. Agora (eu) trabalho como barbeiro / barbeira em um pequeno salão.
+ - Jutro (ty) odwiedzisz doświadczonego fryzjera w centrum. Amanhã você visitará um barbeiro experiente no centro.
+ - (My) poznaliśmy / poznałyśmy znanego fryzjera podczas targów. (Nós) conhecemos um barbeiro famoso durante a feira.
+ - W przyszłym miesiącu (oni) zatrudnią nowego fryzjera w salonie. No próximo mês (eles) contratarão um novo barbeiro no salão.
 
 - [] Dzień 845 - 
 
