@@ -4849,7 +4849,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poznaliśmy / poznałyśmy znanego fryzjera podczas targów. (Nós) conhecemos um barbeiro famoso durante a feira.
  - W przyszłym miesiącu (oni) zatrudnią nowego fryzjera w salonie. No próximo mês (eles) contratarão um novo barbeiro no salão.
 
-- [] Dzień 845 - 
+- [x] Dzień 845 - Łódź - Rzeczownik żeński. (Barco. - Rzeczownik męski)
+ - Wczoraj (on / ona) kupił / kupiła małą łódź nad jeziorem. Ontem (ele / ela) comprou um barco pequeno perto do lago.
+ - Teraz (ja) naprawiam starą łódź w porcie miasta. Agora (eu) conserto um barco antigo no porto da cidade.
+ - Jutro (ty) zobaczysz nową łódź przy przystani rybaków. Amanhã você verá um barco novo no cais dos pescadores.
+ - (My) wynajęliśmy / wynajęłyśmy łódź na wakacyjny rejs. (Nós) alugamos um barco para o cruzeiro de férias.
+ - W przyszłym tygodniu (oni / one) zbudują drewnianą łódź na rzece. Na próxima semana (eles / elas) construirão um barco de madeira no rio.
 
 - [] Dzień 846 - 
 
