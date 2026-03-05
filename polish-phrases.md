@@ -4856,7 +4856,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wynajęliśmy / wynajęłyśmy łódź na wakacyjny rejs. (Nós) alugamos um barco para o cruzeiro de férias.
  - W przyszłym tygodniu (oni / one) zbudują drewnianą łódź na rzece. Na próxima semana (eles / elas) construirão um barco de madeira no rio.
 
-- [] Dzień 846 - 
+- [x] Dzień 846 - Namiot - Rzeczownik męski, Budka - Rzeczownik żeński. (Barraca. - Rzeczownik żeński)
+ - Na plaży (on / ona) rozstawił / rozstawiła namiot blisko morza. Na praia (ele / ela) montou a barraca perto do mar.
+ - (Ty) kupiłeś / kupiłaś małą budkę na letnim festynie. Você comprou uma barraca pequena na festa de verão.
+ - W zeszłym roku (my) wynajęliśmy / wynajęłyśmy namiot w górach. No ano passado (nós) alugamos uma barraca nas montanhas.
+ - Teraz (ja) naprawiam starą budkę na targu miejskim. Agora (eu) conserto a barraca antiga no mercado da cidade.
+ - Jutro (wy) zbudujecie nowy namiot obok jeziora. Amanhã vocês construirão uma barraca nova ao lado do lago.
 
 - [] Dzień 847 - 
 
