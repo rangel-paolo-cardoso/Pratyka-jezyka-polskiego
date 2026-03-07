@@ -4863,7 +4863,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Teraz (ja) naprawiam starą budkę na targu miejskim. Agora (eu) conserto a barraca antiga no mercado da cidade.
  - Jutro (wy) zbudujecie nowy namiot obok jeziora. Amanhã vocês construirão uma barraca nova ao lado do lago.
 
-- [] Dzień 847 - 
+- [x] Dzień 847 - Zapora, Tama. (Barragem. - Rzeczowniki żeńskie)
+ - Wczoraj (on / ona) oglądał / oglądała starą zaporę nad szeroką rzeką. Ontem ele / ela observou a barragem antiga sobre o rio largo.
+ - (Ty) zobaczysz jutro ogromną tamę podczas wycieczki w górach. Você verá amanhã uma grande barragem durante a excursão nas montanhas.
+ - Dziś (ja) fotografuję wysoką zaporę przy spokojnym jeziorze. Hoje (eu) fotografo a barragem alta perto do lago tranquilo.
+ - W zeszłym roku (my) odwiedziliśmy / odwiedziłyśmy znaną tamę na południu kraju. No ano passado (nós) visitamos uma barragem famosa no sul do país.
+ - Jutro (oni / one) sprawdzą nową zaporę przed nadejściem deszczu. Amanhã (eles / elas) verificarão a nova barragem antes da chegada da chuva.
 
 - [] Dzień 848 - 
 
