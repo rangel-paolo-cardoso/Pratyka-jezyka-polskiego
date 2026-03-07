@@ -4870,7 +4870,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W zeszłym roku (my) odwiedziliśmy / odwiedziłyśmy znaną tamę na południu kraju. No ano passado (nós) visitamos uma barragem famosa no sul do país.
  - Jutro (oni / one) sprawdzą nową zaporę przed nadejściem deszczu. Amanhã (eles / elas) verificarão a nova barragem antes da chegada da chuva.
 
-- [] Dzień 848 - 
+- [x] Dzień 848 - Barykada. (Barricada. - Rzeczowniki żeńskie)
+ - Wczoraj (oni / one) zbudowali / zbudowały barykadę z beczek i desek na ulicy. Ontem (eles / elas) construíram uma barricada com barris e tábuas na rua.
+ - Dziś (ja) widzę starą barykadę przy wejściu do opuszczonej fabryki. Hoje (eu) vejo uma barricada antiga na entrada da fábrica abandonada.
+ - Jutro (wy) postawicie barykadę przed bramą starego magazynu. Amanhã vocês colocarão uma barricada diante do portão do armazém antigo.
+ - W zeszłym tygodniu (on / ona) ominął / ominęła barykadę na wąskiej ulicy. Na semana passada ele / ela contornou uma barricada na rua estreita.
+ - Teraz (my) obserwujemy barykadę przy wejściu do starego tunelu. Agora (nós) observamos uma barricada na entrada do túnel antigo.
 
 - [] Dzień 849 - 
 
