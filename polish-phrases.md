@@ -4877,7 +4877,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - W zeszłym tygodniu (on / ona) ominął / ominęła barykadę na wąskiej ulicy. Na semana passada ele / ela contornou uma barricada na rua estreita.
  - Teraz (my) obserwujemy barykadę przy wejściu do starego tunelu. Agora (nós) observamos uma barricada na entrada do túnel antigo.
 
-- [] Dzień 849 - 
+- [x] Dzień 849 - Brzuchaty / Brzuchata. (Barrigudo / Barriguda. - Rzeczowniki)
+ - Wczoraj (on / ona) spotkał / spotkała brzuchatego / brzuchatą sąsiada / sąsiadkę przy sklepie. Ontem ele / ela encontrou um / uma vizinho / vizinha barrigudo / barriguda perto da loja.
+ - Teraz (ja) rozmawiam z brzuchatym / brzuchatą kierowcą / kierowczynią autobusu. Agora (eu) converso com um / uma motorista barrigudo / barriguda do ônibus.
+ - Jutro (ty) zobaczysz brzuchatego / brzuchatą aktora / aktorkę w nowym filmie. Amanhã você verá um / uma ator / atriz barrigudo / barriguda no novo filme.
+ - (My) poznaliśmy / poznałyśmy brzuchatego / brzuchatą turystę / turystkę na rynku. (Nós) conhecemos um / uma turista barrigudo / barriguda na praça.
+ - W przyszłym roku (oni / one) zaproszą brzuchatego / brzuchatą kucharza / kucharkę do programu. No próximo ano (eles / elas) convidarão um / uma cozinheiro / cozinheira barrigudo / barriguda para o programa.
 
 - [] Dzień 850 - 
 
