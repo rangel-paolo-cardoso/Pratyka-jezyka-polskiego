@@ -4884,7 +4884,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poznaliśmy / poznałyśmy brzuchatego / brzuchatą turystę / turystkę na rynku. (Nós) conhecemos um / uma turista barrigudo / barriguda na praça.
  - W przyszłym roku (oni / one) zaproszą brzuchatego / brzuchatą kucharza / kucharkę do programu. No próximo ano (eles / elas) convidarão um / uma cozinheiro / cozinheira barrigudo / barriguda para o programa.
 
-- [] Dzień 850 - 
+- [x] Dzień 850 - Beczka - Rzeczownik żeński. (Barril. - Rzeczownik męski)
+ - Wczoraj (on / ona) znalazł / znalazła starą beczkę w piwnicy domu dziadków. Ontem ele / ela encontrou um barril velho no porão da casa dos avós.
+ - Teraz (ja) czyszczę dużą beczkę po winie w ogrodzie za domem. Agora (eu) limpo um barril grande de vinho no jardim atrás da casa.
+ - Jutro (ty) kupisz nową beczkę na targu starych rzeczy. Amanhã você comprará um barril novo no mercado de coisas antigas.
+ - (My) wczoraj przenieśliśmy / przeniosłyśmy ciężką beczkę do magazynu portowego. (Nós) ontem levamos um barril pesado para o armazém do porto.
+ - W przyszłym tygodniu (oni / one) otworzą starą beczkę z sokiem jabłkowym. Na próxima semana (eles / elas) abrirão um barril velho de suco de maçã.
 
 - [] Dzień 851 - 
 
