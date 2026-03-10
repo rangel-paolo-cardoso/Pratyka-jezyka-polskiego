@@ -4891,7 +4891,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj przenieśliśmy / przeniosłyśmy ciężką beczkę do magazynu portowego. (Nós) ontem levamos um barril pesado para o armazém do porto.
  - W przyszłym tygodniu (oni / one) otworzą starą beczkę z sokiem jabłkowym. Na próxima semana (eles / elas) abrirão um barril velho de suco de maçã.
 
-- [] Dzień 851 - 
+- [x] Dzień 851 - Błoto - Rzeczownik nijaki, Glina - Rzeczownik żeński. (Barro. - Rzeczownik męski)
+ - Wczoraj (on / ona) wpadł / wpadła w głębokie błoto na polnej drodze. Ontem ele / ela caiu no barro profundo na estrada de terra.
+ - Teraz (ja) lepię mały garnek z mokrej gliny w warsztacie. Agora (eu) moldo um pequeno vaso com barro úmido na oficina.
+ - Jutro (ty) przejdziesz przez błoto na ścieżce przy lesie. Amanhã você passará pelo barro no caminho perto da floresta.
+ - (My) wczoraj zbieraliśmy / zbierałyśmy glinę nad rzeką do pracy. (Nós) ontem coletamos barro perto do rio para o trabalho.
+ - W przyszłym tygodniu (oni / one) usuną błoto z drogi po burzy. Na próxima semana (eles / elas) removerão o barro da estrada após a tempestade.
 
 - [] Dzień 852 - 
 
