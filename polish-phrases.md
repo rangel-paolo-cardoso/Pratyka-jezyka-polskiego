@@ -4898,7 +4898,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj zbieraliśmy / zbierałyśmy glinę nad rzeką do pracy. (Nós) ontem coletamos barro perto do rio para o trabalho.
  - W przyszłym tygodniu (oni / one) usuną błoto z drogi po burzy. Na próxima semana (eles / elas) removerão o barro da estrada após a tempestade.
 
-- [] Dzień 852 - 
+- [x] Dzień 852 - Barok. (Barroco. - Rzeczowniki męskie)
+ - Wczoraj (on / ona) podziwiał / podziwiała barok w starym kościele w centrum miasta. Ontem ele / ela admirou o barroco em uma igreja antiga no centro da cidade.
+ - Teraz (ja) studiuję barok w historii sztuki na uniwersytecie. Agora (eu) estudo o barroco na história da arte na universidade.
+ - Jutro (ty) zobaczysz barok w muzeum podczas wycieczki szkolnej. Amanhã você verá o barroco no museu durante a excursão escolar.
+ - (My) wczoraj omawialiśmy / omawiałyśmy barok na zajęciach z historii sztuki. (Nós) ontem discutimos o barroco na aula de história da arte.
+ - W przyszłym roku (oni / one) będą badać barok w architekturze Europy. No próximo ano (eles / elas) estudarão o barroco na arquitetura da Europa.
 
 - [] Dzień 853 - 
 
