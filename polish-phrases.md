@@ -4905,7 +4905,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj omawialiśmy / omawiałyśmy barok na zajęciach z historii sztuki. (Nós) ontem discutimos o barroco na aula de história da arte.
  - W przyszłym roku (oni / one) będą badać barok w architekturze Europy. No próximo ano (eles / elas) estudarão o barroco na arquitetura da Europa.
 
-- [] Dzień 853 - 
+- [x] Dzień 853 - Hałas, Szum, Huk. (Barulho. - Rzeczowniki męskie)
+ - Wczoraj (on / ona) usłyszał / usłyszała głośny hałas na ulicy późnym wieczorem. Ontem ele / ela ouviu um barulho alto na rua tarde da noite.
+ - Teraz (ja) słyszę dziwny szum dochodzący z piwnicy starego domu. Agora (eu) ouço um barulho estranho vindo do porão da casa antiga.
+ - Jutro (ty) usłyszysz huk fajerwerków nad rzeką podczas święta. Amanhã você ouvirá o barulho dos fogos de artifício sobre o rio durante a festa.
+ - (My) wczoraj słyszeliśmy / słyszałyśmy hałas z budowy obok naszego domu. (Nós) ontem ouvimos barulho da obra ao lado da nossa casa.
+ - (Oni / One) jutro zrobią duży hałas podczas próby zespołu w garażu. (Eles / Elas) amanhã farão muito barulho durante o ensaio da banda na garagem.
 
 - [] Dzień 854 - 
 
