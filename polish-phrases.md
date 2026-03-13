@@ -4912,7 +4912,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj słyszeliśmy / słyszałyśmy hałas z budowy obok naszego domu. (Nós) ontem ouvimos barulho da obra ao lado da nossa casa.
  - (Oni / One) jutro zrobią duży hałas podczas próby zespołu w garażu. (Eles / Elas) amanhã farão muito barulho durante o ensaio da banda na garagem.
 
-- [] Dzień 854 - 
+- [x] Dzień 854 - Baza, Podstawa. (Base. - Rzeczowniki żeńskie)
+ - Wczoraj (on / ona) zbudował / zbudowała solidną bazę pod nowy garaż obok domu. Ontem ele / ela construiu uma base sólida para a nova garagem ao lado da casa.
+ - Teraz (ja) tworzę mocną podstawę wiedzy do przyszłej pracy naukowej. Agora (eu) estou criando uma base sólida de conhecimento para o futuro trabalho científico.
+ - Jutro (ty) nałożysz lekką bazę pod makijaż przed ważnym spotkaniem. Amanhã você aplicará uma base leve de maquiagem antes de uma reunião importante.
+ - (My) wczoraj stworzyliśmy / stworzyłyśmy dobrą bazę danych dla projektu firmy. (Nós) ontem criamos uma boa base de dados para o projeto da empresa.
+ - (Oni / One) jutro przygotują mocną podstawę pod budowę nowego mostu. (Eles / Elas) amanhã prepararão uma base forte para a construção da nova ponte.
 
 - [] Dzień 855 - 
 
