@@ -4919,7 +4919,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj stworzyliśmy / stworzyłyśmy dobrą bazę danych dla projektu firmy. (Nós) ontem criamos uma boa base de dados para o projeto da empresa.
  - (Oni / One) jutro przygotują mocną podstawę pod budowę nowego mostu. (Eles / Elas) amanhã prepararão uma base forte para a construção da nova ponte.
 
-- [] Dzień 855 - 
+- [x] Dzień 855 - Podstawowy / Podstawowa, Elementarny / Elementarna. (Básico / Básica. - Przymiotniki)
+ - Wczoraj (on / ona) ukończył / ukończyła podstawowy kurs języka polskiego. Ontem ele / ela concluiu um curso básico de língua polonesa.
+ - Teraz (ja) uczę się elementarnych zasad gramatyki polskiej. Agora (eu) estou aprendendo regras básicas da gramática polonesa.
+ - Jutro (ty) kupisz podstawowy podręcznik do nauki programowania. Amanhã você comprará um manual básico para aprender programação.
+ - (My) wczoraj powtórzyliśmy / powtórzyłyśmy podstawowe informacje przed egzaminem. (Nós) ontem revisamos informações básicas antes do exame.
+ - (Oni / One) jutro pokażą elementarny sposób obsługi nowego systemu. (Eles / Elas) amanhã mostrarão a maneira básica de usar o novo sistema.
 
 - [] Dzień 856 - 
 
