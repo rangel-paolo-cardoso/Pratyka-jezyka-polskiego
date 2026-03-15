@@ -4926,7 +4926,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj powtórzyliśmy / powtórzyłyśmy podstawowe informacje przed egzaminem. (Nós) ontem revisamos informações básicas antes do exame.
  - (Oni / One) jutro pokażą elementarny sposób obsługi nowego systemu. (Eles / Elas) amanhã mostrarão a maneira básica de usar o novo sistema.
 
-- [] Dzień 856 - 
+- [x] Dzień 856 - Dość - Przysłówek, Wystarczy - Czasownik[unconjugated]. (Basta. - Wykrzyknik)
+ - Wczoraj (on / ona) krzyknął / krzyknęła „dość!” podczas długiej kłótni w domu. Ontem ele / ela gritou “basta!” durante uma longa discussão em casa.
+ - Teraz (ja) mówię „wystarczy”, bo ta rozmowa trwa już zdecydowanie za długo. Agora (eu) digo “basta”, porque essa conversa já está durando tempo demais.
+ - Jutro (ty) powiesz „dość”, jeśli ktoś znowu zacznie robić hałas nocą. Amanhã você dirá “basta” se alguém começar a fazer barulho à noite novamente.
+ - (My) wczoraj powiedzieliśmy / powiedziałyśmy „wystarczy” po godzinach pracy. (Nós) ontem dissemos “basta” depois de horas de trabalho.
+ - (Oni / One) jutro powiedzą „dość”, gdy sytuacja stanie się zbyt trudna. (Eles / Elas) amanhã dirão “basta” quando a situação se tornar difícil demais.
 
 - [] Dzień 857 - 
 
