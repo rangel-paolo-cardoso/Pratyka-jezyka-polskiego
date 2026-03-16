@@ -4933,7 +4933,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj powiedzieliśmy / powiedziałyśmy „wystarczy” po godzinach pracy. (Nós) ontem dissemos “basta” depois de horas de trabalho.
  - (Oni / One) jutro powiedzą „dość”, gdy sytuacja stanie się zbyt trudna. (Eles / Elas) amanhã dirão “basta” quando a situação se tornar difícil demais.
 
-- [] Dzień 857 - 
+- [x] Dzień 857 - Dość - Przysłówek, Wykrzyknik, Całkiem, Wystarczająco - Przysłówki. (Bastante. - Przysłówek, Wykrzyknik)
+ - Wczoraj (on / ona) był / była dość zmęczony / zmęczona po długim dniu pracy. Ontem ele / ela estava bastante cansado / cansada depois de um longo dia de trabalho.
+ - Teraz (ja) mam całkiem dużo czasu na naukę języka polskiego wieczorem. Agora (eu) tenho bastante tempo para estudar a língua polonesa à noite.
+ - Jutro (ty) będziesz wystarczająco przygotowany / przygotowana do ważnego egzaminu. Amanhã você estará bastante preparado / preparada para o exame importante.
+ - (My) wczoraj byliśmy / byłyśmy całkiem zadowoleni / zadowolone z wyniku meczu. (Nós) ontem ficamos bastante satisfeitos / satisfeitas com o resultado do jogo (da partida).
+ - (Oni / One) jutro będą dość zajęci / zajęte przygotowaniami do wydarzenia. (Eles / Elas) amanhã estarão bastante ocupados / ocupadas com os preparativos do evento.
 
 - [] Dzień 858 - 
 
