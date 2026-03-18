@@ -4940,7 +4940,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj byliśmy / byłyśmy całkiem zadowoleni / zadowolone z wyniku meczu. (Nós) ontem ficamos bastante satisfeitos / satisfeitas com o resultado do jogo (da partida).
  - (Oni / One) jutro będą dość zajęci / zajęte przygotowaniami do wydarzenia. (Eles / Elas) amanhã estarão bastante ocupados / ocupadas com os preparativos do evento.
 
-- [] Dzień 858 - 
+- [x] Dzień 858 - Kij - Rzeczownik męski, Pałka - Rzeczownik żeński. (Bastão. - Rzeczownik męski)
+ - Wczoraj (on / ona) trzymał / trzymała długi kij podczas spaceru po lesie. Ontem ele / ela segurava um bastão longo durante o passeio pela floresta.
+ - Teraz (ja) używam pałki do ćwiczeń podczas treningu w domu wieczorem. Agora (eu) uso um bastão para exercícios durante o treino em casa à noite.
+ - Jutro (ty) znajdziesz mocny kij na górskiej trasie podczas wędrówki. Amanhã você encontrará um bastão resistente na trilha da montanha.
+ - (My) wczoraj nosiliśmy / nosiłyśmy pałki podczas długiego marszu w terenie. (Nós) ontem carregamos bastões durante uma longa caminhada no terreno.
+ - (Oni / One) jutro wezmą kije, aby ćwiczyć równowagę na świeżym powietrzu. (Eles / Elas) amanhã pegarão bastões para treinar equilíbrio ao ar livre.
 
 - [] Dzień 859 - 
 
