@@ -4947,7 +4947,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj nosiliśmy / nosiłyśmy pałki podczas długiego marszu w terenie. (Nós) ontem carregamos bastões durante uma longa caminhada no terreno.
  - (Oni / One) jutro wezmą kije, aby ćwiczyć równowagę na świeżym powietrzu. (Eles / Elas) amanhã pegarão bastões para treinar equilíbrio ao ar livre.
 
-- [] Dzień 859 - 
+- [x] Dzień 859 - Bitwa, Batalia. (Batalha. - Rzeczowniki żeńskie)
+ - Wczoraj (on / ona) opowiadał / opowiadała o trudnej bitwie z historii swojego kraju. Ontem ele / ela contou sobre uma batalha difícil da história do seu país.
+ - Teraz (ja) widzę tę batalię jako ważną lekcję dla przyszłych pokoleń. Agora (eu) vejo essa batalha como uma lição importante para as futuras gerações.
+ - Jutro (ty) przeczytasz o wielkiej bitwie, która zmieniła losy świata. Amanhã você lerá sobre uma grande batalha que mudou o destino do mundo.
+ - (My) wczoraj oglądaliśmy / oglądałyśmy film o epickiej bitwie sprzed wielu lat. (Nós) ontem assistimos a um filme sobre uma batalha épica de muitos anos atrás.
+ - (Oni / One) jutro opiszą batalię, która była decydująca dla całej wojny. (Eles / Elas) amanhã descreverão a batalha que foi decisiva para toda a guerra.
 
 - [] Dzień 860 - 
 
