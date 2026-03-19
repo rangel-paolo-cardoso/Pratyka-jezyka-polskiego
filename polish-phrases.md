@@ -4954,7 +4954,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj oglądaliśmy / oglądałyśmy film o epickiej bitwie sprzed wielu lat. (Nós) ontem assistimos a um filme sobre uma batalha épica de muitos anos atrás.
  - (Oni / One) jutro opiszą batalię, która była decydująca dla całej wojny. (Eles / Elas) amanhã descreverão a batalha que foi decisiva para toda a guerra.
 
-- [] Dzień 860 - 
+- [x] Dzień 860 - Batalion. (Batalhão. - Rzeczowniki męskie)
+ - Wczoraj (on / ona) dowodził / dowodziła całym batalionem podczas trudnej misji. Ontem ele / ela comandou todo o batalhão durante uma missão difícil.
+ - Teraz (ja) opisuję historię batalionu, który walczył w odległym regionie. Agora (eu) descrevo a história de um batalhão que lutou em uma região distante.
+ - Jutro (ty) zobaczysz batalion maszerujący ulicami podczas parady wojskowej. Amanhã você verá um batalhão marchando pelas ruas durante um desfile militar.
+ - (My) wczoraj spotkaliśmy / spotkałyśmy żołnierzy z batalionu wracających z misji. (Nós) ontem encontramos soldados do batalhão voltando da missão.
+ - (Oni / One) jutro wesprą batalion, który przygotowuje się do ważnej operacji. (Eles / Elas) amanhã apoiarão o batalhão que está se preparando para uma operação importante.
 
 - [] Dzień 861 - 
 
