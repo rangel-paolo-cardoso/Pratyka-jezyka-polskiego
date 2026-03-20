@@ -4961,7 +4961,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj spotkaliśmy / spotkałyśmy żołnierzy z batalionu wracających z misji. (Nós) ontem encontramos soldados do batalhão voltando da missão.
  - (Oni / One) jutro wesprą batalion, który przygotowuje się do ważnej operacji. (Eles / Elas) amanhã apoiarão o batalhão que está se preparando para uma operação importante.
 
-- [] Dzień 861 - 
+- [x] Dzień 861 - Walczyć, Zmagać się. (Batalhar. - Czasowniki)
+ - Wczoraj (on / ona) walczył / walczyła o swoje prawa mimo wielu trudności. Ontem ele / ela batalhou por seus direitos apesar de muitas dificuldades.
+ - Teraz (wy) walczycie o lepszą przyszłość dla swojej rodziny każdego dnia. Agora vocês batalham por um futuro melhor para sua família todos os dias.
+ - Jutro (ty) będziesz się zmagał / zmagała z nowymi wyzwaniami w pracy. Amanhã você batalhará com novos desafios no trabalho.
+ - (My) wczoraj zmagaliśmy / zmagałyśmy się z problemami finansowymi firmy. (Nós) ontem batalhamos com problemas financeiros da empresa.
+ - (Oni / One) jutro będą walczyli / walczyły o zwycięstwo w ważnym meczu. (Eles / Elas) amanhã batalharão pela vitória em uma partida importante.
 
 - [] Dzień 862 - 
 
