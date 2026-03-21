@@ -4968,7 +4968,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj zmagaliśmy / zmagałyśmy się z problemami finansowymi firmy. (Nós) ontem batalhamos com problemas financeiros da empresa.
  - (Oni / One) jutro będą walczyli / walczyły o zwycięstwo w ważnym meczu. (Eles / Elas) amanhã batalharão pela vitória em uma partida importante.
 
-- [] Dzień 862 - 
+- [x] Dzień 862 - Ziemniak - Rzeczownik męski. (Batata. - Rzeczownik żeński)
+ - (Wy) wczoraj kupiliście / kupiłyście świeże ziemniaki na obiad. Vocês ontem compraram batatas frescas para o almoço.
+ - (Ja) dziś obieram ziemniaki i robię z nich pyszne puree. (Eu) hoje descasco batatas e faço um purê delicioso com elas.
+ - (Ja) poszedłem / poszłam do warzywniaka i poprosiłem / poprosiłam o pięć kilogramów ziemniaków. (Eu) fui na quitanda e pedi cinco quilos de batatas.
+ - (My) gotujemy ziemniaki razem i śmiejemy się w kuchni. (Nós) cozinhamos batatas juntos e rimos na cozinha.
+ - On / Ona lubi jeść ziemniaki wieczorem po pracy. Ele / Ela gosta de comer batatas à noite depois do trabalho.
 
 - [] Dzień 863 - 
 
