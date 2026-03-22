@@ -4975,7 +4975,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) gotujemy ziemniaki razem i śmiejemy się w kuchni. (Nós) cozinhamos batatas juntos e rimos na cozinha.
  - On / Ona lubi jeść ziemniaki wieczorem po pracy. Ele / Ela gosta de comer batatas à noite depois do trabalho.
 
-- [] Dzień 863 - 
+- [x] Dzień 863 - Bić, Uderzać, Pukać, Pokonać. (Bater. - Czasowniki)
+ - (Wy) jutro będziecie uderzali / uderzały w ścianę podczas remontu mieszkania. Vocês amanhã vão bater na parede durante a reforma do apartamento.
+ - (Ja) biję teraz w stół ze złości, bo nic nie idzie po mojej myśli. (Eu) bato na mesa agora de raiva porque nada sai como eu quero.
+ - (Ty) pukasz do drzwi codziennie rano, zanim wejdziesz do biura. Você bate na porta todas as manhãs antes de entrar no escritório.
+ - (My) bijemy rekordy sprzedaży i wszyscy w firmie są z nas dumni. (Nós) batemos recordes de vendas e todos na empresa estão orgulhosos de nós.
+ - (Oni / One) pokonają przeciwnika i pobiją jego / jej rekord jeszcze dziś. (Eles / Elas) vão bater o recorde dele / dela e derrotar o oponente ainda hoje.
 
 - [] Dzień 864 - 
 
