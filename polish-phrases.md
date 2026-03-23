@@ -4982,7 +4982,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) bijemy rekordy sprzedaży i wszyscy w firmie są z nas dumni. (Nós) batemos recordes de vendas e todos na empresa estão orgulhosos de nós.
  - (Oni / One) pokonają przeciwnika i pobiją jego / jej rekord jeszcze dziś. (Eles / Elas) vão bater o recorde dele / dela e derrotar o oponente ainda hoje.
 
-- [] Dzień 864 - 
+- [x] Dzień 864 - Akumulator - Rzeczownik męski, Bateria, Perkusja - Rzeczowniki żeńskie. (Bateria. - Rzeczownik żeński)
+ - (Wy) jutro wymienicie baterię w laptopie, żeby działał dłużej bez ładowania. Vocês amanhã vão trocar a bateria do laptop para que funcione mais tempo sem carregar.
+ - (Ja) dziś sprawdzam baterię w pilocie, bo telewizor przestał reagować. (Eu) hoje verifico a bateria do controle, porque a TV parou de responder.
+ - (Ty) jutro kupisz nowy akumulator do auta, jeśli ten przestanie działać. Você amanhã vai comprar uma nova bateria de carro se esta parar de funcionar.
+ - (My) graliśmy / grałyśmy na perkusji wczoraj na próbie zespołu. (Nós) tocamos bateria ontem no ensaio da banda.
+ - On / Ona gra na perkusji bardzo dobrze i ćwiczy codziennie po pracy. Ele / Ela toca bateria muito bem e pratica todos os dias depois do trabalho.
 
 - [] Dzień 865 - 
 
