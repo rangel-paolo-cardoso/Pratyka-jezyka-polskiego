@@ -4989,7 +4989,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) graliśmy / grałyśmy na perkusji wczoraj na próbie zespołu. (Nós) tocamos bateria ontem no ensaio da banda.
  - On / Ona gra na perkusji bardzo dobrze i ćwiczy codziennie po pracy. Ele / Ela toca bateria muito bem e pratica todos os dias depois do trabalho.
 
-- [] Dzień 865 - 
+- [x] Dzień 865 - Perkusista / Perkusistka. (Baterista. - Rzeczowniki)
+ - (Wy) jutro spotkacie perkusistę po koncercie i porozmawiacie chwilę. Vocês amanhã vão encontrar o baterista depois do show e conversar um pouco.
+ - (Ja) byłem / byłam perkusistą / perkusistką w zespole przez kilka lat. (Eu) fui baterista em uma banda por alguns anos.
+ - (Ty) zostaniesz perkusistą / perkusistką, jeśli będziesz dalej ćwiczyć. Você vai se tornar baterista se continuar praticando.
+ - (My) znamy perkusistę / perkusistkę i często chodzimy na jego / jej koncerty w mieście. (Nós) conhecemos o / a baterista e frequentemente vamos aos shows dele / dela na cidade.
+ - On / Ona jest perkusistą / perkusistką i grał / grała w wielu znanych zespołach. Ele / Ela é baterista e tocou em muitas bandas conhecidas.
 
 - [] Dzień 866 - 
 
