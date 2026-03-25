@@ -4996,7 +4996,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) znamy perkusistę / perkusistkę i często chodzimy na jego / jej koncerty w mieście. (Nós) conhecemos o / a baterista e frequentemente vamos aos shows dele / dela na cidade.
  - On / Ona jest perkusistą / perkusistką i grał / grała w wielu znanych zespołach. Ele / Ela é baterista e tocou em muitas bandas conhecidas.
 
-- [] Dzień 866 - 
+- [x] Dzień 866 - Uderzenie - Rzeczownik nijaki, Bit - Rzeczownik męski. (Batida. - Rzeczownik żeński)
+ - (Wy) jutro usłyszycie mocny bit na koncercie i zaczniecie tańczyć. Vocês amanhã vão ouvir uma batida forte no show e começar a dançar.
+ - (Ja) widziałem / widziałam uderzenie dwóch aut na skrzyżowaniu rano. (Eu) vi uma batida de dois carros no cruzamento de manhã.
+ - (Ty) często czujesz bit tej muzyki i ruszasz się w jego rytmie. Você frequentemente sente a batida dessa música e se move no ritmo dela.
+ - (My) będziemy słuchać bitu i tańczyć razem na imprezie jutro. (Nós) vamos ouvir a batida e dançar juntos na festa amanhã.
+ - On / Ona słyszy bit i zawsze reaguje ruchem całego ciała. Ele / Ela ouve a batida e sempre reage movendo o corpo inteiro.
 
 - [] Dzień 867 - 
 
