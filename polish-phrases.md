@@ -5003,7 +5003,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy słuchać bitu i tańczyć razem na imprezie jutro. (Nós) vamos ouvir a batida e dançar juntos na festa amanhã.
  - On / Ona słyszy bit i zawsze reaguje ruchem całego ciała. Ele / Ela ouve a batida e sempre reage movendo o corpo inteiro.
 
-- [] Dzień 867 - 
+- [x] Dzień 867 - Bicie - Rzeczownik nijaki, Puls - Rzeczownik męski. (Batimento. - Rzeczownik męski)
+ - (Wy) wczoraj słyszeliście / słyszałyście szybkie bicie serca po treningu. Vocês ontem ouviram batimentos acelerados do coração após o treino.
+ - (Ja) miałem / miałam szybki puls wczoraj po długim biegu w parku. (Eu) tive um batimento acelerado ontem após uma longa corrida no parque.
+ - (Ty) poczujesz jutro nierówne bicie serca, jeśli się zdenerwujesz. Você vai sentir um batimento do coração irregular amanhã se ficar nervoso.
+ - (My) słuchamy bicia serca i uczymy się je kontrolować podczas ćwiczeń. (Nós) ouvimos o batimento do coração e aprendemos a controlá-lo nos exercícios.
+ - Oni / One będą mierzyli / mierzyły puls podczas badania w szpitalu. Eles / Elas vão medir o batimento durante o exame no hospital.
 
 - [] Dzień 868 - 
 
