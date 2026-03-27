@@ -5010,7 +5010,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) słuchamy bicia serca i uczymy się je kontrolować podczas ćwiczeń. (Nós) ouvimos o batimento do coração e aprendemos a controlá-lo nos exercícios.
  - Oni / One będą mierzyli / mierzyły puls podczas badania w szpitalu. Eles / Elas vão medir o batimento durante o exame no hospital.
 
-- [] Dzień 868 - 
+- [x] Dzień 868 - Chrzest. (Batismo. - Rzeczowniki męskie)
+ - (Wy) jutro pójdziecie na chrzest dziecka znajomych w małym kościele. Vocês amanhã irão ao batismo do filho de amigos em uma pequena igreja.
+ - (Ja) pamiętam chrzest mojego brata i rodzinne spotkanie po ceremonii. (Eu) lembro do batismo do meu irmão e do encontro familiar após a cerimônia.
+ - (Ty) będziesz wspominał / wspominała ten chrzest przez wiele lat. Você vai lembrar desse batismo por muitos anos.
+ - (My) organizujemy chrzest i zapraszamy rodzinę oraz bliskich znajomych. (Nós) organizamos um batismo e convidamos a família e amigos próximos.
+ - On / Ona uczestniczy w chrzcie i trzyma dziecko podczas ceremonii. Ele / Ela participa do batismo e segura a criança durante a cerimônia.
 
 - [] Dzień 869 - 
 
