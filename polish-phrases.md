@@ -5017,7 +5017,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) organizujemy chrzest i zapraszamy rodzinę oraz bliskich znajomych. (Nós) organizamos um batismo e convidamos a família e amigos próximos.
  - On / Ona uczestniczy w chrzcie i trzyma dziecko podczas ceremonii. Ele / Ela participa do batismo e segura a criança durante a cerimônia.
 
-- [] Dzień 869 - 
+- [x] Dzień 869 - Szminka, Pomadka - Rzeczowniki żeńskie. (Batom. - Rzeczownik męski)
+ - (Wy) wczoraj kupiłyście nową szminkę w centrum handlowym. Vocês ontem compraram um batom novo no shopping.
+ - (Ja) używam szminki codziennie rano przed wyjściem do pracy. (Eu) uso batom todos os dias de manhã antes de sair para o trabalho.
+ - (Ty) często nosisz szminkę i zawsze wyglądasz bardzo elegancka. Você frequentemente usa batom e sempre parece muito elegante.
+ - (My) wybrałyśmy pomadkę wczoraj i pasuje idealnie do stroju. (Nós) escolhemos um batom ontem e ele combina perfeitamente com a roupa.
+ - Ona używa szminki codziennie i dba o swój wygląd. Ela usa batom todos os dias e cuida da aparência.
 
 - [] Dzień 870 - 
 
