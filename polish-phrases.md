@@ -5024,7 +5024,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wybrałyśmy pomadkę wczoraj i pasuje idealnie do stroju. (Nós) escolhemos um batom ontem e ele combina perfeitamente com a roupa.
  - Ona używa szminki codziennie i dba o swój wygląd. Ela usa batom todos os dias e cuida da aparência.
 
-- [] Dzień 870 - 
+- [x] Dzień 870 - Skrzynia - Rzeczownik żeński, Kufer - Rzeczownik męski. (Baú. - Rzeczownik męski)
+ - (Wy) jutro otworzycie kufer i zobaczycie, co jest ukryte w środku. Vocês amanhã vão abrir o baú e ver o que está escondido dentro.
+ - (Ja) znalazłem / znalazłam kufer w piwnicy i był pełen ciekawych rzeczy. (Eu) encontrei um baú no porão e ele estava cheio de coisas interessantes.
+ - (Ty) otwierasz skrzynię powoli i patrzysz na rzeczy z przeszłości. Você abre o baú lentamente e olha para coisas do passado.
+ - (My) przechowujemy rzeczy w skrzyni i dbamy o ich dobry stan przez lata. (Nós) guardamos coisas no baú e cuidamos do bom estado delas por anos.
+ - On / Ona chowa ważne rzeczy w kufrze i nikomu o tym nie mówi. Ele / Ela guarda coisas importantes no baú e não conta a ninguém sobre isso.
 
 - [] Dzień 871 - 
 
