@@ -5031,7 +5031,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przechowujemy rzeczy w skrzyni i dbamy o ich dobry stan przez lata. (Nós) guardamos coisas no baú e cuidamos do bom estado delas por anos.
  - On / Ona chowa ważne rzeczy w kufrze i nikomu o tym nie mówi. Ele / Ela guarda coisas importantes no baú e não conta a ninguém sobre isso.
 
-- [] Dzień 871 - 
+- [x] Dzień 871 - Wanilia. (Baunilha. - Rzeczowniki żeńskie)
+ - (Wy) jutro dodacie wanilię do deseru i będzie miał wyjątkowy smak. Vocês amanhã vão adicionar baunilha à sobremesa e ela terá um sabor especial.
+ - (Ja) uwielbiam wanilię i często używam jej w słodkich przepisach. (Eu) adoro baunilha e frequentemente a uso em receitas doces.
+ - (Ty) dodajesz wanilię do kawy i zawsze smakuje ona lepiej niż zwykle. Você adiciona baunilha ao café e ele sempre fica melhor do que o normal.
+ - (My) używamy wanilii w deserach i lubimy jej delikatny aromat. (Nós) usamos baunilha em sobremesas e gostamos do seu aroma delicado.
+ - On / Ona wybiera wanilię do lodów i cieszy się jej naturalnym smakiem. Ele / Ela escolhe baunilha para o sorvete e aprecia seu sabor natural.
 
 - [] Dzień 872 - 
 
