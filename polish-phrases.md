@@ -5038,7 +5038,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) używamy wanilii w deserach i lubimy jej delikatny aromat. (Nós) usamos baunilha em sobremesas e gostamos do seu aroma delicado.
  - On / Ona wybiera wanilię do lodów i cieszy się jej naturalnym smakiem. Ele / Ela escolhe baunilha para o sorvete e aprecia seu sabor natural.
 
-- [] Dzień 872 - 
+- [x] Dzień 872 - Boksyt - Rzeczownik męski. (Bauxita. - Rzeczownik żeński)
+ - (Wy) jutro poznacie proces wydobycia boksytu w nowoczesnym zakładzie. Vocês amanhã vão conhecer o processo de extração da bauxita em uma planta moderna.
+ - (Ja) studiuję boksyt i jego zastosowanie w produkcji aluminium. (Eu) estudo a bauxita e sua aplicação na produção de alumínio.
+ - (Ty) często czytasz o boksycie i uczysz się o jego właściwościach. Você frequentemente lê sobre a bauxita e aprende sobre suas propriedades.
+ - (My) omawiamy boksyt na lekcji i analizujemy jego znaczenie w przemyśle. (Nós) discutimos a bauxita na aula e analisamos sua importância na indústria.
+ - On / Ona bada boksyt i przygotowuje raport o jego wydobyciu. Ele / Ela estuda a bauxita e prepara um relatório sobre sua extração.
 
 - [] Dzień 873 - 
 
