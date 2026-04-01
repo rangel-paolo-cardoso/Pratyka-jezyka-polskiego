@@ -5045,7 +5045,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) omawiamy boksyt na lekcji i analizujemy jego znaczenie w przemyśle. (Nós) discutimos a bauxita na aula e analisamos sua importância na indústria.
  - On / Ona bada boksyt i przygotowuje raport o jego wydobyciu. Ele / Ela estuda a bauxita e prepara um relatório sobre sua extração.
 
-- [] Dzień 873 - 
+- [x] Dzień 873 - Pijany, Pijana - Rzeczowniki, Nietrzeźwy, Nietrzeźwa - Przymiotniki. (Bêbado / Bêbada. - Rzeczowniki, Przymiotniki)
+ - (Wy) jutro będziecie nietrzeźwi / nietrzeźwe, jeśli przesadzicie z alkoholem. Vocês amanhã estarão bêbados / bêbadas se exagerarem no álcool.
+ - (Ja) jestem pijany / pijana i nie powinienem / powinnam teraz prowadzić auta. (Eu) estou bêbado / bêbada e não deveria dirigir um carro agora.
+ - (Ty) jesteś pijany / pijana i mówisz rzeczy, których normalnie byś nie powiedział / powiedziała. Você está bêbado / bêbada e diz coisas que normalmente não diria.
+ - (My) jesteśmy pijani / pijane i śmiejemy się z byle czego przez całą noc. (Nós) estamos bêbados / bêbadas e rimos de qualquer coisa (nada) a noite toda.
+ - On / Ona był / była pijany / pijana i zachowywał / zachowywała się bardzo głośno na ulicy. Ele / Ela estava bêbado / bêbada e se comportava de forma muito barulhenta na rua.
 
 - [] Dzień 874 - 
 
