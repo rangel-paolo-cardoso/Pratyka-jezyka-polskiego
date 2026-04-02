@@ -5052,7 +5052,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jesteśmy pijani / pijane i śmiejemy się z byle czego przez całą noc. (Nós) estamos bêbados / bêbadas e rimos de qualquer coisa (nada) a noite toda.
  - On / Ona był / była pijany / pijana i zachowywał / zachowywała się bardzo głośno na ulicy. Ele / Ela estava bêbado / bêbada e se comportava de forma muito barulhenta na rua.
 
-- [] Dzień 874 - 
+- [x] Dzień 874 - Niemowlę, Dziecko - Rzeczowniki nijakie, Bobas - Rzeczownik męski. (Bebê. - Rzeczownik męski)
+ - (Wy) jutro kupicie niemowlęciu nowy koc i małą poduszkę. Vocês amanhã vão comprar um cobertor novo e um travesseiro pequeno para o bebê.
+ - (Ja) wczoraj uspokoiłem / uspokoiłam niemowlę po długim płaczu. (Eu) ontem acalmei o bebê depois de um longo choro.
+ - (Ty) jutro zabierzesz bobasa do lekarza na pierwszą wizytę. Você amanhã levará o bebê ao médico para a primeira consulta.
+ - (My) w zeszłym tygodniu kupiliśmy / kupiłyśmy dziecku zabawkę. (Nós) na semana passada compramos um brinquedo para o bebê.
+ - On / Ona trzyma niemowlę blisko siebie i mówi do niego spokojnie. Ele / Ela segura o bebê perto de si e fala com ele calmamente.
 
 - [] Dzień 875 - 
 
