@@ -5059,7 +5059,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) w zeszłym tygodniu kupiliśmy / kupiłyśmy dziecku zabawkę. (Nós) na semana passada compramos um brinquedo para o bebê.
  - On / Ona trzyma niemowlę blisko siebie i mówi do niego spokojnie. Ele / Ela segura o bebê perto de si e fala com ele calmamente.
 
-- [] Dzień 875 - 
+- [x] Dzień 875 - Poidło - Rzeczownik nijaki, Dystrybutor wody - Fraza nominalna. (Bebedouro. - Rzeczownik męski)
+ - (Wy) wczoraj znaleźliście / znalazłyście poidło w parku i napiliście się wody. Vocês ontem encontraram um bebedouro no parque e beberam água.
+ - (Ja) często korzystam z poidła, gdy jestem na spacerze w upalne dni. (Eu) frequentemente uso o bebedouro quando estou caminhando em dias quentes.
+ - (Ty) jutro znajdziesz dystrybutor wody w nowym budynku szkoły. Você vai encontrar um bebedouro amanhã no novo prédio da escola.
+ - (My) często spotykamy się przy poidle i rozmawiamy przez chwilę. (Nós) frequentemente nos encontramos no bebedouro e conversamos por um momento.
+ - On / Ona podchodzi do poidła i nalewa sobie wodę do butelki. Ele / Ela se aproxima do bebedouro e enche a garrafa com água.
 
 - [] Dzień 876 - 
 
