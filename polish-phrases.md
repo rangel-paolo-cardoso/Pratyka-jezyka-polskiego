@@ -5066,7 +5066,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często spotykamy się przy poidle i rozmawiamy przez chwilę. (Nós) frequentemente nos encontramos no bebedouro e conversamos por um momento.
  - On / Ona podchodzi do poidła i nalewa sobie wodę do butelki. Ele / Ela se aproxima do bebedouro e enche a garrafa com água.
 
-- [] Dzień 876 - 
+- [x] Dzień 876 - Pić, Wypić. (Beber. - Czasowniki)
+ - (Wy) jutro będziecie pić wodę podczas długiego spaceru po parku. Vocês amanhã vão beber água durante uma longa caminhada no parque.
+ - (Ja) piję teraz kawę i odpoczywam po ciężkim dniu pracy. (Eu) estou bebendo café agora e descansando após um dia de trabalho pesado.
+ - (Ty) wypijesz jutro sok, jeśli będziesz miał / miała ochotę. Você vai beber suco amanhã se tiver vontade.
+ - (My) pijemy razem herbatę i rozmawiamy o planach na weekend. (Nós) bebemos chá juntos / juntas e conversamos sobre planos para o fim de semana.
+ - On / Ona pije sok codziennie rano i zaczyna dzień z energią. Ele / Ela bebe suco todas as manhãs e começa o dia com energia.
 
 - [] Dzień 877 - 
 
