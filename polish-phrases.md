@@ -5073,7 +5073,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) pijemy razem herbatę i rozmawiamy o planach na weekend. (Nós) bebemos chá juntos / juntas e conversamos sobre planos para o fim de semana.
  - On / Ona pije sok codziennie rano i zaczyna dzień z energią. Ele / Ela bebe suco todas as manhãs e começa o dia com energia.
 
-- [] Dzień 877 - 
+- [x] Dzień 877 - Napój, Trunek - Rzeczowniki męskie. (Bebida. - Rzeczownik żeński)
+ - (Wy) jutro wybierzecie napój, który najlepiej pasuje do obiadu. Vocês amanhã vão escolher uma bebida que combina melhor com o almoço.
+ - (Ja) kupiłem / kupiłam trunek wczoraj i bardzo mi smakował. (Eu) comprei uma bebida ontem e gostei muito dela.
+ - (Ty) często wybierasz napój bez cukru i dbasz o swoje zdrowie. Você frequentemente escolhe uma bebida sem açúcar e cuida da sua saúde.
+ - (My) przygotowujemy napój razem i podajemy go gościom podczas spotkania. (Nós) preparamos uma bebida juntos e a servimos aos convidados durante o encontro.
+ - On / Ona wybiera napój z menu i czeka cierpliwie na zamówienie. Ele / Ela escolhe uma bebida no menu e espera pacientemente pelo pedido.
 
 - [] Dzień 878 - 
 
