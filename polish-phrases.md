@@ -5080,7 +5080,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przygotowujemy napój razem i podajemy go gościom podczas spotkania. (Nós) preparamos uma bebida juntos e a servimos aos convidados durante o encontro.
  - On / Ona wybiera napój z menu i czeka cierpliwie na zamówienie. Ele / Ela escolhe uma bebida no menu e espera pacientemente pelo pedido.
 
-- [] Dzień 878 - 
+- [x] Dzień 878 - Koliber. (Beija-flor. - Rzeczowniki męskie)
+ - (Wy) jutro zobaczycie kolibra przy kwiatach, jeśli będzie ciepło. Vocês amanhã vão ver um beija-flor nas flores se estiver calor.
+ - (Ja) obserwuję kolibra codziennie rano, gdy przylatuje do mojego okna. (Eu) observo um beija-flor todas as manhãs quando ele vem à minha janela.
+ - (Ty) często patrzysz na kolibra i podziwiasz jego szybkie ruchy. Você frequentemente observa o beija-flor e admira seus movimentos rápidos.
+ - (My) lubimy kolibra i często rozmawiamy o jego pięknych kolorach. (Nós) gostamos do beija-flor e muitas vezes falamos sobre suas belas cores.
+ - On / Ona widzi kolibra i zatrzymuje się, żeby go spokojnie obserwować. Ele / Ela vê um beija-flor e para para observá-lo com calma.
 
 - [] Dzień 879 - 
 
