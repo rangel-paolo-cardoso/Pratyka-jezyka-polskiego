@@ -5087,7 +5087,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) lubimy kolibra i często rozmawiamy o jego pięknych kolorach. (Nós) gostamos do beija-flor e muitas vezes falamos sobre suas belas cores.
  - On / Ona widzi kolibra i zatrzymuje się, żeby go spokojnie obserwować. Ele / Ela vê um beija-flor e para para observá-lo com calma.
 
-- [] Dzień 879 - 
+- [x] Dzień 879 - Całować, Pocałować. (Beijar. - Czasowniki)
+ - (Wy) wczoraj całowaliście się na pożegnanie przed wyjazdem. Vocês ontem se beijaram na despedida antes da viagem.
+ - (Ja) pocałowałem / pocałowałam go / ją wczoraj i długo o tym myślałem / myślałam. (Eu) beijei ele / ela ontem e pensei nisso por muito tempo.
+ - (Ty) pocałujesz ją / go jutro, jeśli spotkacie się ponownie wieczorem. Você vai beijá-lo / beijá-la (beijar ele / ela) amanhã se se encontrarem novamente à noite.
+ - (My) całujemy się często i cieszymy się wspólnymi chwilami razem. (Nós) nos beijamos frequentemente e aproveitamos momentos juntos.
+ - Oni pocałowali się na końcu spotkania i się uśmiechali. Eles se beijaram no final do encontro e sorriram.
 
 - [] Dzień 880 - 
 
