@@ -5094,7 +5094,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) całujemy się często i cieszymy się wspólnymi chwilami razem. (Nós) nos beijamos frequentemente e aproveitamos momentos juntos.
  - Oni pocałowali się na końcu spotkania i się uśmiechali. Eles se beijaram no final do encontro e sorriram.
 
-- [] Dzień 880 - 
+- [x] Dzień 880 - Pocałunek, Buziak. (Beijo. - Rzeczowniki męskie)
+ - (Wy) jutro dacie sobie buziaka na powitanie po długiej rozłące. Vocês amanhã vão dar um beijo ao se reencontrarem após muito tempo separados.
+ - (Ja) czuję pocałunek na policzku i od razu się uśmiecham. (Eu) sinto um beijo na bochecha e imediatamente sorrio.
+ - (Ty) dajesz pocałunek na dobranoc i pokazujesz swoje uczucia. Você dá um beijo de boa noite e demonstra seus sentimentos.
+ - (My) daliśmy sobie pocałunek wczoraj i było to wyjątkowe. (Nós) demos um beijo ontem e isso foi especial.
+ - On / Ona daje pocałunek na powitanie i zawsze się uśmiecha. Ele / Ela dá um beijo de cumprimento e sempre sorri.
 
 - [] Dzień 881 - 
 
