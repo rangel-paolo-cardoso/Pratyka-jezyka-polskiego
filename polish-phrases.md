@@ -5101,7 +5101,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) daliśmy sobie pocałunek wczoraj i było to wyjątkowe. (Nós) demos um beijo ontem e isso foi especial.
  - On / Ona daje pocałunek na powitanie i zawsze się uśmiecha. Ele / Ela dá um beijo de cumprimento e sempre sorri.
 
-- [] Dzień 881 - 
+- [x] Dzień 881 - Brzeg, Skraj - Rzeczowniki męskie, Krawędź - Rzeczownik żeński. (Beira. - Rzeczownik żeński)
+ - (Wy) jutro usiądziecie na brzegu jeziora i będziecie odpoczywać w ciszy. Vocês amanhã vão sentar na beira do lago e descansar em silêncio.
+ - (Ja) byłem / byłam na skraju drogi i czekałem / czekałam na autobus. (Eu) estive na beira da estrada e esperei o ônibus.
+ - (Ty) często spacerujesz przy brzegu morza i zbierasz muszle. Você frequentemente caminha na beira do mar e coleta conchas.
+ - (My) byliśmy / byłyśmy na skraju lasu i słuchaliśmy / słuchałyśmy odgłosów natury. (Nós) estivemos na beira da floresta e ouvimos os sons da natureza.
+ - On / Ona stoi na krawędzi mostu i patrzy na płynącą wodę pod nim. Ele / Ela está na beira da ponte e observa a água fluindo abaixo dela.
 
 - [] Dzień 882 - 
 
