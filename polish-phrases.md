@@ -5108,7 +5108,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) byliśmy / byłyśmy na skraju lasu i słuchaliśmy / słuchałyśmy odgłosów natury. (Nós) estivemos na beira da floresta e ouvimos os sons da natureza.
  - On / Ona stoi na krawędzi mostu i patrzy na płynącą wodę pod nim. Ele / Ela está na beira da ponte e observa a água fluindo abaixo dela.
 
-- [] Dzień 882 - 
+- [x] Dzień 882 - Baseball. (Beisebol. - Rzeczowniki męskie)
+ - (Wy) jutro będziecie grać w baseball na boisku za szkołą. Vocês amanhã vão jogar beisebol no campo atrás da escola.
+ - (Ja) oglądam baseball w telewizji i uczę się zasad tej gry. (Eu) assisto beisebol na televisão e aprendo as regras desse jogo.
+ - (Ty) lubisz baseball i często chodzisz na mecze z przyjaciółmi / przyjaciółkami. Você gosta de beisebol e frequentemente vai a jogos com amigos / amigas.
+ - (My) oglądaliśmy / oglądałyśmy baseball wczoraj i kibicowaliśmy / kibicowałyśmy drużynie. (Nós) assistimos beisebol ontem e torcemos pelo time.
+ - On / Ona gra w baseball i trenuje regularnie, żeby być lepszy / lepsza. Ele / Ela joga beisebol e treina regularmente para ser melhor.
 
 - [] Dzień 883 - 
 
