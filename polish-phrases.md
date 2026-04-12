@@ -5115,7 +5115,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) oglądaliśmy / oglądałyśmy baseball wczoraj i kibicowaliśmy / kibicowałyśmy drużynie. (Nós) assistimos beisebol ontem e torcemos pelo time.
  - On / Ona gra w baseball i trenuje regularnie, żeby być lepszy / lepsza. Ele / Ela joga beisebol e treina regularmente para ser melhor.
 
-- [] Dzień 883 - 
+- [x] Dzień 883 - Piękny / Piękna, Śliczny / Śliczna. (Belo / Bela. - Rzeczowniki, Przymiotniki)
+ - (Wy) wczoraj widzieliście / widziałyście piękny widok i byliście / byłyście zachwyceni / zachwycone. Vocês ontem viram uma vista bela e ficaram encantados / encantadas.
+ - (Ja) widzę piękny obraz i podziwiam jego detale. (Eu) vejo uma imagem bela e admiro seus detalhes.
+ - (Ty) masz piękny uśmiech i wszyscy to zauważają. Você tem um sorriso belo e todos percebem isso.
+ - (My) kupiliśmy / kupiłyśmy śliczny dom i jesteśmy bardzo szczęśliwi / szczęśliwe. (Nós) compramos uma casa bela e estamos muito felizes.
+ - On / Ona ma piękny głos i wszyscy lubią go słuchać. Ele / Ela tem uma voz bela e todos gostam de ouvi-la.
 
 - [] Dzień 884 - 
 
