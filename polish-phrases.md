@@ -5129,7 +5129,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzimy piękno świata i chcemy je pokazać innym ludziom. (Nós) vemos a beleza do mundo e queremos mostrá-la a outras pessoas.
  - On / Ona dostrzega piękno w sztuce i często odwiedza galerie. Ele / Ela percebe a beleza na arte e frequentemente visita galerias.
 
-- [] Dzień 885 - 
+- [x] Dzień 885 - Łóżko piętrowe - Fraza rzeczownikowa. (Beliche. - Rzeczownik męski)
+ - (Wy) jutro będziecie spać na łóżku piętrowym w nowym pokoju. Vocês amanhã vão dormir no beliche no novo quarto.
+ - (Ja) spałem / spałam na łóżku piętrowym w dzieciństwie i dobrze to wspominam. (Eu) dormi no beliche na infância e lembro bem disso.
+ - (Ty) często wspinasz się na łóżko piętrowe i wybierasz górne miejsce. Você várias vezes sobe no beliche e escolhe a cama de cima.
+ - (My) spaliśmy / spałyśmy na łóżku piętrowym wczoraj i było bardzo zabawnie. (Nós) dormimos no beliche ontem e foi muito divertido.
+ - On / Ona śpi na łóżku piętrowym i zawsze wybiera dolne miejsce. Ele / Ela dorme no beliche e sempre escolhe a cama de baixo.
 
 - [] Dzień 886 - 
 
