@@ -5122,7 +5122,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupiliśmy / kupiłyśmy śliczny dom i jesteśmy bardzo szczęśliwi / szczęśliwe. (Nós) compramos uma casa bela e estamos muito felizes.
  - On / Ona ma piękny głos i wszyscy lubią go słuchać. Ele / Ela tem uma voz bela e todos gostam de ouvi-la.
 
-- [] Dzień 884 - 
+- [x] Dzień 884 - Piękno - Rzeczownik nijaki, Uroda - Rzeczownik żeński. (Beleza. - Rzeczownik żeński)
+ - (Wy) wczoraj podziwialiście / podziwiałyście piękno natury podczas spaceru. Vocês ontem admiraram a beleza da natureza durante o passeio.
+ - (Ja) widzę piękno w prostych rzeczach i doceniam je każdego dnia. (Eu) vejo beleza nas coisas simples e as valorizo todos os dias.
+ - (Ty) jutro zauważysz urodę tego krajobrazu, gdy tam pojedziesz. Você vai notar a beleza dessa paisagem amanhã quando for lá.
+ - (My) widzimy piękno świata i chcemy je pokazać innym ludziom. (Nós) vemos a beleza do mundo e queremos mostrá-la a outras pessoas.
+ - On / Ona dostrzega piękno w sztuce i często odwiedza galerie. Ele / Ela percebe a beleza na arte e frequentemente visita galerias.
 
 - [] Dzień 885 - 
 
