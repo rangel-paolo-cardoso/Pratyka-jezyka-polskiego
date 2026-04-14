@@ -5136,7 +5136,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) spaliśmy / spałyśmy na łóżku piętrowym wczoraj i było bardzo zabawnie. (Nós) dormimos no beliche ontem e foi muito divertido.
  - On / Ona śpi na łóżku piętrowym i zawsze wybiera dolne miejsce. Ele / Ela dorme no beliche e sempre escolhe a cama de baixo.
 
-- [] Dzień 886 - 
+- [x] Dzień 886 - Uszczypnąć, Szczypać. (Beliscar. - Czasowniki)
+ - (Wy) jutro będziecie szczypać się nawzajem podczas zabawy w parku. Vocês amanhã vão se beliscar durante a brincadeira no parque.
+ - (Ja) szczypię się teraz, żeby sprawdzić, czy to nie jest sen. (Eu) estou me beliscando agora para ver se isso não é um sonho.
+ - (Ty) często szczypiesz innych i robisz to dla zabawy, ale przesadzasz. Você muitas vezes belisca os outros por diversão, mas exagera.
+ - (My) szczypiemy się nawzajem i śmiejemy się podczas wspólnych chwil. (Nós) nos beliscamos (um ao outro) e rimos durante momentos juntos.
+ - Oni / One uszczypnęli / uszczypnęły go / ją i zaczęli / zaczęły się śmiać razem. Eles / Elas o / a beliscaram e começaram a rir juntos / juntas.
 
 - [] Dzień 887 - 
 
