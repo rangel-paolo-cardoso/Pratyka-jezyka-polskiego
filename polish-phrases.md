@@ -5143,7 +5143,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) szczypiemy się nawzajem i śmiejemy się podczas wspólnych chwil. (Nós) nos beliscamos (um ao outro) e rimos durante momentos juntos.
  - Oni / One uszczypnęli / uszczypnęły go / ją i zaczęli / zaczęły się śmiać razem. Eles / Elas o / a beliscaram e começaram a rir juntos / juntas.
 
-- [] Dzień 887 - 
+- [x] Dzień 887 - Dobro - Rzeczownik nijaki, Pożytek - Rzeczownik męski. (Bem. - Rzeczownik męski)
+ - (Wy) jutro przyniesiecie pożytek społeczności i pomożecie potrzebującym. Vocês amanhã vão trazer bem à comunidade e ajudar os necessitados.
+ - (Ja) staram się czynić dobro każdego dnia i pomagać innym ludziom. (Eu) tento fazer o bem todos os dias e ajudar outras pessoas.
+ - (Ty) często wybierasz dobro zamiast łatwiejszej drogi i jesteś podziwiany / podziwiana. Você frequentemente escolhe o bem em vez do caminho mais fácil e é admirado / admirada.
+ - (My) wierzymy w dobro i staramy się zmieniać świat na lepsze. (Nós) acreditamos no bem e tentamos mudar o mundo para melhor.
+ - On / Ona czyni dobro i inspiruje innych swoim zachowaniem każdego dnia. Ele / Ela faz o bem e inspira os outros com seu comportamento todos os dias.
 
 - [] Dzień 888 - 
 
