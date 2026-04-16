@@ -5150,7 +5150,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wierzymy w dobro i staramy się zmieniać świat na lepsze. (Nós) acreditamos no bem e tentamos mudar o mundo para melhor.
  - On / Ona czyni dobro i inspiruje innych swoim zachowaniem każdego dnia. Ele / Ela faz o bem e inspira os outros com seu comportamento todos os dias.
 
-- [] Dzień 888 - 
+- [x] Dzień 888 - Błogosławiony / Błogosławiona, Szczęśliwy / Szczęśliwa. (Bem-aventurado / Bem-aventurada. - Rzeczowniki, Przymiotniki)
+ - (Wy) jesteście błogosławieni / błogosławione, bo pomagacie innym bez oczekiwań. Vocês são bem-aventurados / bem-aventuradas porque ajudam os outros sem esperar nada.
+ - (Wy) będziecie szczęśliwi / szczęśliwe, jeśli pozostaniecie wierni swoim wartościom. Vocês serão bem-aventurados / bem-aventuradas se permanecerem fiéis aos seus valores.
+ - (Ja) jestem błogosławiony / błogosławiona, bo mam ludzi, którzy mnie wspierają. (Eu) sou bem-aventurado / bem-aventurada porque tenho pessoas que me apoiam.
+ - (Ja) byłem / byłam szczęśliwy / szczęśliwa i czułem / czułam się naprawdę spełniony / spełniona. (Eu) fui bem-aventurado / bem-aventurada e me senti realmente realizado / realizada.
+ - (Ty) będziesz szczęśliwy / szczęśliwa, jeśli znajdziesz spokój w swoim sercu. Você será bem-aventurado / bem-aventurada se encontrar paz no seu coração.
 
 - [] Dzień 889 - 
 
