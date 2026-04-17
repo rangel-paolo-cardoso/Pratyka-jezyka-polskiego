@@ -5157,7 +5157,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) byłem / byłam szczęśliwy / szczęśliwa i czułem / czułam się naprawdę spełniony / spełniona. (Eu) fui bem-aventurado / bem-aventurada e me senti realmente realizado / realizada.
  - (Ty) będziesz szczęśliwy / szczęśliwa, jeśli znajdziesz spokój w swoim sercu. Você será bem-aventurado / bem-aventurada se encontrar paz no seu coração.
 
-- [] Dzień 889 - 
+- [x] Dzień 889 - Dobrostan - Rzeczownik męski, Dobre samopoczucie, Komfort psychiczny - Frazy rzeczownikowe. (Bem-estar. - Rzeczownik męski)
+ - (Wy) dbacie o dobrostan i czujecie się spokojni / spokojne w codziennym życiu. Vocês cuidam do bem-estar e se sentem tranquilos / tranquilas no dia a dia.
+ - (Ja) wczoraj poprawiłem / poprawiłam swoje dobre samopoczucie spacerem. (Eu) ontem melhorei meu bem-estar com uma caminhada.
+ - (Ty) zadbasz o komfort psychiczny i poczujesz się lepiej jutro rano. Você vai cuidar do bem-estar e vai se sentir melhor amanhã cedo.
+ - On / Ona zawsze dbał / dbała o dobrostan i odpoczywał / odpoczywała regularnie. Ele / Ela sempre cuidou do bem-estar e descansava regularmente.
+ - (My) dbamy o dobre samopoczucie i staramy się żyć zdrowo każdego dnia. (Nós) cuidamos do bem-estar e tentamos viver de forma saudável todos os dias.
 
 - [] Dzień 890 - 
 
