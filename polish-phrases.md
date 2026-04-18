@@ -5164,7 +5164,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zawsze dbał / dbała o dobrostan i odpoczywał / odpoczywała regularnie. Ele / Ela sempre cuidou do bem-estar e descansava regularmente.
  - (My) dbamy o dobre samopoczucie i staramy się żyć zdrowo każdego dnia. (Nós) cuidamos do bem-estar e tentamos viver de forma saudável todos os dias.
 
-- [] Dzień 890 - 
+- [x] Dzień 890 - Dobrze zrobiony, Dobrze wykonany, Starannie zrobiony - Wyrażenia przymiotnikowe. (Bem-feito. - Przymiotnik)
+ - (Wy) wykonaliście / wykonałyście dobrze zrobiony projekt i pokazaliście / pokazałyście go wszystkim znajomym. Vocês fizeram um projeto bem-feito e mostraram ele para todos / todas os / as conhecidos / conhecidas.
+ - (Ja) zrobiłem / zrobiłam dobrze wykonany raport i oddałem / oddałam go szefowi / szefowej na czas. (Eu) fiz um relatório bem-feito e entreguei ele ao / à chefe no prazo.
+ - (Ty) przygotujesz starannie zrobiony posiłek i wszyscy będą zadowoleni. Você vai preparar uma refeição bem-feita e todos ficarão satisfeitos.
+ - On / Ona kupił / kupiła dobrze wykonany mebel i ustawił / ustawiła go w salonie. Ele / Ela comprou um móvel bem-feito e colocou ele na sala.
+ - (My) zawsze wybieramy dobrze zrobione rzeczy i unikamy tanich produktów. (Nós) sempre escolhemos coisas bem-feitas e evitamos produtos baratos.
 
 - [] Dzień 891 - 
 
