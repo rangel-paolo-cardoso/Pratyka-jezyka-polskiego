@@ -5171,7 +5171,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona kupił / kupiła dobrze wykonany mebel i ustawił / ustawiła go w salonie. Ele / Ela comprou um móvel bem-feito e colocou ele na sala.
  - (My) zawsze wybieramy dobrze zrobione rzeczy i unikamy tanich produktów. (Nós) sempre escolhemos coisas bem-feitas e evitamos produtos baratos.
 
-- [] Dzień 891 - 
+- [x] Dzień 891 - Wesoły / Wesoła, Pogodny / Pogodna - Przymiotniki, W dobrym humorze - Wyrażenie przyimkowe. (Bem-humorado / Bem-humorada. - Przymiotniki)
+ - (Wy) byliście / byłyście dziś bardzo weseli / wesołe i rozśmieszyliście / rozśmieszyłyście wszystkich. Vocês hoje estavam muito bem-humorados / bem-humoradas e fizeram todos rirem.
+ - (Ja) byłem / byłam w dobrym humorze i żartowałem / żartowałam cały dzień. (Eu) estive bem-humorado / bem-humorada e brinquei o dia inteiro.
+ - (Ty) jutro będziesz pogodny / pogodna i poprawisz humor całej rodzinie. Você amanhã estará bem-humorado / bem-humorada e alegrará toda a família.
+ - On / Ona zawsze był / była wesoły / wesoła, nawet w trudnych chwilach. Ele / Ela sempre foi bem-humorado / bem-humorada, mesmo nos momentos difíceis.
+ - (My) byliśmy / byłyśmy w dobrym humorze i miło spędziliśmy / spędziłyśmy wieczór razem. (Nós) estávamos bem-humorados / bem-humoradas e passamos uma noite agradável juntos / juntas.
 
 - [] Dzień 892 - 
 
