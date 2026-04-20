@@ -5178,7 +5178,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zawsze był / była wesoły / wesoła, nawet w trudnych chwilach. Ele / Ela sempre foi bem-humorado / bem-humorada, mesmo nos momentos difíceis.
  - (My) byliśmy / byłyśmy w dobrym humorze i miło spędziliśmy / spędziłyśmy wieczór razem. (Nós) estávamos bem-humorados / bem-humoradas e passamos uma noite agradável juntos / juntas.
 
-- [] Dzień 892 - 
+- [x] Dzień 892 - Błogosławieństwo - Rzeczownik nijaki. (Benção. - Rzeczownik żeński)
+ - (Wy) otrzymaliście / otrzymałyście błogosławieństwo i czuliście / czułyście się spokojni / spokojne. Vocês receberam uma benção e se sentiram tranquilos / tranquilas.
+ - (Ja) poczułem / poczułam błogosławieństwo i odnalazłem / odnalazłam spokój. (Eu) senti uma benção e encontrei paz.
+ - (Ty) przyjmiesz błogosławieństwo i będziesz silny / silna przez cały dzień. Você receberá uma benção e será forte durante todo o dia.
+ - On / Ona dostał / dostała błogosławieństwo i poczuł / poczuła wielką ulgę. Ele / Ela recebeu uma benção e sentiu um grande alívio.
+ - (My) szukaliśmy / szukałyśmy błogosławieństwa i znaleźliśmy / znalazłyśmy je razem. (Nós) buscamos uma benção e a encontramos juntos / juntas.
 
 - [] Dzień 893 - 
 
