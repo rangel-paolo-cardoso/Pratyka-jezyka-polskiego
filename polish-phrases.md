@@ -5185,7 +5185,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona dostał / dostała błogosławieństwo i poczuł / poczuła wielką ulgę. Ele / Ela recebeu uma benção e sentiu um grande alívio.
  - (My) szukaliśmy / szukałyśmy błogosławieństwa i znaleźliśmy / znalazłyśmy je razem. (Nós) buscamos uma benção e a encontramos juntos / juntas.
 
-- [] Dzień 893 - 
+- [x] Dzień 893 - Korzystać, Przynosić korzyść, Sprzyjać. (Beneficiar. - Czasowniki)
+ - (Wy) korzystaliście / korzystałyście z tej okazji i poprawiliście / poprawiłyście swoje wyniki. Vocês se beneficiaram dessa oportunidade e melhoraram seus resultados.
+ - (Ja) skorzystałem / skorzystałam z pomocy i osiągnąłem / osiągnęłam cel szybciej. (Eu) me beneficiei da ajuda e alcancei o objetivo mais rápido.
+ - (Ty) skorzystasz z tej zmiany i poczujesz się lepszy / lepsza w pracy. Você vai se beneficiar dessa mudança e vai se sentir melhor no trabalho.
+ - On / Ona skorzystał / skorzystała z sytuacji i poprawił / poprawiła swoją pozycję. Ele / Ela se beneficiou da situação e melhorou sua (a) posição (dele / dela).
+ - (My) korzystaliśmy / korzystałyśmy z doświadczenia i rozwijaliśmy / rozwijałyśmy się szybciej. (Nós) nos beneficiamos da experiência e nos desenvolvemos mais rápido.
 
 - [] Dzień 894 - 
 
