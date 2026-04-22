@@ -5192,7 +5192,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona skorzystał / skorzystała z sytuacji i poprawił / poprawiła swoją pozycję. Ele / Ela se beneficiou da situação e melhorou sua (a) posição (dele / dela).
  - (My) korzystaliśmy / korzystałyśmy z doświadczenia i rozwijaliśmy / rozwijałyśmy się szybciej. (Nós) nos beneficiamos da experiência e nos desenvolvemos mais rápido.
 
-- [] Dzień 894 - 
+- [x] Dzień 894 - Korzyść - Rzeczownik żeński, Benefit - Rzeczownik męski, Świadczenie - Rzeczownik nijaki. (Benefício. - Rzeczownik męski)
+ - (Wy) otrzymaliście / otrzymałyście korzyść i poprawiliście / poprawiłyście swoje warunki pracy. Vocês receberam um benefício e melhoraram suas condições de trabalho.
+ - (Ja) dostałem / dostałam benefit i zwiększyłem / zwiększyłam swoje dochody. (Eu) recebi um benefício e aumentei minha renda.
+ - (Ty) otrzymasz świadczenie i poczujesz się bezpieczny / bezpieczna finansowo. Você receberá um benefício e se sentirá seguro / segura financeiramente.
+ - On / Ona zauważył / zauważyła korzyść i wykorzystał / wykorzystała ją w praktyce. Ele / Ela percebeu um benefício e o utilizou na prática.
+ - (My) doceniliśmy / doceniłyśmy świadczenie i korzystaliśmy / korzystałyśmy z niego długo. (Nós) valorizamos o benefício e o utilizamos por muito tempo.
 
 - [] Dzień 895 - 
 
