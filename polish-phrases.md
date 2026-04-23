@@ -5199,7 +5199,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona zauważył / zauważyła korzyść i wykorzystał / wykorzystała ją w praktyce. Ele / Ela percebeu um benefício e o utilizou na prática.
  - (My) doceniliśmy / doceniłyśmy świadczenie i korzystaliśmy / korzystałyśmy z niego długo. (Nós) valorizamos o benefício e o utilizamos por muito tempo.
 
-- [] Dzień 895 - 
+- [x] Dzień 895 - Laska - Rzeczownik żeński, Laska inwalidzka - Fraza rzeczownikowa. (Bengala. - Rzeczownik żeński)
+ - (Wy) używaliście / używałyście laski podczas spaceru i czuliście / czułyście się pewniej. Vocês usaram uma bengala durante o passeio e se sentiram mais seguros / seguras.
+ - (Ja) kupiłem / kupiłam nową laskę i zacząłem / zaczęłam z niej korzystać codziennie. (Eu) comprei uma bengala nova e comecei a usá-la todos os dias.
+ - (Ty) znajdziesz dobrą laskę i poczujesz się bezpieczny / bezpieczna na ulicy. Você encontrará uma boa bengala e se sentirá seguro / segura na rua.
+ - On / Ona trzymał / trzymała laskę i szedł / szła powoli przez park. Ele / Ela segurava uma bengala e caminhava lentamente pelo parque.
+ - (My) zawsze nosiliśmy / nosiłyśmy laskę i czuliśmy / czułyśmy się bardziej stabilni / stabilne. (Nós) sempre carregávamos uma bengala e nos sentíamos mais estáveis.
 
 - [] Dzień 896 - 
 
