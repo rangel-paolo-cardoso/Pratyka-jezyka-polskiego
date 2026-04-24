@@ -5206,7 +5206,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona trzymał / trzymała laskę i szedł / szła powoli przez park. Ele / Ela segurava uma bengala e caminhava lentamente pelo parque.
  - (My) zawsze nosiliśmy / nosiłyśmy laskę i czuliśmy / czułyśmy się bardziej stabilni / stabilne. (Nós) sempre carregávamos uma bengala e nos sentíamos mais estáveis.
 
-- [] Dzień 896 - 
+- [x] Dzień 896 - Łagodny, Dobroduszny, Nieszkodliwy. (Benigno / Benigna. - Przymiotniki)
+ - On / Ona był / była łagodny / łagodna wobec wszystkich i zawsze pomagał / pomagała innym. Ele / Ela foi benigno / benigna com todos e sempre ajudou os outros.
+ - (Wy) uważacie, że on / ona jest dobroduszny / dobroduszna i łatwo wybacza błędy. Vocês acham que ele / ela é benigno / benigna e perdoa erros facilmente.
+ - (Ty) widziałeś / widziałaś, że on / ona pozostanie nieszkodliwy / nieszkodliwa w tej sytuacji. Você viu que ele / ela permanecerá benigno / benigna nessa situação.
+ - (My) mówiliśmy / mówiłyśmy, że on / ona był / była bardzo łagodny / łagodna dla dzieci. (Nós) dissemos que ele / ela foi muito benigno / benigna com as crianças.
+ - On / Ona będzie dobroduszny / dobroduszna nawet wtedy, gdy inni będą surowi wobec niego / niej. Ele / Ela será benigno / benigna mesmo quando os outros forem duros com ele / ela.
 
 - [] Dzień 897 - 
 
