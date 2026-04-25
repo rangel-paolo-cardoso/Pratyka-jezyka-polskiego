@@ -5213,7 +5213,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) mówiliśmy / mówiłyśmy, że on / ona był / była bardzo łagodny / łagodna dla dzieci. (Nós) dissemos que ele / ela foi muito benigno / benigna com as crianças.
  - On / Ona będzie dobroduszny / dobroduszna nawet wtedy, gdy inni będą surowi wobec niego / niej. Ele / Ela será benigno / benigna mesmo quando os outros forem duros com ele / ela.
 
-- [] Dzień 897 - 
+- [x] Dzień 897 - Bakłażan - Rzeczownik męski. (Berinjela. - Rzeczownik żeński)
+ - (Wy) kupiliście / kupiłyście świeży bakłażan na targu i przygotowaliście / przygotowałyście kolację. Vocês compraram berinjela fresca no mercado e prepararam o jantar.
+ - (Ty) lubisz bakłażan i często dodajesz go do obiadu, bo jest zdrowy. Você gosta de berinjela e frequentemente a adiciona ao almoço, pois é saudável.
+ - On / Ona gotował / gotowała bakłażan z przyprawami i mówił / mówiła, że to jego / jej ulubione danie. Ele / Ela cozinhou berinjela com temperos e disse que é o prato favorito dele / dela.
+ - (My) przygotujemy bakłażan na grillu i podamy go z sosem czosnkowym dla gości. (Nós) vamos preparar berinjela na grelha e servi-la com molho de alho para os convidados.
+ - Oni / One jedli / jadły bakłażan w restauracji i bardzo chwalili / chwaliły jego smak. Eles / Elas comeram berinjela no restaurante e elogiaram muito o sabor dela.
 
 - [] Dzień 898 - 
 
