@@ -5220,7 +5220,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przygotujemy bakłażan na grillu i podamy go z sosem czosnkowym dla gości. (Nós) vamos preparar berinjela na grelha e servi-la com molho de alho para os convidados.
  - Oni / One jedli / jadły bakłażan w restauracji i bardzo chwalili / chwaliły jego smak. Eles / Elas comeram berinjela no restaurante e elogiaram muito o sabor dela.
 
-- [] Dzień 898 - 
+- [x] Dzień 898 - Chrząszcz, Żuk. (Besouro. - Rzeczowniki męskie)
+ - (Wy) zobaczyliście / zobaczyłyście chrząszcza w ogrodzie i zaczęliście / zaczęłyście go obserwować. Vocês viram um besouro no jardim e começaram a observá-lo.
+ - (Ty) znalazłeś / znalazłaś żuka pod kamieniem i powiedziałeś / powiedziałaś, że jest ciekawy. Você encontrou um besouro debaixo da pedra e disse que ele é interessante.
+ - On / Ona będzie obserwował / obserwowała chrząszcza w lesie i zrobi zdjęcia. Ele / Ela vai observar um besouro na floresta e tirará fotos.
+ - (My) widzieliśmy / widziałyśmy żuka na drodze i pomogliśmy / pomogłyśmy mu przejść na drugą stronę. (Nós) vimos um besouro na estrada e ajudamos ele a atravessar para o outro lado.
+ - Oni / One słyszeli / słyszały chrząszcza w trawie i bali / bały się go dotknąć. Eles / Elas ouviram um besouro na grama e tiveram medo de tocá-lo.
 
 - [] Dzień 899 - 
 
