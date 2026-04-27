@@ -5227,7 +5227,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzieliśmy / widziałyśmy żuka na drodze i pomogliśmy / pomogłyśmy mu przejść na drugą stronę. (Nós) vimos um besouro na estrada e ajudamos ele a atravessar para o outro lado.
  - Oni / One słyszeli / słyszały chrząszcza w trawie i bali / bały się go dotknąć. Eles / Elas ouviram um besouro na grama e tiveram medo de tocá-lo.
 
-- [] Dzień 899 - 
+- [x] Dzień 899 - Głupi, Tępy, Nierozgarnięty. (Besta. - Przymiotniki)
+ - (Wy) mówiliście / mówiłyście, że on / ona był / była głupi / głupia i nie rozumiał / rozumiała sytuacji. Vocês disseram que ele / ela era besta e não entendia a situação.
+ - (Ty) myślisz, że on / ona jest tępy / tępa, bo ciągle powtarza te same błędy. Você acha que ele / ela é besta, porque continua repetindo os mesmos erros.
+ - On / Ona zachował / zachowała się nierozgarnięty / nierozgarnięta i zapomniał / zapomniała o ważnym spotkaniu. Ele / Ela se comportou como um / uma besta e esqueceu uma reunião importante.
+ - (My) widzieliśmy / widziałyśmy, że on / ona będzie głupi / głupia, jeśli nie posłucha rady. (Nós) vimos que ele / ela será besta se não ouvir o conselho.
+ - Oni / One uważali / uważały, że on / ona jest tępy / tępa i nie nadaje się do tej pracy. Eles / Elas achavam que ele / ela é besta e não serve para esse trabalho.
 
 - [] Dzień 900 - 
 
