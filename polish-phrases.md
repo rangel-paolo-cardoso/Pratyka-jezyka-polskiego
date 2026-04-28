@@ -5234,7 +5234,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzieliśmy / widziałyśmy, że on / ona będzie głupi / głupia, jeśli nie posłucha rady. (Nós) vimos que ele / ela será besta se não ouvir o conselho.
  - Oni / One uważali / uważały, że on / ona jest tępy / tępa i nie nadaje się do tej pracy. Eles / Elas achavam que ele / ela é besta e não serve para esse trabalho.
 
-- [] Dzień 900 - 
+- [x] Dzień 900 - Głupota, Bzdura, Brednia. (Besteira. - Rzeczowniki żeńskie)
+ - (Wy) powiedzieliście / powiedziałyście taką bzdurę, że wszyscy zaczęli się śmiać. Vocês disseram uma besteira dessas que todos começaram a rir.
+ - (Ty) myślisz, że to głupota, ale on / ona uważa, że to dobry pomysł. Você acha que isso é besteira, mas ele / ela acha que é uma boa ideia.
+ - On / Ona powiedział / powiedziała brednię i nikt nie potraktował tego poważnie. Ele / Ela disse uma besteira e ninguém levou isso a sério.
+ - (My) słyszeliśmy / słyszałyśmy tę bzdurę wcześniej i nie chcieliśmy / chciałyśmy jej znowu słuchać. (Nós) ouvimos essa besteira antes e não queríamos ouvi-la novamente.
+ - Oni / One będą mówić głupoty, jeśli nikt im nie wyjaśni sytuacji jasno. Eles / Elas vão falar besteiras se ninguém explicar a situação claramente para eles / elas.
 
 - [] Dzień 901 - 
 
