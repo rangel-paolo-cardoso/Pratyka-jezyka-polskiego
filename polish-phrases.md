@@ -5241,7 +5241,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) słyszeliśmy / słyszałyśmy tę bzdurę wcześniej i nie chcieliśmy / chciałyśmy jej znowu słuchać. (Nós) ouvimos essa besteira antes e não queríamos ouvi-la novamente.
  - Oni / One będą mówić głupoty, jeśli nikt im nie wyjaśni sytuacji jasno. Eles / Elas vão falar besteiras se ninguém explicar a situação claramente para eles / elas.
 
-- [] Dzień 901 - 
+- [x] Dzień 901 - Burak - Rzeczownik męski. (Beterraba. - Rzeczownik żeński)
+ - (Wy) kupiliście / kupiłyście świeży burak i przygotowaliście / przygotowałyście sałatkę na obiad. Vocês compraram beterraba fresca e prepararam uma salada para o almoço.
+ - (Ty) lubisz burak i często dodajesz go do kanapek, bo jest bardzo zdrowy. Você gosta de beterraba e frequentemente a adiciona aos sanduíches, pois é muito saudável.
+ - On / Ona gotował / gotowała burak przez długi czas i mówił / mówiła, że smak był wyjątkowy. Ele / Ela cozinhou beterraba por muito tempo e disse que o sabor foi excepcional.
+ - (My) przygotujemy burak na kolację i podamy go z serem oraz świeżymi ziołami. (Nós) vamos preparar beterraba para o jantar e servi-la com queijo e ervas frescas.
+ - Oni / One jedli / jadły burak w restauracji i bardzo chwalili / chwaliły jego smak. Eles / Elas comeram beterraba no restaurante e elogiaram muito o sabor dela.
 
 - [] Dzień 902 - 
 
