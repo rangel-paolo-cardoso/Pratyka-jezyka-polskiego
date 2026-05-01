@@ -5248,7 +5248,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) przygotujemy burak na kolację i podamy go z serem oraz świeżymi ziołami. (Nós) vamos preparar beterraba para o jantar e servi-la com queijo e ervas frescas.
  - Oni / One jedli / jadły burak w restauracji i bardzo chwalili / chwaliły jego smak. Eles / Elas comeram beterraba no restaurante e elogiaram muito o sabor dela.
 
-- [] Dzień 902 - 
+- [x] Dzień 902 - Balon, Pęcherz - Rzeczowniki męskie. (Bexiga. - Rzeczownik żeński)
+ - (Wy) nadmuchaliście / nadmuchałyście balon na imprezie i wszyscy dobrze się bawili. Vocês encheram a bexiga na festa e todos se divertiram muito.
+ - (Ty) trzymałeś / trzymałaś balon w ręce i powiedziałeś / powiedziałaś, że zaraz pęknie. Você segurou a bexiga na mão e disse que ela ia estourar.
+ - On / Ona poczuł / poczuła ból, bo jego / jej pęcherz był pełny i musiał / musiała szybko iść. Ele / Ela sentiu dor, porque a bexiga dele / dela estava cheia e precisou ir rápido.
+ - (My) baliśmy / bałyśmy się, że balon pęknie i przestraszy dzieci na przyjęciu. (Nós) tivemos medo de que a bexiga estourasse e assustasse as crianças na festa.
+ - Oni / One wiedzieli / wiedziały, że jego / jej pęcherz będzie problemem podczas długiej podróży. Eles / Elas sabiam que a bexiga dele / dela seria um problema durante a longa viagem.
 
 - [] Dzień 903 - 
 
