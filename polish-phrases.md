@@ -5255,7 +5255,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) baliśmy / bałyśmy się, że balon pęknie i przestraszy dzieci na przyjęciu. (Nós) tivemos medo de que a bexiga estourasse e assustasse as crianças na festa.
  - Oni / One wiedzieli / wiedziały, że jego / jej pęcherz będzie problemem podczas długiej podróży. Eles / Elas sabiam que a bexiga dele / dela seria um problema durante a longa viagem.
 
-- [] Dzień 903 - 
+- [x] Dzień 903 - Cielę - Rzeczownik nijaki, Cielak - Rzeczownik męski. (Bezerro / Bezerra. - Rzeczowniki)
+ - (Wy) widzieliście / widziałyście cielę na pastwisku i robiliście / robiłyście mu zdjęcia. Vocês viram um / uma bezerro / bezerra no pasto e tiraram fotos dele / dela.
+ - (Ty) karmiłeś / karmiłaś cielaka rano i powiedziałeś / powiedziałaś, że rośnie szybko. Você alimentou o / a bezerro / bezerra de manhã e disse que ele / ela cresce rápido.
+ - On / Ona znalazł / znalazła cielę w stodole i zabrał / zabrała je do bezpiecznego miejsca. Ele / Ela encontrou um / uma bezerro / bezerra no celeiro e levou ele / ela para um lugar seguro.
+ - (My) będziemy obserwować cielaka na farmie i uczyć się o jego / jej zachowaniu. (Nós) vamos observar o / a bezerro / bezerra na fazenda e aprender sobre o comportamento dele / dela.
+ - Oni / One opiekowali / opiekowały się cielęciem przez kilka dni i bardzo je polubili / polubiły. Eles / Elas cuidaram do / da bezerro / bezerra por alguns dias e gostaram muito dele / dela.
 
 - [] Dzień 904 - 
 
