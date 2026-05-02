@@ -5262,7 +5262,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy obserwować cielaka na farmie i uczyć się o jego / jej zachowaniu. (Nós) vamos observar o / a bezerro / bezerra na fazenda e aprender sobre o comportamento dele / dela.
  - Oni / One opiekowali / opiekowały się cielęciem przez kilka dni i bardzo je polubili / polubiły. Eles / Elas cuidaram do / da bezerro / bezerra por alguns dias e gostaram muito dele / dela.
 
-- [] Dzień 904 - 
+- [x] Dzień 904 - Biblia. (Bíblia. - Rzeczowniki żeńskie)
+ - (Wy) czytaliście / czytałyście Biblię codziennie i znajdowaliście / znajdowałyście w niej spokój. Vocês liam a Bíblia todos os dias e encontravam nela paz.
+ - (Ty) trzymałeś / trzymałaś Biblię przy łóżku i czytałeś / czytałaś ją przed snem. Você mantinha a Bíblia ao lado da cama e a lia antes de dormir.
+ - On / Ona będzie czytał / czytała Biblię rano i szukał / szukała w niej odpowiedzi na pytania. Ele / Ela lerá a Bíblia pela manhã e buscará nela respostas para perguntas.
+ - (My) znaleźliśmy / znalazłyśmy starą Biblię w domu i zaczęliśmy / zaczęłyśmy ją czytać razem. (Nós) encontramos uma Bíblia antiga em casa e começamos a lê-la juntos.
+ - Oni / One kupili / kupiły Biblię w księgarni i postanowili / postanowiły studiować ją regularnie. Eles / Elas compraram uma Bíblia na livraria e decidiram estudá-la regularmente.
 
 - [] Dzień 905 - 
 
