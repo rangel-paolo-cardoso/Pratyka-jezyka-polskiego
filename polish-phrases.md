@@ -5269,7 +5269,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) znaleźliśmy / znalazłyśmy starą Biblię w domu i zaczęliśmy / zaczęłyśmy ją czytać razem. (Nós) encontramos uma Bíblia antiga em casa e começamos a lê-la juntos.
  - Oni / One kupili / kupiły Biblię w księgarni i postanowili / postanowiły studiować ją regularnie. Eles / Elas compraram uma Bíblia na livraria e decidiram estudá-la regularmente.
 
-- [] Dzień 905 - 
+- [x] Dzień 905 - Bibliografia. (Bibliografia. - Rzeczowniki żeńskie)
+ - (Wy) przygotowaliście / przygotowałyście bibliografię do projektu i byliście / byłyście dumni / dumne. Vocês prepararam a bibliografia para o projeto e ficaram orgulhosos / orgulhosas.
+ - (Wy) teraz sprawdzacie bibliografię w pracy i jesteście bardzo dokładni / dokładne. Vocês agora verificam a bibliografia no trabalho e são muito detalhistas.
+ - (Wy) jutro poprawicie bibliografię w artykule i będziecie spokojni / spokojne. Vocês amanhã corrigirão a bibliografia no artigo e ficarão tranquilos / tranquilas.
+ - On / Ona czytał / czytała bibliografię w książce i był / była skupiony / skupiona. Ele / Ela leu a bibliografia no livro e estava concentrado / concentrada.
+ - (My) tworzyliśmy / tworzyłyśmy bibliografię razem i byliśmy / byłyśmy zadowoleni / zadowolone. (Nós) criamos a bibliografia juntos / juntas e ficamos satisfeitos / satisfeitas.
 
 - [] Dzień 906 - 
 
