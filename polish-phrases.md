@@ -5276,7 +5276,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona czytał / czytała bibliografię w książce i był / była skupiony / skupiona. Ele / Ela leu a bibliografia no livro e estava concentrado / concentrada.
  - (My) tworzyliśmy / tworzyłyśmy bibliografię razem i byliśmy / byłyśmy zadowoleni / zadowolone. (Nós) criamos a bibliografia juntos / juntas e ficamos satisfeitos / satisfeitas.
 
-- [] Dzień 906 - 
+- [x] Dzień 906 - Biblioteka. (Biblioteca. - Rzeczowniki żeńskie)
+ - (Wy) wczoraj odwiedziliście / odwiedziłyście bibliotekę po pracy. Vocês visitaram a biblioteca ontem depois do trabalho.
+ - (Ja) często chodzę do biblioteki i wypożyczam ciekawe książki. (Eu) muitas vezes vou à biblioteca e pego livros interessantes emprestados.
+ - (Ty) jutro pójdziesz do biblioteki i znajdziesz coś dla siebie. Você amanhã irá à biblioteca e encontrará algo para si.
+ - (My) niedawno zapisaliśmy / zapisałyśmy się do biblioteki miejskiej. (Nós) recentemente nos inscrevemos na biblioteca municipal.
+ - On / Ona regularnie pracuje w bibliotece i pomaga czytelnikom. Ele / Ela trabalha regularmente na biblioteca e ajuda os leitores.
 
 - [] Dzień 907 - 
 
