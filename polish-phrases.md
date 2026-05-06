@@ -5283,7 +5283,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) niedawno zapisaliśmy / zapisałyśmy się do biblioteki miejskiej. (Nós) recentemente nos inscrevemos na biblioteca municipal.
  - On / Ona regularnie pracuje w bibliotece i pomaga czytelnikom. Ele / Ela trabalha regularmente na biblioteca e ajuda os leitores.
 
-- [] Dzień 907 - 
+- [x] Dzień 907 - Bibliotekarz, Bibliotekarka. (Bibliotecário / Bibliotecária. - Rzeczowniki)
+ - (Wy) często pytacie bibliotekarza / bibliotekarkę o nowe książki. Vocês frequentemente perguntam ao / à bibliotecário / bibliotecária sobre novos livros.
+ - (Ja) znam bibliotekarza / bibliotekarkę z mojej dzielnicy od lat. (Eu) conheço o / a bibliotecário / bibliotecária do meu bairro há anos.
+ - (Ty) jutro zapytasz bibliotekarza / bibliotekarkę o pomoc. Você amanhã perguntará (pedirá or vai pedir) ao / à bibliotecário / bibliotecária por ajuda.
+ - (My) często rozmawiamy z bibliotekarzem / bibliotekarką o literaturze. (Nós) quase sempre conversamos com o / a bibliotecário / bibliotecária sobre literatura.
+ - On / Ona pracował / pracowała jako bibliotekarz / bibliotekarka przez lata. Ele / Ela trabalhou como bibliotecário / bibliotecária por anos.
 
 - [] Dzień 908 - 
 
