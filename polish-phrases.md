@@ -5290,7 +5290,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często rozmawiamy z bibliotekarzem / bibliotekarką o literaturze. (Nós) quase sempre conversamos com o / a bibliotecário / bibliotecária sobre literatura.
  - On / Ona pracował / pracowała jako bibliotekarz / bibliotekarka przez lata. Ele / Ela trabalhou como bibliotecário / bibliotecária por anos.
 
-- [] Dzień 908 - 
+- [x] Dzień 908 - Dwukrotny mistrz, Dwukrotna mistrzyni - Wyrażenia rzeczownikowe. (Bicampeão / Bicampeã. - Przyiotniki)
+ - (Wy) wczoraj świętowaliście / świętowałyście jako dwukrotnymi mistrzami / mistrzyniami po wielkim meczu. Vocês comemoraram como bicampeões / bicampeãs após o (a) grande jogo (partida) ontem.
+ - (Ja) zawsze marzyłem / marzyłam, by zostać dwukrotnym / dwukrotną mistrzem / mistrzynią. (Eu) sempre sonhei em me tornar bicampeão / bicampeã.
+ - (Ty) jutro będziesz dwukrotnym mistrzem / mistrzynią, jeśli wygrasz finał. Você amanhã será bicampeão / bicampeã se vencer a final.
+ - (My) niedawno zostaliśmy / zostałyśmy dwukrotnymi mistrzami / mistrzyniami po trudnym sezonie. (Nós) recentemente nos tornamos bicampeões / bicampeãs após uma temporada difícil.
+ - On / Ona był / była dwukrotnym mistrzem / mistrzynią przez wiele lat kariery. Ele / Ela foi bicampeão / bicampeã por muitos anos de carreira.
 
 - [] Dzień 909 - 
 
