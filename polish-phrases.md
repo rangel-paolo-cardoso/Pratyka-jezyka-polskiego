@@ -5297,7 +5297,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) niedawno zostaliśmy / zostałyśmy dwukrotnymi mistrzami / mistrzyniami po trudnym sezonie. (Nós) recentemente nos tornamos bicampeões / bicampeãs após uma temporada difícil.
  - On / Ona był / była dwukrotnym mistrzem / mistrzynią przez wiele lat kariery. Ele / Ela foi bicampeão / bicampeã por muitos anos de carreira.
 
-- [] Dzień 909 - 
+- [x] Dzień 909 - Dziobać. (Bicar. - Czasowniki)
+ - Kura dziobała ziarno przy płocie przez całe popołudnie. A galinha bicava grãos perto da cerca durante toda a tarde.
+ - Papuga dziobała owoce na stole, kiedy wszyscy spali. O papagaio bicava frutas na mesa enquanto todos dormiam.
+ - (Wy) widzieliście / widziałyście, jak kaczki dziobały chleb nad jeziorem. Vocês viram como os patos bicavam pão perto do lago.
+ - (Ty) obserwowałeś / obserwowałaś wróbla, który dziobał okruszki. Você  observou um pardal que bicava migalhas.
+ - On / Ona zauważył / zauważyła, że dzięcioł dziobał stare drzewo. Ele / Ela percebeu que o pica-pau bicava a árvore velha.
 
 - [] Dzień 910 - 
 
