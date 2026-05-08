@@ -5304,7 +5304,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) obserwowałeś / obserwowałaś wróbla, który dziobał okruszki. Você  observou um pardal que bicava migalhas.
  - On / Ona zauważył / zauważyła, że dzięcioł dziobał stare drzewo. Ele / Ela percebeu que o pica-pau bicava a árvore velha.
 
-- [] Dzień 910 - 
+- [x] Dzień 910 - Wodorowęglan. (Bicarbonato. - Rzeczowniki męskie)
+ - (Wy) kupiliście / kupiłyście wodorowęglan do szkolnego laboratorium. Vocês compraram bicarbonato para o laboratório da escola.
+ - (Ja) wczoraj użyłem / użyłam wodorowęglanu do czyszczenia kubka. (Eu) ontem usei bicarbonato para limpar a caneca.
+ - (Ty) często dodajesz wodorowęglan do domowych mieszanek. Você muitas vezes adiciona bicarbonato a misturas caseiras.
+ - (My) czasem używamy wodorowęglanu przy domowych doświadczeniach. (Nós) às vezes usamos bicarbonato em experimentos caseiros.
+ - On / Ona wsypał / wsypała wodorowęglan do dużego pojemnika. Ele / Ela colocou bicarbonato dentro de um grande recipiente.
 
 - [] Dzień 911 - 
 
