@@ -5311,7 +5311,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) czasem używamy wodorowęglanu przy domowych doświadczeniach. (Nós) às vezes usamos bicarbonato em experimentos caseiros.
  - On / Ona wsypał / wsypała wodorowęglan do dużego pojemnika. Ele / Ela colocou bicarbonato dentro de um grande recipiente.
 
-- [] Dzień 911 - 
+- [x] Dzień 911 - Biceps - Rzeczownik męski, Mięsień dwugłowy - Wyrażenie rzeczownikowe. (Bíceps. - Rzeczownik męski)
+ - (Wy) jutro będziecie ćwiczyć mięsień dwugłowy z nowym / nową trenerem / trenerką. Vocês amanhã vão treinar o bíceps com o / a novo / nova treinador / treinadora.
+ - (Ja) regularnie wzmacniam biceps przed zawodami sportowymi. (Eu) fortaleço regularmente o bíceps antes das competições esportivas.
+ - (Ty) jutro poczujesz biceps po długim treningu z hantlami. Você amanhã sentirá o bíceps após o longo treino com halteres.
+ - (My) niedawno ćwiczyliśmy / ćwiczyłyśmy biceps razem na siłowni. (Nós) recentemente treinamos bíceps juntos na academia.
+ - On / Ona naderwał / naderwała biceps podczas podnoszenia ciężarów. Ele / Ela lesionou o bíceps ao levantar pesos.
 
 - [] Dzień 912 - 
 
