@@ -5318,7 +5318,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) niedawno ćwiczyliśmy / ćwiczyłyśmy biceps razem na siłowni. (Nós) recentemente treinamos bíceps juntos na academia.
  - On / Ona naderwał / naderwała biceps podczas podnoszenia ciężarów. Ele / Ela lesionou o bíceps ao levantar pesos.
 
-- [] Dzień 912 - 
+- [x] Dzień 912 - Rower - Rzeczownik męski. (Bicicleta. - Rzeczownik żeński)
+ - (Wy) jutro kupicie nowy rower do codziennych dojazdów do pracy. Vocês amanhã comprarão uma bicicleta nova para se deslocar diriamente ao trabalho.
+ - (Ja) często naprawiam rower przed długimi wycieczkami za miasto. (Eu) muitas vezes conserto a bicicleta antes de passeios longos fora da cidade.
+ - (Ty) zawsze czyścisz rower po deszczowej drodze przez las. Você sempre limpa a bicicleta após passar pela estrada chuvosa da floresta.
+ - (My) niedawno kupiliśmy / kupiłyśmy używany rower od sąsiada. (Nós) recentemente compramos uma bicicleta usada do vizinho.
+ - Oni / One będą jeździć rowerami po górach podczas wakacji. Eles / Elas vão andar de bicicleta pelas montanhas durante as férias.
 
 - [] Dzień 913 - 
 
