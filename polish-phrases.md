@@ -5325,7 +5325,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) niedawno kupiliśmy / kupiłyśmy używany rower od sąsiada. (Nós) recentemente compramos uma bicicleta usada do vizinho.
  - Oni / One będą jeździć rowerami po górach podczas wakacji. Eles / Elas vão andar de bicicleta pelas montanhas durante as férias.
 
-- [] Dzień 913 - 
+- [x] Dzień 913 - Dziób, Dziobek. (Bico. - Rzeczowniki męskie)
+ - (Wy) jutro zobaczycie mały dziobek młodego ptaka w gnieździe. Vocês amanhã verão o pequeno bico do filhote no ninho.
+ - (Ja) często rysuję dziobek kaczki podczas lekcji plastyki. (Eu) muitas vezes desenho o bico do pato durante a aula de arte.
+ - (Ty) wczoraj dotknąłeś / dotknęłaś dzioba kolorowego tukana. Você ontem tocou o bico do tucano colorido.
+ - (My) widzieliśmy / widziałyśmy mokry dziób pingwina po karmieniu. (Nós) vimos o bico molhado do pinguim após a alimentação.
+ - Oni / One będą badać dziobek pisklęcia w przyszłym tygodniu. Eles / Elas vão examinar o bico do pintinho na próxima semana.
 
 - [] Dzień 914 - 
 
