@@ -5332,7 +5332,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) widzieliśmy / widziałyśmy mokry dziób pingwina po karmieniu. (Nós) vimos o bico molhado do pinguim após a alimentação.
  - Oni / One będą badać dziobek pisklęcia w przyszłym tygodniu. Eles / Elas vão examinar o bico do pintinho na próxima semana.
 
-- [] Dzień 914 - 
+- [x] Dzień 914 - Befsztyk, Stek. (Bife. - Rzeczowniki męskie)
+ - (Wy) wczoraj zamówiliście / zamówiłyście duży befsztyk z frytkami. Vocês ontem pediram um grande bife com batatas fritas.
+ - (Ja) usmażyłem / usmażyłam soczysty befsztyk dla całej rodziny. (Eu) fritei um bife suculento para toda a família.
+ - (Ty) jutro przygotujesz stek z pieprzem dla swoich gości. Você amanhã preparará bife com pimenta para seus convidados.
+ - (My) często przyprawiamy befsztyk świeżym czosnkiem i masłem. (Nós) frequentemente temperamos o bife com alho fresco e manteiga.
+ - On / Ona piekł / piekła stek przez długi czas na grillu. Ele / Ela assava o bife por muito tempo na churrasqueira.
 
 - [] Dzień 915 - 
 
