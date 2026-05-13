@@ -5339,7 +5339,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często przyprawiamy befsztyk świeżym czosnkiem i masłem. (Nós) frequentemente temperamos o bife com alho fresco e manteiga.
  - On / Ona piekł / piekła stek przez długi czas na grillu. Ele / Ela assava o bife por muito tempo na churrasqueira.
 
-- [] Dzień 915 - 
+- [x] Dzień 915 - Rozwidlenie, Rozgałęzienie - Rzeczowniki nijakie. (Bifurcação. - Rzeczownik żeński)
+ - (Wy) zatrzymaliście / zatrzymałyście się przy rozwidleniu leśnej drogi. Vocês pararam na bifurcação da estrada da floresta.
+ - (Ja) zgubiłem / zgubiłam się przy rozwidleniu niedaleko jeziora. (Eu) me perdi na bifurcação perto do lago.
+ - (Ty) jutro zobaczysz rozgałęzienie prowadzące do centrum miasta. Você amanhã verá a bifurcação que leva ao centro da cidade.
+ - (My) minęliśmy / minęłyśmy rozwidlenie podczas górskiej wycieczki. (Nós) passamos pela bifurcação durante a excursão nas montanhas.
+ - On / Ona zatrzymał / zatrzymała samochód przy rozwidleniu drogi. Ele / Ela parou o carro na bifurcação da estrada.
 
 - [] Dzień 916 - 
 
