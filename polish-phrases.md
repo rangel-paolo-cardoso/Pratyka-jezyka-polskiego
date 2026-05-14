@@ -5346,7 +5346,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) minęliśmy / minęłyśmy rozwidlenie podczas górskiej wycieczki. (Nós) passamos pela bifurcação durante a excursão nas montanhas.
  - On / Ona zatrzymał / zatrzymała samochód przy rozwidleniu drogi. Ele / Ela parou o carro na bifurcação da estrada.
 
-- [] Dzień 916 - 
+- [x] Dzień 916 - Wąs, Wąsik. (Bigode, Bigodinho. - Rzeczowniki męskie)
+ - (Wy) jutro zobaczycie śmieszny wąsik u nowego sąsiada. Vocês amanhã verão um bigodinho engraçado no novo vizinho.
+ - (Ja) czasem poprawiam wąsik przed wyjściem do restauracji. (Eu) às vezes ajeito o bigodinho antes de sair para o restaurante.
+ - (Ty) wczoraj farbowałeś wąs na ciemniejszy kolor. Você ontem tingiu o bigode para uma cor mais escura.
+ - (My) często żartujemy z małego wąsika naszego kolegi z biura. (Nós) quase sempre brincamos com o bigodinho bigode do nosso colega do escritório.
+ - On pielęgnował wąs przez wiele miesięcy. Ele cuidava do bigode havia muitos meses.
 
 - [] Dzień 917 - 
 
