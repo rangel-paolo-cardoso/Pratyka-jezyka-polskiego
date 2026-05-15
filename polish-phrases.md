@@ -5353,7 +5353,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) często żartujemy z małego wąsika naszego kolegi z biura. (Nós) quase sempre brincamos com o bigodinho bigode do nosso colega do escritório.
  - On pielęgnował wąs przez wiele miesięcy. Ele cuidava do bigode havia muitos meses.
 
-- [] Dzień 917 - 
+- [x] Dzień 917 - Bilet, Karnet. (Bilhete. - Rzeczowniki męskie)
+ - (Wy) kupiliście / kupiłyście bilet na koncert w ostatniej chwili. Vocês compraram o bilhete para o show no último instante.
+ - (Ja) zgubiłem / zgubiłam bilet do kina w drodze na seans. (Eu) perdi o bilhete do cinema a caminho da sessão.
+ - (Ty) wczoraj znalazłeś / znalazłaś bilet lotniczy na stole w kuchni. Você ontem encontrou o bilhete do avião sobre a mesa da cozinha.
+ - (Ty) jutro podpiszesz karnet przed wejściem na wydarzenie sportowe. Você amanhã vai assinar o bilhete antes de entrar no evento esportivo.
+ - (My) niedawno kupiliśmy / kupiłyśmy bilet na wystawę sztuki nowoczesnej. (Nós) recentemente compramos o bilhete para a exposição de arte moderna.
 
 - [] Dzień 918 - 
 
