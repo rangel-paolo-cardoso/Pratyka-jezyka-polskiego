@@ -5360,7 +5360,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) jutro podpiszesz karnet przed wejściem na wydarzenie sportowe. Você amanhã vai assinar o bilhete antes de entrar no evento esportivo.
  - (My) niedawno kupiliśmy / kupiłyśmy bilet na wystawę sztuki nowoczesnej. (Nós) recentemente compramos o bilhete para a exposição de arte moderna.
 
-- [] Dzień 918 - 
+- [x] Dzień 918 - Kasa biletowa, Punkt sprzedaży biletów - Wyrażenia rzeczownikowe. (Bilheteria. - Rzeczownik żeński)
+ - (Wy) czekaliście / czekałyście długo przy kasie biletowej na dworcu. Vocês esperaram muito tempo na bilheteria da estação.
+ - (Ja) często przechodzę obok punktu sprzedaży biletów po pracy. (Eu) geralmente passo ao lado da bilheteria depois do trabalho.
+ - (My) niedawno otworzyliśmy / otworzyłyśmy nową kasę biletową w teatrze. (Nós) recentemente abrimos uma nova bilheteria no teatro.
+ - (My) czasem spotykamy się przy punkcie sprzedaży biletów po południu. (Nós) às vezes nos encontramos na bilheteria durante a tarde.
+ - On / Ona stał / stała przy kasie biletowej przez całe popołudnie. Ele / Ela ficou na bilheteria durante toda a tarde.
 
 - [] Dzień 919 - 
 
