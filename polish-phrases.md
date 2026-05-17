@@ -5367,7 +5367,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) czasem spotykamy się przy punkcie sprzedaży biletów po południu. (Nós) às vezes nos encontramos na bilheteria durante a tarde.
  - On / Ona stał / stała przy kasie biletowej przez całe popołudnie. Ele / Ela ficou na bilheteria durante toda a tarde.
 
-- [] Dzień 919 - 
+- [x] Dzień 919 - Dwujęzyczny / Dwujęzyczna / Dwujęzyczne. (Bilíngue. - Przymiotniki)
+ - (Wy) będziecie dwujęzyczni po portugalsku i angielsku za kilka lat. Vocês serão bilíngues em português e inglês em alguns anos.
+ - (Ja) jestem dwujęzyczny / dwujęzyczna po polsku i portugalsku od dziecka. (Eu) sou bilíngue em polonês e português desde a infância.
+ - (Ty) jutro zaczniesz pracować jako dwujęzyczny / dwujęzyczna recepcjonista / recepcjonistka. Você amanhã começará a trabalhar como (um / uma) recepcionista bilíngue.
+ - (My) staliśmy / stałyśmy się dwujęzyczni dzięki życiu za granicą. (Nós) nos tornamos bilíngues graças à vida no exterior.
+ - Oni / One będą prowadzić dwujęzyczne lekcje po hiszpańsku i polsku. Eles / Elas vão conduzir aulas bilíngues em espanhol e polonês.
 
 - [] Dzień 920 - 
 
