@@ -5374,7 +5374,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) staliśmy / stałyśmy się dwujęzyczni dzięki życiu za granicą. (Nós) nos tornamos bilíngues graças à vida no exterior.
  - Oni / One będą prowadzić dwujęzyczne lekcje po hiszpańsku i polsku. Eles / Elas vão conduzir aulas bilíngues em espanhol e polonês.
 
-- [] Dzień 920 - 
+- [x] Dzień 920 - Miliarder, Miliarderka. (Bilionário / Bilionária. - Rzeczowniki)
+ - (Wy) zostaniecie miliarderami po sprzedaży waszej aplikacji mobilnej. Vocês se tornarão bilionários após vender seu aplicativo móvel.
+ - (Ty) widziałeś / widziałaś miliardera / miliarderkę wychodzącego z luksusowego hotelu. Você viu um / uma bilionário / bilionária saindo de um hotel de luxo.
+ - (Ty) jutro zostaniesz miliarderem / miliarderką dzięki inwestycjom. Você amanhã se tornará bilionário / bilionária graças aos investimentos.
+ - (My) poznaliśmy / poznałyśmy miliarderów / miliarderki inwestujących w sztuczną inteligencję. (Nós) conhecemos bilionários / bilionárias que investem em inteligência artificial.
+ - On / Ona został / została miliarderem / miliarderką przed czterdziestką. Ele / Ela se tornou bilionário / bilionária antes dos quarenta anos.
 
 - [] Dzień 921 - 
 
