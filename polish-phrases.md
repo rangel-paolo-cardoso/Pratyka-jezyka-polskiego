@@ -5381,7 +5381,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poznaliśmy / poznałyśmy miliarderów / miliarderki inwestujących w sztuczną inteligencję. (Nós) conhecemos bilionários / bilionárias que investem em inteligência artificial.
  - On / Ona został / została miliarderem / miliarderką przed czterdziestką. Ele / Ela se tornou bilionário / bilionária antes dos quarenta anos.
 
-- [] Dzień 921 - 
+- [x] Dzień 921 - Żółć. (Bílis. - Rzeczowniki żeńskie)
+ - (Wy) badaliście / badałyście żółć podczas zajęć medycznych na uczelni. Vocês analisaram a bílis durante as aulas de medicina na universidade.
+ - (Wy) jutro zobaczycie, jak żółć wpływa na trawienie tłuszczów. Vocês amanhã verão como a bílis influencia a digestão das gorduras.
+ - (Ja) czytałem / czytałam artykuł o żółci i problemach trawiennych. (Eu) li um artigo sobre a bílis e problemas digestivos.
+ - (Ty) wczoraj badałeś / badałaś żółć w nowoczesnym laboratorium. Você ontem analisou a bílis em um laboratório moderno.
+ - (My) rozmawialiśmy / rozmawiałyśmy o żółci po wykładzie profesora. (Nós) conversamos sobre a bílis após a palestra do professor.
 
 - [] Dzień 922 - 
 
