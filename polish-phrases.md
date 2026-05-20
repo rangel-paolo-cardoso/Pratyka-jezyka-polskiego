@@ -5388,7 +5388,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) wczoraj badałeś / badałaś żółć w nowoczesnym laboratorium. Você ontem analisou a bílis em um laboratório moderno.
  - (My) rozmawialiśmy / rozmawiałyśmy o żółci po wykładzie profesora. (Nós) conversamos sobre a bílis após a palestra do professor.
 
-- [] Dzień 922 - 
+- [x] Dzień 922 - Dwumiesięczny. (Bimestral. - Przymiotniki)
+ - (Wy) przygotowaliście / przygotowałyście dwumiesięczny raport finansowy. Vocês prepararam um relatório financeiro bimestral.
+ - (Wy) jutro dostaniecie nowy dwumiesięczny harmonogram pracy. Vocês amanhã receberão um novo cronograma bimestral de trabalho.
+ - (Ty) wczoraj podpisałeś / podpisałaś dwumiesięczny kontrakt z klientem. Você ontem assinou um contrato bimestral com o cliente.
+ - (Ty) jutro zaplanujesz dwumiesięczny wyjazd służbowy do Berlina. Você amanhã planejará uma viagem de negócios bimestral para Berlim.
+ - (My) często otrzymujemy dwumiesięczne podsumowania od kierownika / kierowniczki. (Nós) frequentemente recebemos resumos bimestrais do / da gerente.
 
 - [] Dzień 923 - 
 
