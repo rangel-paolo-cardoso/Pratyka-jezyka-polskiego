@@ -5395,7 +5395,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) jutro zaplanujesz dwumiesięczny wyjazd służbowy do Berlina. Você amanhã planejará uma viagem de negócios bimestral para Berlim.
  - (My) często otrzymujemy dwumiesięczne podsumowania od kierownika / kierowniczki. (Nós) frequentemente recebemos resumos bimestrais do / da gerente.
 
-- [] Dzień 923 - 
+- [x] Dzień 923 - Binarny. (Binário. - Przymiotniki)
+ - (Wy) analizowaliście / analizowałyście binarny kod podczas zajęć informatyki. Vocês analisaram código binário durante as aulas de informática.
+ - (Ja) wczoraj zapisałem / zapisałam binarny ciąg w swoim notatniku. (Eu) ontem anotei uma sequência binária no meu caderno.
+ - (Ty) jutro zrozumiesz binarny sposób działania tego programu. Você amanhã entenderá o modo binário de funcionamento desse programa.
+ - (My) codziennie sprawdzamy binarne dane zapisane na serwerze. (Nós) diariamente verificamos dados binários salvos no servidor.
+ - On / Ona opisywał / opisywała binarny system podczas wykładu. Ele / Ela descrevia o sistema binário durante a palestra.
 
 - [] Dzień 924 - 
 
