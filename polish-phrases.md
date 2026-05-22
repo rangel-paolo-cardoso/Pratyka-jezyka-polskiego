@@ -5402,7 +5402,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) codziennie sprawdzamy binarne dane zapisane na serwerze. (Nós) diariamente verificamos dados binários salvos no servidor.
  - On / Ona opisywał / opisywała binarny system podczas wykładu. Ele / Ela descrevia o sistema binário durante a palestra.
 
-- [] Dzień 924 - 
+- [x] Dzień 924 - Lornetka - Rzeczownik żeński, Binokl - Rzeczownik męski. (Binóculo. - Rzeczownik męski)
+ - (Wy) jutro zabierzecie nową lornetkę na obserwację ptaków nad jeziorem. Vocês amanhã levarão um binóculo novo para observar pássaros no lago.
+ - (Ty) widziałeś / widziałaś statek przez lornetkę z dalekiej plaży. Você viu um navio através do binóculo de uma praia distante.
+ - (Ty) jutro pożyczysz binokla od znajomego na mecz stadionowy. Você amanhã pegará um binóculo emprestado de um amigo para o jogo no estádio.
+ - (My) dziś czyściliśmy / czyściłyśmy binokla po powrocie z obserwacji ptaków. (Nós) hoje limpamos o binóculo após voltar da observação de pássaros.
+ - On / Ona często obserwował / obserwowała gwiazdy przez starą lornetkę. Ele / Ela muitas vezes observava estrelas através de um binóculo antigo.
 
 - [] Dzień 925 - 
 
