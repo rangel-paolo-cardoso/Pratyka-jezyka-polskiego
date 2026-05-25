@@ -5409,9 +5409,19 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) dziś czyściliśmy / czyściłyśmy binokla po powrocie z obserwacji ptaków. (Nós) hoje limpamos o binóculo após voltar da observação de pássaros.
  - On / Ona często obserwował / obserwowała gwiazdy przez starą lornetkę. Ele / Ela muitas vezes observava estrelas através de um binóculo antigo.
 
-- [] Dzień 925 - 
+- [x] Dzień 925 - Bikini - Rzeczownik nijaki. (Biquíni. - Rzeczownik męski)
+ - (Wy) kupiliście / kupiłyście nowe bikini przed wyjazdem nad morze. Vocês compraram um biquíni novo antes da viagem para o mar.
+ - (Ja) wczoraj znalazłem / znalazłam stare bikini w szafie na strychu. (Eu) ontem encontrei um biquíni antigo no armário do sótão. 
+ - (Ty) jutro kupisz bikini pasujące do nowych sandałów plażowych. Você amanhã comprará um biquíni combinando com as novas sandálias de praia.
+ - (My) dziś spakowaliśmy / spakowałyśmy bikini na weekend nad jeziorem. (Nós) hoje colocamos o biquíni na mala para o fim de semana no lago.
+ - On / Ona suszył / suszyła bikini na balkonie po powrocie z plaży. Ele / Ela secava o biquíni na varanda após voltar da praia.
 
-- [] Dzień 926 - 
+- [x] Dzień 926 - Pradziadek / Prababcia. (Bisavô / Bisavó. - Rzeczowniki)
+ - (Ja) słuchałem / słuchałam historii opowiadanych przez pradziadka / prababcię wieczorem. (Eu) ouvi histórias contadas pelo / pela bisavô / bisavó durante a noite.
+ - (Ja) często odwiedzam pradziadka / prababcię w spokojnej wiosce pod lasem. (Eu) quase sempre visito o / a bisavô / bisavó em uma vila tranquila perto da floresta.
+ - (Ty) widziałeś / widziałaś stare zdjęcia swojego / swojej pradziadka / prababci na strychu. Você viu fotos antigas do / da seu / sua bisavô / bisavó no sótão.
+ - (My) rozmawialiśmy / rozmawiałyśmy z pradziadkiem / prababcią o dawnych czasach. (Nós) conversamos com o / a bisavô / bisavó sobre os tempos antigos.
+ - Oni / One będą opiekować się pradziadkiem / prababcią przez cały przyszły miesiąc. Eles / Elas cuidarão do / da bisavô / bisavó durante todo o próximo mês.
 
 - [] Dzień 927 - 
 
