@@ -5423,7 +5423,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) rozmawialiśmy / rozmawiałyśmy z pradziadkiem / prababcią o dawnych czasach. (Nós) conversamos com o / a bisavô / bisavó sobre os tempos antigos.
  - Oni / One będą opiekować się pradziadkiem / prababcią przez cały przyszły miesiąc. Eles / Elas cuidarão do / da bisavô / bisavó durante todo o próximo mês.
 
-- [] Dzień 927 - 
+- [x] Dzień 927 - Podsłuchiwać, Węszyć. (Bisbilhotar. - Czasowniki)
+ - (Wy) podsłuchiwaliście / podsłuchiwałyście rozmowę sąsiadów przez ścianę. Vocês bisbilhotavam a conversa dos vizinhos através da parede.
+ - (Ja) czasem węszę w starych pudełkach na strychu mojej ciotki. (Eu) às vezes bisbilhoto caixas antigas no sótão da minha tia.
+ - (Ty) jutro będziesz węszyć w szufladach swojego starszego brata. Você amanhã vai bisbilhotar as gavetas do seu irmão mais velho.
+ - (My) dziś węszyliśmy / węszyłyśmy w papierach znalezionych na biurku. (Nós) hoje bisbilhotamos os papéis encontrados sobre a mesa.
+ - Oni / One będą węszyć w prywatnych wiadomościach przez cały wieczór. Eles / Elas vão bisbilhotar mensagens privadas durante toda a noite.
 
 - [] Dzień 928 - 
 
