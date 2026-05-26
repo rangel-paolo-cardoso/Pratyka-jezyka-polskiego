@@ -5430,7 +5430,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) dziś węszyliśmy / węszyłyśmy w papierach znalezionych na biurku. (Nós) hoje bisbilhotamos os papéis encontrados sobre a mesa.
  - Oni / One będą węszyć w prywatnych wiadomościach przez cały wieczór. Eles / Elas vão bisbilhotar mensagens privadas durante toda a noite.
 
-- [] Dzień 928 - 
+- [x] Dzień 928 - Ciastko - Rzeczownik nijaki, Herbatnik - Rzeczownik męski. (Biscoito. - Rzeczownik męski)
+ - (Wy) kupiliście / kupiłyście czekoladowe ciastko w małej piekarni. Vocês compraram um biscoito de chocolate em uma pequena padaria.
+ - (Ja) często jem herbatniki podczas oglądania wieczornych seriali. (Eu) frequentemente como biscoitos enquanto assisto séries à noite.
+ - (Ty) kupowałeś / kupowałaś maślane ciastka przed podróżą pociągiem. Você comprava biscoitos amanteigados antes da viagem de trem.
+ - (My) jedliśmy / jadłyśmy ciastka przy gorącej herbacie po pracy. (Nós) comíamos biscoitos com chá quente depois do trabalho.
+ - On / Ona piekł / piekła ciastka według przepisu swojej babci. Ele / Ela assava biscoitos seguindo a receita da avó.
 
 - [] Dzień 929 - 
 
