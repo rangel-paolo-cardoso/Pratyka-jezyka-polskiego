@@ -5437,7 +5437,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jedliśmy / jadłyśmy ciastka przy gorącej herbacie po pracy. (Nós) comíamos biscoitos com chá quente depois do trabalho.
  - On / Ona piekł / piekła ciastka według przepisu swojej babci. Ele / Ela assava biscoitos seguindo a receita da avó.
 
-- [] Dzień 929 - 
+- [x] Dzień 929 - Biskup. (Bispo. - Rzeczowniki męskie)
+ - (Wy) spotkaliście / spotkałyście biskupa po niedzielnej mszy w katedrze. Vocês encontraram o bispo após a missa de domingo na catedral.
+ - (Ty) widziałeś / widziałaś biskupa błogosławiącego wiernych przed świętem. Você viu o bispo abençoando os fiéis antes da celebração.
+ - (Wy) jutro będziecie słuchać przemówienia biskupa w centrum miasta. Vocês amanhã ouvirão o discurso do bispo no centro da cidade.
+ - (Ty) jutro przeczytasz wywiad z biskupem w lokalnej gazecie. Você amanhã lerá a entrevista com o bispo no jornal local.
+ - (My) słuchaliśmy / słuchałyśmy biskupa podczas ważnego spotkania religijnego. (Nós) ouvimos o bispo durante uma importante reunião religiosa.
 
 - [] Dzień 930 - 
 
