@@ -5444,7 +5444,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) jutro przeczytasz wywiad z biskupem w lokalnej gazecie. Você amanhã lerá a entrevista com o bispo no jornal local.
  - (My) słuchaliśmy / słuchałyśmy biskupa podczas ważnego spotkania religijnego. (Nós) ouvimos o bispo durante uma importante reunião religiosa.
 
-- [] Dzień 930 - 
+- [x] Dzień 930 - Dziwny / Dziwna / Dziwne, Osobliwy / Osobliwa / Osobliwe. (Bizarro / Bizarra. - Przymiotniki)
+ - (Wy) oglądaliście / oglądałyście dziwny film o znikających ludziach. Vocês assistiram a um filme bizarro sobre pessoas desaparecendo.
+ - (Ja) miałem / miałam dziwny sen o pustym mieście bez ludzi. (Eu) tive um sonho bizarro sobre uma cidade vazia sem pessoas.
+ - (Ty) widziałeś / widziałaś dziwny cień przy starym opuszczonym domu. Você viu uma sombra bizarra perto da velha casa abandonada.
+ - (Ty) jutro przeczytasz osobliwy artykuł o tajemniczych zjawiskach. Você amanhã lerá um artigo bizarro sobre fenômenos misteriosos.
+ - (My) dziś oglądamy osobliwy serial pełen absurdalnych wydarzeń. (Nós) hoje assistimos a uma série bizarra cheia de acontecimentos absurdos.
 
 - [] Dzień 931 - 
 
