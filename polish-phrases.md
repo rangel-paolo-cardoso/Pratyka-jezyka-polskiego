@@ -5451,7 +5451,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) jutro przeczytasz osobliwy artykuł o tajemniczych zjawiskach. Você amanhã lerá um artigo bizarro sobre fenômenos misteriosos.
  - (My) dziś oglądamy osobliwy serial pełen absurdalnych wydarzeń. (Nós) hoje assistimos a uma série bizarra cheia de acontecimentos absurdos.
 
-- [] Dzień 931 - 
+- [x] Dzień 931 - Blackout - Rzeczownik męski, Zaciemnienie - Rzeczownik nijaki. (Blecaute. - Rzeczownik męski)
+ - (Wy) przeżyliście / przeżyłyście blackout podczas silnej burzy wieczorem. Vocês passaram por um blecaute durante a forte tempestade à noite.
+ - (Ty) widziałeś / widziałaś blackout w centrum handlowym po południu. Você viu um blecaute no shopping durante a tarde.
+ - (Ja) pamiętam blackout, który zatrzymał wszystkie pociągi w mieście. (Eu) lembro do blecaute que parou todos os trens da cidade.
+ - (Ty) jutro usłyszysz wiadomości o zaciemnieniu całego regionu. Você amanhã ouvirá notícias sobre o blecaute de toda a região.
+ - (Wy) jutro doświadczycie zaciemnienia w całej dzielnicy po awarii. Vocês amanhã enfrentarão um blecaute em todo o bairro após a falha.
 
 - [] Dzień 932 - 
 
