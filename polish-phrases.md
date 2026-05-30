@@ -5458,7 +5458,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) jutro usłyszysz wiadomości o zaciemnieniu całego regionu. Você amanhã ouvirá notícias sobre o blecaute de toda a região.
  - (Wy) jutro doświadczycie zaciemnienia w całej dzielnicy po awarii. Vocês amanhã enfrentarão um blecaute em todo o bairro após a falha.
 
-- [] Dzień 932 - 
+- [x] Dzień 932 - Zablokować, Blokować. (Bloquear. - Czasowniki)
+ - (Wy) jutro zablokujecie nieznany numer w swoich telefonach. Vocês amanhã bloquearão um número desconhecido em seus telefones.
+ - (Ja) zablokowałem / zablokowałam konto po podejrzanej próbie logowania. (Eu) bloqueei a conta após uma tentativa suspeita de login.
+ - (Ja) często blokuję reklamy podczas przeglądania różnych stron internetowych. (Eu) geralmente bloqueio anúncios ao navegar por diferentes sites.
+ - (Ty) jutro zablokujesz użytkownika wysyłającego niechciane wiadomości. Você amanhã bloqueará um usuário que envia mensagens indesejadas.
+ - (My) dziś blokujemy fałszywe profile zgłaszane przez użytkowników. (Nós) hoje bloqueamos perfis falsos denunciados pelos usuários.
 
 - [] Dzień 933 - 
 
