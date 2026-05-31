@@ -5465,7 +5465,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) jutro zablokujesz użytkownika wysyłającego niechciane wiadomości. Você amanhã bloqueará um usuário que envia mensagens indesejadas.
  - (My) dziś blokujemy fałszywe profile zgłaszane przez użytkowników. (Nós) hoje bloqueamos perfis falsos denunciados pelos usuários.
 
-- [] Dzień 933 - 
+- [x] Dzień 933 - Powitanie, Przywitanie - Rzeczowniki nijakie. (Boas-vindas. - Rzeczownik żeński)
+ - (Ja) pamiętam powitanie, które otrzymałem / otrzymałam pierwszego dnia pracy. (Eu) lembro das boas-vindas que recebi no meu primeiro dia de trabalho.
+ - (Wy) jutro zorganizujecie przywitanie dla gości z zagranicy. Vocês amanhã organizarão as boas-vindas para convidados do exterior.
+ - (Ty) widziałeś / widziałaś powitanie zorganizowane na lotnisku dla sportowców. Você viu as boas-vindas organizadas no aeroporto para os atletas.
+ - (My) będziemy organizować przywitanie dla studentów z wymiany. (Nós) organizaremos as boas-vindas para estudantes de intercâmbio.
+ - Oni / One przygotują przywitanie dla uczestników jutrzejszej konferencji. Eles / Elas prepararão as boas-vindas para os participantes da conferência de amanhã.
 
 - [] Dzień 934 - 
 
