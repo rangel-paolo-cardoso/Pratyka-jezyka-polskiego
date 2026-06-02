@@ -5472,7 +5472,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy organizować przywitanie dla studentów z wymiany. (Nós) organizaremos as boas-vindas para estudantes de intercâmbio.
  - Oni / One przygotują przywitanie dla uczestników jutrzejszej konferencji. Eles / Elas prepararão as boas-vindas para os participantes da conferência de amanhã.
 
-- [] Dzień 934 - 
+- [x] Dzień 934 - Głupek / Głupia, Niemądry / Niemądra / Niemądre. (Bobo / Boba. - Rzeczowniki, Przymiotniki)
+ - On / Ona zachował / zachowała się jak głupek / głupia i zgubił / zgubiła klucze. Ele / Ela se comportou como um / uma bobo / boba e perdeu as chaves.
+ - (Wy) wyglądaliście / wyglądałyście na głupków / głupie, gdy uwierzyliście / uwierzyłyście w ten żart. Vocês pareceram bobos / bobas quando acreditaram naquela brincadeira.
+ - (Ja) byłem / byłam głupkiem / głupią, kiedy zignorowałem / zignorowałam ostrzeżenia. (Eu) fui um / uma bobo / boba quando ignorei os avisos.
+ - (Ty) wczoraj byłeś / byłaś głupkiem / głupią, bo zostawiłeś / zostawiłaś telefon w autobusie. Você ontem foi um / uma bobo / boba porque deixou o celular no ônibus.
+ - (My) czuliśmy / czułyśmy się jak głupki / głupie po tej zabawnej pomyłce. (Nós) nos sentimos como bobos / bobas depois daquele erro engraçado.
 
 - [] Dzień 935 - 
 
