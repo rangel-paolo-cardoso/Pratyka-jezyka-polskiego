@@ -5486,7 +5486,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) miałeś / miałaś pełne usta jedzenia i nie mogłeś / mogłaś mówić. Você tinha (estava com) a boca cheia de comida e não conseguia falar.
  - (Ty) jutro umyjesz buzię przed wyjściem na rodzinne spotkanie. Você amanhã lavará a boca/rosto antes de sair para um encontro de família.
 
-- [] Dzień 936 - 
+- [x] Dzień 936 - Ziew. (Bocejo. - Rzeczowniki męskie)
+ - (Wy) zauważyliście / zauważyłyście, że ziew szybko udzielił się całej grupie. Vocês perceberam que o bocejo rapidamente se espalhou por todo o grupo.
+ - (My) pamiętaliśmy / pamiętałyśmy ten zabawny ziew z wczorajszego filmu. (Nós) lembrávamos daquele bocejo engraçado do filme de ontem.
+ - (Ja) usłyszałem / usłyszałam ziew za sobą i od razu też ziewnąłem / ziewnęłam. (Eu) ouvi um bocejo atrás de mim e imediatamente também bocejei.
+ - Oni / One będą opisywali / opisywały ziew aktora po długiej próbie. Eles / Elas descreverão o bocejo do ator após um longo ensaio.
+ - (Ty) widziałeś / widziałaś ziew pasażera tuż przed odjazdem pociągu. Você viu o bocejo do / da passageiro / passageira pouco antes da partida do trem.
 
 - [] Dzień 937 - 
 
