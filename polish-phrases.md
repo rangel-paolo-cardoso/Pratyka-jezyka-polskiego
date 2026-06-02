@@ -5479,7 +5479,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) wczoraj byłeś / byłaś głupkiem / głupią, bo zostawiłeś / zostawiłaś telefon w autobusie. Você ontem foi um / uma bobo / boba porque deixou o celular no ônibus.
  - (My) czuliśmy / czułyśmy się jak głupki / głupie po tej zabawnej pomyłce. (Nós) nos sentimos como bobos / bobas depois daquele erro engraçado.
 
-- [] Dzień 935 - 
+- [x] Dzień 935 - Usta - Pluralia Tantum, Buzia. (Boca. - Rzeczowniki żeńskie)
+ - (Wy) jutro zamkniecie usta, gdy nauczyciel zacznie ważne przemówienie. Vocês amanhã fecharão a boca quando o professor começar um discurso importante.
+ - (Ja) skaleczyłem / skaleczyłam sobie usta podczas jedzenia chrupiącego pieczywa. (Eu) machuquei a boca ao comer um pão crocante.
+ - (Ja) często zakrywam buzię szalikiem podczas mroźnych poranków. (Eu) frequentemente cubro a boca com um cachecol durante manhãs geladas.
+ - (Ty) miałeś / miałaś pełne usta jedzenia i nie mogłeś / mogłaś mówić. Você tinha (estava com) a boca cheia de comida e não conseguia falar.
+ - (Ty) jutro umyjesz buzię przed wyjściem na rodzinne spotkanie. Você amanhã lavará a boca/rosto antes de sair para um encontro de família.
 
 - [] Dzień 936 - 
 
