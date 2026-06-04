@@ -5493,7 +5493,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One będą opisywali / opisywały ziew aktora po długiej próbie. Eles / Elas descreverão o bocejo do ator após um longo ensaio.
  - (Ty) widziałeś / widziałaś ziew pasażera tuż przed odjazdem pociągu. Você viu o bocejo do / da passageiro / passageira pouco antes da partida do trem.
 
-- [] Dzień 937 - 
+- [x] Dzień 937 - Policzek - Rzeczownik męski. (Bochecha. - Rzeczownik żeński)
+ - On / Ona miał / miała czerwony policzek po długim spacerze na mrozie. Ele / Ela estava com a bochecha vermelha após uma longa caminhada no frio.
+ - On / Ona delikatnie dotknął / dotknęła policzka, bo nadal trochę bolał. Ele / Ela tocou delicadamente a bochecha, pois ela ainda doía um pouco.
+ - (Wy) jutro pokażecie policzek lekarzowi, jeśli opuchlizna nie zniknie. Vocês amanhã mostrarão a bochecha ao médico, se o inchaço não desaparecer.
+ - (Wy) zauważyliście / zauważyłyście policzek ubrudzony lodami po festynie. Vocês notaram a bochecha suja de sorvete após a festa.
+ - Oni / One jutro posmarują policzek kremem po treningu na dworze. Eles / Elas amanhã passarão creme na bochecha após o treino ao ar livre.
 
 - [] Dzień 938 - 
 
