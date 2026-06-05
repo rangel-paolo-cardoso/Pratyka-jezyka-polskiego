@@ -5500,7 +5500,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) zauważyliście / zauważyłyście policzek ubrudzony lodami po festynie. Vocês notaram a bochecha suja de sorvete após a festa.
  - Oni / One jutro posmarują policzek kremem po treningu na dworze. Eles / Elas amanhã passarão creme na bochecha após o treino ao ar livre.
 
-- [] Dzień 938 - 
+- [x] Dzień 938 - Piłka. (Bola. - Rzeczowniki żeńskie)
+ - On / Ona kopnął / kopnęła piłkę tak mocno, że wpadła do sąsiedniego ogrodu. Ele / Ela chutou a bola tão forte que ela caiu no jardim do vizinho.
+ - (Wy) będziecie odbijali / odbijały piłkę na plaży przez całe popołudnie. Vocês ficarão rebatendo a bola na praia durante toda a tarde.
+ - (Ty) rzuciłeś / rzuciłaś piłkę psu, a on od razu po nią pobiegł. Você jogou a bola para o cachorro, e ele correu atrás dela imediatamente.
+ - (Ty) jutro schowasz piłkę do garażu przed nadchodzącym deszczem. Você guardará a bola na garagem amanhã antes da chuva que se aproxima.
+ - Oni / One jutro napompują piłkę przed ważnym turniejem szkolnym. Eles / Elas encherão a bola amanhã antes do importante torneio escolar.
 
 - [] Dzień 939 - 
 
