@@ -5507,7 +5507,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) jutro schowasz piłkę do garażu przed nadchodzącym deszczem. Você guardará a bola na garagem amanhã antes da chuva que se aproxima.
  - Oni / One jutro napompują piłkę przed ważnym turniejem szkolnym. Eles / Elas encherão a bola amanhã antes do importante torneio escolar.
 
-- [] Dzień 939 - 
+- [x] Dzień 939 - Bańka - Rzeczownik żeński, Pęcherz - Rzeczownik męski. (Bolha. - Rzeczownik żeński)
+ - On / Ona będzie obserwował / obserwowała bańkę unoszącą się nad wodą. Ele / Ela observará uma bolha flutuando sobre a água.
+ - (Wy) znaleźliście / znalazłyście pęcherz na stopie po całodniowej wędrówce. Vocês encontraram uma bolha no pé após uma caminhada de um dia inteiro.
+ - (Wy) jutro zrobicie ogromną bańkę mydlaną w ogrodzie za domem. Vocês farão uma enorme bolha de sabão amanhã no jardim atrás da casa.
+ - (Ty) przypadkiem przebiłeś / przebiłaś bańkę, zanim zrobiła zdjęcie. Você estourou a bolha por acidente antes de tirar a foto.
+ - Oni / One dmuchali / dmuchały bańki mydlane przez całe popołudnie w parku. Eles / Elas sopraram bolhas de sabão durante toda a tarde no parque.
 
 - [] Dzień 940 - 
 
