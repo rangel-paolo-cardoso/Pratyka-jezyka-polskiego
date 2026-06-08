@@ -5514,7 +5514,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) przypadkiem przebiłeś / przebiłaś bańkę, zanim zrobiła zdjęcie. Você estourou a bolha por acidente antes de tirar a foto.
  - Oni / One dmuchali / dmuchały bańki mydlane przez całe popołudnie w parku. Eles / Elas sopraram bolhas de sabão durante toda a tarde no parque.
 
-- [] Dzień 940 - 
+- [x] Dzień 940 - Kręgle - Pluralia Tantum, Bowling. (Boliche. - Rzeczowniki męskie)
+ - (Wy) jutro pójdziecie do kręgli i rozegracie kilka emocjonujących rund. Vocês amanhã irão ao boliche e jogarão várias rodadas emocionantes.
+ - (On / Ona) wczoraj wygrał / wygrała turniej w kręgle mimo silnej konkurencji. Ele / Ela ontem venceu o torneio de boliche apesar da forte concorrência.
+ - (Ty) regularnie odwiedzasz bowling po pracy, bo bardzo cię relaksuje. Você visita regularmente o boliche depois do trabalho porque isso te relaxa muito.
+ - (Ja) często wybieram bowling zamiast kina w wolne wieczory. (Eu) geralmente escolho o boliche em vez do cinema nas noites livres.
+ - (Ja) za miesiąc zorganizuję turniej w kręgle dla swoich znajomych. (Eu) daqui a um mês organizarei um torneio de boliche para meus conhecidos.
 
 - [] Dzień 941 - 
 
