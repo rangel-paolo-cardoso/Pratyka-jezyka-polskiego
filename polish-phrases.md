@@ -5521,7 +5521,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) często wybieram bowling zamiast kina w wolne wieczory. (Eu) geralmente escolho o boliche em vez do cinema nas noites livres.
  - (Ja) za miesiąc zorganizuję turniej w kręgle dla swoich znajomych. (Eu) daqui a um mês organizarei um torneio de boliche para meus conhecidos.
 
-- [] Dzień 941 - 
+- [x] Dzień 941 - Ciasto - Rzeczownik nijaki, Tort. (Bolo. - Rzeczowniki męskie)
+ - (Wy) jutro upieczecie ciasto na rodzinne spotkanie u dziadków. Vocês amanhã assarão um bolo para um encontro de família na casa dos avós.
+ - (On / Ona) wczoraj kupił / kupiła tort czekoladowy na urodziny przyjaciela / przyjaciółki. Ele / Ela ontem comprou um bolo de chocolate para o aniversário de um / uma amigo / amiga.
+ - (Ty) wczoraj udekorowałeś / udekorowałaś tort kremem i świeżymi owocami. Você ontem decorou o bolo com creme e frutas frescas.
+ - (On / Ona) jutro poda tort gościom po wspólnej kolacji. Ele / Ela amanhã servirá o bolo aos convidados após o jantar em grupo.
+ - (Ja) często piekę ciasto wieczorem, gdy mam więcej wolnego czasu. (Eu) muitas vezes asso bolo à noite quando tenho mais tempo livre.
 
 - [] Dzień 942 - 
 
