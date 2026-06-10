@@ -5528,7 +5528,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (On / Ona) jutro poda tort gościom po wspólnej kolacji. Ele / Ela amanhã servirá o bolo aos convidados após o jantar em grupo.
  - (Ja) często piekę ciasto wieczorem, gdy mam więcej wolnego czasu. (Eu) muitas vezes asso bolo à noite quando tenho mais tempo livre.
 
-- [] Dzień 942 - 
+- [x] Dzień 942 - Pleśń - Rzeczownik żeński, Nalot pleśni - Wyrażenie rzeczownikowe. (Bolor. - Rzeczownik męski)
+ - (Wy) jutro usuniecie pleśń ze ściany w piwnicy po dużych opadach. Vocês amanhã removerão o bolor da parede do porão após fortes chuvas.
+ - (My) niedawno usunęliśmy / usunęłyśmy nalot pleśni z sufitu łazienki. (Nós) recentemente removemos uma camada de bolor do teto do banheiro.
+ - (Wy) dziś odkryliście / odkryłyście pleśń pod starym dywanem. Vocês hoje descobriram bolor sob um tapete antigo.
+ - (Oni / One) od kilku dni mają objawy alergii, bo pleśń pojawiła się w ich mieszkaniu. Eles / Elas há alguns dias têm sintomas de alergia porque apareceu bolor no apartamento deles / delas.
+ - (On / Ona) uważa, że pleśń na ścianie bardzo oszpeciła wygląd całego pokoju. Ele / Ela acha que o bolor na parede deixou a aparência de todo o quarto muito feia.
 
 - [] Dzień 943 - 
 
