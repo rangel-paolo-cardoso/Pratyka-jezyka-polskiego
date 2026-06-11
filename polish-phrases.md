@@ -5535,7 +5535,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Oni / One) od kilku dni mają objawy alergii, bo pleśń pojawiła się w ich mieszkaniu. Eles / Elas há alguns dias têm sintomas de alergia porque apareceu bolor no apartamento deles / delas.
  - (On / Ona) uważa, że pleśń na ścianie bardzo oszpeciła wygląd całego pokoju. Ele / Ela acha que o bolor na parede deixou a aparência de todo o quarto muito feia.
 
-- [] Dzień 943 - 
+- [x] Dzień 943 - Torebka, Torba. (Bolsa. - Rzeczowniki żeńskie)
+ - (Ona) wczoraj zostawiła torbę w pociągu i długo jej szukała. Ela ontem deixou a bolsa no trem e passou muito tempo procurando por ela.
+ - (Ty) często nosisz w torebce dokumenty, klucze i małą butelkę wody. Você frequentemente carrega na bolsa documentos, chaves e uma pequena garrafa de água.
+ - (My) niedawno znaleźliśmy / znalazłyśmy starą torbę na strychu u dziadków. (Nós) recentemente encontramos uma bolsa antiga no sótão dos avós.
+ - (Ja) za kilka dni zabiorę tę torbę na krótki wyjazd służbowy. (Eu) daqui a alguns dias levarei essa bolsa para uma curta viagem de trabalho.
+ - (Wy) zawsze wybieracie torebki, które pasują do codziennych ubrań. Vocês sempre escolhem bolsas que combinam com as roupas do dia a dia.
 
 - [] Dzień 944 - 
 
