@@ -5542,7 +5542,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) za kilka dni zabiorę tę torbę na krótki wyjazd służbowy. (Eu) daqui a alguns dias levarei essa bolsa para uma curta viagem de trabalho.
  - (Wy) zawsze wybieracie torebki, które pasują do codziennych ubrań. Vocês sempre escolhem bolsas que combinam com as roupas do dia a dia.
 
-- [] Dzień 944 - 
+- [x] Dzień 944 - Kieszeń - Rzeczownik żeński. (Bolso. - Rzeczownik męski)
+ - (Ja) wczoraj znalazłem / znalazłam stary bilet w kieszeni swojej kurtki. (Eu) ontem encontrei um bilhete antigo no bolso do meu casaco.
+ - (Wy) jutro schowacie telefon do kieszeni przed wejściem na koncert. Vocês amanhã guardarão o telefone no bolso antes de entrar no concerto.
+ - (Ty) włożyłeś / włożyłaś monety do kieszeni i poszedłeś / poszłaś do sklepu. Você colocou moedas no bolso e foi à loja.
+ - (My) za tydzień wsuniemy mapę do kieszeni plecaka przed wyjazdem. (Nós) na próxima semana colocaremos o mapa no bolso da mochila antes da viagem.
+ - Oni / One znaleźli / znalazły drobne pieniądze w kieszeni starych spodni. Eles / Elas encontraram trocados no bolso de uma calça velha.
 
 - [] Dzień 945 - 
 
