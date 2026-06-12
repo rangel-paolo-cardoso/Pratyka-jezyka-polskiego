@@ -5549,7 +5549,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) za tydzień wsuniemy mapę do kieszeni plecaka przed wyjazdem. (Nós) na próxima semana colocaremos o mapa no bolso da mochila antes da viagem.
  - Oni / One znaleźli / znalazły drobne pieniądze w kieszeni starych spodni. Eles / Elas encontraram trocados no bolso de uma calça velha.
 
-- [] Dzień 945 - 
+- [x] Dzień 945 - Dobry / Dobra / Dobre, Porządny / Porządna / Porządne. (Bom / Boa. - Przymiotniki)
+ - On / Ona był / była dobry / dobra w negocjacjach i szybko rozwiązał / rozwiązała problem. Ele / Ela era bom / boa em negociações e resolveu o problema rapidamente.
+ - On / Ona będzie dobry / dobra w tej roli, bo ma już duże doświadczenie. Ele / Ela será bom / boa nesse papel, pois já tem muita experiência.
+ - (Wy) jesteście dobrzy / dobre w organizowaniu spotkań i wszyscy to doceniają. Vocês são bons / boas em organizar reuniões e todos reconhecem isso.
+ - (Wy) będziecie dobrzy / dobre w nowym projekcie po krótkim szkoleniu. Vocês serão bons / boas no novo projeto após um breve treinamento.
+ - (My) byliśmy / byłyśmy porządni / porządne wobec nowych pracowników od początku. (Nós) fomos bons / boas com os novos funcionários desde o início.
 
 - [] Dzień 946 - 
 
