@@ -5556,7 +5556,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) będziecie dobrzy / dobre w nowym projekcie po krótkim szkoleniu. Vocês serão bons / boas no novo projeto após um breve treinamento.
  - (My) byliśmy / byłyśmy porządni / porządne wobec nowych pracowników od początku. (Nós) fomos bons / boas com os novos funcionários desde o início.
 
-- [] Dzień 946 - 
+- [x] Dzień 946 - Bomba, Pompa. (Bomba. - Rzeczowniki żeńskie)
+- On / Ona wczoraj zauważył / zauważyła podejrzaną bombę przy opuszczonym budynku. Ele / Ela ontem percebeu uma bomba suspeita perto de um prédio abandonado.
+- On / Ona jutro sprawdzi pompę w ogrodzie przed podlewaniem roślin. Ele / Ela amanhã verificará a bomba de água no jardim antes de regar as plantas.
+- (Wy) będziecie obsługiwać pompę wodną podczas awarii sieci. Vocês irão operar a bomba de água durante a falha da rede.
+- (My) wczoraj usłyszeliśmy / usłyszałyśmy alarm po znalezieniu bomby w okolicy. (Nós) ontem ouvimos o alarme após encontrarem uma bomba na região.
+- Oni / One będą montowali / montowały nową pompę przy studni. Eles / Elas instalarão uma nova bomba junto ao poço.
 
 - [] Dzień 947 - 
 
