@@ -5563,7 +5563,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (My) wczoraj usłyszeliśmy / usłyszałyśmy alarm po znalezieniu bomby w okolicy. (Nós) ontem ouvimos o alarme após encontrarem uma bomba na região.
 - Oni / One będą montowali / montowały nową pompę przy studni. Eles / Elas instalarão uma nova bomba junto ao poço.
 
-- [] Dzień 947 - 
+- [x] Dzień 947 - Strażak / Strażaczka. (Bombeiro / Bombeira. Rzeczowniki)
+ - On / Ona był / była strażakiem / strażaczką i uratował / uratowała psa z pożaru. Ele / Ela era bombeiro / bombeira e salvou um cachorro de um incêndio.
+ - (Wy) jutro spotkacie strażaka / strażaczkę podczas pokazu ratowniczego. Vocês amanhã encontrarão um / uma bombeiro / bombeira durante uma demonstração de resgate.
+ - (Ty) chciałeś / chciałaś zostać strażakiem / strażaczką już jako dziecko. Você queria ser bombeiro / bombeira desde criança.
+ - (Ja) zostanę strażakiem / strażaczką, jeśli zdam wszystkie egzaminy. (Eu) me tornarei bombeiro / bombeira se passar em todos os exames.
+ - (My) podziękowaliśmy / podziękowałyśmy strażakowi / strażaczce za szybką pomoc podczas burzy. (Nós) agradecemos ao / à bombeiro / bombeira pela ajuda rápida durante a tempestade.
 
 - [] Dzień 948 - 
 
