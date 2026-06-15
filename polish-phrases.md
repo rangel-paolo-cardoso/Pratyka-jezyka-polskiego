@@ -5570,7 +5570,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) zostanę strażakiem / strażaczką, jeśli zdam wszystkie egzaminy. (Eu) me tornarei bombeiro / bombeira se passar em todos os exames.
  - (My) podziękowaliśmy / podziękowałyśmy strażakowi / strażaczce za szybką pomoc podczas burzy. (Nós) agradecemos ao / à bombeiro / bombeira pela ajuda rápida durante a tempestade.
 
-- [] Dzień 948 - 
+- [x] Dzień 948 - Pralinka, Czekoladka - Rzeczowniki żeńskie. (Bombom. - Rzeczownik męski)
+ - (Ja) jutro spróbuję nowej czekoladki z nadzieniem pistacjowym. (Eu) amanhã provarei um novo bombom com recheio de pistache.
+ - (Wy) będziecie wybierać czekoladki na prezent dla nauczyciela / nauczycielki. Vocês escolherão bombons como presente para o / a professor / professora.
+ - (Ty) schowałeś / schowałaś ostatnią pralinkę, żeby zjeść ją później. Você escondeu o último bombom para comê-lo mais tarde.
+ - On / Ona często wybiera pralinki z orzechami zamiast zwykłych słodyczy. Ele / Ela no geral escolhe bombons com nozes em vez de doces comuns.
+ - (My) jutro kupimy czekoladki do kawy dla wszystkich gości. (Nós) amanhã compraremos bombons para acompanhar o café de todos os convidados.
 
 - [] Dzień 949 - 
 
