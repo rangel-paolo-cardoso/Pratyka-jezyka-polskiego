@@ -5577,7 +5577,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona często wybiera pralinki z orzechami zamiast zwykłych słodyczy. Ele / Ela no geral escolhe bombons com nozes em vez de doces comuns.
  - (My) jutro kupimy czekoladki do kawy dla wszystkich gości. (Nós) amanhã compraremos bombons para acompanhar o café de todos os convidados.
 
-- [] Dzień 949 - 
+- [x] Dzień 949 - Dobroć, Życzliwość. (Bondade. - Rzeczowniki żeńskie)
+ - (On / Ona) wczoraj okazał / okazała wielką dobroć starszemu sąsiadowi. Ele / Ela ontem demonstrou grande bondade a um vizinho idoso.
+ - (Wy) jutro pokażecie dobroć, pomagając nowym uczniom w szkole. Vocês amanhã mostrarão bondade ajudando os novos alunos na escola.
+ - (Ty) często okazujesz życzliwość osobom, które mają trudny dzień. Você geralmente demonstra bondade a pessoas que estão tendo um dia difícil.
+ - (On / Ona) jest znany / znana z dobroci wobec zwierząt i ludzi. Ele / Ela é conhecido / conhecida pela bondade para com animais e pessoas.
+ - (Oni / One) jutro wynagrodzą dobroć, którą wcześniej otrzymali / otrzymały. Eles / Elas amanhã retribuirão a bondade que receberam anteriormente.
 
 - [] Dzień 950 - 
 
