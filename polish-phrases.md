@@ -5584,7 +5584,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (On / Ona) jest znany / znana z dobroci wobec zwierząt i ludzi. Ele / Ela é conhecido / conhecida pela bondade para com animais e pessoas.
  - (Oni / One) jutro wynagrodzą dobroć, którą wcześniej otrzymali / otrzymały. Eles / Elas amanhã retribuirão a bondade que receberam anteriormente.
 
-- [] Dzień 950 - 
+- [x] Dzień 950 - Czapka z daszkiem - Wyrażenie rzeczownikowe. (Boné. - Rzeczownik męski)
+ - (On / Ona) jutro kupi nową czapkę z daszkiem przed wakacyjnym wyjazdem. Ele / Ela amanhã comprará um boné novo antes da viagem de férias.
+ - (Wy) wczoraj zostawiliście / zostawiłyście czapkę z daszkiem na stadionie. Vocês ontem deixaram o boné no estádio.
+ - (Ty) za tydzień pożyczysz czapkę z daszkiem swojemu młodszemu kuzynowi. Você daqui a uma semana emprestará o boné ao seu primo mais novo.
+ - (Ty) dziś zakładasz czapkę z daszkiem, bo słońce mocno świeci. Você hoje está usando boné porque o sol está brilhando forte.
+ - (Ja) wczoraj wyczyściłem / wyczyściłam swoją czapkę z daszkiem po meczu. (Eu) ontem limpei meu boné depois da partida (do jogo).
 
 - [] Dzień 951 - 
 
