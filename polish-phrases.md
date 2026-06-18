@@ -5591,7 +5591,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) dziś zakładasz czapkę z daszkiem, bo słońce mocno świeci. Você hoje está usando boné porque o sol está brilhando forte.
  - (Ja) wczoraj wyczyściłem / wyczyściłam swoją czapkę z daszkiem po meczu. (Eu) ontem limpei meu boné depois da partida (do jogo).
 
-- [] Dzień 951 - 
+- [x] Dzień 951 - Lalka. (Boneca. - Rzeczowniki żeńskie)
+ - (Ona) wczoraj zgubiła swoją lalkę w parku podczas zabawy. Ela ontem perdeu sua boneca no parque durante a brincadeira.
+ - (Wy) jutro kupicie nową lalkę dla projektu szkolnego w klasie. Vocês amanhã comprarão uma boneca nova para o projeto escolar na turma.
+ - (Ja) często naprawiam lalkę, gdy moja siostrzenica ją uszkodzi. (Eu) frequentemente conserto a boneca quando minha sobrinha a danifica.
+ - (My) wczoraj bawiłyśmy się lalką na rodzinnej imprezie. (Nós) ontem brincamos com a boneca em uma festa de família.
+ - (Ty) jutro podarujesz lalkę swojej młodszej kuzynce na urodziny. Você amanhã dará uma boneca à sua prima mais nova no aniversário.
 
 - [] Dzień 952 - 
 
