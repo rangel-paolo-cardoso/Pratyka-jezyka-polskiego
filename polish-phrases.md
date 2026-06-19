@@ -5598,7 +5598,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj bawiłyśmy się lalką na rodzinnej imprezie. (Nós) ontem brincamos com a boneca em uma festa de família.
  - (Ty) jutro podarujesz lalkę swojej młodszej kuzynce na urodziny. Você amanhã dará uma boneca à sua prima mais nova no aniversário.
 
-- [] Dzień 952 - 
+- [] Dzień 952 - Piękny / Piękna / Piękne, Ładny / Ładna / Ładne. (Bonito / Bonita. - Przymiotniki)
+ - (On / Ona) jutro założy piękny strój na ważne spotkanie. Ele / Ela amanhã vestirá uma roupa bonita para uma reunião importante.
+ - (Wy) zawsze wybieracie ładne miejsca na wspólne wakacyjne zdjęcia. Vocês sempre escolhem lugares bonitos para fotos de férias em grupo.
+ - (Ty) niedługo kupisz piękny prezent dla bliskiej osoby. Você em breve comprará um presente bonito para uma pessoa querida.
+ - (Ty) dziś wyglądasz bardzo ładnie w nowym ubraniu. Você hoje está muito bonito / bonita com a roupa nova.
+ - (My) wczoraj odwiedziliśmy / odwiedziłyśmy piękne miasto pełne zabytków. (Nós) ontem visitamos uma cidade bonita cheia de monumentos históricos.
 
 - [] Dzień 953 - 
 
