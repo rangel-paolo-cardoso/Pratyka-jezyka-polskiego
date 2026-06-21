@@ -5605,7 +5605,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) dziś wyglądasz bardzo ładnie w nowym ubraniu. Você hoje está muito bonito / bonita com a roupa nova.
  - (My) wczoraj odwiedziliśmy / odwiedziłyśmy piękne miasto pełne zabytków. (Nós) ontem visitamos uma cidade bonita cheia de monumentos históricos.
 
-- [] Dzień 953 - 
+- [x] Dzień 953 - Motyl - Rzeczownik męski. (Borboleta. - Rzeczownik żeński)
+ - (Ty) wczoraj fotografowałeś / fotografowałaś motyla w ogrodzie pełnym kwiatów. Você ontem fotografou uma borboleta em um jardim cheio de flores.
+ - (Wy) jutro zauważycie motyla latającego nad łąką po deszczu. Vocês amanhã notarão uma borboleta voando sobre o campo após a chuva.
+ - (My) rano widzieliśmy / widziałyśmy motyla przy ścieżce w parku. (Nós) de manhã vimos uma borboleta perto da trilha no parque.
+ - On / Ona dziś narysował / narysowała motyla na kartce dla młodszego / młodszej brata / siostry. Ele / Ela hoje desenhou uma borboleta em uma folha para o / a irmão / irmã mais novo / nova.
+ - (Ja) jutro poszukam motyla w lesie podczas krótkiej wycieczki. (Eu) amanhã procurarei uma borboleta na floresta durante uma pequena excursão.
 
 - [] Dzień 954 - 
 
