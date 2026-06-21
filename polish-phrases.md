@@ -5612,7 +5612,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona dziś narysował / narysowała motyla na kartce dla młodszego / młodszej brata / siostry. Ele / Ela hoje desenhou uma borboleta em uma folha para o / a irmão / irmã mais novo / nova.
  - (Ja) jutro poszukam motyla w lesie podczas krótkiej wycieczki. (Eu) amanhã procurarei uma borboleta na floresta durante uma pequena excursão.
 
-- [] Dzień 954 - 
+- [x] Dzień 954 - Gumka, Guma. (Borracha. - Rzeczowniki żeńskie)
+ - (Wy) wczoraj pożyczyliście gumkę koledze przed trudnym sprawdzianem. Vocês ontem emprestaram uma borracha ao colega antes de uma prova difícil.
+ - (Ty) dziś używasz gumki do poprawiania błędów w zeszycie szkolnym. Você hoje usa uma borracha para corrigir erros no caderno escolar.
+ - (Ty) jutro znajdziesz gumkę w szufladzie obok swoich kredek. Você amanhã encontrará uma borracha na gaveta ao lado dos seus lápis de cor.
+ - On / Ona dziś nosi gumkę w plecaku razem z ołówkami i notesem. Ele / Ela hoje leva uma borracha na mochila junto com lápis e um bloco de notas.
+ - (Ja) jutro sprawdzę, czy ta guma nadal chroni przed wilgocią. (Eu) amanhã verificarei se essa borracha ainda protege contra a umidade.
 
 - [] Dzień 955 - 
 
