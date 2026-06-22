@@ -5619,7 +5619,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - On / Ona dziś nosi gumkę w plecaku razem z ołówkami i notesem. Ele / Ela hoje leva uma borracha na mochila junto com lápis e um bloco de notas.
  - (Ja) jutro sprawdzę, czy ta guma nadal chroni przed wilgocią. (Eu) amanhã verificarei se essa borracha ainda protege contra a umidade.
 
-- [] Dzień 955 - 
+- [x] Dzień 955 - Gówno - Rzeczownik nijaki, Kupa. (Bosta. - Rzeczowniki żeńskie)
+ - (Wy) wczoraj przypadkiem nadepnęliście na kupę podczas spaceru po parku. Vocês ontem pisaram sem querer em uma bosta durante um passeio no parque.
+ - (Ty) dziś narzekasz, bo ktoś zostawił kupę tuż przy wejściu do budynku. Você hoje reclama porque alguém deixou uma bosta bem na entrada do prédio.
+ - (My) rano sprzątaliśmy / sprzątałyśmy kupę pozostawioną na chodniku. (Nós) de manhã limpamos uma bosta deixada na calçada.
+ - (My) jutro usuniemy kupę z podwórka przed przyjazdem gości. (Nós) amanhã removeremos uma bosta do quintal antes da chegada dos convidados.
+ - On / Ona wczoraj nadepnął / nadepnęła na gówno i musiał / musiała czyścić buty. Ele / Ela ontem pisou em uma bosta e teve de limpar os sapatos.
 
 - [] Dzień 956 - 
 
