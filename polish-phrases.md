@@ -5626,7 +5626,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jutro usuniemy kupę z podwórka przed przyjazdem gości. (Nós) amanhã removeremos uma bosta do quintal antes da chegada dos convidados.
  - On / Ona wczoraj nadepnął / nadepnęła na gówno i musiał / musiała czyścić buty. Ele / Ela ontem pisou em uma bosta e teve de limpar os sapatos.
 
-- [] Dzień 956 - 
+- [x] Dzień 956 - Kozak - Rzeczownik męski. (Bota. - Rzeczownik żeński)
+ - (Ty) jutro założysz kozaki, bo ma padać śnieg. Você amanhã calçará botas porque vai nevar.
+ - On / Ona wczoraj kupił / kupiła nowe kozaki na zimę. Ele / Ela ontem comprou botas novas para o inverno.
+ - (Wy) dziś czyścicie kozaki po spacerze w błotnistym lesie. Vocês hoje limpam as botas após uma caminhada em uma floresta lamacenta.
+ - (Ja) kiedyś zgubiłem / zgubiłam jednego kozaka podczas wycieczki. (Eu) certa vez perdi uma bota durante uma excursão.
+ - (My) jutro zabierzemy kozaki na górską wyprawę. (Nós) amanhã levaremos as botas para uma expedição nas montanhas.
 
 - [] Dzień 957 - 
 
