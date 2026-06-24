@@ -5633,7 +5633,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) kiedyś zgubiłem / zgubiłam jednego kozaka podczas wycieczki. (Eu) certa vez perdi uma bota durante uma excursão.
  - (My) jutro zabierzemy kozaki na górską wyprawę. (Nós) amanhã levaremos as botas para uma expedição nas montanhas.
 
-- [] Dzień 957 - 
+- [x] Dzień 957 - Przycisk, Guzik. (Botão. - Rzeczowniki męskie)
+ - (Ja) wczoraj nacisnąłem / nacisnęłam niewłaściwy przycisk i skasowałem / skasowałam plik. (Eu) ontem pressionei o botão errado e apaguei um arquivo.
+ - On / Ona zawsze zapinał / zapinała ostatni guzik dopiero przed wyjściem z domu. Ele / Ela sempre abotoava o último botão apenas antes de sair de casa.
+ - (Ty) zgubiłeś / zgubiłaś guzik od płaszcza, więc trzeba go będzie przyszyć. Você perdeu o botão do casaco, então será preciso costurá-lo.
+ - (My) kupiliśmy / kupiłyśmy nowy przycisk do dzwonka, bo stary przestał działać. (Nós) compramos um novo botão para a campainha, porque o antigo parou de funcionar.
+ - Oni / One przypadkowo nacisnęli / nacisnęły alarmowy przycisk podczas szkolenia. Eles / Elas pressionaram acidentalmente o botão de emergência durante o treinamento.
 
 - [] Dzień 958 - 
 
