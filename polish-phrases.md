@@ -5640,7 +5640,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupiliśmy / kupiłyśmy nowy przycisk do dzwonka, bo stary przestał działać. (Nós) compramos um novo botão para a campainha, porque o antigo parou de funcionar.
  - Oni / One przypadkowo nacisnęli / nacisnęły alarmowy przycisk podczas szkolenia. Eles / Elas pressionaram acidentalmente o botão de emergência durante o treinamento.
 
-- [] Dzień 958 - 
+- [] Dzień 958 - Boks. (Boxe. - Rzeczowniki męskie)
+ - (Ja) trenowałem / trenowałam boks przez rok i wiele się wtedy nauczyłem / nauczyłam. (Eu) pratiquei boxe por um ano e aprendi muito nesse período.
+ - (Wy) jutro zaczniecie regularnie trenować boks w nowym klubie sportowym. Vocês amanhã começarão a treinar boxe regularmente em um novo clube esportivo.
+ - On / Ona oglądał / oglądała wczoraj emocjonującą galę boksu do późnej nocy. Ele / Ela assistiu ontem a uma emocionante noite de boxe até tarde da noite.
+ - (Ty) interesowałeś / interesowałaś się boksem już jako bardzo młody / młoda chłopak / dziewczyna. Você se interessava por boxe desde que era um / uma menino / menina muito jovem.
+ - (My) dzięki boksowi poprawiliśmy / poprawiłyśmy kondycję i pewność siebie. (Nós) graças ao boxe melhoramos o condicionamento físico e a autoconfiança.
 
 - [] Dzień 959 - 
 
