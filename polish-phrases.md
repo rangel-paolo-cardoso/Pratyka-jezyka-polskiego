@@ -5654,7 +5654,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
 - (Ty) nosiłeś / nosiłaś skórzaną bransoletę niemal każdego dnia w zeszłym roku. Você usava um bracelete de couro quase todos os dias no ano passado.
 - (My) podarowaliśmy / podarowałyśmy mu / jej elegancką bransoletę na urodziny. (Nós) demos a ele / ela um elegante bracelete de presente de aniversário.
 
-- [] Dzień 960 - 
+- [x] Dzień 960 - Ramię - Rzeczownik nijaki. (Braço. - Rzeczownik męski)
+ - (Ja) złamałem / złamałam ramię podczas jazdy na rowerze w zeszłym roku. (Eu) quebrei o braço enquanto andava de bicicleta no ano passado.
+ - (Wy) jutro podniesiecie ręce, ale tylko jedno ramię pozostanie wyprostowane. Vocês amanhã levantarão os braços, mas apenas um braço ficará esticado.
+ - On / Ona ma dziś zabandażowane ramię po niewielkim wypadku na treningu. Ele / Ela está hoje com o braço enfaixado após um pequeno acidente no treino.
+ - (Ty) zawsze opierałeś / opierałaś torbę na lewym ramieniu podczas spacerów. Você sempre apoiava a bolsa no braço esquerdo durante os passeios.
+ - (My) jutro rozciągniemy ramiona przed każdym ćwiczeniem. (Nós) amanhã alongaremos os braços antes de cada exercício.
 
 - [] Dzień 961 - 
 
