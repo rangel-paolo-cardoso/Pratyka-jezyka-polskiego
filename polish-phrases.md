@@ -5598,7 +5598,7 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) wczoraj bawiłyśmy się lalką na rodzinnej imprezie. (Nós) ontem brincamos com a boneca em uma festa de família.
  - (Ty) jutro podarujesz lalkę swojej młodszej kuzynce na urodziny. Você amanhã dará uma boneca à sua prima mais nova no aniversário.
 
-- [] Dzień 952 - Piękny / Piękna / Piękne, Ładny / Ładna / Ładne. (Bonito / Bonita. - Przymiotniki)
+- [x] Dzień 952 - Piękny / Piękna / Piękne, Ładny / Ładna / Ładne. (Bonito / Bonita. - Przymiotniki)
  - (On / Ona) jutro założy piękny strój na ważne spotkanie. Ele / Ela amanhã vestirá uma roupa bonita para uma reunião importante.
  - (Wy) zawsze wybieracie ładne miejsca na wspólne wakacyjne zdjęcia. Vocês sempre escolhem lugares bonitos para fotos de férias em grupo.
  - (Ty) niedługo kupisz piękny prezent dla bliskiej osoby. Você em breve comprará um presente bonito para uma pessoa querida.
@@ -5640,14 +5640,19 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupiliśmy / kupiłyśmy nowy przycisk do dzwonka, bo stary przestał działać. (Nós) compramos um novo botão para a campainha, porque o antigo parou de funcionar.
  - Oni / One przypadkowo nacisnęli / nacisnęły alarmowy przycisk podczas szkolenia. Eles / Elas pressionaram acidentalmente o botão de emergência durante o treinamento.
 
-- [] Dzień 958 - Boks. (Boxe. - Rzeczowniki męskie)
+- [x] Dzień 958 - Boks. (Boxe. - Rzeczowniki męskie)
  - (Ja) trenowałem / trenowałam boks przez rok i wiele się wtedy nauczyłem / nauczyłam. (Eu) pratiquei boxe por um ano e aprendi muito nesse período.
  - (Wy) jutro zaczniecie regularnie trenować boks w nowym klubie sportowym. Vocês amanhã começarão a treinar boxe regularmente em um novo clube esportivo.
  - On / Ona oglądał / oglądała wczoraj emocjonującą galę boksu do późnej nocy. Ele / Ela assistiu ontem a uma emocionante noite de boxe até tarde da noite.
  - (Ty) interesowałeś / interesowałaś się boksem już jako bardzo młody / młoda chłopak / dziewczyna. Você se interessava por boxe desde que era um / uma menino / menina muito jovem.
  - (My) dzięki boksowi poprawiliśmy / poprawiłyśmy kondycję i pewność siebie. (Nós) graças ao boxe melhoramos o condicionamento físico e a autoconfiança.
 
-- [] Dzień 959 - 
+- [x] Dzień 959 - Bransoleta - Rzeczownik żeński. (Bracelete. - Rzeczownik męski)
+- (Ja) kupiłem / kupiłam wczoraj srebrną bransoletę na pamiątkę podróży. (Eu) comprei ontem um bracelete de prata como lembrança da viagem.
+- (Wy) jutro założycie ozdobną bransoletę na ważną uroczystość rodzinną. Vocês amanhã usarão um bracelete decorativo em uma importante cerimônia de família.
+- On / Ona zgubił / zgubiła złotą bransoletę podczas spaceru po parku. Ele / Ela perdeu um bracelete de ouro durante um passeio no parque.
+- (Ty) nosiłeś / nosiłaś skórzaną bransoletę niemal każdego dnia w zeszłym roku. Você usava um bracelete de couro quase todos os dias no ano passado.
+- (My) podarowaliśmy / podarowałyśmy mu / jej elegancką bransoletę na urodziny. (Nós) demos a ele / ela um elegante bracelete de presente de aniversário.
 
 - [] Dzień 960 - 
 
