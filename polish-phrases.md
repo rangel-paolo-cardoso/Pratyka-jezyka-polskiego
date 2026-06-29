@@ -5661,7 +5661,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze opierałeś / opierałaś torbę na lewym ramieniu podczas spacerów. Você sempre apoiava a bolsa no braço esquerdo durante os passeios.
  - (My) jutro rozciągniemy ramiona przed każdym ćwiczeniem. (Nós) amanhã alongaremos os braços antes de cada exercício.
 
-- [] Dzień 961 - 
+- [x] Dzień 961 - Biały / Biała. (Branco / Branca. - Rzeczowniki, Przymiotniki)
+ - (Ja) kupiłem / kupiłam wczoraj biały kubek do nowej kuchni. (Eu) comprei ontem uma caneca branca para a cozinha nova.
+ - (Wy) jutro pomalujecie ścianę na biało, aby pokój wyglądał jaśniej. Vocês amanhã pintarão a parede de branco para que o quarto pareça mais claro.
+ - Ona zawsze wybierała białą sukienkę na ważne okazje. Ela sempre escolhia um vestido branco para ocasiões importantes.
+ - (Ty) będziesz nosił / nosiła białą koszulę przez całe jutrzejsze spotkanie. Você usará uma camisa branca durante toda a reunião de amanhã.
+ - (My) widzieliśmy / widziałyśmy białego kota, który spał spokojnie na ławce. (Nós) vimos um gato branco que dormia tranquilamente sobre um banco.
 
 - [] Dzień 962 - 
 
