@@ -5675,7 +5675,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Iberostar to pięciogwiazdkowy hotel z resortem w stanie Bahia, w północno-wschodniej Brazylii. Iberostar é um hotel com resort 5 estrelas no estado da Bahia, no nordeste do Brasil.
  - Ilha Bela to wyspa turystyczna położona niedaleko wybrzeża stanu São Paulo w Brazylii. Ilha Bela é uma ilha turística localizada próxima ao litoral do estado de São Paulo, no Brasil.
 
-- [] Dzień 963 - 
+- [x] Dzień 963 - Kłótnia, Bójka. (Briga. - Rzeczowniki żeńskie)
+ - (Ja) uniknąłem / uniknęłam kłótni, bo nie chciałem / chciałam problemów. (Eu) evitei a briga porque não queria problemas.
+ - On / Ona wczoraj rozpoczął / rozpoczęła niepotrzebną kłótnię z sąsiadem / sąsiadką. Ele / Ela ontem começou uma briga desnecessária com o / a vizinho / vizinha.
+ - (Wy) będziecie świadkami bójki, jeśli nikt ich nie zatrzyma. Vocês serão testemunhas de uma briga, se ninguém os / as impedir (eles / elas).
+ - (My) po tej kłótni szybko się pogodzimy i zapomnimy o wszystkim. (Nós) depois dessa briga faremos as pazes rapidamente e esqueceremos tudo.
+ - Oni / One po bójce wrócili / wróciły do domu całkiem zmęczeni / zmęczone. Eles / Elas voltaram para casa completamente cansados / cansadas depois da briga.
 
 - [] Dzień 964 - 
 
