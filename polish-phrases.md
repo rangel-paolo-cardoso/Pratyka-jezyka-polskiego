@@ -5668,7 +5668,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) będziesz nosił / nosiła białą koszulę przez całe jutrzejsze spotkanie. Você usará uma camisa branca durante toda a reunião de amanhã.
  - (My) widzieliśmy / widziałyśmy białego kota, który spał spokojnie na ławce. (Nós) vimos um gato branco que dormia tranquilamente sobre um banco.
 
-- [] Dzień 962 - 
+- [x] Dzień 962 - Brazylia - Rzeczownik żeński. (Brasil. - Rzeczownik męski)
+ - Obecnie Brazylia jest największym mistrzem świata w piłce nożnej. Atualmente, o Brasil é o maior campeão mundial de futebol.
+ - Brazylia ma 26 (dwadzieścia sześć) stanów i 1 (jeden) Dystrykt Federalny. O Brasil tem 26 (vinte e seis) estados e 1 (um) Distrito Federal.
+ - Lençóis Maranhenses to bardzo piękne miejsce na północy Brazylii. Lençóis Maranhenses é um local muito lindo no norte do Brasil.
+ - Iberostar to pięciogwiazdkowy hotel z resortem w stanie Bahia, w północno-wschodniej Brazylii. Iberostar é um hotel com resort 5 estrelas no estado da Bahia, no nordeste do Brasil.
+ - Ilha Bela to wyspa turystyczna położona niedaleko wybrzeża stanu São Paulo w Brazylii. Ilha Bela é uma ilha turística localizada próxima ao litoral do estado de São Paulo, no Brasil.
 
 - [] Dzień 963 - 
 
