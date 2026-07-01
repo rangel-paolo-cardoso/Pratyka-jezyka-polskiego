@@ -5682,7 +5682,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) po tej kłótni szybko się pogodzimy i zapomnimy o wszystkim. (Nós) depois dessa briga faremos as pazes rapidamente e esqueceremos tudo.
  - Oni / One po bójce wrócili / wróciły do domu całkiem zmęczeni / zmęczone. Eles / Elas voltaram para casa completamente cansados / cansadas depois da briga.
 
-- [] Dzień 964 - 
+- [x] Dzień 964 - Błyszczący / Błyszcząca / Błyszczące, Lśniący / Lśniąca / Lśniące, Błyskotliwy / Błyskotliwa / Błyskotliwe. (Brilhante. - Przymiotniki)
+ - On / Ona jest błyskotliwy / błyskotliwa i zawsze znajduje świetne rozwiązania. Ele / Ela é brilhante e sempre encontra ótimas soluções.
+ - (Ja) kupiłem / kupiłam lśniący zegarek, który przyciąga uwagę wszystkich. (Eu) comprei um relógio brilhante que chama a atenção de todos / todas.
+ - Oni / One znaleźli / znalazły błyszczący diament podczas wykopalisk. Eles / Elas encontraram um diamante brilhante durante a escavação.
+ - (My) zobaczyliśmy / zobaczyłyśmy błyszczący przedmiot na horyzoncie i okazał się sygnałem alarmowym. (Nós) vimos uma coisa brilhante no horizonte, e acabou que era um sinal de emergência.
+ - Wczoraj w nocy błyszczący obiekt przeleciał po niebie. Um objeto brilhante passou voando pelo céu ontem à noite.
 
 - [] Dzień 965 - 
 
