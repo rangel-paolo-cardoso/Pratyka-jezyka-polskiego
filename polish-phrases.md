@@ -5689,7 +5689,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zobaczyliśmy / zobaczyłyśmy błyszczący przedmiot na horyzoncie i okazał się sygnałem alarmowym. (Nós) vimos uma coisa brilhante no horizonte, e acabou que era um sinal de emergência.
  - Wczoraj w nocy błyszczący obiekt przeleciał po niebie. Um objeto brilhante passou voando pelo céu ontem à noite.
 
-- [] Dzień 965 - 
+- [x] Dzień 965 - Błyszczeć, Lśnić, Świecić. (Brilhar. - Czasowniki)
+ - On / Ona znowu zaczął / zaczęła błyszczeć na scenie podczas tego występu. Ele / Ela começou a brilhar de novo no palco durante esta apresentação.
+ - Gwiazda dzisiaj wyjątkowo mocno świeciła na czystym niebie. A estrela brilhou excepcionalmente forte hoje no céu limpo.
+ - (Wy) widzieliście / widziałyście, jak ta perła zaczęła lśnić w nocy? Vocês viram como esta pérola começou a brilhar à noite?
+ - (Ja) bardzo chcę błyszczeć na tym ważnym spotkaniu biznesowym. (Eu) quero muito brilhar naquela reunião de negócios importante.
+ - Ten stary pierścionek będzie pięknie błyszczeć w słońcu. Este anel antigo vai brilhar lindamente no sol.
 
 - [] Dzień 966 - 
 
