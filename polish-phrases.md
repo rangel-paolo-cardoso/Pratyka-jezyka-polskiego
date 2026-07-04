@@ -5696,7 +5696,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ja) bardzo chcę błyszczeć na tym ważnym spotkaniu biznesowym. (Eu) quero muito brilhar naquela reunião de negócios importante.
  - Ten stary pierścionek będzie pięknie błyszczeć w słońcu. Este anel antigo vai brilhar lindamente no sol.
 
-- [] Dzień 966 - 
+- [x] Dzień 966 - Blask, Połysk - Rzeczowniki męskie, Lśnienie - Rzeczownik nijaki. (Brilho. - Rzeczownik męski)
+  - On / Ona zauważył / zauważyła blask w jej / jego oczach od razu. Ele / Ela percebeu o brilho nos olhos dela / dele imediatamente.
+  - (Wy) już widzieliście / widziałyście blask tego jeziora o zachodzie słońca? (Vocês) já viram o brilho daquele lago ao pôr do sol?
+  - (My) zachowaliśmy / zachowałyśmy blask starego srebra mimo wielu lat. (Nós) preservamos o brilho da prata antiga apesar de muitos anos.
+  - (Ty) odzyskasz blask swoich włosów po kilku zabiegach. Você recuperará o brilho do seu cabelo após alguns tratamentos.
+  - Oni / One podziwiają połysk nowego auta każdego ranka. Eles / Elas admiram o brilho do carro novo todas as manhãs.
 
 - [] Dzień 967 - 
 
