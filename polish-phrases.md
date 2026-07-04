@@ -5703,7 +5703,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
   - (Ty) odzyskasz blask swoich włosów po kilku zabiegach. Você recuperará o brilho do seu cabelo após alguns tratamentos.
   - Oni / One podziwiają połysk nowego auta każdego ranka. Eles / Elas admiram o brilho do carro novo todas as manhãs.
 
-- [] Dzień 967 - 
+- [x] Dzień 967 - Zabawa - Rzeczownik żeński, Żart - Rzeczownik męski. (Brincadeira. - Rzeczownik żeński)
+ - On / Ona uznał / uznała, że to była tylko zabawa między przyjaciółmi / przyjaciółkami. Ele / Ela achou que aquilo era apenas uma brincadeira entre amigos / amigas.
+ - (My) długo wspominaliśmy / wspominałyśmy tę zabawę z dzieciństwa. (Nós) lembramos por muito tempo daquela brincadeira da infância.
+ - (Ty) wiesz, że ten żart nikogo dziś nie rozśmieszy. Você sabe que essa brincadeira não fará ninguém rir hoje.
+ - Oni / One przygotowali / przygotowały zabawę dla całej rodziny na weekend. Eles / Elas prepararam uma brincadeira para toda a família no fim de semana.
+ - To był tylko żart, nie martw się. Isso foi apenas uma brincadeira, não se preocupe.
 
 - [] Dzień 968 - 
 
