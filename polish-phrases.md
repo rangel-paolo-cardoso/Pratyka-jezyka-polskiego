@@ -5710,7 +5710,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - Oni / One przygotowali / przygotowały zabawę dla całej rodziny na weekend. Eles / Elas prepararam uma brincadeira para toda a família no fim de semana.
  - To był tylko żart, nie martw się. Isso foi apenas uma brincadeira, não se preocupe.
 
-- [] Dzień 968 - 
+- [x] Dzień 968 - Bawić się, Żartować. (Brincar. - Czasowniki)
+ - On / Ona bawił / bawiła się z psem przez całe popołudnie. Ele / Ela brincou com o cachorro durante toda a tarde.
+ - (Wy) już dość się bawiliście / bawiłyście, teraz czas iść do domu. (Vocês) já brincaram muito, agora é hora de ir para casa.
+ - (My) często bawiliśmy / bawiłyśmy się na tym placu po szkole. (Nós) brincávamos com frequência naquela praça depois da escola.
+ - (Ty) nie żartujesz z takich spraw, prawda? Você não brinca com esse tipo de assunto, certo?
+ - Oni / One będą bawili / bawiły się w ogrodzie do wieczora. Eles / Elas vão brincar no jardim até o anoitecer.
 
 - [] Dzień 969 - 
 
