@@ -5717,7 +5717,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) nie żartujesz z takich spraw, prawda? Você não brinca com esse tipo de assunto, certo?
  - Oni / One będą bawili / bawiły się w ogrodzie do wieczora. Eles / Elas vão brincar no jardim até o anoitecer.
 
-- [] Dzień 969 - 
+- [x] Dzień 969 - Kolczyk. (Brinco. - Rzeczowniki męskie)
+ - On / Ona znalazł / znalazła kolczyk pod łóżkiem dopiero rano. Ele / Ela encontrou um brinco debaixo da cama apenas pela manhã.
+ - (Wy) kupicie nowy kolczyk przed urodzinową imprezą siostry. (Vocês) comprarão um brinco novo antes da festa de aniversário da irmã.
+ - (My) wybraliśmy / wybrałyśmy drogi kolczyk na prezent dla mamy. (Nós) escolhemos um brinco caro como presente para a mãe.
+ - (Ty) nosisz ten sam kolczyk prawie każdego dnia. Você usa esse mesmo brinco quase todos os dias.
+ - Oni / One podziwiali / podziwiały jej kolczyk przez całą kolację. Eles / Elas admiraram o brinco dela durante todo o jantar.
 
 - [] Dzień 970 - 
 
