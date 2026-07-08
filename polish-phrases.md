@@ -5724,7 +5724,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) nosisz ten sam kolczyk prawie każdego dnia. Você usa esse mesmo brinco quase todos os dias.
  - Oni / One podziwiali / podziwiały jej kolczyk przez całą kolację. Eles / Elas admiraram o brinco dela durante todo o jantar.
 
-- [] Dzień 970 - 
+- [x] Dzień 970 - Wznieść / Wznosić toast. (Brindar. - Czasowniki)
+ - On / Ona wzniósł / wzniosła toast za zdrowie całej rodziny. Ele / Ela brindou à saúde de toda a família.
+ - (Wy) będziecie wznosili / wznosiły toast za nowy początek po kolacji. Vocês brindarão por um novo começo depois do jantar.
+ - (My) wznieśliśmy / wzniosłyśmy toast za wspólny sukces i przyszłość. (Nós) brindamos pelo sucesso em comum e pelo futuro.
+ - (Ty) zawsze wznosisz toast za przyjaciół / przyjaciółki przy każdej okazji. Você sempre brinda pelos / pelas amigos / amigas em toda ocasião.
+ - Oni / One wzniosą toast za was przed rozpoczęciem koncertu. Eles / Elas brindarão por vocês antes do início do concerto.
 
 - [] Dzień 971 - 
 
