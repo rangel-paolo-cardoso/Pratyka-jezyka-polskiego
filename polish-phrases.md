@@ -5731,7 +5731,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze wznosisz toast za przyjaciół / przyjaciółki przy każdej okazji. Você sempre brinda pelos / pelas amigos / amigas em toda ocasião.
  - Oni / One wzniosą toast za was przed rozpoczęciem koncertu. Eles / Elas brindarão por vocês antes do início do concerto.
 
-- [] Dzień 971 - 
+- [x] Dzień 971 - Zabawka - Rzeczownik żeński. (Brinquedo. - Rzeczownik męski)
+ - On / Ona kupił / kupiła nową zabawkę dla swojego / swojej siostrzeńca / siostrzenicy. Ele / Ela comprou um brinquedo novo para seu / sua sobrinho / sobrinha.
+ - (Wy) znajdziecie tę zabawkę w szafie po powrocie do domu. Vocês encontrarão esse brinquedo no armário quando voltarem para casa.
+ - (My) schowaliśmy / schowałyśmy tę zabawkę przed wizytą gości. (Nós) escondemos esse brinquedo antes da visita dos convidados.
+ - (Ty) zawsze naprawiasz zepsutą zabawkę bardzo cierpliwie. Você sempre conserta um brinquedo quebrado muito pacientemente.
+ - Oni / One oddali / oddały starą zabawkę potrzebującym dzieciom. Eles / Elas deram um brinquedo velho para crianças necessitadas.
 
 - [] Dzień 972 - 
 
