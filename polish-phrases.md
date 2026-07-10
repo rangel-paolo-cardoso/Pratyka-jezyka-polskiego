@@ -5738,7 +5738,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze naprawiasz zepsutą zabawkę bardzo cierpliwie. Você sempre conserta um brinquedo quebrado muito pacientemente.
  - Oni / One oddali / oddały starą zabawkę potrzebującym dzieciom. Eles / Elas deram um brinquedo velho para crianças necessitadas.
 
-- [] Dzień 972 - 
+- [x] Dzień 972 - Czarodziej - Rzeczownik męski, Czarownica - Rzeczownik żeński. (Bruxo / Bruxa. - Rzeczoniki)
+ - On / Ona został / została słynnym / słynną czarodziejem / czarownicą po wielu latach nauki. Ele / Ela se tornou um / uma bruxo / bruxa famoso / famosa depois de muitos anos de estudo.
+ - (Wy) spotkacie starego / starą czarodzieja / czarownicę w tej opuszczonej wieży. Vocês encontrarão um / uma velho / velha bruxo / bruxa naquela torre abandonada.
+ - (My) uwierzyliśmy / uwierzyłyśmy, że ten / ta czarodziej / czarownica mówił / mówiła prawdę. (Nós) acreditamos que aquele / aquela bruxo / bruxa dizia a verdade.
+ - (Ty) znasz tego / tę czarodzieja / czarownicę z dawnych opowieści, prawda? Você conhece aquele / aquela bruxo / bruxa das histórias antigas, não é?
+ - Oni / One szukali / szukały potężnego / potężnej czarodzieja / czarownicy przez wiele dni. Eles / Elas procuraram um / uma bruxo / bruxa poderoso / poderosa durante muitos dias.
 
 - [] Dzień 973 - 
 
