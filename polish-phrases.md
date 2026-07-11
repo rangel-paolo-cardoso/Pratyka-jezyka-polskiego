@@ -5745,7 +5745,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) znasz tego / tę czarodzieja / czarownicę z dawnych opowieści, prawda? Você conhece aquele / aquela bruxo / bruxa das histórias antigas, não é?
  - Oni / One szukali / szukały potężnego / potężnej czarodzieja / czarownicy przez wiele dni. Eles / Elas procuraram um / uma bruxo / bruxa poderoso / poderosa durante muitos dias.
 
-- [] Dzień 973 - 
+- [x] Dzień 973 - Czary - Pluralia Tantum, Czarnoksięstwo - Rzeczownik nijaki. (Bruxaria. - Rzeczownik żeński)
+ - On / Ona uwierzył / uwierzyła, że to były prawdziwe czary. Ele / Ela acreditou que aquilo era bruxaria de verdade.
+ - (Wy) zobaczycie czarnoksięstwo tylko w tej starej legendzie. Vocês verão bruxaria apenas naquela velha lenda.
+ - (My) długo badaliśmy / badałyśmy czary opisane w starej księdze. (Nós) estudamos por muito tempo a bruxaria descrita no livro antigo.
+ - (Ty) naprawdę wierzysz, że czary mogą wszystko zmienić? Você realmente acredita que a bruxaria pode mudar tudo?
+ - Oni / One opowiadali / opowiadały o czarnoksięstwie całymi godzinami. Eles / Elas falaram sobre bruxaria durante horas.
 
 - [] Dzień 974 - 
 
