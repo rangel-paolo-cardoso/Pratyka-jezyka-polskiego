@@ -5752,7 +5752,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) naprawdę wierzysz, że czary mogą wszystko zmienić? Você realmente acredita que a bruxaria pode mudar tudo?
  - Oni / One opowiadali / opowiadały o czarnoksięstwie całymi godzinami. Eles / Elas falaram sobre bruxaria durante horas.
 
-- [] Dzień 974 - 
+- [x] Dzień 974 - Bawół. (Búfalo. - Rzeczowniki męskie)
+ - On / Ona zobaczył / zobaczyła bawoła nad rzeką o świcie. Ele / Ela viu um búfalo perto do rio ao amanhecer.
+ - (Wy) będziecie obserwowali / obserwowały bawoła podczas wycieczki do zoo. Vocês observarão um búfalo durante o passeio ao zoológico.
+ - (My) fotografowaliśmy / fotografowałyśmy bawoła przez kilka długich minut. (Nós) fotografamos um búfalo durante vários minutos.
+ - (Ty) zawsze podziwiasz tego bawoła z bezpiecznej odległości. Você sempre admira aquele búfalo de uma distância segura.
+ - Oni / One nakarmili / nakarmiły bawoła świeżą trawą rano. Eles / Elas alimentaram o búfalo com grama fresca pela manhã.
 
 - [] Dzień 975 - 
 
