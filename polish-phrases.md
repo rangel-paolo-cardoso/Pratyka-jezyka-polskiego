@@ -5759,7 +5759,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze podziwiasz tego bawoła z bezpiecznej odległości. Você sempre admira aquele búfalo de uma distância segura.
  - Oni / One nakarmili / nakarmiły bawoła świeżą trawą rano. Eles / Elas alimentaram o búfalo com grama fresca pela manhã.
 
-- [] Dzień 975 - 
+- [x] Dzień 975 - Dół - Rzeczownik męski, Dziura - Rzeczownik żeński. (Buraco. - Rzeczownik męski)
+ - On / Ona wpadł / wpadła do głębokiej dziury podczas spaceru. Ele / Ela caiu em um buraco fundo durante a caminhada.
+ - (Wy) ominiecie ten dół, jeśli będziecie uważni na drodze. Vocês evitarão aquele buraco se prestarem atenção na estrada.
+ - (My) zasypaliśmy / zasypałyśmy ten dół jeszcze przed zachodem słońca. (Nós) tapamos aquele buraco ainda antes do pôr do sol.
+ - (Ty) zawsze zauważasz każdą dziurę na tej starej ulicy. Você sempre percebe cada buraco naquela rua antiga.
+ - Oni / One wykopali / wykopały głęboki dół za stodołą wczoraj. Eles / Elas cavaram um buraco fundo atrás do celeiro ontem.
 
 - [] Dzień 976 - 
 
