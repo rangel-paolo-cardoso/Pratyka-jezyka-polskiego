@@ -5766,7 +5766,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze zauważasz każdą dziurę na tej starej ulicy. Você sempre percebe cada buraco naquela rua antiga.
  - Oni / One wykopali / wykopały głęboki dół za stodołą wczoraj. Eles / Elas cavaram um buraco fundo atrás do celeiro ontem.
 
-- [] Dzień 976 - 
+- [x] Dzień 976 - Szukać, Odebrać - Czasowniki, Przyjechać po - Wyrażenie czasownikowe. (Buscar. - Czasownik)
+ - On / Ona szukał / szukała odpowiedzi przez cały wieczór. Ele / Ela buscou uma resposta durante toda a noite.
+ - (Wy) odbierzecie dzieci ze szkoły przed szesnastą. Vocês buscarão as crianças na escola antes das quatro da tarde.
+ - (My) przyjechaliśmy / przyjechałyśmy po dziadka / babcię zaraz po obiedzie. (Nós) fomos buscar o / a avô / avó logo depois do almoço.
+ - (Ty) zawsze szukasz najlepszego rozwiązania w pracy. Você sempre busca a melhor solução no trabalho.
+ - Oni / One przyjadą po paczkę jeszcze przed południem. Eles / Elas virão buscar o pacote ainda antes do meio-dia.
 
 - [] Dzień 977 - 
 
