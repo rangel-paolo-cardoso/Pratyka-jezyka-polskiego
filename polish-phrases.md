@@ -5773,7 +5773,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze szukasz najlepszego rozwiązania w pracy. Você sempre busca a melhor solução no trabalho.
  - Oni / One przyjadą po paczkę jeszcze przed południem. Eles / Elas virão buscar o pacote ainda antes do meio-dia.
 
-- [] Dzień 977 - 
+- [x] Dzień 977 - Chata, Chatka. (Cabana, Cabaninha. - Rzeczowniki żeńskie)
+ - On / Ona znalazł / znalazła starą chatę głęboko w lesie. Ele / Ela encontrou uma cabana velha no meio da floresta.
+ - (Wy) spędzicie noc w drewnianej chatce nad jeziorem. Vocês passarão a noite em uma cabana de madeira à beira do lago.
+ - (My) wyremontowaliśmy / wyremontowałyśmy starą chatę przed zimą. (Nós) reformamos a cabana velha antes do inverno.
+ - (Ty) często odwiedzasz tę chatkę podczas wakacji. Você visita essa cabana com frequência durante as férias.
+ - Oni / One zbudowali / zbudowały małą chatę na skraju lasu. Eles / Elas construíram uma pequena cabana na beira da floresta.
 
 - [] Dzień 978 - 
 
