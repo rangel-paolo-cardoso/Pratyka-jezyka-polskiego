@@ -5780,7 +5780,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) często odwiedzasz tę chatkę podczas wakacji. Você visita essa cabana com frequência durante as férias.
  - Oni / One zbudowali / zbudowały małą chatę na skraju lasu. Eles / Elas construíram uma pequena cabana na beira da floresta.
 
-- [] Dzień 978 - 
+- [x] Dzień 978 - Głowa. (Cabeça. - Rzeczowniki żeńskie)
+ - On / Ona uderzył / uderzyła się w głowę podczas biegu. Ele / Ela bateu a cabeça durante a corrida.
+ - (Wy) trzymajcie głowy wysoko mimo wszystkich trudności. Vocês mantenham a cabeça erguida apesar de todas as dificuldades.
+ - (My) schyliliśmy / schyliłyśmy głowy przed rozpoczęciem uroczystości. (Nós) abaixamos a cabeça antes do início da cerimônia.
+ - (Ty) zawsze masz pełną głowę ciekawych pomysłów. Você sempre tem a cabeça cheia de ideias interessantes.
+ - Oni / One pokiwali / pokiwały głowami na znak zgody. Eles / Elas balançaram a cabeça em sinal de concordância.
 
 - [] Dzień 979 - 
 
