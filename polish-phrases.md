@@ -5787,7 +5787,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze masz pełną głowę ciekawych pomysłów. Você sempre tem a cabeça cheia de ideias interessantes.
  - Oni / One pokiwali / pokiwały głowami na znak zgody. Eles / Elas balançaram a cabeça em sinal de concordância.
 
-- [] Dzień 979 - 
+- [x] Dzień 979 - Włosy - Pluralia Tantum. (Cabelo. - Rzeczownik męski)
+ - On / Ona miał / miała piękne, długie włosy od dzieciństwa. Ele / Ela tinha um belo cabelo longo desde a infância.
+ - (Wy) zauważycie jego / jej długie włosy już z daleka. Vocês notarão o cabelo longo dele / dela de longe.
+ - (My) podziwialiśmy / podziwiałyśmy jego / jej bujne włosy przez całą imprezę. (Nós) admiramos o cabelo volumoso dele / dela durante toda a festa.
+ - (Ty) zawsze starannie układasz swoje długie włosy. Você sempre arruma cuidadosamente o seu cabelo longo.
+ - Oni / One zapamiętali / zapamiętały jego / jej jasne włosy. Eles / Elas se lembraram do cabelo claro dele / dela.
 
 - [] Dzień 980 - 
 
