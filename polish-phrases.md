@@ -5794,7 +5794,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze starannie układasz swoje długie włosy. Você sempre arruma cuidadosamente o seu cabelo longo.
  - Oni / One zapamiętali / zapamiętały jego / jej jasne włosy. Eles / Elas se lembraram do cabelo claro dele / dela.
 
-- [] Dzień 980 - 
+- [x] Dzień 980 - Kakao - Rzeczownik nijaki. (Cacau. - Rzeczownik męski)
+ - On / Ona dodał / dodała kakao do ciasta przed pieczeniem. Ele / Ela adicionou cacau à massa do bolo antes de assá-la.
+ - (Wy) kupicie dobre kakao w sklepie obok rynku jutro. Vocês comprarão um bom cacau na loja ao lado da praça amanhã.
+ - (My) używaliśmy / używałyśmy kakao do przygotowania gorącego napoju. (Nós) usamos cacau para preparar uma bebida quente.
+ - (Ty) zawsze wybierasz kakao bez dodatku cukru w sklepie. Você sempre escolhe cacau sem adição de açúcar na loja.
+ - Oni / One pili / piły kakao każdego zimowego poranka razem. Eles / Elas bebiam cacau todas as manhãs de inverno juntos / juntas.
 
 - [] Dzień 981 - 
 
