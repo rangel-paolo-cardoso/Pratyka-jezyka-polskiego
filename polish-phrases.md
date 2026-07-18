@@ -5801,7 +5801,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze wybierasz kakao bez dodatku cukru w sklepie. Você sempre escolhe cacau sem adição de açúcar na loja.
  - Oni / One pili / piły kakao każdego zimowego poranka razem. Eles / Elas bebiam cacau todas as manhãs de inverno juntos / juntas.
 
-- [] Dzień 981 - 
+- [x] Dzień 981 - Szalik. (Cachecol. - Rzeczowniki męskie)
+ - On / Ona założył / założyła ciepły szalik przed wyjściem z domu. Ele / Ela colocou um cachecol quente antes de sair de casa.
+ - (Wy) kupicie wełniany szalik przed nadejściem zimy. Vocês comprarão um cachecol de lã antes da chegada do inverno.
+ - (My) zgubiliśmy / zgubiłyśmy ulubiony szalik podczas podróży pociągiem. (Nós) perdemos o cachecol favorito durante a viagem de trem.
+ - (Ty) zawsze nosisz czerwony szalik w chłodne poranki. Você sempre usa um cachecol vermelho nas manhãs frias.
+ - Oni / One znaleźli / znalazły szalik na ławce w parku. Eles / Elas encontraram um cachecol em um banco no parque.
 
 - [] Dzień 982 - 
 
