@@ -5808,7 +5808,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze nosisz czerwony szalik w chłodne poranki. Você sempre usa um cachecol vermelho nas manhãs frias.
  - Oni / One znaleźli / znalazły szalik na ławce w parku. Eles / Elas encontraram um cachecol em um banco no parque.
 
-- [] Dzień 982 - 
+- [x] Dzień 982 - Wodospad - Rzeczownik męski. (Cachoeira. - Rzeczownik żeński)
+ - On / Ona zobaczył / zobaczyła piękny wodospad podczas wędrówki. Ele / Ela viu uma bela cachoeira durante a caminhada.
+ - (My) fotografowaliśmy / fotografowałyśmy ten wodospad przez długą chwilę. (Nós) fotografamos aquela cachoeira durante um bom tempo.
+ - (Wy) odwiedzicie ten wodospad podczas letnich wakacji. Vocês visitarão essa cachoeira durante as férias de verão.
+ - (Ty) zawsze podziwiasz ten wodospad o zachodzie słońca. Você sempre admira essa cachoeira ao pôr do sol.
+ - Oni / One usłyszeli / usłyszały wodospad jeszcze przed ścieżką. Eles / Elas ouviram a cachoeira antes mesmo da trilha.
 
 - [] Dzień 983 - 
 
