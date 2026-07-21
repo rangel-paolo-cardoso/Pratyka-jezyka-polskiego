@@ -5815,7 +5815,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze podziwiasz ten wodospad o zachodzie słońca. Você sempre admira essa cachoeira ao pôr do sol.
  - Oni / One usłyszeli / usłyszały wodospad jeszcze przed ścieżką. Eles / Elas ouviram a cachoeira antes mesmo da trilha.
 
-- [] Dzień 983 - 
+- [x] Dzień 983 - Pies, Suka. (Cachorro / Cachorra. - Rzeczowniki)
+ - On / Ona znalazł / znalazła wiernego / wierną psa / sukę przy starym młynie wczoraj rano. Ele / Ela encontrou um / uma cachorro / cachorra fiel perto do velho moinho ontem de manhã.
+ - (Wy) nakarmicie głodnego / głodną psa / sukę. Vocês alimentarão um / uma cachorro / cachorra faminto / faminta.
+ - (My) zabraliśmy / zabrałyśmy małego / małą psa / sukę do weterynarza po południu. (Nós) levamos um / uma cachorro / cachorra pequeno / pequena ao veterinário à tarde.
+ - (Ty) zawsze głaszczesz spokojnego / spokojną psa / sukę podczas spaceru. Você sempre faz carinho em um / uma cachorro / cachorra calmo / calma durante o passeio.
+ - Oni / One przygarną nowego / nową psa / sukę jeszcze w tym miesiącu. Eles / Elas adotarão um / uma cachorro / cachorra novo / nova ainda neste mês.
 
 - [] Dzień 984 - 
 
