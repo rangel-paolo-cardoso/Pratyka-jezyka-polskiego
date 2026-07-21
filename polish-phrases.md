@@ -5822,7 +5822,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze głaszczesz spokojnego / spokojną psa / sukę podczas spaceru. Você sempre faz carinho em um / uma cachorro / cachorra calmo / calma durante o passeio.
  - Oni / One przygarną nowego / nową psa / sukę jeszcze w tym miesiącu. Eles / Elas adotarão um / uma cachorro / cachorra novo / nova ainda neste mês.
 
-- [] Dzień 984 - 
+- [x] Dzień 984 - Rejestracja - Rzeczownik żeński, Wpis, Zapis. (Cadastro. - Rzeczowniki męskie)
+ - On / Ona zakończył / zakończyła rejestrację bez żadnych problemów. Ele / Ela concluiu o cadastro sem nenhum problema.
+ - (Ty) zawsze uzupełniasz rejestrację bardzo dokładnie. Você sempre preenche o cadastro com muito cuidado.
+ - (Wy) sprawdzicie swój wpis jeszcze przed wysłaniem formularza. Vocês verificarão o seu cadastro antes de enviar o formulário.
+ - (My) poprawiliśmy / poprawiłyśmy zapis po otrzymaniu nowych informacji. (Nós) corrigimos o cadastro após receber novas informações.
+ - Oni / One usunęli / usunęły stary wpis z bazy danych wczoraj. Eles / Elas removeram o cadastro antigo do banco de dados ontem.
 
 - [] Dzień 985 - 
 
