@@ -5829,7 +5829,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) poprawiliśmy / poprawiłyśmy zapis po otrzymaniu nowych informacji. (Nós) corrigimos o cadastro após receber novas informações.
  - Oni / One usunęli / usunęły stary wpis z bazy danych wczoraj. Eles / Elas removeram o cadastro antigo do banco de dados ontem.
 
-- [] Dzień 985 - 
+- [x] Dzień 985 - Kłódka - Rzeczownik żeński. (Cadeado. - Rzeczownik męski)
+ - On / Ona kupił / kupiła nową kłódkę do bramy. Ele / Ela comprou um cadeado novo para o portão.
+ - (Wy) sprawdzicie kłódkę przed wyjazdem na długi weekend. Vocês verificarão o cadeado antes de viajar no feriado prolongado.
+ - (My) wymieniliśmy / wymieniłyśmy kłódkę po zgubieniu starego klucza. (Nós) trocamos o cadeado depois de perder a chave antiga.
+ - (Ty) zawsze zamykasz kłódkę przed opuszczeniem garażu. Você sempre tranca o cadeado antes de sair da garagem.
+ - Oni / One znaleźli / znalazły zardzewiałą kłódkę przy szopie. Eles / Elas encontraram um cadeado enferrujado perto do galpão.
 
 - [] Dzień 986 - 
 
