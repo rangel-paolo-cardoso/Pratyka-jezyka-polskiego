@@ -5836,7 +5836,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zawsze zamykasz kłódkę przed opuszczeniem garażu. Você sempre tranca o cadeado antes de sair da garagem.
  - Oni / One znaleźli / znalazły zardzewiałą kłódkę przy szopie. Eles / Elas encontraram um cadeado enferrujado perto do galpão.
 
-- [] Dzień 986 - 
+- [x] Dzień 986 - Więzienie - Rzeczownik nijaki, Zakład karny - Wyrażenie czasownikowe. (Cadeia. - Rzeczownik żeński)
+ - On / Ona trafił / trafiła do więzienia za poważne oszustwo. Ele / Ela foi parar na cadeia por uma fraude grave.
+ - (Wy) odwiedzicie więzienie w ramach programu edukacyjnego. Vocês visitarão a cadeia como parte de um programa educativo.
+ - (My) mijaliśmy / mijałyśmy więzienie każdego ranka w drodze do pracy. (Nós) passávamos pela cadeia todas as manhãs a caminho do trabalho.
+ - (Ty) zobaczysz nowe więzienie podczas wycieczki po mieście. Você verá a nova cadeia durante o passeio pela cidade.
+ - Oni / One opuścili / opuściły więzienie po wielu latach. Eles / Elas saíram da cadeia depois de muitos anos.
 
 - [] Dzień 987 - 
 
