@@ -5843,7 +5843,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) zobaczysz nowe więzienie podczas wycieczki po mieście. Você verá a nova cadeia durante o passeio pela cidade.
  - Oni / One opuścili / opuściły więzienie po wielu latach. Eles / Elas saíram da cadeia depois de muitos anos.
 
-- [] Dzień 987 - 
+- [x] Dzień 987 - Krzesło - Rzeczownik nijaki. (Cadeira. - Rzeczownik żeński)
+ - On / Ona przesunął / przesunęła krzesło bliżej stołu przed obiadem. Ele / Ela puxou a cadeira para mais perto da mesa antes do almoço.
+ - (Ty) zawsze wybierasz najwygodniejsze krzesło w sali. Você sempre escolhe a cadeira mais confortável da sala.
+ - (Wy) zostawicie krzesło przy oknie po zakończeniu spotkania. Vocês deixarão a cadeira perto da janela após o fim da reunião.
+ - (My) kupiliśmy / kupiłyśmy nowe krzesło do naszego biura w zeszłym tygodniu. (Nós) compramos uma cadeira nova para o nosso escritório na semana passada.
+ - Oni / One naprawili / naprawiły stare krzesło przed wizytą gości. Eles / Elas consertaram a cadeira velha antes da visita dos convidados.
 
 - [] Dzień 988 - 
 
