@@ -5850,7 +5850,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupiliśmy / kupiłyśmy nowe krzesło do naszego biura w zeszłym tygodniu. (Nós) compramos uma cadeira nova para o nosso escritório na semana passada.
  - Oni / One naprawili / naprawiły stare krzesło przed wizytą gości. Eles / Elas consertaram a cadeira velha antes da visita dos convidados.
 
-- [] Dzień 988 - 
+- [x] Dzień 988 - Zeszyt, Notatnik. (Caderno. - Rzeczowniki męskie)
+ - On / Ona zapomniał / zapomniała zeszytu na biurku po lekcji. Ele / Ela esqueceu o caderno sobre a mesa depois da aula.
+ - (Ty) zawsze nosisz gruby zeszyt w swoim plecaku. Você sempre leva um caderno grosso na sua mochila.
+ - (Wy) otworzycie zeszyt zaraz po rozpoczęciu zajęć. Vocês abrirão o caderno logo após o início da aula.
+ - (My) kupiliśmy / kupiłyśmy nowy zeszyt do nauki języka polskiego. (Nós) compramos um caderno novo para estudar polonês.
+ - Oni / One znaleźli / znalazły stary zeszyt na strychu domu. Eles / Elas encontraram um caderno antigo no sótão da casa.
 
 - [] Dzień 989 - 
 
