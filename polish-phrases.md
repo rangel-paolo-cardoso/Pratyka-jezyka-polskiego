@@ -5857,7 +5857,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) kupiliśmy / kupiłyśmy nowy zeszyt do nauki języka polskiego. (Nós) compramos um caderno novo para estudar polonês.
  - Oni / One znaleźli / znalazły stary zeszyt na strychu domu. Eles / Elas encontraram um caderno antigo no sótão da casa.
 
-- [] Dzień 989 - 
+- [x] Dzień 989 - Kawa - Rzeczownik żeński. (Café. - Rzeczownik męski)
+ - On / Ona wypił / wypiła gorącą kawę przed rozpoczęciem pracy. Ele / Ela tomou um café quente antes de começar o trabalho.
+ - (Ty) zawsze pijesz mocną kawę przed ważnym egzaminem. Você sempre toma um café forte antes de uma prova importante.
+ - (My) przygotowaliśmy / przygotowałyśmy aromatyczną kawę dla wszystkich gości. (Nós) preparamos um café aromático para todos os convidados.
+ - (Wy) zamówicie świeżą kawę po zakończeniu spotkania. Vocês pedirão um café fresco após o término da reunião.
+ - Oni / One kupili / kupiły kawę w małej kawiarni obok rynku. Eles / Elas compraram café em uma pequena cafeteria perto da praça.
 
 - [] Dzień 990 - 
 
