@@ -5864,7 +5864,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) zamówicie świeżą kawę po zakończeniu spotkania. Vocês pedirão um café fresco após o término da reunião.
  - Oni / One kupili / kupiły kawę w małej kawiarni obok rynku. Eles / Elas compraram café em uma pequena cafeteria perto da praça.
 
-- [] Dzień 990 - 
+- [x] Dzień 990 - Padać, Upaść, Upadać. (Cair. - Czasowniki)
+ - On / Ona upadł / upadła na schodach, ale szybko wstał / wstała. Ele / Ela caiu na escada, mas logo se levantou.
+ - (Ty) często upadasz na lodzie podczas zimowych spacerów. Você geralmente cai no gelo durante os passeios de inverno.
+ - (Wy) nie upadniecie, jeśli będziecie patrzeć pod nogi. Vocês não cairão se prestarem atenção onde pisam.
+ - (My) upadliśmy / upadłyśmy na mokrej trawie podczas spaceru w parku. (Nós) caímos na grama molhada durante o passeio no parque.
+ - Oni / One padli / padły ze zmęczenia po całym dniu pracy. Eles / Elas caíram de cansaço depois de um dia inteiro de trabalho.
 
 - [] Dzień 991 - 
 
