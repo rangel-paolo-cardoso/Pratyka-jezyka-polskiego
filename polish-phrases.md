@@ -5871,7 +5871,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) upadliśmy / upadłyśmy na mokrej trawie podczas spaceru w parku. (Nós) caímos na grama molhada durante o passeio no parque.
  - Oni / One padli / padły ze zmęczenia po całym dniu pracy. Eles / Elas caíram de cansaço depois de um dia inteiro de trabalho.
 
-- [] Dzień 991 - 
+- [x] Dzień 991 - Pudełko - Rzeczownik nijaki, Skrzynia, Kasa. (Caixa. - Rzeczowniki żeńskie)
+ - On / Ona postawił / postawiła ciężkie pudełko przy drzwiach wejściowych. Ele / Ela colocou uma caixa pesada perto da porta de entrada.
+ - (Ty) zawsze zostawiasz paragon przy kasie po zapłaceniu za zakupy. Você sempre deixa o recibo no caixa depois de pagar as compras.
+ - (My) zapłaciliśmy / zapłaciłyśmy przy kasie zaraz po zakończeniu zakupów. (Nós) pagamos no caixa logo após terminar as compras.
+ - (Wy) jutro przeniesiecie drewnianą skrzynię do nowego magazynu. Vocês amanhã levarão a caixa de madeira para o novo depósito.
+ - Oni / One znaleźli / znalazły stare pudełko pełne rodzinnych zdjęć. Eles / Elas encontraram uma caixa velha cheia de fotos da família.
 
 - [] Dzień 992 - 
 
