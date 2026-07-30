@@ -5878,7 +5878,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) jutro przeniesiecie drewnianą skrzynię do nowego magazynu. Vocês amanhã levarão a caixa de madeira para o novo depósito.
  - Oni / One znaleźli / znalazły stare pudełko pełne rodzinnych zdjęć. Eles / Elas encontraram uma caixa velha cheia de fotos da família.
 
-- [] Dzień 992 - 
+- [x] Dzień 992 - Jabłko nerkowca - Wyrażenie rzeczownikowe. (Caju. - Rzeczownik męski)
+ - (Ja) kupiłem / kupiłam dojrzałe jabłko nerkowca na porannym targu. (Eu) comprei um caju maduro na feira pela manhã.
+ - On / Ona często dodaje jabłko nerkowca do letniej sałatki owocowej. Ele / Ela frequentemente adiciona caju à salada de frutas de verão.
+ - (Wy) jutro spróbujecie świeżego jabłka nerkowca po wspólnym obiedzie. Vocês amanhã experimentarão um caju fresco depois do almoço juntos.
+ - (My) jedliśmy / jadłyśmy jabłko nerkowca podczas rodzinnego pikniku. (Nós) comemos caju durante o piquenique da família.
+ - Oni / One przynieśli / przyniosły jabłko nerkowca na wspólne spotkanie. Eles / Elas trouxeram um caju para o encontro.
 
 - [] Dzień 993 - 
 
