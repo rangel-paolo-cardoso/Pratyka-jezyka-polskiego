@@ -5885,7 +5885,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) jedliśmy / jadłyśmy jabłko nerkowca podczas rodzinnego pikniku. (Nós) comemos caju durante o piquenique da família.
  - Oni / One przynieśli / przyniosły jabłko nerkowca na wspólne spotkanie. Eles / Elas trouxeram um caju para o encontro.
 
-- [] Dzień 993 - 
+- [x] Dzień 993 - Spodnie - Pluralia Tantum. (Calça. - Rzeczownik żeński)
+ - (Ja) kupiłem / kupiłam nowe spodnie i od razu je założyłem / założyłam. (Eu) comprei uma calça nova e a vesti imediatamente.
+ - On / Ona nosi te spodnie prawie codziennie, bo są bardzo wygodne. Ele / Ela usa essa calça quase todos os dias, porque ela é muito confortável.
+ - (Ty) zgubiłeś / zgubiłaś swoje spodnie i długo ich szukałeś / szukałaś. Você perdeu sua calça e ficou procurando por ela durante muito tempo.
+ - (Wy) jutro zabierzecie swoje spodnie do skrócenia u krawca. Vocês amanhã levarão a calça de vocês para ajustar na costureira / no costureiro.
+ - (My) będziemy nosili / nosiły te spodnie przez całą zimę bez problemu. (Nós) usaremos essa calça durante todo o inverno sem problema.
 
 - [] Dzień 994 - 
 
