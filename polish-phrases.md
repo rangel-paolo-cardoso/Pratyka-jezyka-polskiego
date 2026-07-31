@@ -5892,7 +5892,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Wy) jutro zabierzecie swoje spodnie do skrócenia u krawca. Vocês amanhã levarão a calça de vocês para ajustar na costureira / no costureiro.
  - (My) będziemy nosili / nosiły te spodnie przez całą zimę bez problemu. (Nós) usaremos essa calça durante todo o inverno sem problema.
 
-- [] Dzień 994 - 
+- [x] Dzień 994 - Chodnik - Rzeczownik męski. (Calçada. - Rzeczownik żeński)
+ - (Ja) wczoraj długo szedłem / szłam chodnikiem mimo silnego deszczu. (Eu) ontem caminhei por muito tempo pela calçada apesar da chuva forte.
+ - On / Ona codziennie przechodzi przez ten chodnik przed pracą. Ele / Ela todos os dias passa por essa calçada antes do trabalho.
+ - (Wy) będziecie czekali / czekały na nas przy szerokim chodniku. Vocês estarão esperando por nós junto à calçada larga.
+ - (Ty) znalazłeś / znalazłaś portfel na chodniku i oddałeś / oddałaś go właścicielowi. Você encontrou uma carteira na calçada e a devolveu ao dono / à dona.
+ - (My) jutro oczyścimy chodnik przed domem, jeśli przestanie padać. (Nós) amanhã limparemos a calçada em frente à casa, se parar de chover.
 
 - [] Dzień 995 - 
 
