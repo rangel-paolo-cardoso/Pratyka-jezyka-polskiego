@@ -5899,7 +5899,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) znalazłeś / znalazłaś portfel na chodniku i oddałeś / oddałaś go właścicielowi. Você encontrou uma carteira na calçada e a devolveu ao dono / à dona.
  - (My) jutro oczyścimy chodnik przed domem, jeśli przestanie padać. (Nós) amanhã limparemos a calçada em frente à casa, se parar de chover.
 
-- [] Dzień 995 - 
+- [x] Dzień 995 - Wapń. (Cálcio. - Rzeczowniki męskie)
+ - (Ja) codziennie przyjmowałem / przyjmowałam wapń zgodnie z zaleceniem lekarza / lekarki. (Eu) tomava cálcio todos os dias conforme a recomendação do / da médico / médica.
+ - On / Ona uważa, że wapń jest bardzo ważny dla mocnych kości. Ele / Ela acha que o cálcio é muito importante para ossos fortes.
+ - (Wy) będziecie potrzebowali / potrzebowały więcej wapnia podczas intensywnych treningów. Vocês precisarão de mais cálcio durante os treinos intensos.
+ - (Ty) wczoraj kupiłeś / kupiłaś suplement z wapniem w aptece. Você ontem comprou um suplemento com cálcio na farmácia.
+ - (My) zawsze wybieramy produkty bogate w wapń dla zdrowia. (Nós) sempre escolhemos produtos ricos em cálcio para a saúde.
 
 - [] Dzień 996 - 
 
