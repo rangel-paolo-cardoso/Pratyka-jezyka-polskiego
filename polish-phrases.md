@@ -5906,7 +5906,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (Ty) wczoraj kupiłeś / kupiłaś suplement z wapniem w aptece. Você ontem comprou um suplemento com cálcio na farmácia.
  - (My) zawsze wybieramy produkty bogate w wapń dla zdrowia. (Nós) sempre escolhemos produtos ricos em cálcio para a saúde.
 
-- [] Dzień 996 - 
+- [x] Dzień 996 - Kalendarz. (Calendário. - Rzeczowniki męskie)
+ - On / Ona wczoraj kupił / kupiła nowy kalendarz do swojego biura. Ele / Ela comprou ontem um calendário novo para o seu escritório.
+ - (Wy) zawsze zaznaczyliście / zaznaczyłyście ważne daty w swoim kalendarzu. Vocês sempre marcaram datas importantes no seu calendário.
+ - (Ja) codziennie sprawdzam kalendarz przed wyjściem z domu. (Eu) verifico o calendário todos os dias antes de sair de casa.
+ - (My) będziemy planowali / planowały urlop z kalendarzem na stole. (Nós) planejaremos as férias com o calendário sobre a mesa.
+ - Oni / One często znajdują ważne notatki w starym kalendarzu. Eles / Elas frequentemente encontram anotações importantes em um calendário antigo.
 
 - [] Dzień 997 - 
 
