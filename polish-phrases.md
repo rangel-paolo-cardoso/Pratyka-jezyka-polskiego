@@ -5920,7 +5920,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) zachowaliśmy / zachowałyśmy spokój i rozwiązaliśmy / rozwiązałyśmy problem. (Nós) mantivemos a calma e resolvemos o problema.
  - Oni / One podziwiali / podziwiały opanowanie swoich przyjaciół / przyjaciółek w kryzysie. Eles / Elas admiravam a calma dos / das seus / suas amigos / amigas em momentos de crise.
 
-- [] Dzień 998 - 
+- [x] Dzień 998 -  Upał - Rzeczownik męski, Gorąco - [Przysłówek, Rzeczownik nijaki], Ciepło - Rzeczownik nijaki. (Calor. - Rzeczownik męski)
+ - (On / Ona) źle zniósł / zniosła dzisiejszy upał i szybko wrócił / wróciła do domu. Ele / Ela suportou mal o calor de hoje e voltou rapidamente para casa.
+ - (Wy) zawsze narzekacie na gorąco podczas letnich spacerów. Vocês sempre reclamam do calor durante os passeios de verão.
+ - (Ja) lubię ciepło, ale tylko nad spokojnym jeziorem. (Eu) gosto do calor, mas apenas à beira de um lago tranquilo.
+ - (My) odetchnęliśmy / odetchnęłyśmy, gdy upał wreszcie osłabł. (Nós) respiramos aliviados / aliviadas quando o calor finalmente diminuiu.
+ - Oni / One dobrze pamiętają gorąco z ostatnich wakacji nad morzem. Eles / Elas lembram bem do calor das últimas férias à beira-mar.
 
 - [] Dzień 999 - 
 
