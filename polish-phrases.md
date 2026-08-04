@@ -5913,7 +5913,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) będziemy planowali / planowały urlop z kalendarzem na stole. (Nós) planejaremos as férias com o calendário sobre a mesa.
  - Oni / One często znajdują ważne notatki w starym kalendarzu. Eles / Elas frequentemente encontram anotações importantes em um calendário antigo.
 
-- [] Dzień 997 - 
+- [x] Dzień 997 - Spokój - Rzeczownik męski, Opanowanie - Rzeczownik nijaki. (Calma. - Rzeczownik żeński)
+ - (On / Ona) zachował / zachowała spokój mimo bardzo trudnej sytuacji. Ele / Ela manteve a calma apesar da situação muito difícil.
+ - (Wy) zawsze okazujecie spokój nawet podczas ważnych egzaminów. Vocês sempre demonstram calma mesmo durante provas importantes.
+ - (Ja) ceniłem / ceniłam spokój ducha po długim dniu pracy. Eu valorizava a calma interior depois de um longo dia de trabalho.
+ - (My) zachowaliśmy / zachowałyśmy spokój i rozwiązaliśmy / rozwiązałyśmy problem. (Nós) mantivemos a calma e resolvemos o problema.
+ - Oni / One podziwiali / podziwiały opanowanie swoich przyjaciół / przyjaciółek w kryzysie. Eles / Elas admiravam a calma dos / das seus / suas amigos / amigas em momentos de crise.
 
 - [] Dzień 998 - 
 
