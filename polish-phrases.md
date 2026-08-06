@@ -5927,7 +5927,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) odetchnęliśmy / odetchnęłyśmy, gdy upał wreszcie osłabł. (Nós) respiramos aliviados / aliviadas quando o calor finalmente diminuiu.
  - Oni / One dobrze pamiętają gorąco z ostatnich wakacji nad morzem. Eles / Elas lembram bem do calor das últimas férias à beira-mar.
 
-- [] Dzień 999 - 
+- [x] Dzień 999 - Aparat - Rzeczownik męski, Kamera - Rzeczownik żeński. (Câmera. - Rzeczownik żeński)
+ - (On / Ona) kupił / kupiła nową kamerę do nagrywania podróży. Ele / Ela comprou uma câmera nova para gravar as viagens.
+ - (Wy) zawsze zabieraliście / zabierałyście aparat na rodzinne wycieczki. Vocês sempre levavam uma câmera nas viagens em família.
+ - (Ty) pokażesz mi jutro swoją nową kamerę? Você vai me mostrar amanhã sua câmera nova?
+ - (My) znaleźliśmy / znalazłyśmy stary aparat na strychu. (Nós) encontramos uma câmera antiga no sótão.
+ - (Wy) ustawicie kamerę bliżej sceny przed koncertem. Vocês colocarão a câmera mais perto do palco antes do concerto.
 
 - [] Dzień 1000 -
 
