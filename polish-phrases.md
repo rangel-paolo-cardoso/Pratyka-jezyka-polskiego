@@ -5934,7 +5934,12 @@ Spłaszczać (Bezokolicznik, forma ciągła). (Achatar.)
  - (My) znaleźliśmy / znalazłyśmy stary aparat na strychu. (Nós) encontramos uma câmera antiga no sótão.
  - (Wy) ustawicie kamerę bliżej sceny przed koncertem. Vocês colocarão a câmera mais perto do palco antes do concerto.
 
-- [] Dzień 1000 -
+- [x] Dzień 1000 - Ciężarówka - Rzeczownik żeński, Samochód ciężarowy - Wyrażenie rzeczownikowe. (Caminhão. - Rzeczownik męski)
+ - (On / Ona) prowadził / prowadziła ciężarówkę przez całą noc. Ele / Ela dirigiu um caminhão durante toda a noite.
+ - (Wy) zobaczycie jutro nowy samochód ciężarowy w magazynie. Vocês verão amanhã um caminhão novo no depósito.
+ - (Ty) często fotografujesz ciężarówki na autostradzie. Você costuma fotografar caminhões na rodovia.
+ - (Ja) kupiłem / kupiłam model ciężarówki dla bratanka / bratanicy. (Eu) comprei um modelo de caminhão para meu sobrinho / minha sobrinha.
+ - (Wy) naprawialiście / naprawiałyście starą ciężarówkę przed wyjazdem. Vocês consertaram um caminhão antigo antes da viagem.
 
 Witajcie, piękne i pachnące osoby!
 Dziękuję wszystkim, moi drodzy, za oglądanie!
