@@ -1,8 +1,8 @@
-[Polish reader voices](https://www.naturalreaders.com/online/)
-[Polish voices to download](https://ttsmaker.com/)
-[Cooljugator PL - Conjugation](https://cooljugator.com/pl/)
-[Transcribe audio and video](https://www.cockatoo.com/)
-[Polish text to voice](https://elevenlabs.io/text-to-speech/polish))
+[Polish reader voices](https://www.naturalreaders.com/online/) \
+[Polish voices to download](https://ttsmaker.com/) \
+[Cooljugator PL - Conjugation](https://cooljugator.com/pl/) \
+[Transcribe audio and video](https://www.cockatoo.com/) \
+[Polish text to voice](https://elevenlabs.io/text-to-speech/polish)) \
 [Polish Grammar Checker](https://linguix.com/grammar-check-polish)
 
 - [x] Dzień 1 - Cześć! (Oi!)
